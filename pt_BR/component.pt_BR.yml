@@ -1,1 +1,23 @@
-{}
+create.author.profile: Criar Perfil
+create.block: Criar Bloco
+create.campaign: Criar Campanha
+create.category: Criar Categoria
+create.historical.entry: Criar Registro Histórico
+create.image: Criar Imagem
+create.player.character: Criar Personagem de Jogador
+create.timeline: Criar Linha do Tempo
+create.map: Criar Mapa
+create.note: Criar Anotação
+create.secret: Criar Segredo
+create.world: Criar Mundo
+edit.author.profile: Editar Perfil
+edit.block: Editar Bloco
+edit.campaign: Editar Campanha
+edit.category: Editar Categoria
+edit.historical.entry: Editar Registro Histórico
+edit.image: Editar Imagem
+edit.player.character: Editar Personagem de Jogador
+edit.timeline: Editar Linha do Tempo
+edit.map: Editar Mapa
+edit.note: Editar Anotação
+edit.secret: Editar Segredo
