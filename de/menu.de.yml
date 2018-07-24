@@ -1,6 +1,6 @@
 campaigns: Kampagnen
 world: Welt
-toggle: Toggle Menu
+toggle: Menü umschalten
 dashboard: Dashboard
 notebook: Notizbuch
 srd: RPG SRD
@@ -9,15 +9,15 @@ community: Community
 challenges: Challenges
 blog: Blog
 shop: Shop
-guild.hall: Gilden Halle
+guild.hall: Gildenhalle
 profile: Profil
 interface.settings: Oberflächen Konfiguration
 account.details: Account Details
 announcements: Ankündigungen
 world.select: Welt Auswählen
-world.summary: Welt Zusammenfassung
+world.summary: Welt Überblick
 world.goto: Gehe zur Welt
-world.configure: Welt konfigurieren
+world.configure: Welt Konfigurieren
 configuration: Einstellungen
 welcome: Willkommen
 your.stream: Dein Stream
@@ -26,8 +26,8 @@ notifications: Benachrichtigungen
 world.browse: Welten durchstöbern
 campaign.home: Home
 campaign.sessions: Sitzungen
-campaign.plots: Plots
-campaign.cast: Cast
+campaign.plots: Handlungen
+campaign.cast: Besetzung
 campaign.quicklinks: Quicklinks
 campaign.corkboard: Pinnwand
 home: Home
