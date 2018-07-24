@@ -1,4 +1,4 @@
-toggle: Toggle Menú
+toggle: Toggle menu
 dashboard: Tablero
 campaigns: Campañas
 notebook: Notas
@@ -27,7 +27,7 @@ world.browse: Navegar mundos
 campaign.home: Inicio
 campaign.sessions: Sesiones
 campaign.plots: Tramas
-campaign.cast: Reparto
+campaign.cast: Elenco
 campaign.quicklinks: Enlaces rápidos
 campaign.corkboard: Notas de la campaña
 home: Inicio
