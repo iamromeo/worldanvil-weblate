@@ -20,7 +20,7 @@ world.goto: Przejdź do Świata
 world.configure: Konfiguruj Świat
 configuration: Ustawienia
 welcome: Witaj
-your.stream: Twój Stream
+your.stream: Obserwowane Światy
 saved.articles: Zapisane Artykuły
 notifications: Powiadomienia
 world.browse: Przeglądaj Światy
@@ -29,7 +29,7 @@ campaign.sessions: Sesje
 campaign.plots: Wątki
 campaign.cast: Obsada
 campaign.quicklinks: Skróty
-campaign.corkboard: Tablica korkowa
+campaign.corkboard: Notatki Kampanii
 home: Strona Główna
 pricing: Cennik
 need.help: Potrzebujesz pomocy?
