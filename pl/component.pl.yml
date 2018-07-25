@@ -34,30 +34,30 @@ delete.map: Usu&#324; Map&#281;
 delete.note: Usu&#324; Notatk&#281;
 delete.secret: Usu&#324; Sekret
 delete.world: Usu&#324; &#346;wiat
-author.profile: Profil
-block: Blok RPG
-campaign: 'Kampania '
-category: Kategoria
-historical.entry: Wydarzenie historyczne
-image: Obraz
-player.character: Bohater Gracza
-timeline: O&#347; czasu
-map: Mapa
-note: Notatka
-secret: Sekret
+author.profile: Profile
+block: Block
+campaign: Campaign
+category: Category
+historical.entry: Historical Entry
+image: Image
+player.character: Character
+timeline: Timeline
+map: Map
+note: Note
+secret: Secret
 world: '&#346;wiat'
-articles: Artyku&#322;y
-blocks: Bloki RPG
+articles: Articles
+blocks: Blocks
 campaigns: Kampanie
-categories: Kategorie
+categories: Categories
 historical.entries: Wydarzenia historyczne
-images: Obrazy
+images: Images
 player.characters: Bohaterowie Graczy
-maps: Mapy
-timelines: Osie czasu
+maps: Maps
+timelines: Timelines
 notes: Notatki
-secrets: Sekrety
+secrets: Secrets
 worlds: '&#346;wiaty'
-subscribers: Subskrybenci
-followers: Obserwuj&#261;cy
+subscribers: Subscribers
+followers: Followers
 BETA: BETA
