@@ -1,6 +1,63 @@
-create.author.profile: Stwórz Profil
-create.block: Stwórz Blok RPG
-create.category: Stwórz Kategorię
-create.historical.entry: Stwórz Wydarzenie Historyczne
-create.image: Stwórz Obraz
-create.player.character: Stwórz Bohatera Gracza
+create.author.profile: Stw&#243;rz Profil
+create.block: Stw&#243;rz Blok RPG
+create.category: Stw&#243;rz Kategori&#281;
+create.historical.entry: Stw&#243;rz Wydarzenie historyczne
+create.image: Stw&#243;rz Obraz
+create.player.character: Stw&#243;rz Bohatera Gracza
+create.campaign: Stw&#243;rz Kampani&#281;
+create.timeline: Stw&#243;rz O&#347; czasu
+create.map: Stw&#243;rz Map&#281;
+create.note: Stw&#243;rz Notatk&#281;
+create.secret: Stw&#243;rz Sekret
+create.world: Stw&#243;rz &#346;wiat
+edit.author.profile: Edytuj Profil
+edit.block: Edytuj Blok RG
+edit.campaign: Edytuj Kampani&#281;
+edit.category: Edytuj Kategori&#281;
+edit.historical.entry: Edytuj Wydarzenie historyczne
+edit.image: Edytuj Obraz
+edit.player.character: Edytuj Bohatera Gracza
+edit.timeline: Edytuj O&#347; czasu
+edit.map: Edytuj Map&#281;
+edit.note: Edytuj Notatk&#281;
+edit.secret: Edytuj Sekret
+edit.world: Edytuj &#346;wiat
+delete.author.profile: Usu&#324; Profil
+delete.block: Usu&#324; Blok RPG
+delete.campaign: Usu&#324; Kampani&#281;
+delete.category: Usu&#324; Kategori&#281;
+delete.historical.entry: Usu&#324; Wydarzenie historyczne
+delete.image: Usu&#324; Obraz
+delete.player.character: Usu&#324; Bohatera Gracza
+delete.timeline: Usu&#324; Histori&#281;
+delete.map: Usu&#324; Map&#281;
+delete.note: Usu&#324; Notatk&#281;
+delete.secret: Usu&#324; Sekret
+delete.world: Usu&#324; &#346;wiat
+author.profile: Profil
+block: Blok RPG
+campaign: 'Kampania '
+category: Kategoria
+historical.entry: Wydarzenie historyczne
+image: Obraz
+player.character: Bohater Gracza
+timeline: O&#347; czasu
+map: Mapa
+note: Notatka
+secret: Sekret
+world: '&#346;wiat'
+articles: Artyku&#322;y
+blocks: Bloki RPG
+campaigns: Kampanie
+categories: Kategorie
+historical.entries: Wydarzenia historyczne
+images: Obrazy
+player.characters: Bohaterowie Graczy
+maps: Mapy
+timelines: Osie czasu
+notes: Notatki
+secrets: Sekrety
+worlds: '&#346;wiaty'
+subscribers: Subskrybenci
+followers: Obserwuj&#261;cy
+BETA: BETA
