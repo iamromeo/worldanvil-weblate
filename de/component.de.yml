@@ -40,7 +40,7 @@ campaign: Kampagne
 category: Kategorie
 historical.entry: Historisches Ereignis
 image: Bild
-player.character: Charakter
+player.character: Spielercharakter
 timeline: Zeitleiste
 map: Karte
 note: Notiz
@@ -50,9 +50,9 @@ articles: Artikel
 blocks: Blöcke
 campaigns: Kampagnen
 categories: Kategorien
-historical.entries: Historical Entries
+historical.entries: Historische Ereignisse
 images: Bilder
-player.characters: Player Characters
+player.characters: Spielercharaktere
 maps: Karten
 timelines: Zeitleisten
 notes: Notizen
