@@ -13,3 +13,14 @@ profession: Zawód
 rank.title: Ranga / Tytuł
 technology.science: Technologia / Nauka
 tradition.ritual: Tradycja / Rytuał
+location.building: Lokacja, Budynek
+location.geographic: Lokacja, Geograficzna
+location.settlement: Lokacja, Osada
+law: Prawo (Meta/Fizyczne)
+organization: Organizacja
+prose: Proza
+plot: Wątek
+species: Gatunki
+spell: Zaklęcie
+vehicle: Pojazd
+rpg.session.report: Raport sesji RPG
