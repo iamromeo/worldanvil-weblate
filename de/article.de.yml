@@ -1,25 +1,25 @@
-article.generic: Article, Generic
-condition: Condition
-document: Document
-ethnicity: Ethnicity
-formation.military: Formation (Military)
-item: Item
-language: Language
+article.generic: Artikel, generisch
+condition: Zustand
+document: Dokument
+ethnicity: Ethnizität
+formation.military: Formation (Militär)
+item: Gegenstand
+language: Sprache
 material: Material
-myth.legend: Myth / Legend
-military.conflict: Military Conflict
-location.building: Location, Building
-location.geographic: Location, Geographic
-location.settlement: Location, Settlement
-law: Law (Meta/Physical)
-organization: Organization
-prose: Prose
-profession: Profession
-plot: Plot
-rank.title: Rank / Title
-species: Species
-spell: Spell
-technology.science: Technology / Science
+myth.legend: Mythos / Legende
+military.conflict: Militärischer Konflikt
+location.building: Ort, Gebäude
+location.geographic: Ort, Geographisch
+location.settlement: Ort, Siedlung
+law: Gesetz (Meta/Physik)
+organization: Organisation
+prose: Prosa
+profession: Beruf
+plot: Handlung
+rank.title: Rang / Title
+species: Spezies
+spell: Zauberspruch
+technology.science: Technologie / Wissenschaft
 tradition.ritual: Tradition / Ritual
-vehicle: Vehicle
-rpg.session.report: RPG Session Report
+vehicle: Fahrzeug
+rpg.session.report: RPG Sitzungsbericht
