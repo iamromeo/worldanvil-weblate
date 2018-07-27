@@ -142,6 +142,6 @@ guild.access: Todas las páginas en las cuentas gratuitas són públicas. Únete
 guild.subscriber.groups: Los grupos de suscriptores permiten que el <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a> conceda
   permiso para leer artículos privados a los miembros de ese grupo.
-guild.access.status: Todas las páginas en las cuentas gratis són públicas. Únete al
-  <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a>
+guild.access.status: Todas las páginas en las cuentas gratuitas són públicas. Únete
+  al <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a>
   para hacer cualquier página privada y para ayudar en el desarrollo de World Anvil.
