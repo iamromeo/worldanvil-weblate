@@ -106,14 +106,14 @@ related.map: Powiązana Mapa
 related.organization: Powiązana Organizacja
 position: Pozycja/Ciężar
 position.description: Ciężar to liczba definiująca kolejność w jakiej wpisy pojawiają
-  się na liście. Im wyższa liczba, tym wyżej się pojawi.
+  się na liście. Im wyższa liczba, tym wyżej pojawi się wpis.
 status: Status
 status.description: Ustaw ten wpis jako publiczny, by wszyscy mogli go zobaczyć. Prywatne
   wpisy są widoczne jedynie dla ciebie, twoich współautorów oraz subskrybentów z wystarczającymi
-  uprawnieniami.
+  uprawnieniami
 access: Dostęp
-access.description: Ustaw twój wpis jako publiczny, by każdy mógł go zobaaczyć. Prywatne
-  wpisy są widoczne jedynie dla ciebie oraz współautorów twojego świata.
+access.description: Ustaw twój wpis jako publiczny, by każdy mógł go zobaczyć. Prywatne
+  wpisy są widoczne jedynie dla ciebie oraz współautorów twojego świata
 subscriber.groups: Grupy Subskrybentów
 group: Grupa
 map.image: Główny Obraz Mapy
@@ -125,3 +125,26 @@ map.marker.longitude: Długość Geograficzna
 map.marker.latitude: Szerokość Geograficzna
 map.marker.height: Wysokość
 map.marker.fill: Świetnie! A teraz wypełnij poniższe pola!
+subscriber.groups.description: Wybierz jedną lub więcej grup, które będą mogły uzyskać
+  dostęp do tego artykułu. Ta opcja dotyczy jednie prywatnych artykułów.
+display: Wystawa
+display.homepage: Pokaż tę mapę na stronie głównej twojego Świata.
+tags.description: Użyj przecinków, by rozdzielić swoje tagi. Dodanie tagów do dowolnego
+  *piece of content* pomoże ci wyszukać go za pomocą dowolnego z tych tagów.
+map.legend.description: To pojawi się w lewym dolnym rogu twojej mapy. Użyj tego,
+  by stworzyć legendę dla twoich znaczników, napisać krótki opis lub nadać mapie kontekst.
+map.marker.drag: Przeciągnij mnie, by ustawić koordynaty nowego Znacznika
+guild.access: Wszystkie wpisy z darmowych kont są publiczne. Dołącz do <a class="m-t-10
+  text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a>, by nadawać
+  uprawnienia swoim grupom subskrybentów, umożliwiając im zobaczyć tą treść, którą
+  chcesz im pokazać i wspomóc rozwój World Anvil.
+guild.subscriber.groups: Grupy Subskrybentów umożliwiają członkom <a class="m-t-10
+  text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a> nadawać uprawnienia
+  do czytania prywatnych artykułów członkom tych grup.
+guild.access.status: Wszystkie wpisy z darmowych kont są publiczne. Dołącz do <a class="m-t-10
+  text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a>, by ustawić
+  *to private* co zechcesz i wspomóc rozwój World Anvil.
+guild.access.map: Wszystkie mapy z darmowych kont są wyświetlane na stronie głównej
+  twojego Świata. Dołącz do <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gildii
+  Światotwórców</a>, by ustawić swoje mapy, artykuły i światy *to private* i wspomóc
+  rozwój World Anvil.
