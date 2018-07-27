@@ -125,6 +125,6 @@ access: Acceso
 subscriber.groups: Grupos de suscriptores
 subscriber.groups.description: Selecciona uno o más grupos a lo que quieras conceder
   acceso a este artículo. Esto solo afecta a los artículos privados.
-map.legend.description: Esto aparecerá en la parte de abajo a la izquierda en tu mapa.
+map.legend.description: Esto aparecerá en el margen inferior izquierdo de tu mapa.
   Úsalo para crear una leyenda para tus marcadores, escribir una descripción corta
   o dar cualquier otra clase de contexto.
