@@ -14,3 +14,5 @@ register: Registrarse
 create a new...: Crear...
 show: Mostrar
 save.changes: Guardar Cambios
+view.map: Ver mapa
+delete.map: Eliminar mapa
