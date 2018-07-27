@@ -137,8 +137,8 @@ map.legend.description: Zawartość tego pola pojawi się w lewym dolnym rogu tw
 map.marker.drag: Przeciągnij mnie, by ustawić koordynaty nowego Znacznika
 guild.access: Wszystkie elementy darmowych kont są publiczne. Dołącz do <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a>, by nadawać
-  uprawnienia swoim grupom subskrybentów, umożliwiając im zobaczyć tę treść, którą
-  chcesz im pokazać i wspomóc rozwój World Anvil.
+  uprawnienia swoim grupom subskrybentów, pozwolić im zobaczyć tą treść, którą chcesz
+  im pokazać i wspomóc rozwój World Anvil.
 guild.subscriber.groups: Grupy Subskrybentów umożliwiają <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Gildii Światotwórców</a> nadawać członkom tych
   grup uprawnienia do czytania prywatnych artykułów.
