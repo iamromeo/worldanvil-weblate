@@ -145,7 +145,7 @@ guild.subscriber.groups: Los grupos de suscriptores permiten que el <a class="m-
 guild.access.status: Todas las páginas en las cuentas gratuitas són públicas. Únete
   al <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a>
   para hacer cualquier página privada y para ayudar en el desarrollo de World Anvil.
-guild.access.map: Todos los mapas en cuentas gratis son exhibidos en la portadadel
+guild.access.map: Todos los mapas en cuentas gratuitas se muestran en la portada del
   mundo. Únete al <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio
-  de Worldbuilders</a> para hacer que tu mapa, artículos y mundos sean privados, y
-  para ayudar en el desarrollo de World Anvil.
+  de Worldbuilders</a> para hacer que tus mapas, artículos y mundos sean privados,
+  y para ayudar en el desarrollo de World Anvil.
