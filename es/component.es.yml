@@ -116,3 +116,15 @@ display: Mostrar
 display.homepage: Mostrar este mapa en la portada del mundo.
 tags.description: Usa comas para separar tus etiquetas. Agregar etiquetas a cualquier
   contenido te ayudará a encontrarlo usando cualquiera de ellas.
+tag: Etiqueta
+tags: Etiquetas
+related.category: Categoría relacionada
+related.map: Mapa relacionado
+related.organization: Organización relacionada
+access: Acceso
+subscriber.groups: Grupos de suscriptores
+subscriber.groups.description: Selecciona uno o más grupos a lo que quieras conceder
+  acceso a este artículo. Esto solo afecta a los artículos privados.
+map.legend.description: Esto aparecerá en la parte de abajo a la izquierda en tu mapa.
+  Úsalo para crear una leyenda para tus marcadores, escribir una descripción corta
+  o dar cualquier otra clase de contexto.
