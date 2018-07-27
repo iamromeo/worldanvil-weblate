@@ -112,7 +112,7 @@ status.description: Ustaw ten wpis jako publiczny, by każdy mógł go zobaczyć
   wpisy są widoczne jedynie dla ciebie, twoich współautorów oraz subskrybentów z wystarczającymi
   uprawnieniami
 access: Dostęp
-access.description: Ustaw twój wpis jako publiczny, by każdy mógł go zobaczyć. Prywatne
+access.description: Ustaw swój wpis jako publiczny, by każdy mógł go zobaczyć. Prywatne
   wpisy są widoczne jedynie dla ciebie oraz współautorów twojego świata
 subscriber.groups: Grupy Subskrybentów
 group: Grupa
@@ -127,18 +127,18 @@ map.marker.height: Wysokość
 map.marker.fill: Świetnie! A teraz wypełnij poniższe pola!
 subscriber.groups.description: Wybierz jedną lub więcej grup, które będą mogły uzyskać
   dostęp do tego artykułu. Ta opcja dotyczy jednie prywatnych artykułów.
-display: Wystawa
+display: Wyświetlanie
 display.homepage: Pokaż tę mapę na stronie głównej twojego Świata.
-tags.description: Użyj przecinków, by rozdzielić swoje tagi. Dodanie tagów do dowolnego
-  elementu pomoże ci wyszukać go za pomocą dowolnego z tych tagów.
+tags.description: Użyj przecinków, by rozdzielić swoje tagi. Dodanie tagów do elementu
+  pomoże ci wyszukać go za pomocą dowolnego z nich.
 map.legend.description: Zawartość tego pola pojawi się w lewym dolnym rogu twojej
   mapy. Wykorzystaj to, by stworzyć legendę dla twoich znaczników, napisać krótki
   opis lub nadać mapie kontekst.
 map.marker.drag: Przeciągnij mnie, by ustawić koordynaty nowego Znacznika
 guild.access: Wszystkie elementy darmowych kont są publiczne. Dołącz do <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a>, by nadawać
-  uprawnienia swoim grupom subskrybentów, umożliwiając im zobaczyć tę treść, którą
-  chcesz im pokazać i wspomóc rozwój World Anvil.
+  uprawnienia swoim grupom subskrybentów, pozwolić im zobaczyć tą treść, którą chcesz
+  im pokazać i wspomóc rozwój World Anvil.
 guild.subscriber.groups: Grupy Subskrybentów umożliwiają <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Gildii Światotwórców</a> nadawać członkom tych
   grup uprawnienia do czytania prywatnych artykułów.
