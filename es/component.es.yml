@@ -135,7 +135,7 @@ map.marker.latitude: Latitud
 map.marker.height: Altitud
 map.marker.drag: Arrástrame para establecer las coordenadas del nuevo marcador
 map.marker.fill: ¡Genial! Ahora rellena el resto de los campos.
-guild.access: Todas las páginas en las cuentas gratis són públicas. Únete al <a class="m-t-10
-  text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a> para dar
-  permisos a grupos de suscriptores específicos para accedes al contenido que quieras
-  y para ayudar en el desarrollo de World Anvil.
+guild.access: Todas las páginas en las cuentas gratuitas són públicas. Únete al <a
+  class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio de Worldbuilders</a>
+  para dar permisos a grupos de suscriptores específicos para acceder al contenido
+  que quieras y para ayudar en el desarrollo de World Anvil.
