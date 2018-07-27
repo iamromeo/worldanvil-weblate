@@ -73,8 +73,8 @@ delete.note: Supprimer Note
 delete.secret: Supprimer Secret
 delete.world: Supprimer Monde
 list.images: Liste des Images
-create.new.block: Créer un nouveau Bloc
-create.new.campaign: Créer une nouvelle Campagne
-create.new.category: Créer une nouvelle Catégorie
-create.new.historical.entry: Créer un nouvel Événement Historique
-create.new.image: Créer une nouvelle Image
+create.new.block: ''
+create.new.campaign: ''
+create.new.category: ''
+create.new.historical.entry: ''
+create.new.image: ''
