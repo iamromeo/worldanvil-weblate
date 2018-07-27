@@ -112,8 +112,8 @@ status.description: Coloque esse item como público para que todos possam vê-lo
   privados são visíveis apenas para você, seus co-autores e membros do seu mundo com
   permissões apropriadas
 access: Acesso
-access.description: Coloque seu ??? como público para que todos possam vê-l?. ???
-  privad?s são visíveis apenas para você e co-autores do seu mundo
+access.description: Coloque sua postagem como público para que todos possam vê-la.
+  Postagens privadas são visíveis apenas para você e co-autores do seu mundo
 subscriber.groups: Grupos de Membros
 subscriber.groups.description: Selecione um ou mais grupos que você deseja que tenham
   acesso a esse artigo. Isso afeta apenas artigos privados.
