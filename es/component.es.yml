@@ -96,3 +96,23 @@ group: Grupo
 map.image: Imagen base del mapa
 map.edit.details: Editar detalles del mapa
 map.legend: Leyenda
+create.new.block: Crear nuevo bloque RPG
+create.new.campaign: Crear nueva campaña
+create.new.category: Crear nueva categoría
+create.new.historical.entry: Crear nuevo acontecimiento histórico
+create.new.image: Crear nueva imagen
+create.new.player.character: Crear nuevo personaje jugador
+create.new.timeline: Crear nueva línea del tiempo
+create.new.map: Crear nuevo mapa
+create.new.marker: Crear nuevo marcador
+create.new.note: Crear nueva nota
+create.new.secret: Crear nuevo secreto
+create.new.world: Crear nuevo mundo
+position: Posición/peso
+position.description: El peso es un número que define en qué orden aparecerá un elemento
+  en una lista. Cuanto más alto sea el número el elemento aparecerá más arriba.
+status: Visibilidad
+display: Mostrar
+display.homepage: Mostrar este mapa en la portada del mundo.
+tags.description: Usa comas para separar tus etiquetas. Agregar etiquetas a cualquier
+  contenido te ayudará a encontrarlo usando cualquiera de ellas.
