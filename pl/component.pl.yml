@@ -73,3 +73,55 @@ list.timelines: Lista Osi Czasu
 list.notes: Lista Notatek
 list.secrets: Lista Sekretów
 list.worlds: Lista Światów
+create.marker: Stwórz Znacznik
+create.marker.group: Stwórz Grupę Znaczników
+create.new.block: Stwórz nowy Blok RPG
+create.new.campaign: Stwórz nową Kampanię
+create.new.category: Stwórz nową Kategorię
+create.new.historical.entry: Stwórz nowe Wydarzenie historyczne
+create.new.image: Stwórz nowy Obraz
+create.new.player.character: Stwórz nowego Bohatera Gracza
+create.new.timeline: Stwórz nową Oś Czasu
+create.new.map: Stwórz nową Mapę
+create.new.marker: Stwórz nowy Znacznik
+create.new.marker.group: Stwórz nową Grupę Znaczników
+create.new.note: Stwórz nową Notatkę
+create.new.secret: Stwórz nowy Sekret
+create.new.world: Stwórz nowy Świat
+edit.marker: Edytuj Znacznik
+edit.marker.group: Edytuj Grupę Znaczników
+delete.marker: Usuń Znacznik
+delete.marker.group: Usuń Grupę Znaczników
+marker: Znacznik
+marker.group: Grupa Znaczników
+tag: Tag
+markers: Znaczniki
+marker.groups: Grupy Znaczników
+tags: Tagi
+list.markers: Lista Znaczników
+list.marker.groups: Lista Grup Znaczników
+related.category: Powiązana Kategoria
+related.location: Powiązana Lokacja
+related.map: Powiązana Mapa
+related.organization: Powiązana Organizacja
+position: Pozycja/Ciężar
+position.description: Ciężar to liczba definiująca kolejność w jakiej wpisy pojawiają
+  się na liście. Im wyższa liczba, tym wyżej się pojawi.
+status: Status
+status.description: Ustaw ten wpis jako publiczny, by wszyscy mogli go zobaczyć. Prywatne
+  wpisy są widoczne jedynie dla ciebie, twoich współautorów oraz subskrybentów z wystarczającymi
+  uprawnieniami.
+access: Dostęp
+access.description: Ustaw twój wpis jako publiczny, by każdy mógł go zobaaczyć. Prywatne
+  wpisy są widoczne jedynie dla ciebie oraz współautorów twojego świata.
+subscriber.groups: Grupy Subskrybentów
+group: Grupa
+map.image: Główny Obraz Mapy
+map.edit.details: Edytuj Szczegóły Mapy
+map.legend: Legenda
+map.marker.style: Styl
+map.marker.color: Kolor
+map.marker.longitude: Długość Geograficzna
+map.marker.latitude: Szerokość Geograficzna
+map.marker.height: Wysokość
+map.marker.fill: Świetnie! A teraz wypełnij poniższe pola!
