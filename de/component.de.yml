@@ -123,3 +123,8 @@ display.homepage: Zeige diese Karte auf der Startseite der Welt.
 tags.description: Benutze Kommas, um deine Stichwörter zu trennen. Das Hinzufügen
   von Stichwörtern zu allen Inhaltsteilen ermöglicht dir, nach Ihnen zu suchen.
 map.edit.details: Kartendetails bearbeiten
+group: Gruppe
+map.image: Primäres Kartenbild
+map.legend: Legende
+map.legend.description: Dies wird unten links auf der Karte angezeigt. Nutze es für
+  eine Legende für deiner Marker, einer kurzen Beschreibung oder sonstigen Informationen.
