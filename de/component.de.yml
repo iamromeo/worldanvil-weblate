@@ -120,5 +120,6 @@ subscriber.groups.description: Wähle eine oder mehrere Gruppen, um ihnen Zugrif
   den Artikel zu geben. Dies betrifft nur private Artikel.
 display: Anzeige
 display.homepage: Zeige diese Karte auf der Startseite der Welt.
-tags.description: Benutze Kommentar um deine Stichwörter zu trennen. Das hinzufügen
-  von Stichwörtern zu allen Teilinhalten ermöglicht dir nach ihnen zu suchen.
+tags.description: Benutze Kommas, um deine Stichwörter zu trennen. Das Hinzufügen
+  von Stichwörtern zu allen Inhaltsteilen ermöglicht dir, nach Ihnen zu suchen.
+map.edit.details: Kartendetails bearbeiten
