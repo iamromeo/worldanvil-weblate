@@ -90,3 +90,21 @@ create.new.secret: Neues Geheimnis
 create.new.world: Neue Welt
 list.markers: Markierungen
 list.marker.groups: Markierungsgruppen
+edit.marker: Markierung bearbeiten
+edit.marker.group: Markierungsgruppe bearbeiten
+delete.marker: Markierung löschen
+delete.marker.group: Markierungsgruppe löschen
+marker: Markierung
+marker.group: Markierungsgruppe
+tag: Stichwort
+markers: Markierungen
+marker.groups: Markierungsgruppen
+tags: Stichwörter
+related.category: Zugehörige Kategorie
+related.location: Zugehöriger Ort
+related.map: Zugehörige Karte
+related.organization: Zugehörige Organisation
+position: Position/Gewichtung
+position.description: Die Gewichtung ist eine Zahl welche die Reihenfolge bestimmt
+  in der Einträge in einer Liste erscheinen. Je größer die Zahl, desto höher wird
+  der Eintrag positioniert.
