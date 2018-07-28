@@ -73,3 +73,9 @@ list.timelines: Zeitleisten
 list.notes: Notizen
 list.secrets: Geheimnisse
 list.worlds: Welten
+create.marker: Neue Markierung
+create.marker.group: Neue Markierungsgruppe
+create.new.block: Erstelle einen neuen Block
+create.new.campaign: Erstelle eine neue Kampagne
+create.new.category: Erstelle eine neue Kategorie
+create.new.historical.entry: Erstelle ein neues Historisches Ereignis
