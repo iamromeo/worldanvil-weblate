@@ -119,3 +119,6 @@ subscriber.groups: Mitgliedsgruppen
 subscriber.groups.description: Wähle eine oder mehrere Gruppen, um ihnen Zugriff auf
   den Artikel zu geben. Dies betrifft nur private Artikel.
 display: Anzeige
+display.homepage: Zeige diese Karte auf der Startseite der Welt.
+tags.description: Benutze Kommentar um deine Stichwörter zu trennen. Das hinzufügen
+  von Stichwörtern zu allen Teilinhalten ermöglicht dir nach ihnen zu suchen.
