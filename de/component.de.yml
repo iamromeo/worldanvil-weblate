@@ -134,3 +134,8 @@ map.marker.longitude: Längengrad
 map.marker.latitude: Breitengrad
 map.marker.height: Höhe
 map.marker.drag: Ziehe mich, um die Koordinaten des neuen Markers zu setzen
+map.marker.fill: Spitze! Fülle jetzt das untere Formular aus!
+guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete der <a\
+  \ class=\"m-t-10 text-pink\" href=\"{{ path('app_membership')}}\">Weltenbau Gilde</a>\
+  \ bei, um Mitgliedsgruppen \n gezielt Zugriff auf Inhalte die du willst zu geben\
+  \ und gleichzeitig den Entwicklern von World Anvil zu helfen."
