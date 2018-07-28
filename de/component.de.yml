@@ -126,5 +126,5 @@ map.edit.details: Kartendetails bearbeiten
 group: Gruppe
 map.image: Primäres Kartenbild
 map.legend: Legende
-map.legend.description: Dies wird unten links auf der Karte angezeigt. Nutze es für
-  eine Legende für deiner Marker, einer kurzen Beschreibung oder sonstigen Informationen.
+map.legend.description: Wird unten links auf der Karte angezeigt. Nutze es für eine
+  Legende für deine Marker, eine kurze Beschreibung oder sonstige Informationen.
