@@ -108,3 +108,7 @@ position: Position/Gewichtung
 position.description: Die Gewichtung ist eine Zahl, welche die Reihenfolge bestimmt,
   in der Einträge in einer Liste erscheinen. Je größer die Zahl, desto höher wird
   der Eintrag positioniert.
+status: Status
+status.description: Setze diesen Eintrag auf öffentlich damit ihn jeder sehen kann.
+  Private Einträge sind nur für dich, deine Co-Autoren und berechtigten Mitglieder
+  deiner Welt sichtbar.
