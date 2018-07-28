@@ -128,3 +128,9 @@ map.image: Primäres Kartenbild
 map.legend: Legende
 map.legend.description: Wird unten links auf der Karte angezeigt. Nutze es für eine
   Legende für deine Marker, eine kurze Beschreibung oder sonstige Informationen.
+map.marker.style: Stil
+map.marker.color: Farbe
+map.marker.longitude: Längengrad
+map.marker.latitude: Breitengrad
+map.marker.height: Höhe
+map.marker.drag: Ziehe mich um die Koordinaten des neuen Markers zu setzen
