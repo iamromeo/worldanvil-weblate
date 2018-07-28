@@ -105,6 +105,6 @@ related.location: Zugehöriger Ort
 related.map: Zugehörige Karte
 related.organization: Zugehörige Organisation
 position: Position/Gewichtung
-position.description: Die Gewichtung ist eine Zahl welche die Reihenfolge bestimmt
+position.description: Die Gewichtung ist eine Zahl, welche die Reihenfolge bestimmt,
   in der Einträge in einer Liste erscheinen. Je größer die Zahl, desto höher wird
   der Eintrag positioniert.
