@@ -115,3 +115,6 @@ status.description: Setze diesen Eintrag auf öffentlich, damit ihn jeder sehen 
 access: Zugriff
 access.description: Setze diesen Beitrag auf öffentlich, damit jeder ihn sehen kann.
   Private Beiträge sind nur für dich und deine Co-Autoren sichtbar.
+subscriber.groups: Mitgliedsgruppen
+subscriber.groups.description: Wähle eine oder mehrer Gruppen um ihnen Zugriff auf
+  den Artikel zu geben. Dies betrifft nur private Artikel.
