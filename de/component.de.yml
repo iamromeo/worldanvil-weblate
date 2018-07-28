@@ -142,3 +142,7 @@ guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete de
 guild.subscriber.groups: Mitgliedsgruppen erlauben es der <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Weltenbauer Gilde</a>, lesenden Zugriff auf private
   Artikel an die Mitglieder der Gruppe zu vergeben.
+guild.access.status: Alle Einträge eines kostenlosen Kontos sind öffentlich. Trete
+  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer Gilde</a>
+  bei, um alles was du willst privat zu setzen und den Entwicklern von World Anvil
+  zu helfen.
