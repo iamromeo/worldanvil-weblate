@@ -75,7 +75,10 @@ list.secrets: Geheimnisse
 list.worlds: Welten
 create.marker: Neue Markierung
 create.marker.group: Neue Markierungsgruppe
-create.new.block: Erstelle einen neuen Block
-create.new.campaign: Erstelle eine neue Kampagne
-create.new.category: Erstelle eine neue Kategorie
-create.new.historical.entry: Erstelle ein neues Historisches Ereignis
+create.new.block: Neuer Block
+create.new.campaign: Neue Kampagne
+create.new.category: Neue Kategorie
+create.new.historical.entry: Neues historisches Ereignis
+create.new.image: Neues Bild
+create.new.player.character: Neuer Spielercharacter
+create.new.timeline: Neue Zeitleiste
