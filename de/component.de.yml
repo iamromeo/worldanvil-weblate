@@ -146,3 +146,7 @@ guild.access.status: Alle Einträge eines kostenlosen Kontos sind öffentlich. T
   der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer Gilde</a>
   bei, um alles was du willst privat zu setzen und den Entwicklern von World Anvil
   zu helfen.
+guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
+  Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer
+  Gilde</a> bei, um Karten, Artikel und Welten privat zu setzen und den Entwicklern
+  von World Anvil zu helfen.
