@@ -112,3 +112,6 @@ status: Status
 status.description: Setze diesen Eintrag auf öffentlich, damit ihn jeder sehen kann.
   Private Einträge sind nur für dich, deine Co-Autoren und berechtigte Mitglieder
   deiner Welt sichtbar.
+access: Zugriff
+access.description: Setze diesen Beitrag auf öffentlich damit jeder ihn sehen kann.
+  Private Beiträge sind nur für dich und deine Co-Autoren sichtbar.
