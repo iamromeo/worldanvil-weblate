@@ -14,4 +14,5 @@ register: Erstelle dein Konto
 create a new...: Erschaffe einen neuen Artikel
 show: Anzeigen
 save.changes: Änderungen speichern
-view.map: Karte betrachten
+view.map: Karte ansehen
+delete.map: Karte löschen
