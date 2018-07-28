@@ -88,3 +88,5 @@ create.new.marker.group: Neue Markierungsgruppe
 create.new.note: Neue Notiz
 create.new.secret: Neues Geheimnis
 create.new.world: Neue Welt
+list.markers: Markierungen
+list.marker.groups: Markierungsgruppen
