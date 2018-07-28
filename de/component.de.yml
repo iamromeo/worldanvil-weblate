@@ -133,4 +133,4 @@ map.marker.color: Farbe
 map.marker.longitude: Längengrad
 map.marker.latitude: Breitengrad
 map.marker.height: Höhe
-map.marker.drag: Ziehe mich um die Koordinaten des neuen Markers zu setzen
+map.marker.drag: Ziehe mich, um die Koordinaten des neuen Markers zu setzen
