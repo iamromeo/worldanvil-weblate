@@ -118,7 +118,7 @@ access.description: Sélectionner Public rendra ce contenu visible pour tout le 
   ces co-auteurs
 subscriber.groups: Groupes de Membres
 display: Affichage
-display.homepage: Afficher la carte sur la page d'accueil du Monde
+display.homepage: Affichez cette carte sur la page d'accueil du Monde.
 tags.description: Les libellés sont un outil permettant de classer le contenu afin
   de mieux pouvoir le retrouver par la suite. Les libellés doivent être séparés par
   des virgules.
