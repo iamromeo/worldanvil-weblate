@@ -137,3 +137,4 @@ map.marker.height: Altitude
 map.marker.drag: Déplace moi pour déterminer les coordonnées de cette nouvelle Balise
 map.marker.fill: Génial ! Rempli le formulaire juste au dessous maintenant !
 guild.access: Tous les éléments de
+status: Statut
