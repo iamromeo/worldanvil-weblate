@@ -50,3 +50,23 @@ list.notes: Seznam poznámek
 list.secrets: Seznam tajemství
 list.worlds: Seznam Světů
 related.category: Související kategorie
+create.campaign: Vytvořit kampaň
+create.category: Vytvořit kategorii
+create.image: Vytvořit obrázek
+create.map: Vytvořit mapu
+create.marker: Vytvořit značku
+create.marker.group: Vytvořit skupinu značek
+create.note: Vytvořit poznámku
+create.secret: 'Vytvořit tajemství '
+create.world: Vytvořit svět
+create.new.image: Vytvořit nový obrázek
+edit.campaign: Upravit kampaň
+delete.campaign: Smazat kampaň
+campaign: Kampaň
+list.campaigns: Seznam kampaní
+related.location: Související lokace
+related.map: Související mapa
+related.organization: Související organizace
+BETA: BETA
+status: Stav
+access: Přístup
