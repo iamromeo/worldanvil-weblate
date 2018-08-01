@@ -24,3 +24,39 @@ technology.science: Tecnologia / Ciência
 tradition.ritual: Tradição / Ritual
 vehicle: Veículo
 rpg.session.report: Relatório de Sessão de RPG
+building: Construção
+geography: Geografia
+settlement: Assentamento
+technology: Tecnologia
+tradition: Tradição
+rpg.report: Relatório de RPG
+description.building: '... ou Marcos. Maravilhas, naturais e construídas, ruínas,
+  masmorras, templos, grandes árvores, forja, pousada, castelo. Qualquer coisa para
+  a qual você pode apontar e as pessoas consideram importante o suficiente para dar
+  um nome.'
+description.character: De Reis e Rainhas a heróis, camponeses e Deuses.
+description.condition: Doenças Naturais ou Mágicas, enfermidades, Mutações e Transformações.
+description.document: Tratados, Livros, Obras de Arte, Manuais, Guias, Declarações
+  e muito mais!
+description.ethnicity: Não uma espécie, mas um povo ligado por uma linhagem cultural
+  comum. Não o povo de um Reino, e sim um povo com as mesmas crenças e tradições.
+description.formation: Protótipos de formações militares. Como suas Legiões, Falanges,
+  Espadachins, Lanceiros e Cavaleiros são. Quais são seus equipamentos e táticas?
+description.generic: Artigos Genéricos podem ser usados para conteúdos adicionais,
+  conjuntos de regras caseiras de RPG, Introduções de Capítulos, histórias, prosas,
+  etc.
+description.geography: Mundos e Universos. Galáxias, sistemas solares, planetas, cordilheiras,
+  vales, mares, pântanos e lagos. Todos os locais geográficos.
+description.item: Objetos de uso diário, moedas, ferramentas, armas, armaduras; do
+  mais comum ao único
+description.law: Talvez a gravidade no seu mundo funciona diferente, ou tem magia
+  no ar, ou a luz viaja mais devagar. Quaisquer leis da natureza e da física fora
+  do normal ou sobrenaturais.
+description.language: As formas que espécies inteligentes no seu mundo se comunicam,
+  trocam ideias e reflexões.
+description.material: Matérias-primas, Recursos de Troca, Elementos Químicos. Qualquer
+  coisa desde Mithril e Adamântio a Urânio e Unobtainium 2000.
+description.conflict: Guerras, Batalhas, Cercos e Escaramuças. Em geral, o que acontece
+  quando dois lados se encontram com varas afiadas.
+description.legend: O folclore do seu mundo. Pense no Rei Artur, Crocodilos nos Esgotos
+  de Nova Iorque ou no Pé-Grande.
