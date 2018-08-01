@@ -152,3 +152,5 @@ guild.access.map: Sur un compte gratuit, toutes les cartes seront affichées sur
   page d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Guilde
   des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
   au développement de World Anvil.
+subscriber.groups.description: Sélectionnez un ou plusieurs groupes auxquels vous
+  souhaitez autoriser l'accès à cet article. Cela n'affecte que les articles privés.
