@@ -53,8 +53,8 @@ description.geography: Mundos y universos. Galaxias, sistemas solares, planetas,
 description.law: Quizás en tu mundo la gravedad funciona de otro modo, o hay magia
   en el aire, o la luz viaja más lento. Todo lo fuera de lo normal o leyes naturales
   o físicas sobrenaturales.
-description.language: 'Las maneras en que las especies inteligentes de tu mundo se
-  comunican e intercambian ideas y pensamientos. '
+description.language: Las formas en que las especies inteligentes de tu mundo se comunican
+  e intercambian ideas y pensamientos.
 description.material: Materias primas, recursos mercantiles, elementos químicos. Cualquier
   cosa desde el mitrilo y el adamantium hasta el uranio y el unibtainium 2000.
 description.conflict: Guerras, batallas, asedios y escaramuzas. En general, lo que
@@ -70,19 +70,19 @@ description.plot: Las tramas abarcan tus tramas dominantes, actos, escenas, secu
   o como quieras llamar a las partes de tu historia. Úsalas para esquematizar tu prosa
   o tu campaña de rol.
 description.prose: Haikus, poemas, cuentos cortos, capítulos de tus libros mostrados
-  limpiante y con foco a la lectura.
+  limpiamente y con foco a la lectura.
 description.rank: Rey de Endor, Primer ciudadano de la Federación, Almirante de Flota
   de la Federación Okabu, Archimago de Lobutas, etc.
-description.settlement: 'Todo desde el pueblo más pequeño hasta las estaciones gigantes
-  espaciales más activas. '
+description.settlement: Cualquier asentamiento desde el pueblo más pequeño hasta las
+  estaciones gigantes espaciales más activas.
 description.species: Animales, plantas, conscientes o inteligentes. Humanos, elfos
-  y extraterrestes incluidos.
+  y extraterrestres incluidos.
 description.spell: ¡Hechizos, rituales, poderes psíquicos y superpoderes!
 description.technology: Ciencia y tecnologías. Desde la invención de la agricultura
   hasta las máquinas de vapor y pistolas láser.
 description.report: Informes de las sesiones de los juegos de rol, notas sobre lo
   acontecido durante la sesión, un punto de inicio para organizar la siguiente sesión.
-description.tradition: Costumbres, tradiciones y rituales. festivales de la cosecha,
+description.tradition: Costumbres, tradiciones y rituales. Festivales de la cosecha,
   días del recuerdo, apretones de manos secretos y cuántos besos se dan en cada mejilla.
 description.vehicle: Monturas bípedas que parecen dinosaurios, embarcaciones, barcos
   pirata voladores o naves espaciales. Bautizadas y genéricas.
@@ -95,7 +95,7 @@ description.map: Los mapas se pueden utilizar para mostrar la geografía de tus 
 description.historical.entry: Los acontecimientos o eventos históricos son las historias
   que le ponen la H a la Historia. Son los momentos y tiempos únicos en el desarrollo
   de tu mundo que lo llevaron a lo que es ahora.
-description.timeline: Las líneas de tiempo te pueden ayudar a contar las historias
-  de tu mundo y describir los eventos que las formaron.
+description.timeline: Las líneas de tiempo te ayudarán a contar las historias de tu
+  mundo y describir los eventos que las formaron.
 description.secret: Las verdades ocultas, los murmullos en los callejones, las realidades
   temidas aún por desvelar
