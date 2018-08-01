@@ -1,1 +1,71 @@
-{}
+create.author.profile: Opret profil
+create.campaign: Opret kampagne
+create.category: Opret kategori
+create.historical.entry: Opret historisk notat
+create.image: Opret billede
+create.player.character: Opret spiller karakter
+create.timeline: Opret tidslinje
+create.map: Opret kort
+create.marker: Opret markør
+create.marker.group: Opret markør gruppe
+create.note: Opret note
+create.secret: Opret hemmelighed
+create.world: Opret verden
+create.new.campaign: Opret en ny kampagne
+create.new.category: Opret ny kategori
+create.new.historical.entry: Opret nyt historisk notat
+create.new.image: Opret nyt billede
+create.new.player.character: Opret ny spiller karakter
+create.new.timeline: Opret ny tidslinje
+create.new.map: Opret nyt kort
+create.new.marker: Opret ny markør
+create.new.marker.group: Opret ny markør gruppe
+create.new.note: Opret ny note
+create.new.secret: Opret ny hemmelighed
+create.new.world: Opret ny verden
+edit.author.profile: Rediger profil
+edit.campaign: Rediger kampagne
+edit.category: Rediger kategori
+edit.historical.entry: Rediger historisk notat
+edit.image: Rediger billede
+edit.player.character: Rediger spiller karakter
+edit.timeline: Rediger tidslinje
+edit.map: Rediger kort
+edit.marker: Rediger markør
+edit.marker.group: Rediger markør gruppe
+edit.note: Rediger note
+edit.secret: Rediger hemmelighed
+edit.world: Rediger verden
+delete.author.profile: Slet profil
+delete.campaign: Slet kampagne
+delete.category: Slet kategori
+delete.historical.entry: Slet historisk notat
+delete.image: Slet billede
+delete.player.character: Slet spiller karakter
+delete.timeline: Slet tidslinje
+delete.map: Slet kort
+delete.marker: Slet markør
+delete.marker.group: Slet markør gruppe
+delete.note: Slet note
+delete.secret: Slet hemmelighed
+delete.world: Slet verden
+author.profile: Profil
+campaign: Kampagne
+category: Kategori
+historical.entry: Historisk notat
+image: Billede
+player.character: Spiller karakter
+timeline: Tidslinje
+map: Kort
+marker: Markør
+marker.group: Markør gruppe
+note: Note
+secret: Hemmelighed
+world: Verden
+articles: Artikler
+campaigns: Kampagner
+categories: Kategorier
+historical.entries: Historiske notater
+images: Billeder
+player.characters: Spiller karakterer
+maps: Kort
