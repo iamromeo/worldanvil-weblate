@@ -12,3 +12,7 @@ login: Connexion
 logout: Déconnexion
 register: Créer votre compte
 create a new...: Créer...
+show: Afficher
+save.changes: Sauvegarder les modifications
+delete.map: Supprimer Carte
+view.map: Afficher Carte
