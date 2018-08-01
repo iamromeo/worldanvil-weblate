@@ -154,3 +154,15 @@ guild.access.map: Sur un compte gratuit, toutes les cartes seront affichées sur
   au développement de World Anvil.
 subscriber.groups.description: Sélectionnez un ou plusieurs groupes auxquels vous
   souhaitez autoriser l'accès à cet article. Cela n'affecte que les articles privés.
+create.layer: Créer Calque
+create.new.layer: Créer un Calque
+edit.layer: Modifier Calque
+delete.layer: Supprimer Calque
+layer: Calque
+layers: Calques
+list.layers: Liste de Calques
+map.image.secondary: Calque d'image
+map.update.image: Modifier l'image principale de la carte
+map.image.details: La résolution attendue pour l'image est
+map.marker.new: Nouveau repère de lieu
+map.display.homepage: Afficher cette carte sur la page d'accueil du monde.
