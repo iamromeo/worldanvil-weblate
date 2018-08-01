@@ -16,3 +16,8 @@ show: Afficher
 save.changes: Sauvegarder les modifications
 delete.map: Supprimer Carte
 view.map: Afficher Carte
+replace: Remplacer
+browse: Naviguer
+edit.map: Modifier Carte
+edit.profile: Modifier Profil
+view.profile: Afficher Profil
