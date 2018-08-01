@@ -69,3 +69,40 @@ historical.entries: Historiske notater
 images: Billeder
 player.characters: Spiller karakterer
 maps: Kort
+markers: Markører
+marker.groups: Markør grupper
+timelines: Tidslinjer
+notes: Noter
+secrets: Hemmeligheder
+worlds: Verdener
+list.articles: Artikel liste
+list.campaigns: Kampagne liste
+list.categories: Kategori liste
+list.historical.entries: Historisk notat liste
+list.images: Billede liste
+list.player.characters: Spiller karakter liste
+list.maps: Kort liste
+list.markers: Markør liste
+list.marker.groups: Markør gruppe liste
+list.timelines: Tidslinje liste
+list.notes: Note liste
+list.secrets: Hemmeligheds liste
+list.worlds: Verdens liste
+subscribers: Abonnenter
+followers: Følgere
+related.category: Relateret kategori
+related.location: Relateret sted
+related.map: Relateret kort
+related.organization: Relateret organisation
+BETA: BETA
+position: Position/vægt
+position.description: Vægt er et nummer der afgører hvilken rækkefølge genstande vil
+  ligge i. Jo højere nummeret er, jo højere oppe vil genstanden ligge.
+status: Status
+status.description: Sæt denne genstand som offentlig så alle kan se den. Private genstande
+  kan kun ses a dig og dine med-forfattere og abonnenter med den rigtige tilladelse
+  i forhold til din verden
+access: Adgang
+access.description: Sæt dit indlæg som offentlig så alle kan se den. Private indlæg
+  kan kun ses af dig og med-forfattere af din verden
+subscriber.groups: Abonnent grupper
