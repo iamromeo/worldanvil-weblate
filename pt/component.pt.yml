@@ -137,7 +137,7 @@ map.marker.drag: Me arraste para determinar as coordenadas do novo Marcador
 map.marker.fill: Legal! Agora preencha o formulário abaixo!
 guild.access: Todos os itens em contas gratuitas são públicos. Junte-se à <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Guilda dos Worldbuilders</a> para
-  dar permissões a grupos de membros específicos para acessarm o conteúdo que quiser
+  dar permissões apenas a grupos de membros específicos acessarem o conteúdo que quiser
   e ajude no desenvolvimento do World Anvil.
 guild.subscriber.groups: '"Grupos de Membros" permitem à <a class="m-t-10 text-pink"
   href="{{ path(''app_membership'')}}">Guilda dos Worldbuilders</a> dar acesso de

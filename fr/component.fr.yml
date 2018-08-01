@@ -78,28 +78,28 @@ create.new.campaign: Créer une Campagne
 create.new.category: Créer une Catégorie
 create.new.historical.entry: Créer un Événement Historique
 create.new.image: Créer une Image
-create.marker: Créer Balise
+create.marker: Créer Repère
 create.marker.group: Créer Groupe de Marqueurs
 create.new.player.character: Créer un Personnage Joueur
 create.new.timeline: Créer une Frise Chronologique
 create.new.map: Créer une Carte
-create.new.marker: Créer une Balise
-create.new.marker.group: Créer un Groupe de Balises
+create.new.marker: Créer un Repère
+create.new.marker.group: Créer un Groupe de Repères
 create.new.note: Créer une Note
 create.new.secret: Créer un Secret
 create.new.world: Créer nouveau Monde
-edit.marker: Modifier Balise
-edit.marker.group: Modifier Groupe de Balises
-delete.marker: Supprimer Balise
-delete.marker.group: Supprimer Groupe de Balises
-marker: Balise
-marker.group: Groupe de Balises
+edit.marker: Modifier Repère
+edit.marker.group: Modifier Groupe de Repères
+delete.marker: Supprimer Repère
+delete.marker.group: Supprimer Groupe de Repères
+marker: Repère
+marker.group: Groupe de Repères
 tag: Libellé
-markers: Balises
-marker.groups: Groupes de Balises
+markers: Repères
+marker.groups: Groupes de Repères
 tags: Libellés
-list.markers: Liste de Balises
-list.marker.groups: Liste de Groupes de Balises
+list.markers: Liste de Repères
+list.marker.groups: Liste de Groupes de Repères
 related.category: Catégories associées
 related.location: Lieux associés
 related.map: Cartes associées
@@ -118,7 +118,7 @@ access.description: Sélectionner Public rendra ce contenu visible pour tout le 
   ces co-auteurs
 subscriber.groups: Groupes de Membres
 display: Affichage
-display.homepage: Afficher la carte sur la page d'accueil du Monde
+display.homepage: Affichez cette carte sur la page d'accueil du Monde.
 tags.description: Les libellés sont un outil permettant de classer le contenu afin
   de mieux pouvoir le retrouver par la suite. Les libellés doivent être séparés par
   des virgules.
