@@ -24,3 +24,9 @@ technology.science: Tecnología/ciencia
 tradition.ritual: Tradición/ritual
 vehicle: Vehículo
 rpg.session.report: Informe de sesión de rol
+building: Edificio
+geography: Geografía
+description.building: '... o punto de referencia, maravillas, naturales y construidas
+  por el hombre, ruinas, mazmorras, templos, grandes árboles, el herrero, la posada,
+  un castillo. Lo que sea que puedas apuntar a y que la gente considere lo suficientemente
+  importante para nombrar.'
