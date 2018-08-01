@@ -13,9 +13,9 @@ profession: Zawód
 rank.title: Ranga / Tytuł
 technology.science: Technologia / Nauka
 tradition.ritual: Tradycja / Rytuał
-location.building: Lokacja, Budynek
-location.geographic: Lokacja, Geograficzna
-location.settlement: Lokacja, Osada
+location.building: Miejsce, Budynek
+location.geographic: Miejsce, Geografia
+location.settlement: Miejsce, Osada
 law: Prawo (Meta/Fizyczne)
 organization: Organizacja
 prose: Proza
