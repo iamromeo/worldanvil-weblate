@@ -20,7 +20,7 @@ home: Hjem
 pricing: Priser
 need.help: Brug for hjælp?
 faq: Ofte stillede spørgsmål
-privacy: Privatliv
+privacy: Databeskyttelse
 tos: Vilkår for service
 copyright: Ophavsret
 contact: Kontakt
@@ -37,3 +37,4 @@ All Rights Reserved: Alle rettigheder forbeholdes
 community: Fællesskab
 interface.settings: Grænsefladeindstillinger
 campaign.plots: Plot
+campaign.corkboard: Opslagstavle
