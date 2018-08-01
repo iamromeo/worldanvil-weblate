@@ -137,19 +137,19 @@ map.marker.height: Altitude
 map.marker.drag: Déplace moi pour déterminer les coordonnées de ce nouveau Repère
 map.marker.fill: Génial ! Rempli le formulaire ci-dessous maintenant !
 guild.access: Tous les éléments créé avec un compte gratuit sont public et donc visible
-  par tous. Rejoignez la <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">
-  Guilde des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu
-  et aider au développement de World Anvil.
+  par tous. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
+  des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
+  au développement de World Anvil.
 status: Statut
 guild.subscriber.groups: Les groupes de membres permettent aux <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Forgemondes</a> de configurer la visibilité des
   articles privés par groupe.
 guild.access.status: Tous les éléments créé avec un compte gratuit sont public et
-  donc visible par tous. Rejoignez la <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">
-  Guilde des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu
-  et aider au développement de World Anvil.
+  donc visible par tous. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
+  des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
+  au développement de World Anvil.
 guild.access.map: Sur un compte gratuit, toutes les cartes seront affichées sur la
-  page d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Guilde
+  page d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
   des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
   au développement de World Anvil.
 subscriber.groups.description: Sélectionnez un ou plusieurs groupes auxquels vous
@@ -166,3 +166,6 @@ map.update.image: Modifier l'image principale de la carte
 map.image.details: La résolution attendue pour l'image est
 map.marker.new: Nouveau repère de lieu
 map.display.homepage: Afficher cette carte sur la page d'accueil du monde.
+tag.description: Les libellés doivent être séparés par des virgules. Les libellés
+  sont un outil permettant de classer le contenu afin de mieux pouvoir le retrouver
+  par la suite.
