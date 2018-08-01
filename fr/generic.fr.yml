@@ -10,3 +10,5 @@ meta.title.standard: Gestionnaire de Création de Mondes et de Campagnes de JDR 
   Anvil
 meta.description.standard: 'Outils de gestion pour la création de Mondes et de campagnes
   de JDR pour tous : Auteurs, Maîtres de Jeu, Conteurs...'
+weight: Poids
+private.club: Club privé. Membres de la Guilde uniquement
