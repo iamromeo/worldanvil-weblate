@@ -1,1 +1,24 @@
-{}
+character: Karakter
+condition: Tilstand
+document: Dokument
+ethnicity: Etnicitet
+formation.military: Formation (Militær)
+item: Genstand
+language: Sprog
+material: Materiale
+myth.legend: Myte / Legende
+military.conflict: Militær konflikt
+location.building: Sted, bygning
+location.geographic: Sted, geografisk
+law: Lov (Meta/fysisk)
+organization: Organisation
+prose: Prosa
+profession: Profession/erhverv
+plot: Plot
+rank.title: Rang / Titel
+species: Arter
+spell: Besværgelse
+technology.science: Teknologi / videnskab
+tradition.ritual: Tradition / Ritual
+vehicle: Køretøj
+rpg.session.report: RPG session rapport
