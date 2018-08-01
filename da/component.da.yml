@@ -30,7 +30,7 @@ edit.historical.entry: Rediger historisk notat
 edit.image: Rediger billede
 edit.player.character: Rediger spiller karakter
 edit.timeline: Rediger tidslinje
-edit.map: Rediger kort
+edit.map: Rediger Kort
 edit.marker: Rediger markør
 edit.marker.group: Rediger markør gruppe
 edit.note: Rediger note
@@ -139,3 +139,8 @@ guild.access.map: Alle kort på gratis kontoer er vist på verdenens side. Tilsl
   <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">????</a> hvis du
   vil sætte dine kort, artikler og verdener som private, samt støtte udviklingen af
   World Anvil.
+create.layer: Opret lag
+create.new.layer: Opret nyt lag
+edit.layer: Rediger lag
+delete.layer: Slet lag
+layer: Lag
