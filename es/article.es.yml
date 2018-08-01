@@ -35,4 +35,16 @@ technology: Tecnología
 tradition: Tradición
 rpg.report: Informe RPG
 description.character: Desde reyes y reinas hasta héroes, campesinos y dioses.
-description.condition: Enfermedades naturles o mágicas, afecciones, mutationes y transformaciones.
+description.condition: Enfermedades naturales o mágicas, afecciones, mutaciones y
+  transformaciones.
+description.document: ¡Tratados, libros, obras de arte, manuales, guías declaraciones
+  y mucho más!
+description.ethnicity: No la especie sino la gente relacionada con una ascendencia
+  cultural común. No los habitantes de un reino, sino gente con unas mismas creencias
+  y tradiciones.
+description.formation: Prototipos de formación militar. Cómo son tus legiones, falanges,
+  espadachines, lanceros o caballeros. ¿Cuáles son su equipamiento y sus tácticas?
+description.generic: Los artículos genéricos pueden usarse para contenido adicional,
+  reglas de rol propias, introducciones a capítulos, cuentos, prosa...
+description.item: Objetos de uso diario, monedas, herramientas, armas, armaduras...
+  de lo más común a lo más único
