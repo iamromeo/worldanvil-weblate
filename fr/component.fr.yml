@@ -119,9 +119,9 @@ access.description: Sélectionner Public rendra ce contenu visible pour tout le 
 subscriber.groups: Groupes de Membres
 display: Affichage
 display.homepage: Afficher cette carte sur la page d'accueil du Monde.
-tags.description: Les libellés sont un outil permettant de classer le contenu afin
-  de mieux pouvoir le retrouver par la suite. Les libellés doivent être séparés par
-  des virgules.
+tags.description: Les libellés doivent être séparés par des virgules. Les libellés
+  sont un outil permettant de classer le contenu afin de mieux pouvoir le retrouver
+  par la suite.
 group: Groupe
 map.image: Image principale de la carte
 map.edit.details: Modifier Carte

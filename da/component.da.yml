@@ -43,7 +43,7 @@ delete.historical.entry: Slet historisk notat
 delete.image: Slet billede
 delete.player.character: Slet spiller karakter
 delete.timeline: Slet tidslinje
-delete.map: Slet kort
+delete.map: Slet Kort
 delete.marker: Slet markør
 delete.marker.group: Slet markør gruppe
 delete.note: Slet note
@@ -106,3 +106,36 @@ access: Adgang
 access.description: Sæt dit indlæg som offentlig så alle kan se den. Private indlæg
   kan kun ses af dig og med-forfattere af din verden
 subscriber.groups: Abonnent grupper
+subscriber.groups.description: Vælg en eller flere grupper som du vil give adgang
+  til denne artikel til. Dette påvirker kun private artikler.
+display: Vis
+display.homepage: Vis dette kort på verdenens side.
+tags.description: Brug kommaer til at se adskille dine tags. At tilføje tags til indhold
+  i din verden gør at du kan søge efter det, ved brug af de tags du har brugt.
+group: Gruppe
+map.edit.details: Rediger kortets detaljer
+map.legend: Legende
+map.legend.description: Dette vil stå i det nederste venstre hjørne af dit kort. Brug
+  det til at lave en legende til dine markører, skriv en kort beskrivelse eller giv
+  en anden form for kontekst.
+map.marker.style: Stil
+map.marker.color: Farve
+map.marker.longitude: Længdegrad
+map.marker.latitude: Breddegrad
+map.marker.height: Højde
+map.marker.drag: Placer mig for at sætte koordinaterne til den nye markør
+map.marker.fill: Sejt! Fyld formularen ind nedenunder nu!
+guild.access: Alle genstande på gratis kontoer er offentlige. Tilslut dig til <a class="m-t-10
+  text-pink" href="{{ path('app_membership')}}">????</a> for at give tilladelse til
+  specifikke abonnent grupper så kun de kan få adgang til specifikt indhold. Samtidig
+  støtter du også  udviklingen af World Anvil.
+guild.subscriber.groups: Abonnent grupper gør så medlemmer af <a class="m-t-10 text-pink"
+  href="{{ path('app_membership')}}">????</a> kan give læse-tilladelse til private
+  artikler til medlemmerne af den gruppe.
+guild.access.status: Alt indhold på gratis kontoer er offentligt. Tilslut dig <a class="m-t-10
+  text-pink" href="{{ path('app_membership')}}">????</a>, så kan du sætte indhold
+  som privat, samt støtte udviklingen af World Anvil.
+guild.access.map: Alle kort på gratis kontoer er vist på verdenens side. Tilslut dig
+  <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">????</a> hvis du
+  vil sætte dine kort, artikler og verdener som private, samt støtte udviklingen af
+  World Anvil.
