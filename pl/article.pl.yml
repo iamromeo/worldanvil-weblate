@@ -24,3 +24,16 @@ species: Gatunki
 spell: Zaklęcie
 vehicle: Pojazd
 rpg.session.report: Raport sesji RPG
+building: Budynek
+geography: Geografia
+settlement: Osada
+technology: Technologia
+tradition: Tradycja
+rpg.report: Raport RPG
+description.building: '...albo punkt orientacyjny. Cuda, naturalne lub wzniesione
+  ludzkimi rękoma, ruiny, lochy, świątynie, wielkie drzewa, kuźnie, karczmy, zamki.
+  Wszystko co możesz wskazać na mapie i co jest na tyle ważne by mieć własną nazwę. '
+description.character: Od królów i królowych do bohaterów, chłopów i Bogów.
+description.condition: Naturalne i magiczne choroby, mutacje i transformacje.
+description.geography: 'Światy i Wszechświaty. Galaktyki, układy planetarne, planety,
+  pasma górskie, doliny, wielkie rzeki, bagna i jeziora. '
