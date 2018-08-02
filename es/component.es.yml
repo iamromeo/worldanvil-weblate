@@ -156,7 +156,7 @@ delete.layer: Eliminar capa
 layer: Capa
 layers: Capas
 list.layers: Lista de capas
-tag.description: 'Usa comas para separar tus etiquetas. Añadir etiquetas a cualquier
-  pieza de contenido te ayudará a buscarlo usando cualquiera de las etiquetas. '
+tag.description: Usa comas para separar tus etiquetas. Añadir etiquetas a cualquier
+  contenido te ayudará a buscarlo usando cualquiera de las etiquetas.
 map.image.secondary: Imagen de capa
 map.update.image: Actualizar imagen primaria del mapa
