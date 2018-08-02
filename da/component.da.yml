@@ -110,8 +110,8 @@ subscriber.groups.description: Vælg en eller flere grupper som du vil give adga
   til denne artikel til. Dette påvirker kun private artikler.
 display: Vis
 display.homepage: Vis dette kort på verdenens side.
-tags.description: Brug kommaer til at se adskille dine tags. At tilføje tags til indhold
-  i din verden gør at du kan søge efter det, ved brug af de tags du har brugt.
+tags.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til indhold
+  i din verden gør, at du kan søge efter ved at søge på de tags du har brugt.
 group: Gruppe
 map.edit.details: Rediger kortets detaljer
 map.legend: Legende
@@ -144,3 +144,11 @@ create.new.layer: Opret nyt lag
 edit.layer: Rediger lag
 delete.layer: Slet lag
 layer: Lag
+tag: Tag
+layers: Lag
+tags: Tags
+tag.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til indhold
+  i din verden gør, at du kan søge efter ved at søge på de tags du har brugt.
+map.image: Kortets primære billede
+map.marker.new: Ny stedsmarkør
+map.display.homepage: Vis dette kort på verdenens side.

@@ -149,3 +149,7 @@ guild.access.map: Todos los mapas en cuentas gratuitas se muestran en la portada
   mundo. Únete al <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Gremio
   de Worldbuilders</a> para hacer que tus mapas, artículos y mundos sean privados,
   y para ayudar en el desarrollo de World Anvil.
+create.layer: Crear capa
+create.new.layer: Crear nueva capa
+edit.layer: Editar capa
+delete.layer: Borrar capa
