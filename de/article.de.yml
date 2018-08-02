@@ -24,3 +24,11 @@ tradition.ritual: Tradition / Ritual
 vehicle: Fahrzeug
 rpg.session.report: RPG Sitzungsbericht
 character: Charakter
+building: Gebäude
+geography: Geographie
+settlement: Siedlung
+technology: Technologie
+tradition: Tradition
+description.building: '... oder Wahrzeichen. Wunder, natürliche und erbaute, Ruinen,
+  Dungeons/Verließe, Tempel, alte Bäume, Schmiede, Gaststätte, Burg. Alles worauf
+  du zeigen kannst und wichtig genug ist um einen Namen zu haben. '
