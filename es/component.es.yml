@@ -159,3 +159,4 @@ list.layers: Lista de capas
 tag.description: 'Usa comas para separar tus etiquetas. Añadir etiquetas a cualquier
   pieza de contenido te ayudará a buscarlo usando cualquiera de las etiquetas. '
 map.image.secondary: Imagen de capa
+map.update.image: Actualizar imagen primaria del mapa
