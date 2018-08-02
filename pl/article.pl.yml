@@ -24,3 +24,28 @@ species: Gatunki
 spell: Zaklęcie
 vehicle: Pojazd
 rpg.session.report: Raport sesji RPG
+building: Budynek
+geography: Geografia
+settlement: Osada
+technology: Technologia
+tradition: Tradycja
+rpg.report: Raport RPG
+description.building: '...albo punkt orientacyjny. Cuda, naturalne lub wzniesione
+  ludzkimi rękoma, ruiny, lochy, świątynie, wielkie drzewa, kuźnie, karczmy, zamki.
+  Wszystko co możesz wskazać na mapie i co jest na tyle ważne by mieć własną nazwę. '
+description.character: Od królów i królowych do bohaterów, chłopów i Bogów.
+description.condition: Naturalne i magiczne choroby, mutacje i transformacje.
+description.geography: 'Światy i Wszechświaty. Galaktyki, układy planetarne, planety,
+  pasma górskie, doliny, wielkie rzeki, bagna i jeziora. '
+description.document: Traktaty, książki, podręczniki, poradniki i wiele więcej!
+description.generic: 'W Artykułach Ogólnych możesz zawrzeć dodatkową treść: zbiór
+  domowych zasad RPG, wprowadzenia do rozdziałów, historii, prozy itd.'
+description.item: Przedmioty codziennego użytku, monety, narzędzia, broń i zbroje,
+  od najbardziej powszechnych do tych wyjątkowych.
+description.ethnicity: Nie gatunki, lecz ludzie połączeni wspólnym pochodzeniem kulturowym.
+  Nie mieszkańcy jednego królestwa, ale ludzie z tymi samymi przekonaniami i tradycjami.
+description.formation: Formacje militarne. Jak twoje Legiony, Falangi, żołnierze,
+  pikinierzy i rycerze wyglądają. Jak są wyposażeni i jakie taktyki stosują?
+description.law: Być może w twoim świecie grawitacja działa inaczej, w powietrzu jest
+  magia, albo światło jest wolniejsze. Wszystkie prawa natury i fizyki rządzące twoimi
+  światami.
