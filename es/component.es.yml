@@ -152,4 +152,14 @@ guild.access.map: Todos los mapas en cuentas gratuitas se muestran en la portada
 create.layer: Crear capa
 create.new.layer: Crear nueva capa
 edit.layer: Editar capa
-delete.layer: Borrar capa
+delete.layer: Eliminar capa
+layer: Capa
+layers: Capas
+list.layers: Lista de capas
+tag.description: Usa comas para separar tus etiquetas. Añadir etiquetas a cualquier
+  contenido te ayudará a buscarlo usando cualquiera de las etiquetas.
+map.image.secondary: Imagen de capa
+map.update.image: Actualizar imagen primaria del mapa
+map.image.details: Las dimensiones de archivo esperadas son
+map.marker.new: Nuevo marcador de lugar
+map.display.homepage: Mostrar este mapa en la portada del mundo,
