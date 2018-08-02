@@ -5,7 +5,7 @@ challenges: Udfordringer
 blog: Blog
 shop: Butik
 profile: Profil
-account.details: Kontoindstillinger
+account.details: Konto Indstillinger
 announcements: Meddelelser
 world.select: Vælg Verden
 world.summary: Verdensoversigt
@@ -19,7 +19,7 @@ campaign.home: Hjem
 home: Hjem
 pricing: Priser
 need.help: Brug for hjælp?
-faq: Ofte stillede spørgsmål
+faq: OSS
 privacy: Databeskyttelse
 tos: Servicevilkår
 copyright: Ophavsret
@@ -41,6 +41,6 @@ campaign.corkboard: Opslagstavle
 toggle: Tilføj/fjern menu
 about: Om
 your.stream: Din stream
-world.browse: Gennemse verdener
+world.browse: Gennemse Verdener
 campaign.sessions: Sessioner
 campaign.cast: Medvirkende
