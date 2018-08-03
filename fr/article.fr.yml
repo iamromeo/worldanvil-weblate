@@ -30,13 +30,13 @@ settlement: Colonie
 technology: Technologie
 tradition: Tradition
 rpg.report: Résumé de partie JDR
-description.building: '... ou relief. Merveilles, naturelle ou bâti, ruines, donjons,
+description.building: '... ou relief. Merveilles, naturelles ou bâties, ruines, donjons,
   temples, arbres séculaires, forge, taverne, château. Tout ce qui peut être pointé
   du doigt et considéré assez important pour être nommé.'
-description.character: De roi et reine, à héros, paysans mais aussi dieux.
+description.character: De rois et reines, à héros, paysans mais aussi dieux.
 description.condition: Maladies naturelles ou magiques, mutations et transformations.
 description.document: Traités, livres, illustrations, manuels, guides, rapports et
-  autres écris.
+  autres écrits.
 description.ethnicity: Ensemble de populations liés par une culture, des traditions
   et croyances communes. À ne pas confondre avec une espèce/race/nationalité.
 description.formation: Archétypes de formations militaires. Équipement, tactique et
@@ -47,11 +47,11 @@ description.generic: Les articles génériques peuvent être utilisé pour tout 
 description.geography: Mondes et univers. Galaxies, systèmes solaires, planètes, chaînes
   de montagnes, vallées, mers et océans, marais, lacs, etc... Tous types de locations
   géographiques.
-description.item: Objet de tous les jours, pièces, outils, armes, armures, des plus
-  communes aux légendaires artefacts.
+description.item: Objets de tous les jours, pièces, outils, armes, armures, des plus
+  communs aux artefacts légendaires.
 description.law: Les règles de la physique fonctionnent peut être différemment dans
-  votre monde, la magie est-elle dans l'air, la lumière voyage peut être plus lentement.
-  Surnaturel ou bien unique à ce monde?
+  votre monde, la magie est-elle dans l'air, la lumière voyage peut-être plus lentement.
+  Tout sur les lois naturelles ou surnaturelles.
 description.language: Les moyens de communications des espèces intelligentes et leur
   façon d'échanger des idées et des pensées.
 description.material: Matériau brut, ressources naturelles, commerciales, éléments
@@ -72,11 +72,12 @@ description.rank: Roi d'Endor, Premier citoyen de la Fédération, Amiral de la 
 description.report: Rapports de partie de jeu de rôles, notes, schémas et autres documents
   détaillant le déroulement d'une session et permettant de préparer plus facilement
   la prochaine.
-description.settlement: Du plus petit hameaux jusqu'à la plus massive et cosmopolite
+description.settlement: Du plus petit hameau jusqu'à la plus massive et cosmopolite
   des stations spatiales.
-description.species: Animaux, plantes, doué d'intelligence ou de sensations. Humains,
+description.species: Animaux, plantes, doués d'intelligence ou de sensations. Humains,
   elfes et aliens inclus.
-description.spell: Incantations magiques, rituels, pouvoirs physiques et super-pouvoirs!
+description.spell: Incantations magiques, rituels, pouvoirs physiques et super-pouvoirs
+  !
 description.plot: Intrigues, actes, scènes ou autres pièces de votre histoire.
 description.technology: Science et technologie. De l'invention de l'agriculture jusqu'à
   la machine à vapeur et les pistolets lasers.
@@ -86,11 +87,11 @@ description.vehicle: Bateaux, montures, vaisseaux spatiaux et voitures volantes.
 description.category: Les catégories aident à organiser et partager le contenu. Comme
   les chapitres d'un livre.
 description.image: Une image vaut milles mots. Enfin, pas pour le compteur de mots...
-description.map: Les cartes peuvent être utiliser pour présenter la géographie de
+description.map: Les cartes peuvent être utilisées pour présenter la géographie de
   votre monde mais elles peuvent aussi servir de moyen de navigation.
 description.timeline: Les frises chronologiques aident à raconter l'histoire de votre
   monde et les événements historiques qui l'ont façonné.
 description.historical.entry: Les événements historiques sont les moments, importants,
   qui ont façonné l'Histoire avec un grand H.
-description.secret: Les vérités cachés, les rumeurs et réalités redoutées qui doivent
+description.secret: Les vérités cachées, les rumeurs et réalités redoutées qui doivent
   être révélées.
