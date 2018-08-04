@@ -127,7 +127,7 @@ map.marker.drag: Placer mig for at sætte koordinaterne til den nye markør
 map.marker.fill: Sejt! Fyld formularen ind nedenunder nu!
 guild.access: Alle genstande på gratis konti er offentlige. Tilslut dig <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Worldbuilders Guild</a> for at kunne
-  give specifikke abonnentgrupper tilladelse til at tilgå specifikt indhold, og støt
+  give specifikke abonnentgrupper tilladelse til at til se specifikt indhold, og støt
   udviklingen af World Anvil.
 guild.subscriber.groups: Abonnent grupper gør så medlemmer af <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">????</a> kan give læse-tilladelse til private
