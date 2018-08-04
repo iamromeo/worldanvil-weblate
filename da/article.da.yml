@@ -69,7 +69,7 @@ description.settlement: Alt fra den mindste landsby til den mest travle rumstati
 description.species: Dyr, planter, sansende eller intelligente. Mennesker, elvere
   og rumvæsener er inkluderede
 description.technology: Videnskab og teknologier. Fra opfindelsen af landbrug til
-  dampmaskiner og laser blasterer
+  dampmaskiner og laser-blasters
 description.category: Kategorier der hjælper dig med at organisere og opdele din verdens
   indhold. Ligesom kapitler i en bog.
 description.historical.entry: Historiske notater eller begivenheder er de fortællinger
@@ -89,3 +89,11 @@ description.report: Sessionsrapporter over rollespil; hold styr på noter omkrin
 description.spell: Magiske besværgelser, ritualer, psykiske evner, superkræfter!
 description.plot: Historieplots er dine overordnede plots, akter, scener, beats, eller
   hvad du nu kalder dine historiedele. Brug dem til din prosa eller din RPG kampagne-outline.
+description.tradition: Skikker, traditioner og ritualer. Høstfester, mindedage, hemmelige
+  håndtegn, og hvor mange kys på hver kind.
+description.vehicle: Tobenede dinosauruslignende ridedyr, sejlende skibe, flyvende
+  piratskibe eller rumskibe. Navngivet eller generiske
+description.map: Kort kan bruges til at vise dine verdeners geografi, men også som
+  en alternativ måde at navigere på
+description.secret: De skjulte sandheder, hviskelegene i de bagerste gyder, de rædselsfulde
+  virkeligheder som skal afsløres
