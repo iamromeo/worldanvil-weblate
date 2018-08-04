@@ -55,7 +55,7 @@ description.law: Les règles de la physique fonctionnent peut être différemmen
 description.language: Les moyens de communications des espèces intelligentes et leur
   façon d'échanger des idées et des pensées.
 description.material: Matériau brut, ressources naturelles, commerciales, éléments
-  chimiques. Du mithril à l'adamantite jusqu'à l'uranium et le néantium 2000.
+  chimiques. Du mithril et adamantite jusqu'à l'uranium et néantium 2000.
 description.conflict: Guerres, batailles, sièges et escarmouches. Généralement ce
   qui arrive lorsque des groupes armés veulent tester leurs nouveaux jouets.
 description.legend: Les contes de votre monde. Le yéti, le Roi Arthur, la bête du
@@ -72,8 +72,8 @@ description.rank: Roi d'Endor, Premier citoyen de la Fédération, Amiral de la 
 description.report: Rapports de partie de jeu de rôles, notes, schémas et autres documents
   détaillant le déroulement d'une session et permettant de préparer plus facilement
   la prochaine.
-description.settlement: Du plus petit hameaux jusqu'à la plus massive et cosmopolite
-  des stations spatiales
+description.settlement: Du plus petit hameau jusqu'à la plus massive et cosmopolite
+  des stations spatiales.
 description.species: Animaux, plantes, doués d'intelligence ou de sensations. Humains,
   elfes et aliens inclus.
 description.spell: Incantations magiques, rituels, pouvoirs physiques et super-pouvoirs
@@ -91,7 +91,7 @@ description.map: Les cartes peuvent être utilisées pour présenter la géograp
   votre monde mais elles peuvent aussi servir de moyen de navigation.
 description.timeline: Les frises chronologiques aident à raconter l'histoire de votre
   monde et les événements historiques qui l'ont façonné.
-description.historical.entry: Les événements historiques sont les moments importants,
+description.historical.entry: Les événements historiques sont les moments importants
   qui ont façonné l'Histoire avec un grand H.
 description.secret: Les vérités cachées, les rumeurs et réalités redoutées qui doivent
   être révélées.
