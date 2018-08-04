@@ -135,10 +135,10 @@ guild.subscriber.groups: Abonnentgrupper tillader <a class="m-t-10 text-pink" hr
 guild.access.status: Alt indhold på gratis konti er offentligt. Tilslut dig <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Worldbuilders Guild</a> for at kunne
   sætte hvilket som helst indhold som privat samt støtte udviklingen af World Anvil.
-guild.access.map: Alle kort på gratis kontoer er vist på verdenens side. Tilslut dig
-  <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">????</a> hvis du
-  vil sætte dine kort, artikler og verdener som private, samt støtte udviklingen af
-  World Anvil.
+guild.access.map: Alle kort på gratis konti er vist på verdenens side. Tilslut dig
+  <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Worldbuilders Guild</a>
+  for at sætte dine kort, artikler og verdener som private samt støtte udviklingen
+  af World Anvil.
 create.layer: Opret lag
 create.new.layer: Opret nyt lag
 edit.layer: Rediger lag
