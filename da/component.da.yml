@@ -131,7 +131,7 @@ guild.access: Alle genstande på gratis konti er offentlige. Tilslut dig <a clas
   udviklingen af World Anvil.
 guild.subscriber.groups: Abonnentgrupper tillader <a class="m-t-10 text-pink" href="{{
   path('app_membership')}}">Worldbuilders Guild</a> at give læsetilladelse til private
-  artikler til medlemmerne af den gruppe.
+  artikler til medlemmerne af en abonnentgruppe.
 guild.access.status: Alt indhold på gratis kontoer er offentligt. Tilslut dig <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">????</a>, så kan du sætte indhold
   som privat, samt støtte udviklingen af World Anvil.
