@@ -61,3 +61,6 @@ worlds: Världar
 subscribers: Prenumeranter
 followers: Följare
 BETA: BETA
+create.layer: Skapa Lager
+create.marker: Skapa Markör
+status: Status
