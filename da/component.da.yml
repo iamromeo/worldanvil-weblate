@@ -149,6 +149,6 @@ layers: Lag
 tags: Tags
 tag.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til indhold
   i din verden gør, at du kan søge efter ved at søge på de tags du har brugt.
-map.image: Kortets primære billede
+map.image: Kort Primærbillede
 map.marker.new: Ny stedsmarkør
 map.display.homepage: Vis dette kort på verdenens side.
