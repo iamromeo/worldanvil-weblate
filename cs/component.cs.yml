@@ -138,3 +138,19 @@ guild.access.map: Účty zdarma mají veškeré mapy zobrazené na domovské str
   Přidej se do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
   tvůrců světů (WBG)</a>, abys získal/a možnost nastavit si svoje mapy, články a světy
   jako soukromé. Zároveň tím podpoříš vývoj World Anvil.
+create.timeline: Vytvořit časovou osu
+create.new.timeline: Vytvořit novou časovou osu
+create.new.map: Vytvořit novou mapu
+create.new.marker: Vytvořit novou značku
+create.new.marker.group: Vytvořit novou skupinu značek
+create.new.note: Vytvořit novou poznámku
+create.new.world: Vytvořit nový svět
+subscriber.groups: Odběratelské skupiny
+group: Skupina
+map.image: Hlavní obrázek mapy
+map.legend: Legenda
+map.marker.style: Styl
+map.marker.color: Barva
+map.marker.longitude: Zeměpisná délka
+map.marker.latitude: Zeměpisná šířka
+map.marker.height: Výška
