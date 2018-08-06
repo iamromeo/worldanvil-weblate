@@ -5,7 +5,7 @@ delete: Smazat
 create: Vytvořit
 search: Hledat
 search.in: Hledat ve světě
-world.create: Vytvořit Svět
+world.create: Vytvořit svět
 world.view: Zobrazit svět
 edit.and.play: Upravit a hrát
 login: Přihlásit se
@@ -20,3 +20,4 @@ check.out: Podívat se
 browse: Procházet
 edit.map: Upravit mapu
 view.profile: Zobrazit profil
+edit.profile: Upravit profil
