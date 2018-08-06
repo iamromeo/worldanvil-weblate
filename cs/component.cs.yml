@@ -1,4 +1,4 @@
-delete.map: Smazat Mapu
+delete.map: Smazat mapu
 world: Svět
 campaigns: Kampaně
 create.author.profile: Vytvořit profil
@@ -72,3 +72,15 @@ status: Stav
 access: Přístup
 create.new.campaign: Vytvořit novou kampaň
 create.new.category: Vytvořit novou kategorii
+create.historical.entry: Vytvořit historickou událost
+create.player.character: Vytvořit hráčskou postavu
+create.new.historical.entry: Vytvořit novou historickou událost
+create.new.player.character: Vytvořit novou hráčskou postavu
+edit.historical.entry: Upravit historickou událost
+delete.historical.entry: Smazat historickou událost
+historical.entry: Historická událost
+list.historical.entries: Seznam historických událostí
+access.description: Nastav tento příspěvek jako veřejný, aby si ho mohl každý zobrazit.
+  Soukromé příspěvky jsou viditelné pouze tobě a spoluautorům tvého světa.
+tag.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
+  k jakémukoli obsahu, který bude díky nim snáze dohledatelný.
