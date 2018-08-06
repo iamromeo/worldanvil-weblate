@@ -10,7 +10,7 @@ edit.marker: Upravit značku
 edit.marker.group: Upravit skupinu značek
 edit.note: Upravit poznámku
 edit.secret: Upravit tajemství
-edit.world: Upravit Svět
+edit.world: Upravit svět
 delete.author.profile: Smazat profil
 delete.category: Smazat kategorii
 delete.image: Smazat obrázek
@@ -18,7 +18,7 @@ delete.marker: Smazat značku
 delete.marker.group: Smazat skupinu značek
 delete.note: Smazat poznámku
 delete.secret: Smazat tajemství
-delete.world: Smazat Svět
+delete.world: Smazat svět
 author.profile: Profil
 category: Kategorie
 image: Obrázek
@@ -48,7 +48,7 @@ list.markers: Seznam značek
 list.marker.groups: Seznam skupin značek
 list.notes: Seznam poznámek
 list.secrets: Seznam tajemství
-list.worlds: Seznam Světů
+list.worlds: Seznam světů
 related.category: Související kategorie
 create.campaign: Vytvořit kampaň
 create.category: Vytvořit kategorii
@@ -64,7 +64,7 @@ edit.campaign: Upravit kampaň
 delete.campaign: Smazat kampaň
 campaign: Kampaň
 list.campaigns: Seznam kampaní
-related.location: Související lokace
+related.location: Související místo
 related.map: Související mapa
 related.organization: Související organizace
 BETA: BETA
@@ -84,3 +84,57 @@ access.description: Nastav tento příspěvek jako veřejný, aby si ho mohl ka�
   Soukromé příspěvky jsou viditelné pouze tobě a spoluautorům tvého světa.
 tag.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
   k jakémukoli obsahu, který bude díky nim snáze dohledatelný.
+create.block: Vytvořit RPG materiál
+create.layer: Vytvořit vrstvu
+create.new.block: Vytvořit nový RPG materiál
+create.new.layer: Vytvořit novou vrstvu
+create.new.secret: Vytvořit nové tajemství
+edit.block: Upravit RPG materiál
+edit.layer: Upravit vrstvu
+delete.block: Smazat RPG materiál
+delete.layer: Smazat vrstvu
+block: RPG materiál
+layer: Vrstva
+blocks: RPG materiály
+historical.entries: Historické události
+layers: Vrstvy
+list.blocks: Seznam RPG materiálů
+list.layers: Seznam vrstev
+position: Pozice/Důležitost
+position.description: Důležitost je číslo, které určuje v jakém pořadí se položka
+  zobrazí na daném seznamu. Čím vyšší číslo, tím výše se položka zobrazí.
+status.description: Nastav tuto položku jako veřejnou, aby si ji mohl každý zobrazit.
+  Soukromé položky jsou viditelné pouze tobě a také spoluautorům a odběratelům tvého
+  světa, kteří mají příslušné oprávnění si je zobrazit.
+subscriber.groups.description: Vyber jednu nebo více skupin, kterým chceš povolit
+  přístup k tomuto článku. Nastavení ovlivní pouze soukromé články.
+display: Zobrazení
+display.homepage: Zobrazit tuto mapu na domovské stránce světa.
+tags.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
+  k jakémukoli obsahu, který bude díky nim snáze dohledatelný.
+map.image.secondary: Obrázek vrstvy
+map.update.image: Aktualizovat hlavní obrázek mapy
+map.edit.details: Upravit podrobnosti mapy
+map.image.details: Předpokládané rozměry souboru jsou
+map.legend.description: Toto pole se zobrazí v levém dolním rohu tvojí mapy. Využij
+  tento prostor k vytvoření legendy pro jednotlivé mapové značky, k sepsání krátkého
+  popisku nebo k poskytnutí jakýchkoli dalších souvislostí.
+map.marker.new: Nová mapová značka
+map.marker.drag: Přesunutím ukazatele nastavíš souřadnice nové značky.
+map.marker.fill: Skvělé! Teď vyplň zbytek formuláře pod mapou!
+map.display.homepage: Zobrazit tuto mapu na domovské stránce světa.
+guild.access: Účty zdarma mají veškeré příspěvky veřejné. Přidej se do <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Cechu tvůrců světů (WBG)</a>,
+  abys získal/a možnost nastavit si, které skupiny odběratelů budou mít přístup k
+  určitému obsahu. Zároveň tím podpoříš vývoj World Anvil.
+guild.subscriber.groups: Skupiny odběratelů umožňují členům<a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Cechu tvůrců světů (WBG)</a> udělit příslušníkům
+  dané skupiny přístup k soukromým článkům.
+guild.access.status: Účty zdarma mají veškeré příspěvky veřejné. Přidej se do <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Cechu tvůrců světů (WBG)</a>,
+  abys získal/a možnost nastavit jakékoli příspěvky jako soukromé. Zároveň tím podpoříš
+  vývoj World Anvil.
+guild.access.map: Účty zdarma mají veškeré mapy zobrazené na domovské stránce světa.
+  Přidej se do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
+  tvůrců světů (WBG)</a>, abys získal/a možnost nastavit si svoje mapy, články a světy
+  jako soukromé. Zároveň tím podpoříš vývoj World Anvil.
