@@ -57,7 +57,7 @@ create.map: Vytvořit mapu
 create.marker: Vytvořit značku
 create.marker.group: Vytvořit skupinu značek
 create.note: Vytvořit poznámku
-create.secret: 'Vytvořit tajemství '
+create.secret: Vytvořit tajemství
 create.world: Vytvořit svět
 create.new.image: Vytvořit nový obrázek
 edit.campaign: Upravit kampaň
@@ -71,7 +71,7 @@ BETA: BETA
 status: Stav
 access: Přístup
 create.new.campaign: Vytvořit novou kampaň
-create.new.category: Vytvořit novou kategorii
+create.new.category: Vytvořit kategorii
 create.historical.entry: Vytvořit historickou událost
 create.player.character: Vytvořit hráčskou postavu
 create.new.historical.entry: Vytvořit novou historickou událost
@@ -154,3 +154,13 @@ map.marker.color: Barva
 map.marker.longitude: Zeměpisná délka
 map.marker.latitude: Zeměpisná šířka
 map.marker.height: Výška
+edit.player.character: Upravit hráčskou postavu
+edit.timeline: Upravit časovou osu
+delete.player.character: Smazat hráčskou postavu
+delete.timeline: Smazat časovou osu
+player.character: Hráčská postava
+timeline: Časová osa
+player.characters: Hráčské postavy
+list.timelines: Seznam časových os
+subscribers: Odběratelé
+followers: Sledující
