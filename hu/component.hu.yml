@@ -1,1 +1,166 @@
-{}
+create.author.profile: Profil Létrehozása
+create.block: Tömb Létrehozása
+create.campaign: Kampány Létrehozása
+create.category: Kategória Létrehozása
+create.historical.entry: Történelmi Jegyzet Létrehozása
+create.image: Kép Létrehozása
+create.player.character: Játékos Karakter Létrehozása
+create.timeline: Idővonal Létrehozása
+create.layer: Réteg Létrehozása
+create.map: Térkép Létrehozása
+create.marker: Jelzés Létrehozása
+create.marker.group: Jelzőcsoport Létrehozása
+create.note: Jegyzet Létrehozása
+create.secret: Titok Létrehozása
+create.world: Világ Létrehozása
+create.new.block: Új Tömb Létrehozása
+create.new.campaign: Új Kampány Létrehozása
+create.new.category: Új Kategória Létrehozása
+create.new.historical.entry: Új Történelmi Jegyzet Létrehozása
+create.new.image: Új Kép Létrehozása
+create.new.player.character: Új Játékos Karakter Létrehozása
+create.new.timeline: Új Idővonal Létrehozása
+create.new.layer: Új Réteg Létrehozása
+create.new.map: Új Térkép Létrehozása
+create.new.marker: Új Jelzés Létrehozása
+create.new.marker.group: Új Jelzőcsoport Létrehozása
+create.new.note: Új Jegyzet Létrehozása
+create.new.secret: Új Titok Létrehozása
+create.new.world: Új Világ Létrehozása
+edit.author.profile: Profil Szerkesztése
+edit.block: Tömb Szerkesztése
+edit.campaign: Kampány Szerkesztése
+edit.category: Kategória Szerkesztése
+edit.historical.entry: Történelmi Jegyzet Szerkesztése
+edit.image: Kép Szerkesztése
+edit.player.character: Játékos Karakter Szerkesztése
+edit.timeline: Idővonal Szerkesztése
+edit.layer: Réteg Szerkesztése
+edit.map: Térkép Szerkesztése
+edit.marker: Jelzés Szerkesztése
+edit.marker.group: Jelzőcsoport Szerkesztése
+edit.note: Jegyzet Szerkesztése
+edit.secret: Titok Szerkesztése
+edit.world: Világ Szerkesztése
+delete.author.profile: Profil Törlése
+delete.block: Tömb Törlése
+delete.campaign: Kampány Törlése
+delete.category: Kategória Törlése
+delete.historical.entry: Történelmi Jegyzet Törlése
+delete.image: Kép Törlése
+delete.player.character: Játékos Karakter Törlése
+delete.timeline: Idővonal Törlése
+delete.layer: Réteg Törlése
+delete.map: Térkép Törlése
+delete.marker: Jelzés Törlése
+delete.marker.group: Jelzőcsoport Törlése
+delete.note: Jegyzet Törlése
+delete.secret: Titok Törlése
+delete.world: Világ Törlése
+author.profile: Profil
+block: Tömb
+campaign: Kampány
+category: Kategória
+historical.entry: Történelmi Jegyzet
+image: Kép
+player.character: Játékos Karakter
+timeline: Idővonal
+layer: Réteg
+map: Térkép
+marker: Jelzés
+marker.group: Jelzőcsoport
+note: Jegyzet
+secret: Titok
+world: Világ
+tag: Címke
+articles: Cikkek
+blocks: Tömbök
+campaigns: Kampányok
+categories: Kategóriák
+historical.entries: Történelmi Jegyzetek
+images: Képek
+player.characters: Játékos Karakterek
+layers: Rétegek
+maps: Térképek
+markers: Jelzők
+marker.groups: Jelzőcsoportok
+timelines: Idővonalak
+notes: Jegyzetek
+secrets: Titkok
+worlds: Világok
+tags: Címkék
+list.articles: Cikklista
+list.blocks: Tömblista
+list.campaigns: Kampánylista
+list.categories: Kategórialista
+list.historical.entries: Történelmi Jegyzetlista
+list.images: Képlista
+list.player.characters: Játékos Karakterlista
+list.maps: Térképlista
+list.markers: Jelzőlista
+list.marker.groups: Jelzőcsoportlista
+list.layers: Réteglista
+list.timelines: Idővonal lista
+list.notes: Jegyzetlista
+list.secrets: Titoklista
+list.worlds: Világlista
+subscribers: Feliratkozók
+followers: Követők
+related.category: Kapcsolódó Kategória
+related.location: Kapcsolódó Helyszín
+related.map: Kapcsolódó Térkép
+related.organization: Kapcsolódó Szervezet
+BETA: Béta
+position: Elhelyezkedés/ Súly
+position.description: A Súly egy számadat, ami meghatározza milyen sorrendben tűnnek
+  fel a tételek egy listán. Minél nagyobb a szám, annál fentebb lesz a tétel.
+status: Állapot
+status.description: Állítsd be ezt a tételt Nyilvánosra, hogy mindenki láthassa. A
+  privát tételek csak neked, a társ-szerzőidnek, és a feliratkozóidnak lesz látható,
+  akiknek megfelelő engedélyeik vannak a világra
+access: Hozzáférés
+access.description: Állítsd be ezt a posztot Nyilvánosra, hogy mindenki láthassa.
+  A privát posztjaid csak neked, és a társ-szerzőidnek lesz látható, akiknek megfelelő
+  engedélyeik vannak a világra
+subscriber.groups: Feliratkozó Csoportok
+subscriber.groups.description: Válassz egy vagy több csoportot, akiknek hozzáférést
+  szeretnél biztosítani ehhez a cikkhez. Ez csak privát cikkekre vonatkozik.
+display: Megjelenítés
+display.homepage: Jelenítsd meg ezt a térképet a Világ kezdőoldalán.
+tags.description: Használj vesszőket a címkéid elválasztására. Címkék hozzáadásával
+  megkönnyítheted bármely tartalom megkeresését, azok használatával.
+group: Csoport
+tag.description: Használj vesszőket a címkéid elválasztására. Címkék hozzáadásával
+  megkönnyítheted bármely tartalom megkeresését, azok használatával.
+map.image: Fő Térkép Ábrázolás
+map.image.secondary: Réteg Ábrázolás
+map.update.image: Fő Térkép Ábrázolás Frissítése
+map.edit.details: Térkép Részleteinek Szerkesztése
+map.image.details: A várt file mértékei
+map.legend: Jelmagyarázat
+map.legend.description: Ez a térképed bal alsó sarkában fog megjelenni. Használd a
+  jelzéseid körülírására egy rövid mondattal, vagy kontextus megadásával.
+map.marker.style: Stílus
+map.marker.color: Szín
+map.marker.longitude: Hosszúság
+map.marker.latitude: Szélesség
+map.marker.height: Magasság
+map.marker.new: Új Helyszín Jelzés
+map.marker.drag: Húzd át, hogy meghatározd a Jelzés koordinátáit
+map.marker.fill: Nagyszerű! Most töltsd ki alul az űrlapot!
+map.display.homepage: Jelenítsd meg ezt a térképet a Világ kezdőoldalán.
+guild.access: Az ingyenes felhasználók tételei mind nyilvánosak. Csatlakozz a <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">1Világalkotók Céhéhez</a>2 , hogy
+  csak az általad engedélyezett feliratkozói csoportok érhessék el az egyes tételeid,
+  továbbá segítsd a World Anvil fejlesztését.
+guild.subscriber.groups: A feliratkozó csoportok teszik lehetővé a <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">1Világalkotók Céhének</a>2 , hogy
+  azok tagjaira korlátozzák a privát cikkeik elérhetőségét.
+guild.access.status: Az ingyenes felhasználók tételei mind nyilvánosak. Csatlakozz
+  a <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">1Világalkotók
+  Céhéhez</a>2 , hogy nyilvános tételeid nyilvánosról privátra állíthasd, továbbá
+  segítsd a World Anvil fejlesztését.
+guild.access.map: Minden ingyenes felhasználók által készített térkép megjelenik a
+  világ kezdőoldalán. Csatlakozz a <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">1Világalkotók
+  Céhéhez</a>2 , hogy privát hozzáférésűre állítsd be térképeid, cikkeid, és világaid,
+  továbbá segítsd a World Anvil fejlesztését.
