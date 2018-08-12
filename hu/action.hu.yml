@@ -1,1 +1,23 @@
-{}
+show: Megjelenítés
+edit: Szerkesztés
+save.changes: Változások Mentése
+view: Megtekintés
+delete: Törlés
+create: Létrehozás
+replace: Csere
+search: Keresés
+search.in: 'Keresés itt:'
+world.create: Új Világ Létrehozása
+world.view: Világ Megtekintése
+check.out: Nézd meg
+edit.and.play: Szerkessz & Játssz
+browse: Böngészés
+login: Belépés
+logout: Kilépés
+register: Felhasználói fiók létrehozása
+create a new...: Hozz létre...
+edit.map: Térkép Szerkesztése
+view.map: Térkép Megtekintése
+delete.map: Térkép Törlése
+edit.profile: Profil Szerkesztése
+view.profile: Profil Megtekintése
