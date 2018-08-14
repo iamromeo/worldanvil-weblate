@@ -184,3 +184,6 @@ pin: Marcadores de mapa
 list.pins: Lista de marcadores
 map.thumbnail: Imagen de miniatura
 map.zoom.initial: Nivel inicial de zoom
+label: Etiqueta
+map.zoom.min: Zoom mínimo permitido
+map.zoom.max: Zoom máximo permitido
