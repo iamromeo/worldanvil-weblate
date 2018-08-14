@@ -190,3 +190,8 @@ map.zoom.max: Zoom máximo permitido
 map.zoom.max.description: Cómo de cerca se podrá hacer zoom. 0 significa una escala
   de 1:1 respecto a las dimensiones del mapa. Un número superior a 0 hará que el mapa
   empiece a verse borroso. (0 por defecto)
+map.center.y: Punto central inicial del eje Y
+map.center.x: Punto central inicial del eje x
+map.center.description: Coordenadas iniciales del mapa cuando éste es cargado. Normalmente
+  sería el centro de tu mapa. La esquina inferior izquierda de tu mapa es la coordenada
+  0:0.
