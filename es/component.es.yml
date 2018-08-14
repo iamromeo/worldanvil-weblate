@@ -224,3 +224,9 @@ map.marker.opacityOutline.description: La opacidad en porcentaje del borde de la
 map.marker.opacityFill: Opacidad del relleno
 map.marker.opacityFill.description: La opacidad en porcentaje del área del círculo
   o polígono, de 0 a 100
+map.marker.lng: Long.
+map.marker.lat: Lat.
+map.marker.radius: Radio del círculo
+map.marker.colorFill: Color de relleno
+pin.pinImage: Imagen del marcador
+pin.shadow: Imagen de la sombra del marcador
