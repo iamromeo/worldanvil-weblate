@@ -5,8 +5,8 @@ challenges: Udfordringer
 blog: Blog
 shop: Butik
 profile: Profil
-account.details: Kontoindstillinger
-announcements: Meddelelser
+account.details: Konto Indstillinger
+announcements: Bekendtgørelser
 world.select: Vælg Verden
 world.summary: Verdensoversigt
 world.goto: Gå til Verden
@@ -19,7 +19,7 @@ campaign.home: Hjem
 home: Hjem
 pricing: Priser
 need.help: Brug for hjælp?
-faq: Ofte stillede spørgsmål
+faq: OSS
 privacy: Databeskyttelse
 tos: Servicevilkår
 copyright: Ophavsret
@@ -38,3 +38,13 @@ community: Fællesskab
 interface.settings: Grænsefladeindstillinger
 campaign.plots: Plot
 campaign.corkboard: Opslagstavle
+toggle: Tilføj/fjern menu
+about: Om
+your.stream: Din stream
+world.browse: Gennemse Verdener
+campaign.sessions: Sessioner
+campaign.cast: Medvirkende
+dashboard: Betjeningspanel
+srd: RPG SRD
+campaign.quicklinks: Genveje
+Go to Dashboard: Gå til Betjeningspanel
