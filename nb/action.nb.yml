@@ -1,1 +1,17 @@
-{}
+show: Vis
+edit: Rediger
+save.changes: Lagre Endringer
+delete: Slett
+search: Søk
+search.in: Søk i
+world.create: Opprett en ny Verden
+world.view: Vis Verden
+login: Logg inn
+logout: Logg ut
+register: Opprett konto
+create a new...: Opprett ny...
+edit.map: Endre kart
+view.map: Vis kart
+delete.map: Slett kart
+edit.profile: Endre profil
+view.profile: Vis profil
