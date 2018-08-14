@@ -187,3 +187,6 @@ map.zoom.initial: Nivel inicial de zoom
 label: Etiqueta
 map.zoom.min: Zoom mínimo permitido
 map.zoom.max: Zoom máximo permitido
+map.zoom.max.description: Cómo de cerca se podrá hacer zoom. 0 significa una escala
+  de 1:1 respecto a las dimensiones del mapa. Un número superior a 0 hará que el mapa
+  empiece a verse borroso. (0 por defecto)
