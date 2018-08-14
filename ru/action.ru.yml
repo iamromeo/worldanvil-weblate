@@ -1,6 +1,12 @@
 show: Показать
-edit: Изменить
+edit: Редактировать
 save.changes: Сохранить изменения
 delete: Удалить
 create: Создать
-world.create: Создать новы мир
+world.create: Создать новый мир
+replace: Заменить
+search: Поиск
+search.in: Поиск в
+create a new...: Создать...
+edit.map: Редактировать Карту
+edit.profile: Редактировать профиль
