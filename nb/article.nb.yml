@@ -1,1 +1,41 @@
-{}
+article.generic: Artikkel, generell
+condition: Tilstand
+document: Dokument
+ethnicity: Etnisitet
+formation.military: Formasjon (Militær)
+item: Gjenstand
+language: Språk
+material: Materiale
+myth.legend: Myte / Legende
+military.conflict: Militær Konflikt
+location.building: Sted, Bygning
+building: Bygning
+location.geographic: Sted, Geografisk
+geography: Geografi
+location.settlement: Sted, Bosetning
+settlement: Bosetning
+law: Lov (Meta/Fysisk)
+organization: Organisasjon
+prose: Prosa
+profession: Yrke
+plot: Plott
+rank.title: Rang / Tittel
+species: Art
+technology.science: Teknologi / Vitenskap
+technology: Teknologi
+tradition.ritual: Tradisjon / Rituale
+tradition: Tradisjon
+vehicle: Transportmiddel
+description.building: '... eller Landemerke. Underverk, både naturlige og bygde, ruiner,
+  fangehull, templer, store trær, smeder, vertshus, slott. Alt du kan peke på og folk
+  syns er viktig nok til å ha et navn.'
+description.character: Fra konger og dronninger til helter, bønder og guder.
+description.condition: Naturlige og magiske sykdommer, mutasjoner og transformasjoner.
+description.document: Traktater, bøker, kunstverk, manualer, veiledninger, erklæringer
+  og mye mer!
+description.ethnicity: Ikke arter men folk som har en felles kulturell bakgrunn. Ikke
+  folket av et kongerike, men folk med samme tro og tradisjoner.
+description.formation: Prototyper for militære formasjoner. Hvordan ser dine legioner,
+  falankser, fektere, spydmenn, riddere ut? Hva slags utstyr og taktikker bruker de?
+description.generic: Generelle artikler kan brukes til ytterligere innhold, hjemmelagde
+  regler til rollespill, introduksjoner til kapitler, fortellinger, prosa osv.
