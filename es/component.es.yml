@@ -230,3 +230,6 @@ map.marker.radius: Radio del círculo
 map.marker.colorFill: Color de relleno
 pin.pinImage: Imagen del marcador
 pin.shadow: Imagen de la sombra del marcador
+pin.shadow.description: La imagen de la sombra del marcador. La imagen es opcional.
+  Si se provee debe ser más ancha que la imagen de marcador y extenderse a su lado
+  derecho.
