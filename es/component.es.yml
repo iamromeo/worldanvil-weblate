@@ -193,5 +193,34 @@ map.zoom.max.description: Cómo de cerca se podrá hacer zoom. 0 significa una e
 map.center.y: Punto central inicial del eje Y
 map.center.x: Punto central inicial del eje x
 map.center.description: Coordenadas iniciales del mapa cuando éste es cargado. Normalmente
-  sería el centro de tu mapa. La esquina inferior izquierda de tu mapa es la coordenada
+  será el centro de tu mapa. La esquina inferior izquierda de tu mapa es la coordenada
   0:0.
+map.marker.label: Texto de la etiqueta
+map.marker.label.description: Este es el texto que aparecerá en esta etiqueta de tu
+  mapa.
+map.marker.choice: Elige solamente una de las siguientes opciones.
+map.marker.radius.description: Radio del círculo en píxeles. Rellena este apartado
+  solamente si quieres crear un círculo en vez de un polígono.
+map.marker.link.description: Si señalas el marcador como un marcador de enlace directo,
+  cuando sea pulsado dirigirá al usuario directamente a la página deseada.
+map.marker.link.relation.description: Escoge una de las siguientes relaciones a la
+  que el enlace directo se vinculará. Si eliges más de una, solamente la primera se
+  tomará en cuenta.
+map.marker.polygonPoints: Vértices del polígono
+map.marker.polygonPoints.description: La longitud y latitud de cada punto por parejas
+  separadas por comas entre sí y con espacios con otras coordenadas. Por ejemplo 20,30
+  30,30 50,45. ¡Un consejo! Usa el marcador rojo de "nuevo marcador" para obtener
+  la long/lat de cada punto.
+map.marker.colorOutline: Color de borde
+map.marker.colorOutline.description: 'El color del borde de un círculo o polígono.
+  Puedes usar colores CSS como blue, red, yellow, etc, O el código hexadecimal, por
+  ejemplo #000000'
+map.marker.colorFill.description: 'El color del relleno del área del círculo o polígono.
+  Puedes usar colores CSS como blue, red, yellow, etc, O el código hexadecimal del
+  color, por ejemplo #000000'
+map.marker.opacityOutline: Opacidad del borde
+map.marker.opacityOutline.description: La opacidad en porcentaje del borde de la forma,
+  de 0 a 100
+map.marker.opacityFill: Opacidad del relleno
+map.marker.opacityFill.description: La opacidad en porcentaje del área del círculo
+  o polígono, de 0 a 100
