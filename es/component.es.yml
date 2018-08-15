@@ -244,3 +244,5 @@ pin.popupAnchor.description: El punto de anclaje de la ventana emergente es el p
 pin.popupAnchorX: Punto de la ventana emergente X (en píxeles)
 pin.popupAnchorY: Punto de la ventana emergente Y (en píxeles)
 appearance: Apariencia
+organization.and.access: Organización y acceso
+functionality: Funcionalidad
