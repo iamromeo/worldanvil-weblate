@@ -233,3 +233,16 @@ pin.shadow: Imagen de la sombra del marcador
 pin.shadow.description: La imagen de la sombra del marcador. La imagen es opcional.
   Si se provee debe ser más ancha que la imagen de marcador y extenderse a su lado
   derecho.
+pin.iconAnchor.description: El punto de anclaje es un único píxel que hace de punto
+  de contacto de tus marcadores en el mapa. Normalmente estaría en el cartesiano 0X
+  y en el eje Y de la mitad de la anchura del marcador
+pin.iconAnchorX: Punto de anclaje X (en píxeles)
+pin.iconAnchorY: Punto de anclaje Y (en píxeles)
+pin.popupAnchor.description: El punto de anclaje de la ventana emergente es el punto
+  en que se centrará la punta de la ventana emergente. Al contrario que el anclaje
+  del marcador, se encontraría en la parte superior del icono o inclso más alto
+pin.popupAnchorX: Punto de la ventana emergente X (en píxeles)
+pin.popupAnchorY: Punto de la ventana emergente Y (en píxeles)
+appearance: Apariencia
+organization.and.access: Organización y acceso
+functionality: Funcionalidad
