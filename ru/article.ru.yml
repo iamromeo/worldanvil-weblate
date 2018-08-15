@@ -1,2 +1,9 @@
 character: Персонаж
 condition: Состояние
+document: Документ
+ethnicity: Этнос
+formation.military: Формирования (Войсковые)
+item: Предмет
+language: Язык
+material: Материал
+myth.legend: Мифы / Легенды
