@@ -11,8 +11,8 @@ meta.description.standard: Herramientas de gestión para la construcción de mun
 description: Descripción
 weight: Importancia
 private.club: Club privado. Solo miembros del Gremio
-class: Clase CSS
-class.name: Nombre de la clase CSS
+class: CSS Class
+class.name: CSS Class Name
 studio.homepage: Página de inicio del estudio del creador
 studio.description.header: Qué es el estudio del creador
 studio.description.text: El estudio del creador es el hogar de toda la personalización
