@@ -1,1 +1,99 @@
-{}
+article.generic: Cikk, Általános
+character: Karakter
+condition: Állapot
+document: Dokumentum
+ethnicity: Etnikum
+formation.military: Alakzat (Katonai)
+item: Tárgy
+language: Nyelv
+material: Anyag
+myth.legend: Mítosz/ Legenda
+military.conflict: Katonai Konfliktus
+location.building: Hely, Épület
+building: Épület
+location.geographic: Hely, Földrajzi
+geography: Földrajz
+location.settlement: Hely, Település
+settlement: Település
+law: Törvény (Meta/ Fizikai)
+organization: Szervezet
+prose: Próza
+profession: Foglalkozás
+plot: Cselekmény
+rank.title: Rang/ Titulus
+species: Faj
+spell: Varázslat
+technology.science: Technológia/ Tudomány
+technology: Technológia
+tradition.ritual: Hagyomány/ Rituálé
+tradition: Hagyomány
+vehicle: Jármű
+rpg.session.report: RPG Játék Jelentés
+rpg.report: RPG Jelentés
+description.building: '... vagy Látványosság. Csodák, természetes vagy ember keze
+  által épített, romok, dungeonök, templomok, nagy fák, Kovácsműhely, Fogadó, Kastély.
+  Bármi, amit az emberek elég fontosnak tartanak ahhoz, hogy elnevezzék.'
+description.character: Királyoktól és Királynéktól hősökig, parasztokig, és Istenekig.
+description.condition: Természetes és Mágikus Kórok, Betegségek, Mutációk és Változások.
+description.document: Értekezések, Könyvek, Művészeti alkotások, Kézikönyvek, Kijelentések
+  és sok más!
+description.ethnicity: Nem az emberek faja, hanem a kulturális kapcsolata egymással.
+  Nem egy Királyság népe, hanem egy nép ugyanazon hiedelmekkel és hagyományokkal.
+description.formation: Katonai alakzat prototípusok. Hogy néznek ki a Légióid, Falanxaid,
+  Kardforgatóid, Pikásaid, Lovagjaid, stb. Mi a felszerelésük és a taktikáik?
+description.generic: Az Általános Cikkek használhatóak további tartalom, mint Szerepjátékok
+  házi szabályainak, Fejezetek Bevezetésének, Történeteknek, prózáknak, és egyebeknek
+  létrehozására.
+description.geography: Világok és Univerzumok. Galaxisok, naprendszerek, bolygók,
+  hegyláncok, völgyek, nagy tengerek, mocsarak és tavak. Mindenféle földrajzi képződmény.
+description.item: Hétköznapi érmék, szerszámok, fegyverek, páncélok a leggyakoribbtól
+  az egyediig
+description.law: Talán a világodban máshogy működik a gravitáció, vagy mágia van a
+  levegőben, vagy a fény lassabban halad. Bármiféle különleges, vagy természetfölötti
+  törvényszerűség.
+description.language: Ahogy a világod intelligens fajai kommunikálnak, és egymás közt
+  ötleteket, gondolatokat cserélnek.
+description.material: Nyersanyagok, Kereskedelmi Erőforrások, Kémiai elemek. Bármi
+  a Mitrilltől kezdve az Adamantiumon át az Urániumig, vagy Unobtainium 2000-ig.
+description.conflict: Háborúk, Csaták, Ostromok és Előcsatározások. Nagyjából bármi
+  ami két ellentétes érdek egymásnak esik hegyes botokkal.
+description.legend: A világod történetei. Gondolj Artúr Királyra, New York csatornalakó
+  krokodiljaira, vagy a Nagylábúra.
+description.organization: Királyságok, Grófságok, Istenek Egyházai (Szervezett Vallás),
+  Titkos Társaságok, Könyörtelen Zsoldoshadseregek, Lovag- és Varázslórendek. Területi,
+  és nem területi kivitelben.
+description.profession: A vízvezeték-szerelőtől az extravagáns hekkerig, vagy zsoldosig,
+  a foglalkozások részletességet kölcsönöznek a világodnak és a benne élőknek.
+description.prose: A Haikuk, Versek, Rövid történetek, Fejezetek a könyvedből tisztán
+  fognak megjelenni az olvashatóság érdekében.
+description.rank: Endor Királya, A Föderáció Első polgára, az Obaku Föderáció Flottájának
+  Admirálisa, Lobutas Főmágusa, stb.
+description.report: A RPG játék jelentések követik hogy mi történt a játék alatt,
+  hogy legyen hol kezdeni a következő játék alkalmával.
+description.settlement: Bármi a legkisebb falutól kezdve a legjobban nyüzsgő hatalmas
+  űrállomásig
+description.species: Állatok, Növények, Érző vagy Értelmes. Embereket, Tündéket, Űrlényeket
+  beleértve
+description.spell: Mágikus ráolvasások, rituálék, Pszionikák, Szupererők!
+description.plot: A Történeti Szálak az Átfogó Cselekmény, Felvonás, Jelenet, Ütem,
+  vagy aminek hívod a történeted egyes részeit. Használd őket a prózád, vagy RPG kampányod
+  körvonalazásához.
+description.technology: Tudomány és Technológiák. A földművelés feltalálásától, a
+  gőzgépek feltalálásán át, a lézerfegyverekig
+description.tradition: Szokások, hagyományok, és Rituálék. Aratási ünnepek, Emléknapok,
+  titkos kézfogások és mennyi csókot szokás ejteni az orcákon.
+description.vehicle: Kétlábú dinoszaurusz-szerű hátasok, vitorláshajók, repülő kalóz-,
+  vagy űrhajók. Nevezetesek vagy átlagosak
+description.category: A Kategóriák segítenek elrendezni és szegmentálni a tartalmad.
+  Mint a fejezetek egy könyvben.
+description.image: Azt mondják egy kép felér ezer szónál, bár ez a szótagszámodra
+  sajnos nem lesz hatással.
+description.map: A Térképeket használhatod a világod földrajzának bemutatására, vagy
+  akár alternatív navigációs eszközként
+description.timeline: Az Idővonalak segítenek a világod történeteinek elmesélésében,
+  és az azt formáló események részletezésében.
+description.historical.entry: A Történelmi Jegyzetek vagy Események azok a történetek
+  amik a T-nnyé teszik a Történelmet. Ezek különleges pillanatok és idők voltak a
+  világod kialakulásakor, melyek hozzájárultak a jelenlegi formájához.
+description.secret: A rejtett igazságok, a suttogások a sikátorok közt, a rettegett
+  valók miket föl kell tárni
