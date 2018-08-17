@@ -165,5 +165,80 @@ guild.access.map: Minden ingyenes felhasználók által készített térkép meg
   Céhéhez</a>2 , hogy privát hozzáférésűre állítsd be térképeid, cikkeid, és világaid,
   továbbá segítsd a World Anvil fejlesztését.
 circle: Kör
-label: Felirat
+label: Címke
 link: Közvetlen Link
+create.pin: Térkép Jelzés Létrehozása
+create.new.pin: Új Térkép Jelzés Létrehozása
+edit.pin: Térkép Jelzés Szerkesztése
+delete.pin: Térkép Jelzés Törlése
+polygon: Poligon
+popup: Felugró Ablak
+pin: Térkép Jelzések
+list.pins: Térkép Jelzéslista
+map.compass: Iránytű Képe
+map.compass.description: Válassz ki egy képet a térképed iránytűjének a térkép jobb
+  alsó sarkában. Egy átlátszó kép jobb vizuális értékkel rendelkezhet.
+map.thumbnail: Indexkép
+map.zoom.initial: Kezdeti Nagyítási Szint
+map.zoom.initial.description: Állítsd be mennyire legyen kinagyítva a térkép mikor
+  először betöltődik. (Alapból 0)
+map.zoom.min: Minimum Kicsinyítési Szint
+map.zoom.min.description: Mennyire tudod lekicsinyíteni a térképet. Ez egy negatív
+  szorzó. Minél kisebb a szám, annál jobban tudod lekicsinyíteni. (Alapból -2)
+map.zoom.max: Maximum Nagyítási Szint
+map.zoom.max.description: Milyen közelre tudsz nagyítani a térképen. A 0 az 1:1 mértéket
+  jelent. 0 érték fölött a kép elmosódottnak tűnhet. (Alapból 0)
+map.center.y: Kezdeti Középpont (Y Tengely)
+map.center.x: Kezdeti Középpont (X tengely)
+map.center.description: A térkép közepének kezdeti koordinátái az első betöltéskor.
+  Általában ez a térképed közepén lesz kiszámítva. A Bal alsó sarok koordinátái 0:0.
+map.marker.lng: Hossz
+map.marker.lat: Szél
+map.marker.label: Címke Szövege
+map.marker.label.description: Ez a szöveg fog megjelenni a térképed címkéin.
+map.marker.choice: Válaszd, és töltsd ki az alábbi lehetőségek egyikét.
+map.marker.radius: Kör Sugara
+map.marker.radius.description: A kör sugara pixelekben. Csak akkor töltsd ki ezt,
+  ha kört szeretnél létrehozni, és nem poligont.
+map.marker.link.description: Ha a jelzést kijelölöd közvetlen link jelzésnek, rákattintás
+  esetén a felhasználót közvetlenül átdobja a célzott oldalra.
+map.marker.link.relation.description: Válassz az alábbi kapcsolatok közül, melyre
+  a közvetlen link csatlakozni fog. Ha egynél többet választasz, akkor csak az első
+  lesz figyelembe véve.
+map.marker.polygonPoints: Poligon Pontok
+map.marker.polygonPoints.description: A poligon egyes pontjai a térkép hosszúsági
+  és szélességi körein, vesszőkkel összekapcsolva és térközzel elválasztva. Például
+  20,20 30,30 50,45. Tip! Használd a piros "Új Pont" jelzőt hogy megkapd a hossz/
+  szél értékeket.
+map.marker.colorOutline: Körvonal Színe
+map.marker.colorOutline.description: A kör vagy poligon körvonalának színe. Használhatsz
+  CSS színeket mint kék, piros, sárga, stb., VAGY hexadecimális kódokat, használva
+  a kezdőszöveg előtti kettőskeresztet
+map.marker.colorFill: Kitöltés Színe
+map.marker.colorFill.description: A kör vagy poligon belsejének kitöltése egy színnel.
+  Használhatsz CSS színeket mint kék, piros, sárga, stb., VAGY hexadecimális kódokat,
+  használva a kezdőszöveg előtti kettőskeresztet
+map.marker.opacityOutline: Körvonal Átlátszósága
+map.marker.opacityOutline.description: 'A körvonal átlátszósága %-ban kifejezve. 0-tól
+  100%-ig (p.l.: 50)'
+map.marker.opacityFill: Kitöltés Átlátszósága
+map.marker.opacityFill.description: 'A kör vagy poligon belsejének átlátszósága %-ban
+  kifejezve. 0-tól 100%-ig (p.l.: 50)'
+pin.pinImage: Kép Kitűzése
+pin.shadow: Árnyékkép Kitűzése
+pin.shadow.description: A kitűző árnyékának a képe. Ez a kép opcionális. Kiválasztása
+  esetén a képnek nagyobbnak kell lenni a kitűzőképnél, és túl kell nyúlnia a jobb
+  oldalán.
+pin.iconAnchor.description: A horgonypont az a pixel, ahol a kitűződ érintkezési pontja
+  található a térképpel. Ez általában a 0X kartéziánusán, és a kitűző szélességének
+  a felénél található az Y tengelyen
+pin.iconAnchorX: Horgonypont X (pixelekben)
+pin.iconAnchorY: Horgonypont Y (pixelekben)
+pin.popupAnchor.description: A felugró ablak horgonypontja az a pont, ahol a felugró
+  ablak lesz pozicionálva. Ellentétben a kitűző horgonypontjával, ez az ikon tetején
+  található, vagy afölött
+pin.popupAnchorX: Felugró Horgonypont X (pixelekben)
+pin.popupAnchorY: Felugró Horgonypont Y (pixelekben)
+organization.and.access: Szervezet és Hozzáférés
+functionality: Funkcionalitás
+appearance: Megjelenés
