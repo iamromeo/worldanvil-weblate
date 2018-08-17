@@ -11,4 +11,7 @@ create a new...: Создать...
 edit.map: Редактировать Карту
 edit.profile: Редактировать профиль
 logout: Выход
-delete.map: Удалить карту
+delete.map: Удалить Карту
+view: ''
+edit.and.play: Редактировать и играть
+login: Авторизация
