@@ -11,3 +11,11 @@ world.designer: Világtervező Lap
 meta.title.standard: Világalkotás és RPG Kampányvezetés | World Anvil
 meta.description.standard: Világalkotói, és RPG Kampányvezetői eszközök minden Mesélőnek,
   Kalandmesternek, és Szerzőnek
+class: CSS Osztály
+class.name: CSS Osztály Neve
+studio.homepage: Alkotók Stúdiója Kezdőlap
+studio.description.header: Mi az Alkotók Stúdiója
+studio.description.text: Az Alkotók Stúdiója nyújt otthont a World Anvil minden fejlettebb
+  testreszabási lehetőségnek. Nagymestereknek, és mindenkinek fölötte lehetősége van
+  Karakterlapok, Widgetek, Egyedi Térkép Jelzők, és miegymás létrehozására, és megosztására,
+  ahogy növekszünk.
