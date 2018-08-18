@@ -1,1 +1,51 @@
-{}
+article.generic: Generiese Artikel
+character: Karakter
+condition: Toestand
+document: Dokument
+ethnicity: Etnisiteit
+formation.military: Vorming (Militêre)
+item: Item
+language: Taal
+material: Materiaal
+myth.legend: Mite / Legende
+military.conflict: Militêre Konflik
+location.building: Ligging, Gebou
+building: Gebou
+location.geographic: Plek, Aardrykskundig
+geography: Aardrykskunde
+location.settlement: Ligging, Nedersetting
+settlement: Nedersetting
+law: Wet (Metafisika)
+organization: Organisasie
+prose: Prosa
+profession: Professioneel
+plot: Storielyn
+rank.title: Rang / Titel
+species: Spesies
+spell: Towerspreuk
+technology.science: Tegnologie / Wetenskap
+technology: Tegnologie
+tradition.ritual: Tradisie / Ritueel
+tradition: Tradisie
+vehicle: Voertuig
+rpg.session.report: Karakterspeletjies Sessie Verslag
+rpg.report: Karakterspeletjies Verslag
+description.building: '... of Baken. Wonderwerke, natuurlik en gebou, ruïnes, kerkers,
+  tempels, groot bome, smede, herberge, kastele. Enigiets waarna jy kan wys, en mense
+  beskou betekenisvol genoeg om te noem.'
+description.character: Van Konings en Koninginne tot helde, kleinboere en Gode.
+description.condition: Natuurlike en Magiese Siektes, Peste, Mutasies en Omvormings.
+description.document: Verdrae, Boeke, Kunswerke, Handleidings, Gidse, Verklarings
+  en baie meer!
+description.ethnicity: Nie die spesie nie, maar die mense wat verband hou met algemene
+  kulturele afkoms. Nie die mense van 'n Koninkryk nie, maar die mense met dieselfde
+  oortuigings en tradisies.
+description.formation: Militêre vorming prototipes. Hoe lyk jou Legioene, Falanks,
+  Swaardvegters, Piekvegters 'n Ridders. Wat is hulle toerusting en taktieke?
+description.generic: Generiese artikels kan gebruik word vir aditionele inhoud en
+  inligting, karakterspeletjies met tuisgemaakte reëls, inleidings tot hoofstukke,
+  verhale, prosa ens.
+description.geography: Wêrelde en Heelalle. Sterrestelsels, sonstelsels, planete,
+  bergreekse, valleie, groot see, moerasse en mere. Alle aardrykskundige liggings.
+description.item: Alledaagse gebruik, munte, gereedskape, wapens 'n wapenrusting van
+  die mees algemene tot die unieke.
