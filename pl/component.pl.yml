@@ -235,3 +235,10 @@ pin.popupAnchorY: Punkt Wyskakującego Okna Y (w pikselach)
 organization.and.access: Organizacja i Dostęp
 functionality: Funkcjonalność
 appearance: Wygląd
+map.compass.description: Wybierz obraz, który wyświetli się jako Róża Wiatrów w prawym,
+  dolnym rogu twojej mapy. Obrazy z przezroczystością dają znacznie lepszy efekt końcowy.
+map.zoom.min.description: Jak bardzo możesz oddalić mapę. Im mniejsza wartość, tym
+  bardziej będziesz mógł ją pomniejszyć. (Domyślnie -2)
+map.marker.label.description: Tekst, który pojawi się na mapie dla tej Etykiety.
+map.marker.link.description: Jeśli ustawisz znacznik, jako znacznik linku bezpośredniego,
+  kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
