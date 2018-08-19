@@ -1,3 +1,5 @@
 Public: Publiczne
 Private: Prywatne
 bbcode.embed: ''
+failure.deletion: Ups! Coś nie wypaliło. Czyżbyś wciąż gdzieś używał tego, co próbowałeś
+  właśnie usunąć?
