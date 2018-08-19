@@ -163,3 +163,5 @@ map.image.secondary: Obraz Warstwy
 map.update.image: Zaktualizuj Główny Obraz Mapy
 map.image.details: Przewidywane wymiary pliku to
 map.marker.new: Nowy Znacznik Miejsca
+create.pin: Stwórz Pinezkę
+map.marker.choice: Wybierz tylko jedną z następujących opcji.
