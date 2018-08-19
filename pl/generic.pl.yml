@@ -11,3 +11,7 @@ meta.description.standard: Światotwórstwo i zarządzanie kampaniami RPG dla ws
 description: Opis
 weight: Waga
 private.club: Tylko dla Członków Gildii
+class: Klasa CSS
+class.name: Nazwa Klasy CSS
+studio.homepage: Strona główna Studia Twórców
+studio.description.header: Czym jest Studio Twórców
