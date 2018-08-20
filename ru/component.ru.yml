@@ -27,3 +27,34 @@ category: Категория
 create.block: Создать Блок
 create.historical.entry: Создать Историческое Событие
 edit.note: Редактировать заметку
+delete.author.profile: Удалить Профиль
+delete.campaign: Удалить Кампанию
+delete.category: Удалить Категорию
+delete.image: Удалить Изображение
+delete.note: Удалить Заметку
+delete.world: Удалить Мир
+author.profile: Профиль
+campaign: Кампания
+image: Изображение
+link: Прямая Ссылка
+map: Карта
+note: Заметка
+categories: Категории
+images: Изображения
+layers: Слои
+maps: Карты
+notes: Заметки
+worlds: Миры
+list.campaigns: Список Кампаний
+list.categories: Список Категорий
+list.images: Список Изображений
+list.maps: Список Карт
+list.layers: Список Слоев
+list.notes: Список Заметок
+list.worlds: Список Миров
+subscribers: Подписчики
+related.category: Связанная Категория
+related.location: Связанная Локация
+related.map: Связанная Карта
+related.organization: Связанная Организация
+status: Статус
