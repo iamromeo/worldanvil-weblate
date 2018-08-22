@@ -201,3 +201,6 @@ map.marker.polygonPoints.description: "Le formatage d'un point est le suivant: l
   \ du suivant par un espace. \nExemple: 20,20 25,30 42,42\nAstuce: Utilisez le repère\
   \ \"Nouveau point\" pour obtenir les coordonnés voulues."
 map.marker.colorOutline: Couleur du contour
+circle: Cercle
+label: Label
+polygon: Polygone
