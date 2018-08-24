@@ -200,14 +200,14 @@ map.marker.link.description: Se você definir o marcador como um marcador de lin
   quando clicado, vai diretamente levar o usuário para a página escolhida.
 map.marker.link.relation.description: Escolha uma das relações abaixo para a qual
   o link direto irá enviar. Se você escolher mais de uma, apenas a primeira terá efeito.
-create.pin: Criar Ponto no Mapa
-create.new.pin: Criar um novo Ponto no Mapa
-edit.pin: Editar Ponto no Mapa
-delete.pin: Apagar Ponto no Mapa
+create.pin: Criar Marco no Mapa
+create.new.pin: Criar um novo Marco no Mapa
+edit.pin: Editar Marco no Mapa
+delete.pin: Apagar Marco do Mapa
 map.marker.polygonPoints: Pontos do Polígono
 map.marker.polygonPoints.description: 'Longitude e Latitude de cada ponto como um
   par, separados por vírgula e separados um par do outro por um espaço. Por exemplo:
-  20,20 30,30 50,45. Dica! Use o pininho vermelho do "Novo Ponto" para descobrir as
+  20,20 30,30 50,45. Dica! Use o marco vermelho do "Novo Ponto" para descobrir as
   coordenadas.'
 map.marker.colorOutline: Cor do Contorno
 map.marker.colorOutline.description: A cor do contorno de um círculo ou polígono.
@@ -227,14 +227,14 @@ organization.and.access: Organização e Acesso
 functionality: Funcionalidade
 appearance: Aparência
 circle: Círculo
-pin: Pontos do Mapa
-pin.pinImage: Imagem do Ponto
-pin.shadow: Imagem da Sombra do Ponto
-pin.shadow.description: A imagem da sobra do ponto. Essa imagem é opcional. Se usada,
-  ela deve ser ser mais larga que a imagem do ponto, estendendo para seu lado direito.
+pin: Marcos do Mapa
+pin.pinImage: Imagem do Marco
+pin.shadow: Imagem da Sombra do Marco
+pin.shadow.description: A imagem da sombra do marco. Essa imagem é opcional. Se usada,
+  ela deve ser ser mais larga que a imagem do marco, estendendo para seu lado direito.
 pin.iconAnchor.description: O Ponto de Ancoragem é um ponto de um único pixel onde
-  a beirada do ponto se. Normalmente ele estaria no ponto cartesiano 0 em X e a metade
-  da largura do marco em Y.
+  está a beirada/ponto de contato do seu marco com o mapa. Normalmente ele estaria
+  no ponto cartesiano 0 em X e a metade da largura do marco em Y.
 pin.iconAnchorX: X do Ponto de Ancoragem (em pixeis)
 pin.iconAnchorY: Y do Ponto de Ancoragem (em pixeis)
 pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o triângulo
@@ -242,4 +242,4 @@ pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o tr
   no topo do ícone, ou ainda mais alto.
 pin.popupAnchorX: X do Ponto da Pop-up (em pixeis)
 pin.popupAnchorY: Y do Ponto da Pop-up (em pixeis)
-list.pins: Lista de Pontos do Mapa
+list.pins: Lista de Marcos do Mapa
