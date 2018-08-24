@@ -11,3 +11,6 @@ meta.description.standard: Ferramenta de Worldbuilding e Administração de Camp
 description: Descrição
 weight: Peso
 private.club: Clube privado. Apenas Membros da Guilda
+class: Classe de CSS
+class.name: Nome da Classe de CSS
+studio.homepage: Pagina Inicial do Estúdio dos Criadores
