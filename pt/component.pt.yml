@@ -163,3 +163,29 @@ map.update.image: Atualizar Imagem Primária do Mapa
 map.image.details: As dimensões esperadas dos arquivos são
 map.marker.new: Novo Marcador de Local
 map.display.homepage: Exibir esse mapa na página inicial do Mundo.
+label: Etiqueta
+link: Link Direto
+polygon: Polígono
+popup: Pop-up
+map.compass: Imagem de Rosa dos Ventos
+map.compass.description: Selecione uma imagem para ser exibida como a Rosa dos Ventos
+  de seu mapa no canto inferior direito do mapa. Usar uma imagem com transparência
+  trará resultados muito melhores visualmente.
+map.thumbnail: Imagem de Pré-Visualização
+map.zoom.initial: Nível de Zoom Inicial
+map.zoom.initial.description: Define o quão aproximado o mapa estará quando for carregado.
+  (0 por Padrão)
+map.zoom.min: Zoom Mínimo Permitido
+map.zoom.min.description: Quão longe você pode afastar o zoom. O valor é um multiplicador
+  negativo, quanto menor o número, mais longe você poderá afastar o zoom. (-2 por
+  Padrão)
+map.zoom.max: Zoom Máximo Permitido
+map.zoom.max.description: Quão perto você pode aproximar o zoom. 0 significa que a
+  visualização será de 1:1 com o tamanho do mapa. Qualquer valor acima de 0 significa
+  que a imagem ficará borrada. (0 por Padrão)
+map.center.y: Ponto Central Inicial (Eixo Y)
+map.center.x: Ponto Central Inicial (Eixo X)
+map.center.description: As coordenadas iniciais do centro do mapa quando ele for carregado.
+  Normalmente este valor é calculado para ser o centro do seu mapa. O canto inferior
+  esquerdo do seu mapa é o ponto 0:0.
+map.marker.lng: Lng
