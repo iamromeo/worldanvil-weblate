@@ -203,7 +203,7 @@ map.marker.link.relation.description: Escolha uma das relações abaixo para a q
 create.pin: Criar Ponto no Mapa
 create.new.pin: Criar um novo Ponto no Mapa
 edit.pin: Editar Ponto no Mapa
-delete.pin: Deletar Ponto no Mapa
+delete.pin: Apagar Ponto no Mapa
 map.marker.polygonPoints: Pontos do Polígono
 map.marker.polygonPoints.description: 'Longitude e Latitude de cada ponto como um
   par, separados por vírgula e separados um par do outro por um espaço. Por exemplo:
