@@ -242,3 +242,4 @@ pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o tr
   no topo do ícone, ou ainda mais alto.
 pin.popupAnchorX: X do Ponto da Pop-up (em pixeis)
 pin.popupAnchorY: Y do Ponto da Pop-up (em pixeis)
+list.pins: Lista de Pontos do Mapa
