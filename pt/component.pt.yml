@@ -189,3 +189,4 @@ map.center.description: As coordenadas iniciais do centro do mapa quando ele for
   Normalmente este valor é calculado para ser o centro do seu mapa. O canto inferior
   esquerdo do seu mapa é o ponto 0:0.
 map.marker.lng: Long.
+map.marker.lat: Lat
