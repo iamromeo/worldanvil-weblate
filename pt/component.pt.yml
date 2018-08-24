@@ -227,4 +227,18 @@ organization.and.access: Organização e Acesso
 functionality: Funcionalidade
 appearance: Aparência
 circle: Círculo
-pin: Pontos de Mapa
+pin: Pontos do Mapa
+pin.pinImage: Imagem do Ponto
+pin.shadow: Imagem da Sombra do Ponto
+pin.shadow.description: A imagem da sobra do ponto. Essa imagem é opcional. Se usada,
+  ela deve ser ser mais larga que a imagem do ponto, estendendo para seu lado direito.
+pin.iconAnchor.description: O Ponto de Ancoragem é um ponto de um único pixel onde
+  a beirada do ponto se. Normalmente ele estaria no ponto cartesiano 0 em X e a metade
+  da largura do marco em Y.
+pin.iconAnchorX: X do Ponto de Ancoragem (em pixeis)
+pin.iconAnchorY: Y do Ponto de Ancoragem (em pixeis)
+pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o triângulo
+  da pop-up será centralizado. Ao contrário da âncora do marco, esse ponto ficará
+  no topo do ícone, ou ainda mais alto.
+pin.popupAnchorX: X do Ponto da Pop-up (em pixeis)
+pin.popupAnchorY: Y do Ponto da Pop-up (em pixeis)
