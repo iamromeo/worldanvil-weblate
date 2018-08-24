@@ -188,4 +188,4 @@ map.center.x: Ponto Central Inicial (Eixo X)
 map.center.description: As coordenadas iniciais do centro do mapa quando ele for carregado.
   Normalmente este valor é calculado para ser o centro do seu mapa. O canto inferior
   esquerdo do seu mapa é o ponto 0:0.
-map.marker.lng: Lng
+map.marker.lng: Long.
