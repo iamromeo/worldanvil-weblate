@@ -226,3 +226,5 @@ map.marker.opacityFill.description: 'A porcentagem de opacidade da área que pre
 organization.and.access: Organização e Acesso
 functionality: Funcionalidade
 appearance: Aparência
+circle: Círculo
+pin: Pontos de Mapa
