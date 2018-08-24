@@ -14,3 +14,8 @@ private.club: Clube privado. Apenas Membros da Guilda
 class: Classe de CSS
 class.name: Nome da Classe de CSS
 studio.homepage: Página Inicial do Estúdio dos Criadores
+studio.description.header: O que é o Estúdio dos Criadores
+studio.description.text: O Estúdio dos Criadores é o lar de todas as customizações
+  avançadas no World Anvil. Grandmasters e acima serão capazes de criar e compartilhar
+  Fichas de Personagem, Widgets, Marcadores de Mapa Personalizados e muito mais conforme
+  crescemos.
