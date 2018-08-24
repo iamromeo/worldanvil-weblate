@@ -200,3 +200,29 @@ map.marker.link.description: Se você definir o marcador como um marcador de lin
   quando clicado, vai diretamente levar o usuário para a página escolhida.
 map.marker.link.relation.description: Escolha uma das relações abaixo para a qual
   o link direto irá enviar. Se você escolher mais de uma, apenas a primeira terá efeito.
+create.pin: Criar Ponto no Mapa
+create.new.pin: Criar um novo Ponto no Mapa
+edit.pin: Editar Ponto no Mapa
+delete.pin: Deletar Ponto no Mapa
+map.marker.polygonPoints: Pontos do Polígono
+map.marker.polygonPoints.description: 'Longitude e Latitude de cada ponto como um
+  par, separados por vírgula e separados um par do outro por um espaço. Por exemplo:
+  20,20 30,30 50,45. Dica! Use o pininho vermelho do "Novo Ponto" para descobrir as
+  coordenadas.'
+map.marker.colorOutline: Cor do Contorno
+map.marker.colorOutline.description: A cor do contorno de um círculo ou polígono.
+  Você pode usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal
+  da cor, incluindo a hash (#) na frente do código
+map.marker.colorFill: Cor do Preenchimento
+map.marker.colorFill.description: A cor da área de um círculo ou polígono. Você pode
+  usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal da
+  cor, incluindo a hash (#) na frente do código
+map.marker.opacityOutline: Opacidade do Contorno
+map.marker.opacityOutline.description: 'A porcentagem de opacidade do contorno. De
+  0 a 100% (Ex: 50)'
+map.marker.opacityFill: Opacidade do Preenchimento
+map.marker.opacityFill.description: 'A porcentagem de opacidade da área que preenche
+  o círculo ou polígono. De 0 a 100% (Ex: 50)'
+organization.and.access: Organização e Acesso
+functionality: Funcionalidade
+appearance: Aparência
