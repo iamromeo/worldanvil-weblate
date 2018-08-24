@@ -3,4 +3,4 @@ Private: Privado
 success.generic: A Bigorna martelou seu pedido com sucesso.
 success.deletion: O Martelo obliterou como você comandou.
 failure.deletion: Opa! Algo deu errado! Há alguma chance de que o que você tentou
-  deletar ainda seja usado em algum lugar?
+  deletar ainda esteja sendo usado em algum lugar?
