@@ -190,3 +190,13 @@ map.center.description: As coordenadas iniciais do centro do mapa quando ele for
   esquerdo do seu mapa é o ponto 0:0.
 map.marker.lng: Long.
 map.marker.lat: Lat.
+map.marker.label: Texto da Etiqueta
+map.marker.label.description: Este é o texto que aparecerá no seu mapa para esta Etiqueta.
+map.marker.choice: Escolha e preencha apenas uma das seguintes opções.
+map.marker.radius: Raio do Círculo
+map.marker.radius.description: Raio do Círculo em pixeis. Preencha apenas se você
+  deseja criar um círculo e não um polígono.
+map.marker.link.description: Se você definir o marcador como um marcador de link direto,
+  quando clicado, vai diretamente levar o usuário para a página escolhida.
+map.marker.link.relation.description: Escolha uma das relações abaixo para o link
+  direto enviar para. Se você escolher mais de uma, apenas a primeira terá efeito.
