@@ -198,5 +198,5 @@ map.marker.radius.description: Raio do Círculo em pixeis. Preencha apenas se vo
   deseja criar um círculo e não um polígono.
 map.marker.link.description: Se você definir o marcador como um marcador de link direto,
   quando clicado, vai diretamente levar o usuário para a página escolhida.
-map.marker.link.relation.description: Escolha uma das relações abaixo para o link
-  direto enviar para. Se você escolher mais de uma, apenas a primeira terá efeito.
+map.marker.link.relation.description: Escolha uma das relações abaixo para a qual
+  o link direto irá enviar. Se você escolher mais de uma, apenas a primeira terá efeito.
