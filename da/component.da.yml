@@ -157,7 +157,7 @@ map.image.details: De forventede fildimensioner er
 circle: Cirkel
 label: Etiket
 polygon: Polygon
-map.image.secondary: Lag Billede
+map.image.secondary: Lagbillede
 map.compass: Kompas billede
 map.compass.description: Vælg et billede som skal vises som kompasset på dit kort
   i nederste højre hjørne. Hvis du bruger et billede med gennemsigtig baggrund, vil
@@ -166,3 +166,11 @@ map.marker.radius: Cirklens Radius
 map.marker.radius.description: Cirklens radius i pixels. Udfyld kun dette hvis du
   vil lave en cirkel og ikke en polygon.
 appearance: Udseende
+create.block: Opret Blok
+create.new.block: Opret en ny Blok
+edit.block: Rediger Blok
+delete.block: Slet Blok
+block: Blok
+blocks: Blokke
+list.blocks: Blokliste
+list.layers: Lagliste
