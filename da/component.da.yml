@@ -158,3 +158,11 @@ circle: Cirkel
 label: Etiket
 polygon: Polygon
 map.image.secondary: Lag Billede
+map.compass: Kompas billede
+map.compass.description: Vælg et billede som skal vises som kompasset på dit kort
+  i nederste højre hjørne. Hvis du bruger et billede med gennemsigtig baggrund, vil
+  du få bedre visuelle resultater.
+map.marker.radius: Cirklens Radius
+map.marker.radius.description: Cirklens radius i pixels. Udfyld kun dette hvis du
+  vil lave en cirkel og ikke en polygon.
+appearance: Udseende
