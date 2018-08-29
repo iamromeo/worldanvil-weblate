@@ -214,3 +214,6 @@ map.marker.polygonPoints.description: 'Längengrad und Breitengrad jedes Punktes
   und mit Komma und Leerzeichen getrennt. Zum Beispiel: 20,20 30,30 50,45. Tipp! Verwende
   die rote "neuer Punkt" Stecknadel, um die Länge/Breite zu ermitteln.'
 map.marker.colorOutline: Konturfarbe
+map.marker.colorOutline.description: 'Die Farbe der Kontur eines Kreises or Polygons.
+  Du kannst jede CSS Farbe verwenden, zum Beispiel red, yellow, etc. ODER den Hexcode
+  der Farbe, beginnend mit einer Raute (z.B. #ff00ff für magenta).'
