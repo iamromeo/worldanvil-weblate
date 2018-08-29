@@ -2,5 +2,5 @@ Public: Öffentlich
 Private: Privat
 success.generic: Der Amboss hat deine Anfrage erfolgreich geschmiedet.
 success.deletion: Der Hammer hat es auf dein Geheiß zerschmettert.
-failure.deletion: Ups! Etwas ist schief gegangen! Möglicherweise wird das, was du
-  löschen willst, noch irgendwo verwendet?
+failure.deletion: Ups! Etwas ist schief gegangen! Möglicherweise wird das, was gelöscht
+  werden soll, noch irgendwo verwendet?
