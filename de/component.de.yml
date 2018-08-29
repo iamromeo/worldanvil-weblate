@@ -183,3 +183,26 @@ map.thumbnail: Vorschaubild
 map.zoom.initial: Anfängliche Zoom-Stufe
 map.marker.lng: Länge
 map.marker.lat: Breite
+map.zoom.initial.description: 'Lege fest, wie weit in die Karte hineingezoomt ist,
+  wenn sie geladen wird. (Standard: 0)'
+map.zoom.min: Minimale erlaubte Zoom-Stufe
+map.zoom.min.description: 'Wie weit du hinauszoomen kannst. Dies ist ein negativer
+  Multiplikator. Umso kleiner der Wert, umso weiter kannst du hinauszoomen. (Standard:
+  -2)'
+map.zoom.max: Maximale erlaubte Zoom-Stufe
+map.zoom.max.description: 'Wie weit du hineinzoomen kannst. 0 bedeutet Originalmaßstab
+  der Karte. Alles über 0 bedeutet, dass das Bild unscharf wird. (Standard: 0)'
+map.center.y: Ursprünglicher Mittelpunkt (Y-Achse)
+map.center.x: Ursprünglicher Mittelpunkt (X-Achse)
+map.marker.label: Beschriftung
+map.marker.label.description: Dies ist der Text, der auf der Karte für diese Markierung
+  erscheint.
+map.marker.choice: Wähle nur eine der folgenden Optionen aus und fülle sie aus.
+map.marker.radius: Kreisradius
+map.marker.radius.description: Radius des Kreises in Pixel. Fülle das nur aus, wenn
+  du einen Kreis anstatt eines Polygons erstellen willst.
+map.marker.link.description: Wenn du die Markierung als einen direkten Link markierst,
+  wird sie den Benutzer direkt auf die Zielseite weiterleiten.
+map.marker.link.relation.description: Wähle eine der folgenden Beziehungen aus, zu
+  der der Link weiterleiten soll. Wenn du mehr als eine auswählst, tritt nur die erste
+  in Kraft.
