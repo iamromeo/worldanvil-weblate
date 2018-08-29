@@ -181,3 +181,5 @@ map.compass.description: Wähle ein Bild aus zur Darstellung einer Kompassrose i
   besser aussehen.
 map.thumbnail: Vorschaubild
 map.zoom.initial: Anfängliche Zoom-Stufe
+map.marker.lng: Länge
+map.marker.lat: Breite
