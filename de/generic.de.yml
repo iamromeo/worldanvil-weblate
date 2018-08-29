@@ -11,3 +11,5 @@ world.designer: Weltenschmied-Panel
 description: Beschreibung
 weight: Gewichtung
 private.club: Geschlossene Gesellschaft. Nur für Gildenmitglieder.
+class: CSS Klasse
+class.name: CSS Klassenname
