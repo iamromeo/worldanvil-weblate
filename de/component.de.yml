@@ -209,3 +209,8 @@ map.marker.link.relation.description: Wähle eine der folgenden Beziehungen aus,
 map.center.description: Die anfänglichen Koordinaten der Karte, wenn sie geladen wird.
   Standardmäßig ist das der berechnete Mittelpunkt deiner Karte. Die linke untere
   Ecke deiner Karte ist der Punkt 0:0.
+map.marker.polygonPoints: Polygonpunkte
+map.marker.polygonPoints.description: 'Längengrad und Breitengrad jedes Punktes, gepaart
+  und mit Komma und Leerzeichen getrennt. Zum Beispiel: 20,20 30,30 50,45. Tipp! Verwende
+  die rote "neuer Punkt" Stecknadel, um die Länge/Breite zu ermitteln.'
+map.marker.colorOutline: Konturfarbe
