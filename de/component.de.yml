@@ -180,3 +180,4 @@ map.compass.description: Wähle ein Bild aus zur Darstellung einer Kompassrose i
   unteren rechten Ecke auf der Karte. Ein Bild mit Transparenz wird dabei deutlich
   besser aussehen.
 map.thumbnail: Vorschaubild
+map.zoom.initial: Anfängliche Zoom-Stufe
