@@ -1,5 +1,5 @@
 toggle: Menu déroulant
-dashboard: Tableau de bord
+dashboard: Accueil
 campaigns: Campagnes
 notebook: Bloc-notes
 srd: DRS JDR
@@ -24,7 +24,7 @@ your.stream: Vos Abonnements
 saved.articles: Articles sauvegardés
 notifications: Notifications
 world.browse: Parcourir les Mondes
-campaign.home: Accueil
+campaign.home: Tableau de bord
 campaign.sessions: Sessions
 campaign.plots: Intrigues
 campaign.cast: Joueurs
@@ -47,6 +47,6 @@ i am a gamemaster: Je suis un maître du jeu
 i am an author: Je suis un auteur
 i am an artist: Je suis un artiste
 Search for Articles, Worlds & Users: Rechercher des Articles, Mondes & Utilisateurs
-Go to Dashboard: Aller au tableau de bord
+Go to Dashboard: Aller à l'accueil
 All Rights Reserved: Tous droits réservés
 studio: Forge
