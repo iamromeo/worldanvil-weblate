@@ -181,7 +181,7 @@ create.pin: Créer un repère sur la carte
 create.new.pin: Créer un repère sur le carte
 edit.pin: Modifier un repère de la carte
 delete.pin: Supprimer un repère de la carte
-link: Lien redirecteur
+link: Lien Direct
 popup: Info-bulle
 map.compass.description: Sélectionne une image pour représenter la rose des vents.
   Elle sera visible en bas à droite de la carte. Il est conseillé d'utiliser une image
