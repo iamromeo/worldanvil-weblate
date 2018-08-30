@@ -13,3 +13,9 @@ weight: Poids
 private.club: Club privé. Membres de la Guilde uniquement
 class: Classe CSS
 class.name: Nom de classe CSS
+studio.homepage: Accueil de la Forge du créateur
+studio.description.header: Qu'est ce que la Forge du Créateur
+studio.description.text: La Forge du Créateur est l'atelier de personnalisation avancée
+  de WorldAnvil. Grand maîtres et rangs supérieurs pourront créer et partager divers
+  contenus tel que des fiches personnages, des gadgets, des indicateurs personnalisés
+  pour cartes et bien plus.
