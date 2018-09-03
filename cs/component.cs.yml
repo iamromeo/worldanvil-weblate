@@ -216,3 +216,18 @@ map.zoom.max.description: Jak blízko můžeš mapu přiblížit. 0 znamená př
   Jakákoliv hodnota vyšší jak 0 způsobí rozostření obrázku. (0 je výchozí hodnota)
 map.marker.link.relation.description: Vyber jeden z následujících vztahů jako přímý
   odkaz pro přesměrování. Když vybereš víc než jeden, bude se počítat jen ten první.
+map.center.description: Počáteční souřadnice středu mapy při jejím prvním načtení.
+  Ve výchozím nastavení jsou vypočítány jako střed tvé mapy. Levý spodní bod tvé mapy
+  je bod 0:0.
+map.marker.lng: z. d.
+map.marker.lat: z. š.
+map.marker.polygonPoints.description: Párově zapsaná zeměpisná délka a šířka každého
+  bodu, oddělená čárkou. Od sebe jsou hodnoty odděleny mezerou. Například 20,20 30,30
+  50,45.  Tip! Použij červený špendlík "nový bod" k zobrazení souřadnic.
+map.marker.colorOutline: Barva ohraničení
+map.marker.colorFill: Barva výplně
+map.marker.opacityOutline: Neprůhlednost ohraničení
+map.marker.opacityFill: Neprůhlednost výplně
+pin.pinImage: Obrázek špendlíku
+pin.shadow: Obrázek stínu špendlíku
+functionality: Funkčnost
