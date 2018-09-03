@@ -212,3 +212,7 @@ pin.shadow.description: Obrázek stínu špendlíku. Tento obrázek je nepovinn�
   musí být širší než obrázek špendlíku a přesahovat ho na pravé straně.
 organization.and.access: Organizace a přístup
 appearance: Vzhled
+map.zoom.max.description: Jak blízko můžeš mapu přiblížit. 0 znamená přiblížení 1:1.
+  Jakákoliv hodnota vyšší jak 0 způsobí rozostření obrázku. (0 je výchozí hodnota)
+map.marker.link.relation.description: Vyber jeden z následujících vztahů jako přímý
+  odkaz pro přesměrování. Když vybereš víc než jeden, bude se počítat jen ten první.
