@@ -231,3 +231,12 @@ map.marker.opacityFill: Neprůhlednost výplně
 pin.pinImage: Obrázek špendlíku
 pin.shadow: Obrázek stínu špendlíku
 functionality: Funkčnost
+pin.iconAnchor.description: Kotva určuje speciální pixel, kde se potkává tvůj špendlík
+  s mapou. Normálně By to byly souřadnice 0Y a polovina šířky špendlíku X.
+pin.iconAnchorX: Kotva bodu X (v pixelech)
+pin.iconAnchorY: Kotva bodu Y (v pixelech)
+pin.popupAnchor.description: Vyskakovacím oknem kotvy je bod, ve kterém bude střed
+  vyskakovacího trojúhelníku. Na rozdíl od kotvy štítu by se měl tento bod nacházet
+  v horní části ikony nebo ještě výš.
+pin.popupAnchorX: Bod X vyskakovacího okna (v pixelech)
+pin.popupAnchorY: Bod Y vyskakovacího okna (v pixelech)
