@@ -180,12 +180,11 @@ map.thumbnail: Miniatura
 map.zoom.initial: Początkowy poziom przybliżenia
 map.zoom.initial.description: Ustaw jak przybliżona będzie mapa przy pierwszym załadowaniu.
   (Domyślnie 0)
-map.zoom.min: Minimalny Poziom Przybliżenia
-map.zoom.max: Maksymalny Poziom Przybliżenia
-map.zoom.max.description: Jak bardzo możesz przybliżyć mapę. 0 oznacza, że możliwe
-  będzie przybliżenie do wymiarów rzeczywistych mapy. Wszystko powyżej 0 sprawi, że
-  przy większych wartościach przybliżenia obraz może wydawać się rozmyty. (Domyślnie
-  0)
+map.zoom.min: Minimalne Możliwe Przybliżenie
+map.zoom.max: Maksymalne Możliwe Przybliżenie
+map.zoom.max.description: Jak bardzo możesz przybliżyć mapę. 0 oznacza przybliżenie
+  1:1 wymiarów mapy. Wszystko powyżej 0 sprawi, że przy większych wartościach przybliżenia
+  obraz może wydawać się rozmyty. (Domyślnie 0)
 map.center.y: Początkowy punkt środkowy (Oś Y)
 map.center.x: Początkowy punkt środkowy (Oś X)
 map.center.description: Koordynaty określające punkt na którym wyśrodkuje się mapa
