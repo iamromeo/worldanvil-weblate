@@ -235,7 +235,7 @@ pin.popupAnchorY: Punkt Wyskakującego Okna Y (w pikselach)
 organization.and.access: Organizacja i Dostęp
 functionality: Funkcjonalność
 appearance: Wygląd
-map.compass.description: Wybierz obraz, który wyświetli się jako Róża Wiatrów w prawym,
+map.compass.description: Wybierz obraz, który wyświetli się jako Róża Wiatrów w prawym
   dolnym rogu twojej mapy. Obrazy z przezroczystością dają znacznie lepszy efekt końcowy.
 map.zoom.min.description: Jak bardzo możesz oddalić mapę. Im mniejsza wartość, tym
   bardziej będziesz mógł ją pomniejszyć. (Domyślnie -2)
