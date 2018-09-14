@@ -197,7 +197,7 @@ map.marker.radius: Promień Koła
 map.marker.radius.description: Promień Koła w pikselach. Wypełnij to tylko jeśli chcesz
   stworzyć koło, a nie wielokąt.
 map.marker.link.relation.description: Wybierz jedno z poniższych powiązań, aby połączyć
-  z nim bezpośredni link. Jeżeli wybierzesz więcej niż jeden, tylko pierwszy będzie
+  z nim bezpośredni link. Jeżeli wybierzesz więcej niż jedno, tylko pierwsze będzie
   obowiązywać.
 map.marker.polygonPoints: Wierzchołki Wielokąta
 map.marker.polygonPoints.description: 'Długość i Szerokość Geograficzna każdego wierzchołka
@@ -239,5 +239,5 @@ map.compass.description: Wybierz obraz, który wyświetli się jako Róża Wiatr
 map.zoom.min.description: Jak bardzo możesz oddalić mapę. Im mniejsza wartość, tym
   bardziej będziesz mógł ją pomniejszyć. (Domyślnie -2)
 map.marker.label.description: Tekst, który pojawi się na mapie dla tej Etykiety.
-map.marker.link.description: Jeśli ustawisz znacznik, jako znacznik linku bezpośredniego,
+map.marker.link.description: Jeśli ustawisz znacznik jako znacznik linku bezpośredniego,
   kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
