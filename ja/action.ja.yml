@@ -1,1 +1,23 @@
-{}
+show: 表示
+edit: 編集
+save.changes: 内容変更を更新
+view: 表示
+delete: 削除
+create: 新規
+replace: 交換
+search: 検索
+search.in: 下記の範囲で検索
+world.create: 新規ワールドを作成
+world.view: ワールドを表示
+check.out: 見てみましよう
+edit.and.play: 編集して遊びましょう
+browse: 閲覧
+login: ログイン
+logout: ログアウト
+register: 新規アカウントを作成
+create a new...: こちらを基に新規作成
+edit.map: 地図を編集
+view.map: 地図を表示
+delete.map: 地図を削除
+edit.profile: プロフィールを編集
+view.profile: プロフィールを表示
