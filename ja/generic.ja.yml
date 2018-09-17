@@ -1,1 +1,17 @@
-{}
+new: 新規
+title: タイトル
+description: 説明
+status: 区分
+weight: 加重
+help: ヘルプ
+home: ホーム
+class: CSSクラス
+class.name: CSSクラス名
+allies: 関連会社・団体
+private.club: プライベートクラブ。ギルドの会員のみ
+world.designer: ワールド・デザイナー・パネル
+meta.title.standard: ワールド作りとRPGキャンペーン管理 | World Anvil
+meta.description.standard: すべての語り手、ダンジョンマスター、小説家などのためのワールド作りとRPGキャンペーン管理ツール
+studio.homepage: 創作者のスタジオ・ホームページ
+studio.description.header: 創作者のスタジオって何？
+studio.description.text: 創作者のスタジオはWorld Anvilの中であらゆる詳細なカスタマイズ機能のある場所です。グランドマスター以上はキャラクターシート、ウィジェット、カスタム地図のマーカーなどを作成したり、シェアしたりすることだけではなく、本サイトの機能が増えるに連れてその他にもたくさんのことができるようになってきます。
