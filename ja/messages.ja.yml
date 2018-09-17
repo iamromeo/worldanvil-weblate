@@ -1,1 +1,6 @@
-{}
+Public: 公開
+Private: 非公開
+success.generic: 金床はうまくリクエストを鍛造しました。
+success.deletion: ハンマーは仰せのままに消し去りました。
+failure.deletion: おっと！何か問題があるようで、もしかして削除しようとしたものはどこか別な場所で使われている可能性がありますか？
+bbcode.embed: このエンティティを埋め込むために下記のBBCodeを、記事の中でBBCodeを対応したどこにでもコピペしてください！
