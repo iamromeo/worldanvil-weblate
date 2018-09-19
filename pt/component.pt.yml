@@ -209,14 +209,14 @@ map.marker.polygonPoints.description: 'Longitude e Latitude de cada ponto como u
   par, separados por vírgula e separados um par do outro por um espaço. Por exemplo:
   20,20 30,30 50,45. Dica! Use o marco vermelho do "Novo Ponto" para descobrir as
   coordenadas.'
-map.marker.colorOutline: Cor do Contorno
-map.marker.colorOutline.description: A cor do contorno de um círculo ou polígono.
-  Você pode usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal
+map.marker.colorOutline: Cor da Borda
+map.marker.colorOutline.description: A cor da borda de um círculo ou polígono. Você
+  pode usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal
   da cor, incluindo a hash (#) na frente do código
 map.marker.colorFill: Cor do Preenchimento
-map.marker.colorFill.description: A cor da área de um círculo ou polígono. Você pode
-  usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal da
-  cor, incluindo a hash (#) na frente do código
+map.marker.colorFill.description: A cor da área interna de um círculo ou polígono.
+  Você pode usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal
+  da cor, incluindo a hash (#) na frente do código
 map.marker.opacityOutline: Opacidade do Contorno
 map.marker.opacityOutline.description: 'A porcentagem de opacidade do contorno. De
   0 a 100% (Ex: 50)'
@@ -241,6 +241,6 @@ pin.iconAnchorY: Y do Ponto de Ancoragem (em pixeis)
 pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o triângulo
   da pop-up será centralizado. Ao contrário da âncora de marcação, esse ponto ficará
   no topo do ícone, ou ainda mais alto.
-pin.popupAnchorX: X do Ponto da Pop-up (em pixeis)
-pin.popupAnchorY: Y do Ponto da Pop-up (em pixeis)
+pin.popupAnchorX: Ponto X da Pop-up (em pixeis)
+pin.popupAnchorY: Ponto Y da Pop-up (em pixeis)
 list.pins: Lista de Marcações do Mapa
