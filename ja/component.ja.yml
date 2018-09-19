@@ -206,3 +206,6 @@ guild.access.map: 無料アカウントではワールドのホームページ�
 line: 線
 related.article: 関連記事
 related.history: 関連歴史的なエントリー
+map.marker.group.description: マーカーグループはマーカーと地図のレイヤーを分類させて、表示・非表示を管理することができます（ギルドの会員に限り）。レイヤーと同様に、これにより、特定の情報を公開したり、読者からいくつかのマーカーを隠したりすることができます。
+map.marker.group.onload: グループの初期表示状況
+map.marker.group.onload.description: 最近の地図読み込むとき、このグループを公開します。
