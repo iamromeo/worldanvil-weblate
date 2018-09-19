@@ -1,1 +1,48 @@
-{}
+world.anvil.header: World Anvil, plataforma, herramientas y comunidad de worldbuilding
+world.anvil.description: World Anvil es una plataforma de herramientas para el worldbuilding
+  y una comunidad de escritores, jugadores de rol y amantes del worldbuilding
+account.create: Crea tu cuenta
+created.by: Creado por
+powered.by: Ofrecido por
+in: en
+timeline: Línea del tiempo
+timelines: Líneas del tiempo
+toc: Índice
+followers: Seguidores
+followers.all: Ver todos los seguidores
+campaigns: Campañas
+secrets: Secretos
+maps: Mapas
+image.gallery: Galería de imágenes
+articles: Artículos
+recent.articles: Artículos recientes
+featured.articles: Artículos destacados
+uncategorized.articles: Artículos sin categorizar
+tweets.by: Tweets de
+twitch.live: Ver en directo en Twitch
+support.patreon: Apoya el proyecto en Patreon
+support.patreon.user: Apoyar a %username% en Patreon
+support.kofi.user: ¡Invita a un café a %username%!
+join.discord.world: ¡Únete al Discord de %worldname%!
+following: Siguiendo a %name%
+follow: Seguir a %name%
+follow.action.remove: DEJAR DE SEGUIR
+follow.action.add: SEGUIR
+follow.action.add.description: ¡Sigue este mundo para obtener las actualizaciones
+  que sus autores hagan en él!
+like.action.remove: YA NO ME GUSTA
+like.action.add: ME GUSTA
+like.action.add.description: Haz saber al autor que te gusta su trabajo. Este artículo
+  NO se guardará en tu lista de leer más tarde
+reading.action.remove: ELIMINAR DE LA LISTA DE LECTURA
+reading.action.add: AÑADIR A LA LISTA DE LECTURA
+reading.action.add.description: Añade este artículo a tu lista de lecturas/artículos
+  guardados. El autor NO será notificado.
+goto.homepage: Ir a la página principal de %name%
+article.love: Gente a la que le encantó tu artículo
+article.love.return: ¡Devuélveles un poco de amor!
+article.likes.number: Este post le gusta a %number% worldbuilders
+article.visibility: Este artículo es visible para los siguientes grupos de suscriptores
+author.notes: Notas del autor
+players.looking: Buscando jugadores
+players.full: La campaña está llena
