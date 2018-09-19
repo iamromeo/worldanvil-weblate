@@ -240,3 +240,6 @@ pin.popupAnchor.description: Vyskakovacím oknem kotvy je bod, ve kterém bude s
   v horní části ikony nebo ještě výš.
 pin.popupAnchorX: Bod X vyskakovacího okna (v pixelech)
 pin.popupAnchorY: Bod Y vyskakovacího okna (v pixelech)
+map.marker.linePoints.description: Párově zapsaná zeměpisná délka a šířka každého
+  bodu, oddělená čárkou. Od sebe jsou hodnoty odděleny mezerou. Například 20,20 30,30
+  50,45.  Tip! Použij červený špendlík "nový bod" k zobrazení souřadnic.
