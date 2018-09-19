@@ -65,7 +65,7 @@ author.profile: プロフィール
 block: ブロック
 campaign: キャンペーン
 category: カテゴリ
-circle: サークル
+circle: 円
 historical.entry: 歴史的なエントリー
 image: 画像
 player.character: プレイヤーのキャラクター
@@ -203,3 +203,6 @@ guild.access.status: 無料アカウントではすべての項目が公開と�
   Guild</a>に加わり、内容を何でも非公開に設定することができるようになってWorld Anvilの開発を手伝えましょう。
 guild.access.map: 無料アカウントではワールドのホームページに表示されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
   Guild</a>に加わり、地図、記事、ワールドなどを非公開に設定できるようになってWorld Anvilの開発を手伝いましょう。
+line: 線
+related.article: 関連記事
+related.history: 関連歴史的なエントリー
