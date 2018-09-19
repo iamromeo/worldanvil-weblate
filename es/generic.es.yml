@@ -37,3 +37,12 @@ category: Categoría
 author: Autor
 creation.date: Fecha de creación
 update.date: Última edición
+tags: Etiquetas
+visibility: Visibilidad
+public: Público
+private: Privado
+open: Abierto
+views: Visitas
+favorites: Favoritos
+comments: Comentarios
+wip: En proceso
