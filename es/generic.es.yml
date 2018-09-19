@@ -24,3 +24,16 @@ guild.required.master: Necesitas ser al menos Master del Gremio para poder utili
 guild.required.grandmaster: Necesitas ser al menos Grandmaster del Gremio para poder
   utilizar esta funcionalidad.
 todo.your.list: Lista de tareas
+todo.status.zero: ¡Haz clic en el título para crear el artículo!
+todo.status.one: El artículo está creado, sin publicar y aún en progreso
+todo.status.two: El artículo ha sido publicado y aún está en progreso
+todo.status.three: ¡El artículo está terminado!
+notes: Notas
+moderation: Moderación
+metadata: Metadatos
+article.template: Plantilla
+world: Mundo
+category: Categoría
+author: Autor
+creation.date: Fecha de creación
+update.date: Última edición
