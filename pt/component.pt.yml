@@ -217,7 +217,7 @@ map.marker.colorFill: Cor do Preenchimento
 map.marker.colorFill.description: A cor da área interna de um círculo ou polígono.
   Você pode usar cores do CSS como 'blue', 'red', 'yellow', etc, OU o código hexadecimal
   da cor, incluindo a hash (#) na frente do código
-map.marker.opacityOutline: Opacidade do Contorno
+map.marker.opacityOutline: Opacidade da Borda
 map.marker.opacityOutline.description: 'A porcentagem de opacidade do contorno. De
   0 a 100% (Ex: 50)'
 map.marker.opacityFill: Opacidade do Preenchimento
