@@ -49,3 +49,10 @@ views: Views
 favorites: Favorites 
 comments: Comments 
 wip: Work In Progress
+
+
+
+access.multipass: Multipass?
+access.description: I am so sorry but you don't have access to this page. This is most probably because the article is private and you don't have the necessary rights to view it.
+access.return: Head back where you came from!
+access.homepage: Go to Homepage

@@ -53,3 +53,37 @@ author.notes: Author's Notes
 
 players.looking: Looking for Players 
 players.full: The Campaign is Full
+
+authors: Authors 
+author.page: Author's page
+author.since: Member Since
+author.interests: Interests & Hobbies
+author.movies: Favorite Movies 
+author.tv: Favorite TV Series 
+author.books: Favorite Books 
+author.writers: Favorite Writers 
+author.games: Favorite Games 
+author.comments: Comments & Feedback
+author.worlds: Worlds 
+author.characters: Characters
+author.badges: Badges & Medals
+
+history: History 
+type: Type
+
+
+condition.transmission: Transmission & Vectors
+condition.causes: Causes 
+condition.symptoms: Symptoms 
+condition.treatment: Treatment 
+condition.prognosis: Prognosis 
+condition.sequela: Sequela 
+condition.affectedgroups: Affected Groups 
+condition.hosts: Hosts & Carriers 
+condition.prevention: Prevention 
+condition.epidimiology: Epidimiology 
+condition.reception: Cultural Reception 
+condition.origin: Origin 
+condition.cycle: Cycle 
+condition.rarity: Rarity 
+condition.species: Affected Species 
