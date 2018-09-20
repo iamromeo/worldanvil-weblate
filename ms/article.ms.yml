@@ -1,1 +1,32 @@
-{}
+article.generic: Rencana, Generik
+character: Watak
+condition: Keadaan
+document: Dokumen
+ethnicity: Etnik
+formation.military: Pembentukan (Ketenteraan)
+item: Barang
+language: Bahasa
+material: Bahan
+myth.legend: Mitos / Legenda
+military.conflict: Konflik Ketenteraan
+location.building: Lokasi, Bangunan
+building: Bangunan
+location.geographic: Lokasi, Geografi
+geography: Geografi
+location.settlement: Lokasi, Penempatan
+settlement: Penempatan
+law: Hukum (Meta/Fizikal)
+organization: Organisasi
+prose: Prosa
+profession: Profesion
+plot: Plot
+rank.title: Pangkat / Gelaran
+species: Spesis
+spell: Sihir
+technology.science: Teknologi / Sains
+technology: Teknologi
+tradition.ritual: Tradisi / Upacara
+tradition: Tradisi
+vehicle: Kenderaan
+rpg.session.report: Laporan Sesi RPG
+rpg.report: Laporan RPG
