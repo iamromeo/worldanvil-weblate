@@ -1,1 +1,43 @@
-{}
+world.anvil.header: World Anvilのワールド作りツールプラットフォームとコミュニティー
+world.anvil.description: World Anvilは、作者、RPG語り手、ワールド作り好きなどのための、ワールド作りツールプラットフォームとコミュニティーです。
+account.create: アカウントを作成
+created.by: 作者
+powered.by: 提供者
+timeline: タイムライン
+timelines: タイムライン
+toc: 目次
+followers: フォロワー
+followers.all: フォロワー全員を見る
+campaigns: キャンペーン
+secrets: 秘密
+maps: 地図
+image.gallery: 画像ギャラリー
+articles: 記事
+recent.articles: 最近の記事
+featured.articles: 特集記事
+uncategorized.articles: 分類されていない記事
+tweets.by: つぶやきの作者
+twitch.live: Twitchの生放送で見る
+support.patreon: Patreonでプロジェクトを支援する
+support.patreon.user: Patreonで%username%を支援する
+support.kofi.user: '%username%にコーヒー一杯を買ってあげてね！'
+join.discord.world: '%worldname%のDiscordを加わってね！'
+following: '%name%をフォロー中'
+follow: '%name%をフォローする'
+follow.action.remove: フォローをやめる
+follow.action.add: フォローする
+follow.action.add.description: フォローすると、このワールドに関係ある、作者の書いたすべての記事を自分のストリームで見られるようになります！
+like.action.remove: いいね！を削除
+like.action.add: いいね！
+like.action.add.description: 作者の書いたものに「いいね！」をあげてみてね！この記事は「後で読む」リストに追加されません。
+reading.action.remove: 読書リストから削除
+reading.action.add: 読書リストに追加
+reading.action.add.description: 「後で読む・保存済みの記事」リストにこの記事を追加します。作者は通知されません。
+goto.homepage: '%name%のホームページへ'
+article.love: あなたの記事が好きだった人
+article.love.return: お礼をあげてみて！
+article.likes.number: ワールドビルダーが%number%人この記事に「いいね！」をあげました。
+article.visibility: この記事は下記の登録者グループに公開となっています。
+author.notes: 作者のメモ
+players.looking: プレイヤー募集中
+players.full: このキャンペーンは満員になっています。
