@@ -41,3 +41,7 @@ views: 表示回数
 favorites: お気に入り
 comments: コメント
 wip: 作成中
+access.multipass: マルチパス？
+access.description: 申し訳ありませんが、このページにはアクセス権限がありません。原因はこの記事が非公開と設定していて表示する権利がない可能性が高いです。
+access.return: 戻りましょう！
+access.homepage: ホームページへ
