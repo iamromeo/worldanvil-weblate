@@ -195,14 +195,14 @@ pin.popupAnchorY: ポップアップ点Y（ピクセル単位）
 organization.and.access: 組織とアクセス
 functionality: 機能性
 appearance: 外観
-guild.access: 無料アカウントではすべての項目が公開と設定されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>に加わり、特定な登録者グループに、指定した内容にアクセス権限を与えてWorld Anvilの開発を手伝えましょう。
+guild.access: 無料アカウントではすべての項目が公開と設定されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、特定な登録者グループに、指定した内容にアクセス権限を与えてWorld
+  Anvilの開発を手伝えましょう。
 guild.subscriber.groups: 登録者グループは、非公開の記事を読み取る権限をそのグループのメンバーに与えることが<a class="m-t-10
-  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>にできます。
-guild.access.status: 無料アカウントではすべての項目が公開と設定されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>に加わり、内容を何でも非公開に設定することができるようになってWorld Anvilの開発を手伝えましょう。
-guild.access.map: 無料アカウントではワールドのホームページに表示されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>に加わり、地図、記事、ワールドなどを非公開に設定できるようになってWorld Anvilの開発を手伝いましょう。
+  text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>にできます。
+guild.access.status: 無料アカウントではすべての項目が公開と設定されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、内容を何でも非公開に設定することができるようになってWorld
+  Anvilの開発を手伝えましょう。
+guild.access.map: 無料アカウントではワールドのホームページに表示されています。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、地図、記事、ワールドなどを非公開に設定できるようになってWorld
+  Anvilの開発を手伝いましょう。
 line: 線
 related.article: 関連記事
 related.history: 関連歴史的なエントリー
@@ -210,7 +210,7 @@ map.marker.group.description: マーカーグループはマーカーと地図�
 map.marker.group.onload: グループの初期表示状況
 map.marker.group.onload.description: 最近の地図読み込むとき、このグループを公開します。
 map.layers.max: アカウントのレイヤー数の最大許容限度に達しました。地図のレイヤ数ーの許容量を増加するには、アカウントのアップグレードをおすすめします。<a
-  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワルドビルダーズ・ギルド</a>
 map.marker.linePoints: 線の点
 map.marker.linePoints.description: コンマで区切られている各点の経度と緯度の組み合わせで、各点の組み合わせはスペースで区切られています。例えば、20,20
   30,30 50,45。ヒント：赤い「新規ポイント」のピンを使って経度と緯度を取得することができます。
@@ -227,7 +227,7 @@ map.marker.linePoints.check: チェックを付けて、線を作るために新
 pin.template.header: 基本ピンのテンプレート
 pin.template.description: World Anvilに提供されているようなピンを作るために、この圧縮ファイルの中身を使ってください。
 pin.value.notzero: この値は空、又は0で設定されていないように確認してください。
-guild.feature: これはギルド専用の機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>に加わり、この機能へのアクセス権限を得てWorld Anvilの開発を手伝えましょう。
-grandmaster.feature: これはグランドマスター+のレベルをもつアカウントの専用機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>に加わり、この機能へのアクセス権限を得てWorld Anvilの開発を手伝えましょう。
+guild.feature: これはギルド専用の機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
+  Anvilの開発を手伝えましょう。
+grandmaster.feature: これはグランドマスター+のレベルをもつアカウントの専用機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
+  Anvilの開発を手伝えましょう。
