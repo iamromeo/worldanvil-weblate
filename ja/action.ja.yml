@@ -9,13 +9,13 @@ search: 検索
 search.in: 下記の範囲で検索
 world.create: 新規ワールドを作成
 world.view: ワールドを表示
-check.out: 見てみましよう
+check.out: チェックしてみましよう
 edit.and.play: 編集して遊びましょう
 browse: 閲覧
 login: ログイン
 logout: ログアウト
 register: アカウントを作成
-create a new...: こちらを基に新規作成
+create a new...: こちらを基に新規作成…
 edit.map: 地図を編集
 view.map: 地図を表示
 delete.map: 地図を削除
