@@ -168,7 +168,7 @@ map.marker.choice: Wybierz tylko jedną z następujących opcji.
 create.new.pin: Stwórz nową Pinezkę
 edit.pin: Edytuj Pinezkę
 delete.pin: Usuń Pinezkę
-circle: Koło
+circle: Okrąg
 label: Etykieta
 link: Bezpośredni Link
 polygon: Wielokąt
@@ -241,3 +241,5 @@ map.zoom.min.description: Jak bardzo możesz oddalić mapę. Im mniejsza wartoś
 map.marker.label.description: Tekst, który pojawi się na mapie dla tej Etykiety.
 map.marker.link.description: Jeśli ustawisz znacznik jako znacznik linku bezpośredniego,
   kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
+related.article: Powiązany Artykuł
+related.history: Powiązane Wydarzenie Historyczne
