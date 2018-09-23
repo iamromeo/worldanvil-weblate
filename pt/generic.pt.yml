@@ -22,4 +22,5 @@ studio.description.text: O Estúdio dos Criadores é o lar de todas as customiza
 guild.required: Esta funcionalidade requer que você seja membro da Guilda!
 guild.required.master: Esta funcionalidade requer que você seja um membro Mestre da
   Guilda ou maior.
-guild.required.grandmaster: Esta função requer ser grão-mestre de uma Guilda ou maior.
+guild.required.grandmaster: Esta funcionalidade requer que você seja um membro Grandmaster
+  da Guilda ou maior.
