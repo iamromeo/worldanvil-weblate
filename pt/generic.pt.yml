@@ -29,3 +29,10 @@ todo.status.zero: Clique no título para Criar o Artigo!
 todo.status.one: O artigo foi criado, não foi publicado e ainda está em fase de construção
 tags: Tags
 article.template: Modelo de artigo
+todo.status.two: O Artigo foi publicado e ainda está em fase de construção
+todo.status.three: O Artigo está completo!
+moderation: Moderação
+metadata: 'Metadados '
+author: Autor
+creation.date: Data de criação
+update.date: Ultima atualização
