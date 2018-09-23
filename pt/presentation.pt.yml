@@ -35,3 +35,7 @@ reading.action.add: ADICIONAR À LISTA DE LEITURA
 reading.action.add.description: Adicionar este artigo a sua lista de artigos salvos/para
   ler depois. O autor NÃO será notificado.
 goto.homepage: Ir para a Página Inicial de %name%
+article.love: Pessoas que amaram seu artigo
+article.love.return: Vá dar um pouco de amor em troca!
+article.likes.number: '%number% worldbuilders gostaram desta postagem'
+article.visibility: Este artigo é visível para os seguintes grupos de seguidores
