@@ -19,3 +19,14 @@ twitch.live: Assista ao vivo no Twitch
 support.patreon: Apoie o projeto no Patreon
 support.patreon.user: Apoie %username% no Patreon
 support.kofi.user: Compre um café para %username%!
+join.discord.world: Entre no Discord de %worldname%!
+following: Seguindo %name%
+follow: Seguir %name%
+follow.action.remove: DEIXAR DE SEGUIR
+follow.action.add: SEGUIR
+follow.action.add.description: Siga para receber as atualizações de todos os artigos
+  deste mundo escritos pelo autor!
+like.action.remove: REMOVER GOSTEI
+like.action.add: GOSTEI
+like.action.add.description: Deixe o autor saber que você gostou do trabalho. Esse
+  artigo NÃO será adicionado na coleção de "Ler depois"
