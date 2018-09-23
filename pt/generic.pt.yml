@@ -20,4 +20,5 @@ studio.description.text: O Estúdio dos Criadores é o lar de todas as customiza
   de criar e compartilhar Fichas de Personagem, Widgets, Marcadores de Mapa Personalizados
   e muito mais conforme crescemos.
 guild.required: Esta funcionalidade requer que você seja membro da Guilda!
-guild.required.master: Esta função requer ser mestre de uma Guilda ou maior.
+guild.required.master: Esta funcionalidade requer que você seja um membro Mestre da
+  Guilda ou maior.
