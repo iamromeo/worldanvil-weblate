@@ -8,7 +8,7 @@ powered.by: Patrocinado por
 in: em
 timeline: Linha do Tempo
 timelines: Linhas do Tempo
-toc: 'Ìndice '
+toc: Índice
 followers.all: Ver todos os seguidores
 image.gallery: Galeria de Imagens
 recent.articles: Artigos Recentes
@@ -38,4 +38,4 @@ goto.homepage: Ir para a Página Inicial de %name%
 article.love: Pessoas que amaram seu artigo
 article.love.return: Vá dar um pouco de amor em troca!
 article.likes.number: '%number% worldbuilders gostaram desta postagem'
-article.visibility: Este artigo é visível para os seguintes grupos de seguidores
+article.visibility: Este artigo é visível para os seguintes grupos de membros
