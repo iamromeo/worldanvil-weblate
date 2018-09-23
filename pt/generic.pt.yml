@@ -35,4 +35,13 @@ moderation: Moderação
 metadata: 'Metadados '
 author: Autor
 creation.date: Data de criação
-update.date: Ultima atualização
+update.date: Última atualização
+notes: Anotações
+world: Mundo
+category: Categoria
+access.multipass: Passe Múltiplo?
+access.description: Sinto muito mas você não tem acesso a essa página. Isso provavelmente
+  se deve ao fato do artigo ser privado e você não ter as permissões necessárias para
+  visualizá-lo.
+access.return: Volte por onde você veio!
+access.homepage: Ir para a Página Inicial
