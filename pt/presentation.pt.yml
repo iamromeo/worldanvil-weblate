@@ -30,3 +30,5 @@ like.action.remove: REMOVER GOSTEI
 like.action.add: GOSTEI
 like.action.add.description: Deixe o autor saber que você gostou de seu trabalho.
   Esse artigo NÃO será adicionado na coleção de "Ler depois"
+reading.action.remove: REMOVER DA LISTA DE LEITURA
+reading.action.add: ADICIONAR A LISTA DE LEITURA
