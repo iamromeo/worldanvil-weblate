@@ -244,3 +244,48 @@ pin.popupAnchor.description: O Ponto de ancoragem de pop-up é o ponto onde o tr
 pin.popupAnchorX: Ponto X da Pop-up (em pixeis)
 pin.popupAnchorY: Ponto Y da Pop-up (em pixeis)
 list.pins: Lista de Marcações do Mapa
+line: Linha
+related.article: Artigo Relacionado
+related.history: Registro Histórico Relacionado
+map.marker.group.description: Grupos de Marcadores permitem que você organize seus
+  marcadores e camadas de mapa em categorias que você pode ligar e desligar e administrar
+  sua visibilidade (se você for um membro da guilda). Assim como camadas, elas podem
+  ser usadas para mostrar diferentes informações ou esconder um conjunto de marcadores
+  dos seus leitores, se desejar.
+map.marker.group.onload: Visibilidade inicial do Grupo
+map.marker.group.onload.description: Fazer esse grupo visível durante o carregamento
+  inicial do mapa
+map.layers.max: Você chegou no limite máximo de camadas da sua conta! Se você quer
+  mais camadas nos seus mapas, por favor considere fazer um upgrade! <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Guilda dos Worldbuilders</a>
+map.marker.linePoints: Pontos da Linha
+map.marker.linePoints.description: 'Longitude e Latitude de cada ponto como um par,
+  separados por vírgula e separados um par do outro por um espaço. Por exemplo: 20,20
+  30,30 50,45. Dica! Use o marco vermelho do "Novo Ponto" para descobrir as coordenadas.'
+map.marker.lineColor: Cor da Linha
+map.marker.lineColor.description: A cor da Linha. Você pode usar cores em CSS como
+  blue, red, yellow e etc, OU o código hexadecimal da cor incluindo a hash (#) antes
+  do código
+map.marker.lineWeight: Espessura da Linha
+map.marker.lineWeight.description: A largura da linha em pixeis.
+map.marker.lineOpacity: Opacidade da Linha
+map.marker.lineOpacity.description: 'A opacidade da Linha em porcentagem. De 0 a 100%
+  (ex: 50)'
+map.marker.lineDash: Padrão de Pontilhado da Linha
+map.marker.lineDash.description: Essa é uma ??? avançada. Use pontilhado da linha
+  para definir o padrão de pontilhado da sua linha. Por exemplo, "8 8" significa 8
+  pixeis de linha e 8 pixeis sem linha. Mas você também pode simplesmente usar "8"
+  ou "1 2 3 4" para ter padrões variados.
+map.marker.linePoints.check: Assinale isso e arraste e solte o novo marcador para
+  criar uma linha.
+pin.template.header: Modelo das Marcações Padrão
+pin.template.description: Use os arquivos desse compactado para criar marcadores similares
+  aos disponibilizados pelo World Anvil.
+pin.value.notzero: Por favor, certifique-se de que esse valor não seja vazio nem 0.
+guild.feature: Essa é uma funcionalidade exclusiva para a Guilda. Junte-se à <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Guilda dos Worldbuilders</a> para
+  ter acesso a essa funcionalidade e ajudar no desenvolvimento do World Anvil.
+grandmaster.feature: Essa e uma funcionalidade exclusiva para membros do nível Grandmaster
+  e acima. Junte-se à <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda
+  dos Worldbuilders</a> para ter acesso a essa funcionalidade e ajudar no desenvolvimento
+  do World Anvil.
