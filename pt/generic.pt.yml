@@ -45,3 +45,11 @@ access.description: Sinto muito mas você não tem acesso a essa página. Isso p
   visualizá-lo.
 access.return: Volte por onde você veio!
 access.homepage: Ir para a Página Inicial
+visibility: Visibilidade
+public: 'Público '
+private: Privado
+open: Aberto
+views: Visualizações
+favorites: Favoritos
+comments: Comentários
+wip: Em fase de construção
