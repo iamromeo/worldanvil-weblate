@@ -1,4 +1,4 @@
-world.anvil.header: Comunidade e Plataforma das ferramentas de Worldbuilding do World
+world.anvil.header: Ferramentas, Construção de mundo, Plataforma e Comunidade de World
   Anvil
 world.anvil.description: World Anvil é uma plataforma de ferramentas para Woldbuilding
   e uma comunidade de escritores, narradores de RPG e amantes de criação de mundos
@@ -39,3 +39,6 @@ article.love: Pessoas que amaram seu artigo
 article.love.return: Vá dar um pouco de amor em troca!
 article.likes.number: '%number% worldbuilders gostaram desta postagem'
 article.visibility: Este artigo é visível para os seguintes grupos de membros
+author.notes: Notas do Autor
+players.looking: Procurando por jogadores
+players.full: A campanha está cheia
