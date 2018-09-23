@@ -193,7 +193,7 @@ map.center.description: Koordynaty określające punkt na którym wyśrodkuje si
 map.marker.lng: Dł
 map.marker.lat: Szer
 map.marker.label: Tekst Etykiety
-map.marker.radius: Promień Koła
+map.marker.radius: Promień Okręgu
 map.marker.radius.description: Promień Koła w pikselach. Wypełnij to tylko jeśli chcesz
   stworzyć koło, a nie wielokąt.
 map.marker.link.relation.description: Wybierz jedno z poniższych powiązań, aby połączyć
@@ -242,4 +242,4 @@ map.marker.label.description: Tekst, który pojawi się na mapie dla tej Etykiet
 map.marker.link.description: Jeśli ustawisz znacznik jako znacznik linku bezpośredniego,
   kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
 related.article: Powiązany Artykuł
-related.history: Powiązane Wydarzenie Historyczne
+related.history: Powiązane Wydarzenie historyczne
