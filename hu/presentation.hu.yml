@@ -1,1 +1,78 @@
-{}
+world.anvil.header: World Anvil Világépítő Eszközök és Közösség
+world.anvil.description: A World Anvil egy világépítő eszközplatform és közösség íróknak,
+  szerepjáték mesélőknek, és a világépítés szerelmeseinek
+account.create: Hozd létre a Fiókod
+created.by: Készítette
+powered.by: Működteti
+in: -ban/ -ben
+timeline: Idővonal
+timelines: Idővonalak
+toc: Tartalomjegyzék
+followers: Követők
+followers.all: Követők megtekintése
+campaigns: Kampányok
+secrets: Titkok
+maps: Térképek
+image.gallery: Képgaléria
+articles: Cikkek
+recent.articles: Friss Cikkek
+featured.articles: Kiemelt Cikkek
+uncategorized.articles: Kategorizálatlan Cikkek
+tweets.by: 'Tweet-ek tőle:'
+twitch.live: Nézd a Twitch-en élőben
+support.patreon: Támogasd a projektet Patreonon
+support.patreon.user: Támogasd %username% Patreonon
+support.kofi.user: Végy %username%-nek egy csésze kávét!
+join.discord.world: Csatlakozz %worldname% Discordjához!
+following: '%name% Követve'
+follow: Kövesd %name%
+follow.action.remove: Követés leállítása
+follow.action.add: KÖVETÉS
+follow.action.add.description: Kövesd ezt a szerzőt, hogy bekerüljenek az általa írt
+  cikkek a hírfolyamodba!
+like.action.remove: Kedvelés Eltávolítása
+like.action.add: Kedvelés
+like.action.add.description: Tudasd a szerzővel hogy tetszett neked a munkája. Ez
+  a cikk NEM kerül be az Olvasd el Később gyűjteményedbe
+reading.action.remove: Eltávolítás az Olvasó Listáról
+reading.action.add: Olvasó Listához adás
+reading.action.add.description: Add hozzá ezt a cikket az Olvasd el Később/ Mentett
+  cikkek listába. A szerző NEM lesz értesítve.
+goto.homepage: Menny %name% Kezdőlapjára
+article.love: Az emberek, kik szerették a cikked
+article.love.return: Menny és szeresd vissza őket!
+article.likes.number: Ezt a posztot %number% világépítő kedvelte
+article.visibility: Ez a cikk megtekinthető az alábbi feliratkozó csoportok által
+author.notes: A Szerző Jegyzetei
+players.looking: Játékosokat keres
+players.full: A Kampány Megtelt
+authors: Szerzők
+author.page: A Szerző oldala
+author.since: Tag %startdate% óta
+author.interests: Érdeklődés & Hobbi
+author.movies: Kedvenc Filmek
+author.tv: Kedvenc TV Sorozatok
+author.books: Kedvenc Könyvek
+author.writers: Kedvenc Írók
+author.games: Kedvenc Játékok
+author.comments: Megjegyzések & Visszajelzések
+author.worlds: Világok
+author.characters: Karakterek
+author.badges: Kitűzők & Medálok
+history: Előzmények
+type: Típus
+condition.transmission: Terjedési mód & Terjesztők
+condition.causes: Kiváltó okok
+condition.symptoms: Tünetek
+condition.treatment: Kezelés
+condition.prognosis: Prognózis
+condition.sequela: Szövődmények
+condition.affectedgroups: Érintett Csoportok
+condition.hosts: Gazdatestek & Hordozók
+condition.prevention: Megelőzés
+condition.epidimiology: Járványtan
+condition.reception: Kulturális Reakció
+condition.origin: Forrás
+condition.cycle: Ciklus
+condition.rarity: Ritkaság
+condition.species: Érintett Fajok
