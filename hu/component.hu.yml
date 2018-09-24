@@ -242,3 +242,44 @@ pin.popupAnchorY: Felugró Horgonypont Y (pixelekben)
 organization.and.access: Szervezet és Hozzáférés
 functionality: Funkcionalitás
 appearance: Megjelenés
+line: Sor
+related.article: Kapcsolódó Cikk
+related.history: Kapcsolódó Történelmi Jegyzet
+map.marker.group.description: A jelzőcsoportokkal rendszerezheted a jelzőidet és a
+  térképed rétegeit ki- és bekapcsolható kategóriába, melyeknek beállíthatód a láthatóságát
+  (ha Céhtag vagy). A rétegeket használhatod bizonyos információk megjelenítésére,
+  vagy hogy elrejts egy szett/ csoportnyi jelzőt az olvasóid elöl, ha szeretnéd.
+map.marker.group.onload: Előzetes Csoport Láthatóság
+map.marker.group.onload.description: Ez a csoport legyen látható a térkép első betöltésekor
+map.layers.max: Elérted a maximum rétegszámot amelyet a felhasználói fiókod engedélyez.
+  Ha több réteget szeretnél, csatlakozz a <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">1Világépítők
+  Céhéhez</a>2
+map.marker.linePoints: Vonalpontok
+map.marker.linePoints.description: A poligon egyes pontjai a térkép hosszúsági és
+  szélességi körein, vesszőkkel összekapcsolva és térközzel elválasztva. Például 20,20
+  30,30 50,45. Tip! Használd a piros "Új Pont" jelzőt hogy megkapd a hossz/ szél értékeket.
+map.marker.lineColor: Vonalszín
+map.marker.lineColor.description: A vonal színe. Használhatsz CSS színeket mint kék,
+  piros, sárga, stb., VAGY hexadecimális kódokat, használva a kezdőszöveg előtti kettőskeresztet
+map.marker.lineWeight: Vonalsúly
+map.marker.lineWeight.description: A vonal súlya a pixelekhez viszolyítva.
+map.marker.lineOpacity: Vonal Átlátszóság
+map.marker.lineOpacity.description: A vonal átlátszósági %-a. 0 és 100% között (p.l.
+  50)
+map.marker.lineDash: Vonalminta
+map.marker.lineDash.description: Ez egy fejlett funkció. A vonalminta határozza meg
+  a vonal csíkozottságát. Például a 8 8 azt jelenti hogy 8 pixelnyi vonal, 8 pixelnyi
+  űr váltja egymást. Persze használhatsz szimplán csak 8-at, vagy 1-et, 2-őt, 3-at,
+  és 4-et hogy váltakozó mintát hozz létre.
+map.marker.linePoints.check: Ezt pipáld ki, és helyezd át az új jelölő pontot hogy
+  alkoss egy vonalat.
+pin.template.header: Általános Pontsablon
+pin.template.description: Használd ezeket a fájlokat a zip-ben, hogy a World Anvil
+  által biztosított pontokhoz hasonlókat hozz létre.
+pin.value.notzero: Bizonyosodj meg róla, hogy ez az érték nem üres vagy 0.
+guild.feature: Ez egy Céh-exkluzív funkció. Csatlakozz a  <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">1Világépítők Céhébe</a>2 , hogy használhasd
+  ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
+grandmaster.feature: Ez egy Nagymester+ funkció. Csatlakozz a  <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">1Világépítők Céhébe</a>2 , hogy használhasd
+  ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
