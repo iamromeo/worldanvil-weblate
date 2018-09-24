@@ -32,7 +32,7 @@ article.template: Modelo de artigo
 todo.status.two: O Artigo foi publicado e ainda está em fase de construção
 todo.status.three: O Artigo está completo!
 moderation: Moderação
-metadata: 'Metadados '
+metadata: Metadados
 author: Autor
 creation.date: Data de criação
 update.date: Última atualização
@@ -46,7 +46,7 @@ access.description: Sinto muito mas você não tem acesso a essa página. Isso p
 access.return: Volte por onde você veio!
 access.homepage: Ir para a Página Inicial
 visibility: Visibilidade
-public: 'Público '
+public: Público
 private: Privado
 open: Aberto
 views: Visualizações

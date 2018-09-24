@@ -19,3 +19,37 @@ studio.description.text: Az Alkotók Stúdiója nyújt otthont a World Anvil min
   testreszabási lehetőségnek. Nagymestereknek, és mindenkinek fölötte lehetősége van
   Karakterlapok, Widgetek, Egyedi Térkép Jelzők, és miegymás létrehozására, és megosztására,
   ahogy növekszünk.
+guild.required: Ehhez a funkcióhoz Céhtagnak kell lenned!
+guild.required.master: Ehhez a funkcióhoz Mester rangú vagy fölötti Céhtagnak kell
+  lenned.
+guild.required.grandmaster: Ehhez a funkcióhoz Nagymester rangú vagy fölötti Céhtagnak
+  kell lenned.
+todo.your.list: Feladatlista
+todo.status.zero: Kattints a címre hogy Létrehozz egy Cikket!
+todo.status.one: A cikk létrehozva, Publikálatlan, és még mindig Átdolgozás Alatt
+  áll
+todo.status.two: A cikk publikálva, és még mindig Átdolgozás Alatt áll
+todo.status.three: A cikk befejezve!
+notes: Jegyzetek
+moderation: Moderáció
+metadata: Metaadatok
+tags: Címkék
+article.template: Cikk sablon
+world: Világ
+category: Kategória
+author: Szerző
+creation.date: Létrehozás Dátuma
+update.date: Legutolsó Frissítés Dátuma
+visibility: Láthatóság
+public: Nyilvános
+private: Privát
+open: Nyílt
+views: Megtekintések
+favorites: Kedvencek
+comments: Megjegyzések
+wip: Átdolgozás Alatt
+access.multipass: Világjegy?
+access.description: Sajnáljuk, de nincs engedélyed megnyitni ezt az oldalt. Ez valószínűleg
+  azért van, mert az oldal privát, és nem rendelkezel a megfelelő jogokkal hogy megtekintsd.
+access.return: Térj vissza ahonnét jöttél!
+access.homepage: A Kezdőoldalra
