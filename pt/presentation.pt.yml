@@ -1,5 +1,5 @@
-world.anvil.header: Ferramentas, Construção de mundo, Plataforma e Comunidade de World
-  Anvil
+world.anvil.header: World Anvil, Ferramentas, Plataforma e Comunidade de Criação de
+  mundos
 world.anvil.description: World Anvil é uma plataforma de ferramentas para Woldbuilding
   e uma comunidade de escritores, narradores de RPG e amantes de criação de mundos
 account.create: Crie sua conta
@@ -42,3 +42,38 @@ article.visibility: Este artigo é visível para os seguintes grupos de membros
 author.notes: Notas do Autor
 players.looking: Procurando por jogadores
 players.full: A campanha está cheia
+followers: Seguidores
+campaigns: Campanhas
+secrets: Segredos
+maps: Mapas
+articles: Artigos
+authors: Autores
+author.page: Página do Autor
+author.since: Membro desde
+author.interests: Interesses e Hobbies
+author.movies: Filmes Favoritos
+author.tv: Séries de TV Favoritas
+author.books: Livros Favoritos
+author.writers: Escritores Favoritos
+author.games: Jogos Favoritos
+author.comments: Comentários e Feedback
+author.worlds: Mundos
+author.characters: Personagens
+author.badges: Medalhas
+history: Histórico/História
+type: Tipo
+condition.transmission: Transmissão e Vetores
+condition.causes: Causas
+condition.symptoms: Sintomas
+condition.treatment: Tratamento
+condition.prognosis: Prognóstico
+condition.sequela: Sequela
+condition.affectedgroups: Grupos Afetados
+condition.hosts: Hospedeiros e Portadores
+condition.prevention: Prevenção
+condition.epidimiology: Epidemiologia
+condition.reception: Recepção Cultural
+condition.origin: Origem
+condition.cycle: Ciclo
+condition.rarity: Raridade
+condition.species: Espécies Afetadas
