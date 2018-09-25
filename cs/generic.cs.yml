@@ -46,3 +46,4 @@ access.description: Je nám líto ale k této stránce nemáš přístup. Člán
   soukromý a ty nemáš dostatečná oprávnění k jeho zobrazení.
 access.return: Vrať se, odkud jsi přišel!
 access.homepage: Přejít na domovskou stránku
+todo.status.zero: Kliknutím na název vytvoříš článek
