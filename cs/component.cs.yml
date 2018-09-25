@@ -265,3 +265,13 @@ map.marker.lineWeight: Pozice čáry
 map.marker.lineOpacity: Neprůhlednost čáry
 map.marker.lineOpacity.description: Neprůhlednost čáry v procentech. Použij čísla
   od 0 do 100 % (např. 50%).
+pin.template.header: Standardní šablona špendlíku
+pin.template.description: Za pomoci souborů v této složce zip můžeš vytvářet špendlíky
+  jako jsou ty poskytnuté World Anvil.
+pin.value.notzero: Prosím, ujisti se, že je tato hodnota zadána nebo není 0.
+guild.feature: Tato možnost je dostupná pouze Členům cechu. K získání přístupu se
+  přidej k <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
+  tvůrců světů (WBG)</a> a podílej se na rozvoji World Anvil.
+grandmaster.feature: Tato možnost je dostupná pouze členům s úrovní Velmistr a vyšší.
+  K získání přístupu se přidej k <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
+  tvůrců světů (WBG)</a> a podílej se na rozvoji World Anvil.
