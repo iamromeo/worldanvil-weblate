@@ -136,9 +136,9 @@ map.marker.height: Höhe
 map.marker.drag: Ziehe mich, um die Koordinaten des neuen Markers zu setzen
 map.marker.fill: Spitze! Fülle jetzt das untere Formular aus!
 guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete der <a\
-  \ class=\"m-t-10 text-pink\" href=\"{{ path('app_membership')}}\">Weltenbauer Gilde</a>\
-  \ bei, um Mitgliedsgruppen \n gezielt Zugriff auf von dir gewählte Inhalte zu geben\
-  \ und gleichzeitig den Entwicklern von World Anvil zu helfen."
+  \ class=\"m-t-10 text-pink\" href=\"/worldbuilders-guild-membership\">Weltenbauer\
+  \ Gilde</a> bei, um Mitgliedsgruppen \n gezielt Zugriff auf von dir gewählte Inhalte\
+  \ zu geben und gleichzeitig den Entwicklern von World Anvil zu helfen."
 guild.subscriber.groups: Mitgliedsgruppen erlauben es der <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Weltenbauer Gilde</a>, lesenden Zugriff auf private
   Artikel an die Mitglieder der Gruppe zu vergeben.
@@ -258,8 +258,7 @@ map.marker.group.onload.description: Diese Gruppe ist sichtbar direkt beim Laden
 map.layers.max: 'Die maximale Anzahl an Layern für diesen Account wurde erreicht!
   Um weitere Layer nutzen zu können, werte deinen Account bitte auf!
 
-  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Gilde</a>'
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbauer Gilde</a>'
 map.marker.linePoints: Linienpunkte
 map.marker.linePoints.description: Breite und Länge jedes Punktes als ein kommagetrenntes
   Paar und jedes Paar durch ein Leerzeichen getrennt. Zum Beispiel 20,20 30,30 50,45.
