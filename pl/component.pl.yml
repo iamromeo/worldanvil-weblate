@@ -279,6 +279,6 @@ pin.value.notzero: Upewnij się, że wartość nie jest pusta lub nie wynosi 0.
 guild.feature: Funkcja tylko dla Gildii. Przyłącz się do <a class="m-t-10 text-pink"
   href="/worldbuilders-guild-membership">Gildii Światotwórców</a> by uzyskać dostęp
   do tej funkcji i pomóc rozwijać World Anvil.
-grandmaster.feature: To jest poziom funkcji tylko dla Grandmaster+. Dołącz do <a class="m-t-10
-  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> by mieć
-  dostęp do tej funkcji i pomóc rozwijać World Anvil.
+grandmaster.feature: Funkcja tylko dla członków o randze Arcymistrz+. Przyłącz się
+  do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildii Światotwórców</a>
+  by uzyskać dostęp do tej funkcji i pomóc rozwijać World Anvil.
