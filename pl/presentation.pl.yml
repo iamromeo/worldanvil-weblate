@@ -25,3 +25,9 @@ follow.action.add.description: Obserwuj by mieć łatwiejszy dostęp do wszystki
   napisanych przez pisarzy w tym świecie!
 like.action.add.description: Daj znać autorowi, że lubisz jego pracę. Ten artykuł
   NIE będzie dodany do twojej kolekcji "do przeczytania"
+like.action.remove: USUŃ POLUBIENIE
+like.action.add: POLUB
+reading.action.remove: USUŃ Z LISTY CZYTANYCH
+reading.action.add: DODAJ DO LISTY CZYTANYCH
+reading.action.add.description: Dodaj ten artykuł to twojej listy przeczytaj-później/zapiany.
+  Autor NIE będzie poinformowany.
