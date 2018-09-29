@@ -248,3 +248,11 @@ map.marker.group.description: Grupy znaczników pozwalają zorganizować twoje z
   i warstwy mapy w kategorie, które możesz włączać, wyłączać i których widocznością
   możesz zarządzać (jeśli jesteś członkiem gildii). W przypadku warstw, może to zostać
   użyte do wyświetlania informacji lub ukrywania grup znaczników przed twoimi czytelnikami.
+map.marker.group.onload: Pierwotna widoczność Grupy
+map.marker.group.onload.description: Uczyń grupę widoczną podczas pierwszego ładowania
+  mapy
+map.layers.max: 'Osiągnąłeś maksymalną ilość warstw, którą możesz mieć na koncie!
+  Jeśli chcesz więcej warstw na mapie, proszę rozważyć ulepszenie!
+
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a>'
