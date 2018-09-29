@@ -259,3 +259,7 @@ map.marker.linePoints.description: 'Długość i Szerokość Geograficzna każde
 map.marker.lineColor.description: Kolor linii. Możesz korzystać z kolorów zdefiniowanych
   w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego koloru włącznie
   ze znakiem hash na początku kodu.
+map.marker.linePoints: Punkty linii
+map.marker.lineColor: Kolor Linii
+map.marker.lineWeight: Grubość Linii
+map.marker.lineWeight.description: Grubość linii określa się w pikselach
