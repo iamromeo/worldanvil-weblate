@@ -35,3 +35,10 @@ todo.status.two: Ten artykuł został opublikowany, ale prace nadal trwają.
 article.template: Szablon artykułu
 creation.date: Data utworzenia
 update.date: Data ostatniej modyfikacji
+todo.status.three: Ten artykuł został ukończony!
+metadata: Metadane
+visibility: Widoczność
+public: Publiczne
+private: Prywatne
+open: Otwórz
+views: Oglądane
