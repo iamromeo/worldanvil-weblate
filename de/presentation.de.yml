@@ -36,5 +36,9 @@ like.action.add.description: Lass den Autor wissen dass dir seine Arbeit gefäll
   Dieser Artikel wird NICHT zu deiner Leseliste hinzugefügt.
 reading.action.remove: ENTFERNE VON LESELISTE
 reading.action.add: FÜGE ZUR LESELISTE HINZU
-reading.action.add.description: Füge diesen Artikel zu deiner gespeicherten später-lesen
-  Kollektion hinzu. Der Autor wird NICHT benachrichtigt.
+reading.action.add.description: Füge diesen Artikel zu deiner gespeicherten Leseliste
+  hinzu. Der Autor wird NICHT benachrichtigt.
+goto.homepage: Gehe zur Homepage von %name%
+article.love: Leute, denen dein Artikel gefallen hat
+article.love.return: Gib ihnen etwas Liebe zurück!
+article.likes.number: Dieser Post gefällt %number% Weltenschmieden
