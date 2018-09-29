@@ -34,3 +34,7 @@ like.action.remove: MAG ICH NICHT MEHR
 like.action.add: ICH MAG DAS
 like.action.add.description: Lass den Autor wissen dass dir seine Arbeit gefällt.
   Dieser Artikel wird NICHT zu deiner Leseliste hinzugefügt.
+reading.action.remove: ENTFERNE VON LESELISTE
+reading.action.add: FÜGE ZUR LESELISTE HINZU
+reading.action.add.description: Füge diesen Artikel zu deiner gespeicherten später-lesen
+  Kollektion hinzu. Der Autor wird NICHT benachrichtigt.
