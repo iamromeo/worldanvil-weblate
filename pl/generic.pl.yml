@@ -21,3 +21,13 @@ studio.description.text: Studio Twórców to miejsce, w którym odbywa się wsze
 world: Świat
 category: Kategoria
 author: Autor
+guild.required: Ta opcja wymaga członkostwa w Gildii!
+guild.required.master: Ta opcja wymaga członkostwa w Gildii na poziomie od Mistrza
+  wzwyż.
+guild.required.grandmaster: Ta opcja wymaga członkostwa w Gildii, od poziomu Wielkiego
+  Mistrza wzwyż.
+todo.your.list: Lista rzeczy do zrobienia.
+todo.status.zero: Kliknij na tytuł by stworzyć artykuł!
+todo.status.one: Ten artykuł został stworzony, ale nie został opublikowany i prace
+  nad nim dalej trwają.
+todo.status.two: Ten artykuł został opublikowany, ale prace nadal trwają.
