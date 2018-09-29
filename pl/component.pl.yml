@@ -180,8 +180,8 @@ map.thumbnail: Miniatura
 map.zoom.initial: Początkowy poziom przybliżenia
 map.zoom.initial.description: Ustaw jak przybliżona będzie mapa przy pierwszym załadowaniu.
   (Domyślnie 0)
-map.zoom.min: Minimalne Możliwe Przybliżenie
-map.zoom.max: Maksymalne Możliwe Przybliżenie
+map.zoom.min: Minimalne możliwe przybliżenie
+map.zoom.max: Maksymalne możliwe przybliżenie
 map.zoom.max.description: Jak bardzo możesz przybliżyć mapę. 0 oznacza przybliżenie
   1:1 wymiarów mapy. Wszystko powyżej 0 sprawi, że przy większych wartościach przybliżenia
   obraz może wydawać się rozmyty. (Domyślnie 0)
@@ -194,8 +194,8 @@ map.marker.lng: Dł
 map.marker.lat: Szer
 map.marker.label: Tekst Etykiety
 map.marker.radius: Promień Okręgu
-map.marker.radius.description: Promień Koła w pikselach. Wypełnij to tylko jeśli chcesz
-  stworzyć koło, a nie wielokąt.
+map.marker.radius.description: Promień Okręgu w pikselach. Wypełnij to tylko jeśli
+  chcesz stworzyć okrąg, a nie wielokąt.
 map.marker.link.relation.description: Wybierz jedno z poniższych powiązań, aby połączyć
   z nim bezpośredni link. Jeżeli wybierzesz więcej niż jedno, tylko pierwsze będzie
   obowiązywać.
@@ -272,13 +272,13 @@ map.marker.lineDash.description: To zaawansowana opcja. Użyj jej aby zdefiniowa
   Możesz też zapisać po prostu 8 lub 1 2 3 4 aby uzyskać różnorodne odstępy między
   częściami linii.
 map.marker.linePoints.check: Zaznacz to i przeciągnij nowy znacznik aby utworzyć linię.
-pin.template.header: Standardowy Szablon Pinezek
+pin.template.header: Standardowy szablon Pinezek
 pin.template.description: Użyj zawartych w tym archiwum plików aby utworzyć pinezki
   podobne do tych, które zostały zatwierdzone przez World Anvil.
-pin.value.notzero: Upewnij się, że wartość nie jest pusta lub nie wynosi 0.
+pin.value.notzero: Upewnij się, że wartość nie jest pusta i nie wynosi 0.
 guild.feature: Funkcja tylko dla Gildii. Przyłącz się do <a class="m-t-10 text-pink"
   href="/worldbuilders-guild-membership">Gildii Światotwórców</a> by uzyskać dostęp
   do tej funkcji i pomóc rozwijać World Anvil.
-grandmaster.feature: Funkcja tylko dla członków o randze Arcymistrz+. Przyłącz się
-  do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildii Światotwórców</a>
-  by uzyskać dostęp do tej funkcji i pomóc rozwijać World Anvil.
+grandmaster.feature: Funkcja tylko dla członków o randze Wielki Mistrz+. Przyłącz
+  się do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildii
+  Światotwórców</a> by uzyskać dostęp do tej funkcji i pomóc rozwijać World Anvil.
