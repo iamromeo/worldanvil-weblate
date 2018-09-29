@@ -41,4 +41,12 @@ visibility: Widoczność
 public: Publiczne
 private: Prywatne
 open: Otwórz
-views: Oglądane
+views: Wyświetlenia
+notes: Notatki
+moderation: Moderacja
+tags: Tagi
+access.multipass: Multipass?
+access.description: Niestety nie masz dostępu do tej strony. Prawdopodobnie artykuł
+  jest prywatny, a ty nie masz odpowiednich wymagań, aby go zobaczyć.
+access.return: Wróć skąd przyszedłeś!
+access.homepage: Wróć do strony głównej
