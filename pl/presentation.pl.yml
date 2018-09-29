@@ -37,4 +37,41 @@ article.likes.number: Ten wpis został polubiony przez %number% światotwórców
 article.visibility: Ten artykuł jest widoczny dla poniższych grup subskrybentów
 article.love: Ludzie, którzy kochają twój artykuł
 author.notes: Notatki Autora
-players.looking: Poszukiwanie Graczy
+players.looking: Szuka Graczy
+timeline: Oś czasu
+timelines: Osie czasu
+followers: Obserwujący
+campaigns: Kampanie
+secrets: Sekrety
+maps: Mapy
+articles: Artykuły
+authors: Autorzy
+author.page: Strona Autora
+author.since: Członek od
+author.interests: Hobby i Zainteresowania
+author.movies: Ulubione Filmy
+author.tv: Ulubione Seriale
+author.books: Ulubione Książki
+author.writers: Ulubieni Pisarze
+author.games: Ulubione Gry
+author.comments: Komentarze i Opinie
+author.worlds: Światy
+author.characters: Postacie
+author.badges: Odznaki i Medale
+history: Historia
+type: Rodzaj
+condition.transmission: Rozprzestrzenianie i Nosiciele
+condition.causes: Przyczyny
+condition.symptoms: Symptomy
+condition.treatment: Leczenie
+condition.prognosis: Rokowanie
+condition.sequela: Następstwa
+condition.affectedgroups: Dotknięte Grupy
+condition.hosts: Gospodarze i Nosiciele
+condition.prevention: Zapobieganie
+condition.epidimiology: Epidemiologia
+condition.reception: Odbiór Kulturowy
+condition.origin: Źródło
+condition.cycle: Cykl
+condition.rarity: Rzadkość
+condition.species: Dotknięte Gatunki
