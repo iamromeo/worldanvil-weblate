@@ -41,4 +41,29 @@ reading.action.add.description: Füge diesen Artikel zu deiner gespeicherten Les
 goto.homepage: Gehe zur Homepage von %name%
 article.love: Leute, denen dein Artikel gefallen hat
 article.love.return: Gib ihnen etwas Liebe zurück!
-article.likes.number: Dieser Post gefällt %number% Weltenschmieden
+article.likes.number: Dieser Post gefällt %number% Weltenbauern
+article.visibility: Dieser Artikel ist sichtbar für die folgenden Subscriber Gruppen
+author.notes: Autorennotiz
+players.looking: Sucht nach Spielern
+players.full: Die Kampagne ist voll
+authors: Autoren
+author.page: Autorenseite
+author.since: Mitglied seit
+author.interests: Interessen & Hobbies
+author.movies: Lieblingsfilme
+author.tv: Lieblings Fernsehserien
+author.books: Lieblingsbücher
+author.writers: Lieblingsautoren
+author.games: Lieblingsspiele
+author.comments: Kommentare & Rückmeldungen
+author.worlds: Welten
+author.characters: Charaktere
+author.badges: Abzeichen & Medallien
+history: Geschichte
+type: Typ
+condition.transmission: Übertragung & Vektoren
+condition.causes: Ursachen
+condition.symptoms: Symptome
+condition.treatment: Behandlung
+condition.prognosis: Prognose
+condition.sequela: Sekundäre Krankheiten
