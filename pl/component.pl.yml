@@ -221,7 +221,7 @@ pin.pinImage: Obraz Pinezki
 pin.shadow: Obraz Cienia Pinezki
 pin.shadow.description: Opcjonalny obraz cienia pinezki. Musi być szerszy niż obraz
   pinezki i wychodzić za jego prawą krawędź.
-pin.iconAnchor.description: Punkt Zakotwiczenia to piksel w którym twój marker styka
+pin.iconAnchor.description: Punkt Zakotwiczenia to piksel w którym twój znacznik styka
   się z mapą. Zazwyczaj jest to punkt 0X oraz Y równe połowie szerokości znacznika.
 pin.iconAnchorX: Punkt Zakotwiczenia X (w pikselach)
 pin.iconAnchorY: Punkt Zakotwiczenia Y (w pikselach)
@@ -262,4 +262,20 @@ map.marker.lineColor.description: Kolor linii. Możesz korzystać z kolorów zde
 map.marker.linePoints: Punkty linii
 map.marker.lineColor: Kolor Linii
 map.marker.lineWeight: Grubość Linii
-map.marker.lineWeight.description: Grubość linii określa się w pikselach
+map.marker.lineWeight.description: Grubość linii określona w pikselach.
+map.marker.lineOpacity: Nieprzezroczystość Linii
+map.marker.lineOpacity.description: Procentowa nieprzezroczystość linii. Od 0 do 100%
+  (np. 50)
+map.marker.lineDash: Odstępy linii przerywanej
+map.marker.lineDash.description: To zaawansowana opcja. Użyj jej aby zdefiniować wzór
+  przerywania linii. Przykładowo, 8 8 oznacza 8 pikseli w linii i 8 pikseli przerwy.
+  Możesz też zapisać po prostu 8 lub 1 2 3 4 aby uzyskać różnorodne odstępy między
+  częściami linii.
+map.marker.linePoints.check: Zaznacz to i przeciągnij nowy znacznik aby utworzyć linię.
+pin.template.header: Standardowy Szablon Pinezek
+pin.template.description: Użyj zawartych w tym archiwum plików aby utworzyć pinezki
+  podobne do tych, które zostały zatwierdzone przez World Anvil.
+pin.value.notzero: Upewnij się, że wartość nie jest pusta lub nie wynosi 0.
+guild.feature: Funkcja tylko dla Gildii. Przyłącz się do <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Gildii Światotwórców</a> by uzyskać dostęp
+  do tej funkcji i pomóc rozwijać World Anvil.
