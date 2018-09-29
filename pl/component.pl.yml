@@ -243,3 +243,9 @@ map.marker.link.description: Jeśli ustawisz znacznik jako znacznik linku bezpo�
   kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
 related.article: Powiązany Artykuł
 related.history: Powiązane Wydarzenie historyczne
+line: Linia
+map.marker.group.description: Grupy markerów pozwalają zorganizować twoje markery
+  i warstwy mapy w kategorie, które możesz włączać i wyłączać jak również zarządzać
+  ich widocznością (jeśli jesteś członkiem gildii). Jeśli chodzi o warstwy może to
+  być użyte do wyświetlania różnych informacji lub jeśli wolisz ukrywania grup markerów
+  przed twoimi czytelnikami
