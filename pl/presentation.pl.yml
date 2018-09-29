@@ -21,5 +21,7 @@ following: Obseruje %name%
 follow: Obserwuj %name%
 follow.action.remove: PRZESTAŃ OBSERWOWAĆ
 follow.action.add: OBSERWUJ
-follow.action.add.description: 'Obserwuj by mieć na swoim strimie wszystkie artykuły
-  napisane przez pisarzy w tym świecie! '
+follow.action.add.description: Obserwuj by mieć łatwiejszy dostęp do wszystkich artykułów
+  napisanych przez pisarzy w tym świecie!
+like.action.add.description: Daj znać autorowi, że lubisz jego pracę. Ten artykuł
+  NIE będzie dodany do twojej kolekcji "do przeczytania"
