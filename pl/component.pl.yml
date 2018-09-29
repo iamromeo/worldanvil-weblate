@@ -202,8 +202,7 @@ map.marker.link.relation.description: Wybierz jedno z poniższych powiązań, ab
 map.marker.polygonPoints: Wierzchołki Wielokąta
 map.marker.polygonPoints.description: 'Długość i Szerokość Geograficzna każdego wierzchołka
   jako przedzielona przecinkiem para, oddzielona od każdego kolejnego spacją. Przykładowo:
-  20,20 30,30 50,45. Wskazówka! Wykorzystaj czerwony znacznik "nowy wierzchołek" aby
-  poznać dł./szer.'
+  20,20 30,30 50,45. Wskazówka! Użyj czerwonej pinezki "nowy punkt" by uzyskać dł./szer.'
 map.marker.colorOutline: Kolor Konturu
 map.marker.colorOutline.description: Kolor konturu koła lub wielokąta. Możesz korzystać
   z kolorów zdefiniowanych w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego
@@ -251,8 +250,16 @@ map.marker.group.description: Grupy znaczników pozwalają zorganizować twoje z
 map.marker.group.onload: Pierwotna widoczność Grupy
 map.marker.group.onload.description: Uczyń grupę widoczną podczas pierwszego ładowania
   mapy
-map.layers.max: 'Osiągnąłeś maksymalną ilość warstw, którą możesz mieć na koncie!
-  Jeśli chcesz więcej warstw na mapie, proszę rozważyć ulepszenie!
-
-  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
-  Guild</a>'
+map.layers.max: Osiągnąłeś maksymalną ilość warstw, którą możesz mieć na koncie! Jeśli
+  chcesz więcej warstw na mapie, rozważ ulepszenie! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildia
+  Światotwórców</a>
+map.marker.linePoints.description: 'Długość i Szerokość Geograficzna każdego wierzchołka
+  jako przedzielona przecinkiem para, oddzielona od każdego kolejnego spacją. Przykładowo:
+  20,20 30,30 50,45. Wskazówka! Użyj czerwonej pinezki "nowy punkt" by uzyskać dł./szer.'
+map.marker.lineColor.description: Kolor linii. Możesz korzystać z kolorów zdefiniowanych
+  w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego koloru włącznie
+  ze znakiem hash na początku kodu.
+map.marker.linePoints: Punkty linii
+map.marker.lineColor: Kolor Linii
+map.marker.lineWeight: Grubość Linii
+map.marker.lineWeight.description: Grubość linii określa się w pikselach
