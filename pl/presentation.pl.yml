@@ -24,10 +24,14 @@ follow.action.add: OBSERWUJ
 follow.action.add.description: Obserwuj by mieć łatwiejszy dostęp do wszystkich artykułów
   napisanych przez pisarzy w tym świecie!
 like.action.add.description: Daj znać autorowi, że lubisz jego pracę. Ten artykuł
-  NIE będzie dodany do twojej kolekcji "do przeczytania"
+  NIE będzie dodany do twojej listy do-przeczytania
 like.action.remove: USUŃ POLUBIENIE
 like.action.add: POLUB
-reading.action.remove: USUŃ Z LISTY CZYTANYCH
-reading.action.add: DODAJ DO LISTY CZYTANYCH
-reading.action.add.description: Dodaj ten artykuł to twojej listy przeczytaj-później/zapiany.
-  Autor NIE będzie poinformowany.
+reading.action.remove: USUŃ Z LISTY DO PRZECZYTANIA
+reading.action.add: DODAJ DO LISTY DO PRZECZYTANIA
+reading.action.add.description: Dodaj ten artykuł to twojej listy do-przeczytania/zapianych
+  artykułów. Autor NIE będzie poinformowany.
+goto.homepage: Przejdź do strony głównej %name%
+article.love.return: Odwdzięcz się swoją miłością!
+article.likes.number: Ten wpis został polubiony przez %number% światotwórców
+article.visibility: Ten artykuł jest widoczny dla poniższych grup subskrybentów
