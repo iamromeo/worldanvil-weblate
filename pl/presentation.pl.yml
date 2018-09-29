@@ -13,4 +13,11 @@ recent.articles: Ostatnie Artykuły
 uncategorized.articles: Nieskategoryzowane Artykuły
 tweets.by: Tweetowane przez
 twitch.live: Oglądaj na żywo na Twitchu
-support.patreon: Wspieraj projekt na Patreon'ie
+support.patreon: Wspieraj projekt na Patreonie
+support.patreon.user: Wspieraj %username% na Patreonie
+support.kofi.user: Kup %username% kawę! (Lub herbatę, albo soczek ;))
+join.discord.world: Dołącz do Discorda %worldname%!
+following: Obseruje %name%
+follow: Obserwuj %name%
+follow.action.remove: PRZESTAŃ OBSERWOWAĆ
+follow.action.add: OBSERWUJ
