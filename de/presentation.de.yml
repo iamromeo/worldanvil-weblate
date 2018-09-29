@@ -24,4 +24,13 @@ support.patreon: Unterstütze das Projekt auf Patreon
 support.patreon.user: Unterstütze %username% auf Patreon
 support.kofi.user: Kaufe %username% einen Kaffee!
 join.discord.world: Tritt dem Discord von %worldname% bei!
-following: Folge %name%
+following: '%name% abonniert'
+follow: '%name% abonnieren'
+follow.action.remove: ABBESTELLEN
+follow.action.add: ABONNIEREN
+follow.action.add.description: Abonnieren, um in deinem Stream alle Artikel geschrieben
+  von den Autoren in dieser Welt angezeigt zu bekommen!
+like.action.remove: MAG ICH NICHT MEHR
+like.action.add: ICH MAG DAS
+like.action.add.description: Lasse den Autoren wissen dass dir seine Arbeit gefällt.
+  Dieser Artikel wird NICHT zu deiner später-lesen Kollektion hinzugefügt.
