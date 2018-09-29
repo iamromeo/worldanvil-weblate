@@ -32,5 +32,5 @@ follow.action.add.description: Abonnieren, um in deinem Stream alle Artikel gesc
   von den Autoren in dieser Welt angezeigt zu bekommen!
 like.action.remove: MAG ICH NICHT MEHR
 like.action.add: ICH MAG DAS
-like.action.add.description: Lasse den Autoren wissen dass dir seine Arbeit gefällt.
-  Dieser Artikel wird NICHT zu deiner später-lesen Kollektion hinzugefügt.
+like.action.add.description: Lass den Autor wissen dass dir seine Arbeit gefällt.
+  Dieser Artikel wird NICHT zu deiner Leseliste hinzugefügt.
