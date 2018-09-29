@@ -60,7 +60,7 @@ author.characters: Postacie
 author.badges: Odznaki i Medale
 history: Historia
 type: Rodzaj
-condition.transmission: Rozprzestrzenianie i Nosiciele
+condition.transmission: Rozprzestrzenianie i Wektory
 condition.causes: Przyczyny
 condition.symptoms: Symptomy
 condition.treatment: Leczenie
@@ -75,4 +75,4 @@ condition.origin: Źródło
 condition.cycle: Cykl
 condition.rarity: Rzadkość
 condition.species: Dotknięte Gatunki
-players.full: Kampania jest Pełna
+players.full: Kampania jest pełna
