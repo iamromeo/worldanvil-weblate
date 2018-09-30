@@ -72,7 +72,7 @@ player.character: プレイヤーのキャラクター
 timeline: タイムライン
 layer: レイヤー
 label: ラベル
-link: 直接リンク
+link: 直リンク
 map: 地図
 marker: マーカー
 marker.group: マーカーグループ
@@ -122,8 +122,8 @@ related.location: 関連場所
 related.map: 関連地図
 related.organization: 関連団体
 BETA: BETA
-position: 順位・加重
-position.description: 加重とは、一覧の中で項目の順位を決める番号です。順位の番号が高ければ高いほど、一覧の上に上昇してきます。
+position: 順位・重み
+position.description: 重みとは、一覧の中で項目の順位を決める番号です。順位の番号が高ければ高いほど、一覧の上に上昇してきます。
 status: 区分
 status.description: この項目を公開に設定して誰でも見ることができます。非公開の項目はあなた、共著者、又、ワールドの適切な許可をもつ登録者しか見ることができません。
 access: アクセス権限
