@@ -84,9 +84,9 @@ pin: Kartan nastat
 secret: Salaisuus
 tag: Tunniste
 world: Maailma
-articles: Artikkeli
+articles: Artikkelit
 blocks: Lohko
-campaigns: Kampanja
+campaigns: Kampanjat
 categories: Luokka
 historical.entries: Historialliset tapahtumat
 images: Kuvat
@@ -96,7 +96,7 @@ maps: Kartat
 markers: Tunnukset
 marker.groups: Tunnusryhmät
 timelines: Aikajanat
-notes: Merkinnät
+notes: Merkintöjä
 secrets: Salaisuudet
 tags: Tunnisteet
 worlds: Maailmat
