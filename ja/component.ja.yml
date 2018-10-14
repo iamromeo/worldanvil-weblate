@@ -176,9 +176,9 @@ map.marker.polygonPoints: 多角形の点
 map.marker.polygonPoints.description: 各点の経度と緯度はコンマで区切られています。また、経度と緯度の一組み合わせはスペースで区切られています。例えば、20,20
   30,30 50,45。なお、赤い「新規ポイント」のピンを使って経度と緯度を取得することができ、便利です。
 map.marker.colorOutline: 輪郭線の色
-map.marker.colorOutline.description: 円・多角形の輪郭線の色です。blue、red、yellowといったCSSの色を使ってもいいですし、最初のシャープ記号を含んだ16進の色コードを使ってもいいです。
+map.marker.colorOutline.description: 円・多角形の輪郭線の色です。blue、red、yellowといったCSSの色を使ってもいいですし、シャープ記号を最初に含んだ16進の色コードを使ってもいいです。
 map.marker.colorFill: 塗りつぶしの色
-map.marker.colorFill.description: 円・多角形の中を塗りつぶしている色です。blue、red、yellowといったCSSの色を使ってもいいですし、最初のシャープ記号を含んだ16進の色コードを使ってもいいです。
+map.marker.colorFill.description: 円・多角形の中を塗りつぶしている色です。blue、red、yellowといったCSSの色を使ってもいいですし、シャープ記号を最初に含んだ16進の色コードを使ってもいいです。
 map.marker.opacityOutline: 輪郭線の不透明度
 map.marker.opacityOutline.description: 輪郭線の不透明度のパーセンテージ。0から100%まで（例えば、50）
 map.marker.opacityFill: 塗りつぶしの不透明度
