@@ -4,7 +4,7 @@ world.anvil.description: A World Anvil egy világépítő eszközplatform és k�
 account.create: Hozd létre a Fiókod
 created.by: Készítette
 powered.by: Működteti
-in: -ban/ -ben
+in: =>
 timeline: Idővonal
 timelines: Idővonalak
 toc: Tartalomjegyzék
@@ -27,7 +27,7 @@ join.discord.world: Csatlakozz %worldname% Discordjához!
 following: '%name% Követve'
 follow: Kövesd %name%
 follow.action.remove: Követés leállítása
-follow.action.add: KÖVETÉS
+follow.action.add: Követés
 follow.action.add.description: Kövesd ezt a szerzőt, hogy bekerüljenek az általa írt
   cikkek a hírfolyamodba!
 like.action.remove: Kedvelés Eltávolítása
