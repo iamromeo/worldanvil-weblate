@@ -45,3 +45,26 @@ condition.rarity: Редкость
 condition.species: Пораженные виды
 timeline: Хронология
 timelines: Хронологии
+world.anvil.description: World Anvil это платформа с инструментами для создания миров
+  и сообщество для писателей, рассказчиков историй в настольных ролевых играх и любителей
+  создавать новые миры
+account.create: Создайте Вашу учетную запись
+created.by: 'Автор - '
+powered.by: 'С помощью - '
+toc: Оглавление
+campaigns: Кампании
+secrets: Секреты
+maps: Карты
+image.gallery: Галерея изображений
+articles: Статьи
+recent.articles: Недавние статьи
+featured.articles: Избранные статьи
+uncategorized.articles: Статьи без категорий
+tweets.by: Твиты от
+twitch.live: Смотреть на Twitch
+support.patreon: Поддержать проект на Patreon
+support.patreon.user: Поддержать %username% на Patreon
+support.kofi.user: 'Купить %username% кофе
+
+  '
+join.discord.world: Присоединится к %worldname% Discord!
