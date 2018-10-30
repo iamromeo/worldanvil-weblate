@@ -1,1 +1,45 @@
-{}
+world.anvil.header: World Anvil  Сообщество и платформа с инструментарием создания
+  миров
+in: в
+follow.action.remove: ОТПИСКА
+follow.action.add: ПОДПИСКА
+follow.action.add.description: Подпишитесь, чтоб получать в ленте все статьи написанные
+  автором этого мира!
+like.action.remove: ОТОЗВАТЬ ЛАЙК
+like.action.add: ЛАЙК
+like.action.add.description: Дайте автору знать, что вам понравилась его работа. Эта
+  статья НЕ будет добавлена к вашей коллекции "прочитать позже"
+reading.action.add.description: Добавить эту статью в свой список прочесть-позже/сохраненного.
+  Автор не будет уведомлен про это.
+goto.homepage: Перейти на страницу %name%
+article.love: Люди, которым нравятся ваши статьи
+article.love.return: Давай отблагодарим их!
+article.likes.number: Этот пост лайкнуло %number% создателей миров
+author.notes: Записи автора
+players.looking: Поиск игроков
+players.full: Кампания полна
+authors: Авторы
+author.page: Страница автора
+author.since: Участник на протяжении
+author.interests: Интересы и Хобби
+author.movies: Любимые фильмы
+author.tv: Любимые сериалы
+author.books: Любимые книги
+author.writers: Любимые авторы
+author.games: Любимые игры
+author.comments: Комментарии, отзывы и предложения
+author.worlds: Миры
+author.characters: Персонажи
+author.badges: значки и медали
+history: История
+condition.causes: Причины
+condition.symptoms: Симптомы
+condition.treatment: Лечение
+condition.prognosis: Прогнозы
+condition.affectedgroups: Затронутые группы
+condition.hosts: Носители и переносчики
+condition.prevention: Профилактика
+condition.epidimiology: Эпидемиология
+condition.origin: Происхождение
+condition.rarity: Редкость
+condition.species: Пораженные виды
