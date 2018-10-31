@@ -66,7 +66,7 @@ create.secret: Создать тайну
 create.new.layer: Создать новый Слой
 create.new.secret: Создать новую Тайну
 edit.historical.entry: Редактировать Историческое Событие
-edit.layer: Изменить Слой
+edit.layer: Редактировать Слой
 edit.secret: Редактировать Тайну
 edit.world: Редактировать Мир
 delete.historical.entry: Удалить Историческое Событие
@@ -110,7 +110,7 @@ related.article: Статьи по теме
 create.marker.group: Создать Группу Маркеров
 edit.marker.group: Редактировать группу маркеров
 create.new.historical.entry: Создать новую Историческую Запись
-edit.marker: Изменить Маркер
+edit.marker: Редактировать Маркер
 delete.block: Удалить Блок
 delete.marker: Удалить Маркер
 delete.marker.group: Удалить Маркер Группы
@@ -118,10 +118,25 @@ block: Блок
 marker: Маркер
 blocks: Блоки
 markers: Маркеры
-BETA: BETA
+BETA: БЕТА
 position: Позиция/Приоритет
 position.description: Приоритет это число, определяющее, в каком порядке элементы
   появятся в списке. Чем больше значение, тем выше элемент.
 edit.timeline: Редактировать Хронологию
 delete.timeline: Удалить Хронологию
 list.timelines: Список Хронологий
+delete.pin: Удалить пин карты
+pin: Пины карты
+list.historical.entries: Список исторических происшествий
+list.marker.groups: Список маркеров групп
+list.pins: Список пинов карт
+followers: Наблюдающие
+related.history: Связанные исторические происшествия
+status.description: Сделайте эту запись публичной, чтоб все могли видеть ее. Приватные
+  записи видны только вам, соавторами и подписчикам получившим доступ к этому миру
+access: Доступ
+map.marker.opacityFill: Прозрачность
+map.marker.opacityFill.description: Прозрачность отображает процент прозрачности круга
+  или полигона. От 0 до 100% (обычно 50)
+pin.pinImage: Припиненное изображение
+pin.shadow: Припинить затененное изображение
