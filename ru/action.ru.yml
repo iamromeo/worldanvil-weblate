@@ -12,6 +12,13 @@ edit.map: Редактировать Карту
 edit.profile: Редактировать профиль
 logout: Выход
 delete.map: Удалить Карту
-view: ''
+view: Просмотр
 edit.and.play: Редактировать и играть
 login: Авторизация
+world.view: Посмотреть мир
+browse: Загрузить
+download: Скачать
+register: Создать себе учетную запись
+view.map: Просмотреть карту
+view.profile: Просмотреть Профиль
+check.out: Посмотреть
