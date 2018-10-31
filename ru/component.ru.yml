@@ -107,3 +107,5 @@ list.blocks: Список блоков
 list.player.characters: Список персонажей игроков
 list.markers: Список маркеров
 related.article: Статьи по теме
+create.marker.group: Создать Группу Маркеров
+edit.marker.group: Редактировать группу маркеров
