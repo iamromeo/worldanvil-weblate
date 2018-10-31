@@ -109,3 +109,16 @@ list.markers: Список маркеров
 related.article: Статьи по теме
 create.marker.group: Создать Группу Маркеров
 edit.marker.group: Редактировать группу маркеров
+create.new.historical.entry: Создать новую Историческую Запись
+edit.marker: Изменить Маркер
+delete.block: Удалить Блок
+delete.marker: Удалить Маркер
+delete.marker.group: Удалить Маркер Группы
+block: Блок
+marker: Маркер
+blocks: Блоки
+markers: Маркеры
+BETA: BETA
+position: Позиция/Приоритет
+position.description: Приоритет это число, определяющее, в каком порядке элементы
+  появятся в списке. Чем больше значение, тем выше элемент.
