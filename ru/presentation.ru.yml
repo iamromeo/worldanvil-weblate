@@ -49,8 +49,8 @@ world.anvil.description: World Anvil это платформа с инструм
   и сообщество для писателей, рассказчиков историй в настольных ролевых играх и любителей
   создавать новые миры
 account.create: Создайте Вашу учетную запись
-created.by: 'Автор - '
-powered.by: 'С помощью - '
+created.by: Автор -
+powered.by: С помощью -
 toc: Оглавление
 campaigns: Кампании
 secrets: Секреты
@@ -64,7 +64,11 @@ tweets.by: Твиты от
 twitch.live: Смотреть на Twitch
 support.patreon: Поддержать проект на Patreon
 support.patreon.user: Поддержать %username% на Patreon
-support.kofi.user: 'Купить %username% кофе
-
-  '
+support.kofi.user: Купить %username% кофе!
 join.discord.world: Присоединится к %worldname% Discord!
+followers: Наблюдающие
+reading.action.remove: удалить из списка читаемого
+reading.action.add: добавить в список читаемого
+article.visibility: Эта статья видна таким группам подписчиков.
+condition.sequela: Осложнения
+condition.cycle: Цикл
