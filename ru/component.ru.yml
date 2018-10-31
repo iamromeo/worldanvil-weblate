@@ -76,5 +76,52 @@ historical.entry: Историческое Событие
 layer: Слой
 secret: Тайна
 historical.entries: Исторические События
-secrets: Тайны
+secrets: Секреты
 list.secrets: Список Тайн
+create.marker: Создать маркер
+create.pin: Создать пин на карте
+create.new.block: Созадать новый Блок
+create.new.timeline: Создать новую хронологию
+create.new.marker: Создать новый маркер
+create.new.marker.group: Создать новый маркер группы
+create.new.pin: Создать новый пин на Карте
+edit.block: Изменить блок
+edit.pin: Редактировать пин на карте
+delete.player.character: Удалить Персонажа Игрока
+circle: Круг
+line: Линия
+player.character: Персонаж игрока
+timeline: Хронология
+label: Бирка
+marker.group: Маркер группы
+polygon: Полигон
+popup: Всплывающее окно
+tag: Тег
+articles: Статьи
+player.characters: Персонажи игроков
+marker.groups: Группы маркеров
+timelines: Хронологии
+tags: Теги
+list.articles: Список статей
+list.blocks: Список блоков
+list.player.characters: Список персонажей игроков
+list.markers: Список маркеров
+related.article: Статьи по теме
+create.marker.group: Создать Группу Маркеров
+edit.marker.group: Редактировать группу маркеров
+create.new.historical.entry: Создать новую Историческую Запись
+edit.marker: Изменить Маркер
+delete.block: Удалить Блок
+delete.marker: Удалить Маркер
+delete.marker.group: Удалить Маркер Группы
+block: Блок
+marker: Маркер
+blocks: Блоки
+markers: Маркеры
+BETA: BETA
+position: Позиция/Приоритет
+position.description: Приоритет это число, определяющее, в каком порядке элементы
+  появятся в списке. Чем больше значение, тем выше элемент.
+edit.timeline: Редактировать Хронологию
+delete.timeline: Удалить Хронологию
+list.timelines: Список Хронологий
