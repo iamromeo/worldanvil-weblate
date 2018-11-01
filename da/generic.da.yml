@@ -18,3 +18,10 @@ studio.description.header: Hvad er skaberens studie
 studio.description.text: Skaberens studie er stedet til alle avancerede tilpasninger
   i World Anvil. Grandmasters, og roller der over, vil havde mulighed for at skabe
   og dele karakter ark, Widgets, tilpasning af kort og meget mere jo større vi bliver.
+guild.required: 'Denne funktion kræver Guild medlemskab '
+guild.required.master: 'Denne funktion kræver et Gulid medlemskab som Master eller
+  roller derover '
+guild.required.grandmaster: 'Denne funktion kræver et Gulid medlemskab som Grandmaster
+  eller roller derover '
+todo.your.list: To-Do Liste
+todo.status.zero: klik på titlen for at lave en artikel
