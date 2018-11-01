@@ -28,3 +28,19 @@ todo.status.zero: klik på titlen for at lave en artikel!
 todo.status.one: Artiklen er lavet, ikke publiceret og bliver stadig arbejdet på
 todo.status.two: 'Artiklen er publiceret og bliver stadig arbejdet på '
 todo.status.three: Artiklen er færdig!
+notes: Noter
+metadata: Metadata
+tags: Tags
+article.template: 'Artikel skabelon '
+world: Verden
+category: 'Kategori '
+author: 'Forfatter '
+creation.date: Oprettelsesdato
+update.date: Sidste opdaterings dato
+visibility: 'Synlighed '
+public: 'Offentlig '
+private: 'Privat '
+open: Åben
+views: Visninger
+favorites: Favoritter
+comments: Kommentar
