@@ -45,3 +45,8 @@ views: Visninger
 favorites: Favoritter
 comments: Kommentarer
 wip: Arbejde der er i gang
+access.description: Beklager men du har ikke adgang til denne side. Dette er formentlig
+  grundet at artiklen er privat og at du ikke har de nødvendige rettigheder til at
+  se den.
+access.return: Gå tilbage hvor du kom fra!
+access.homepage: Gå til start side
