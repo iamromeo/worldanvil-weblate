@@ -18,28 +18,28 @@ studio.description.header: Hvad er skaberens studie
 studio.description.text: Skaberens studie er stedet til alle avancerede tilpasninger
   i World Anvil. Grandmasters, og roller der over, vil havde mulighed for at skabe
   og dele karakter ark, Widgets, tilpasning af kort og meget mere jo større vi bliver.
-guild.required: 'Denne funktion kræver Guild medlemskab '
-guild.required.master: 'Denne funktion kræver et Gulid medlemskab som Master eller
-  roller derover '
-guild.required.grandmaster: 'Denne funktion kræver et Gulid medlemskab som Grandmaster
-  eller roller derover '
+guild.required: Denne funktion kræver Guild medlemskab!
+guild.required.master: Denne funktion kræver et Gulid medlemskab som Master eller
+  roller derover.
+guild.required.grandmaster: Denne funktion kræver et Gulid medlemskab som Grandmaster
+  eller roller derover.
 todo.your.list: To-Do Liste
 todo.status.zero: klik på titlen for at lave en artikel!
 todo.status.one: Artiklen er lavet, ikke publiceret og bliver stadig arbejdet på
-todo.status.two: 'Artiklen er publiceret og bliver stadig arbejdet på '
+todo.status.two: Artiklen er publiceret og bliver stadig arbejdet på
 todo.status.three: Artiklen er færdig!
 notes: Noter
 metadata: Metadata
 tags: Tags
-article.template: 'Artikel skabelon '
+article.template: Artikel skabelon
 world: Verden
-category: 'Kategori '
-author: 'Forfatter '
+category: Kategori
+author: Forfatter
 creation.date: Oprettelsesdato
 update.date: Sidste opdaterings dato
-visibility: 'Synlighed '
-public: 'Offentlig '
-private: 'Privat '
+visibility: Synlighed
+public: Offentlig
+private: Privat
 open: Åben
 views: Visninger
 favorites: Favoritter
@@ -49,4 +49,4 @@ access.description: Beklager men du har ikke adgang til denne side. Dette er for
   grundet at artiklen er privat og at du ikke har de nødvendige rettigheder til at
   se den.
 access.return: Gå tilbage hvor du kom fra!
-access.homepage: Gå til start side
+access.homepage: Gå til startside
