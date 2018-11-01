@@ -31,7 +31,7 @@ reading.action.remove: FJERN FRA LÆSELISTE
 reading.action.add: TILFØJ TIL LÆSELISTE
 reading.action.add.description: Tilføj denne artikel til din læs senere/gemte artikler
   liste. Forfatteren vil ikke kunne se det.
-article.love: Folk som elskede din artikel
+article.love: Folk som elsker din artikel
 article.love.return: Giv noget kærlighed tilbage!
 author.notes: Forfatterens Notater
 authors: Forfattere
@@ -60,3 +60,12 @@ world.anvil.header: 'World Anvil, værktøjs platform og Fællesskab til at skab
 powered.by: Drevet af
 tweets.by: Tweets af
 join.discord.world: Tilslut dig %worldname% Discord!
+following: Følger %name%
+follow.action.add.description: Følg for at få alle denne forfatters artikler i denne
+  verden, i din strøm
+goto.homepage: Gå til %name% hjemmeside
+article.likes.number: Dette indlæg har %number% verdenskabere syntes godt om
+article.visibility: 'Denne artikel er synlig for de følgende abonnent grupper '
+players.looking: 'Leder efter spillere '
+players.full: 'Kampagne er fuld '
+author.badges: mærker & medaljer
