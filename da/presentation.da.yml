@@ -69,3 +69,9 @@ article.visibility: Denne artikel er synlig for de følgende abonnent grupper
 players.looking: Leder efter spillere
 players.full: Kampagne er fuld
 author.badges: Mærker & medaljer
+history: 'Historie '
+condition.affectedgroups: 'Påvirkede grupper '
+condition.hosts: Værter & bærere
+condition.prevention: Forebyggelse
+condition.reception: Kulturel modtagelse
+condition.rarity: Sjældenhed
