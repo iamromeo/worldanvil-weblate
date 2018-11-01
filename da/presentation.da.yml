@@ -56,16 +56,16 @@ condition.epidimiology: Epidemiologi
 condition.origin: Oprindelse
 condition.cycle: Cyklus
 condition.species: Påvirkede Arter
-world.anvil.header: 'World Anvil, værktøjs platform og Fællesskab til at skabe verdener '
+world.anvil.header: World Anvil, værktøjs platform og Fællesskab til at skabe verdener
 powered.by: Drevet af
 tweets.by: Tweets af
 join.discord.world: Tilslut dig %worldname% Discord!
 following: Følger %name%
 follow.action.add.description: Følg for at få alle denne forfatters artikler i denne
-  verden, i din strøm
+  verden, i din strøm!
 goto.homepage: Gå til %name% hjemmeside
 article.likes.number: Dette indlæg har %number% verdenskabere syntes godt om
-article.visibility: 'Denne artikel er synlig for de følgende abonnent grupper '
-players.looking: 'Leder efter spillere '
-players.full: 'Kampagne er fuld '
-author.badges: mærker & medaljer
+article.visibility: Denne artikel er synlig for de følgende abonnent grupper
+players.looking: Leder efter spillere
+players.full: Kampagne er fuld
+author.badges: Mærker & medaljer
