@@ -24,4 +24,4 @@ guild.required.master: 'Denne funktion kræver et Gulid medlemskab som Master el
 guild.required.grandmaster: 'Denne funktion kræver et Gulid medlemskab som Grandmaster
   eller roller derover '
 todo.your.list: To-Do Liste
-todo.status.zero: klik på titlen for at lave en artikel
+todo.status.zero: klik på titlen for at lave en artikel!
