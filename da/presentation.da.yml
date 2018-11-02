@@ -61,8 +61,7 @@ powered.by: Drevet af
 tweets.by: Tweets af
 join.discord.world: Tilslut dig %worldname% Discord!
 following: Følger %name%
-follow.action.add.description: Følg for at få alle denne forfatters artikler i denne
-  verden, i dit stream
+follow.action.add.description: Følg for at få alle denne verdens artikler i din stream!
 goto.homepage: 'Gå til %name% startside '
 article.likes.number: Dette indlæg har %number% verdenskabere syntes godt om
 article.visibility: Denne artikel er synlig for de følgende abonnent grupper
