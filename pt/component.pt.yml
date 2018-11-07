@@ -248,16 +248,16 @@ line: Linha
 related.article: Artigo Relacionado
 related.history: Registro Histórico Relacionado
 map.marker.group.description: Grupos de Marcadores permitem que você organize seus
-  marcadores e camadas de mapa em categorias que você pode ligar e desligar e administrar
+  marcadores e camadas do mapa em categorias que você pode ligar e desligar e administrar
   sua visibilidade (se você for um membro da guilda). Assim como camadas, elas podem
   ser usadas para mostrar diferentes informações ou esconder um conjunto de marcadores
   dos seus leitores, se desejar.
 map.marker.group.onload: Visibilidade inicial do Grupo
 map.marker.group.onload.description: Fazer esse grupo visível durante o carregamento
   inicial do mapa
-map.layers.max: Você chegou no limite máximo de camadas da sua conta! Se você quer
-  mais camadas nos seus mapas, por favor considere fazer um upgrade! <a class="m-t-10
-  text-pink" href="/worldbuilders-guild-membership">Guilda dos Worldbuilders</a>
+map.layers.max: Você chegou no limite máximo de camadas que você pode ter com sua
+  conta! Se você quer mais camadas nos seus mapas, por favor considere fazer um upgrade!
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda dos Worldbuilders</a>
 map.marker.linePoints: Pontos da Linha
 map.marker.linePoints.description: 'Longitude e Latitude de cada ponto como um par,
   separados por vírgula e separados um par do outro por um espaço. Por exemplo: 20,20
@@ -272,10 +272,10 @@ map.marker.lineOpacity: Opacidade da Linha
 map.marker.lineOpacity.description: 'A opacidade da Linha em porcentagem. De 0 a 100%
   (ex: 50)'
 map.marker.lineDash: Padrão de Pontilhado da Linha
-map.marker.lineDash.description: Essa é uma ??? avançada. Use pontilhado da linha
-  para definir o padrão de pontilhado da sua linha. Por exemplo, "8 8" significa 8
-  pixeis de linha e 8 pixeis sem linha. Mas você também pode simplesmente usar "8"
-  ou "1 2 3 4" para ter padrões variados.
+map.marker.lineDash.description: Essa é uma funcionalidade avançada para definir o
+  padrão de pontilhado da sua linha. Por exemplo, "8 8" significa 8 pixeis de linha
+  e 8 pixeis sem linha. Mas você também pode simplesmente usar "8" ou "1 2 3 4" para
+  ter padrões variados.
 map.marker.linePoints.check: Assinale isso e arraste e solte o novo marcador para
   criar uma linha.
 pin.template.header: Modelo das Marcações Padrão
