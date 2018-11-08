@@ -30,7 +30,7 @@ guild.required.grandmaster: Ta opcja wymaga członkostwa w Gildii, od poziomu Wi
 todo.your.list: Lista rzeczy do zrobienia
 todo.status.zero: Kliknij na tytuł by stworzyć artykuł!
 todo.status.one: Ten artykuł został stworzony, ale nie został opublikowany i prace
-  nad nim dalej trwają.
+  nad nim nadal trwają.
 todo.status.two: Ten artykuł został opublikowany, ale prace nad nim nadal trwają.
 article.template: Szablon artykułu
 creation.date: Data utworzenia
@@ -47,9 +47,9 @@ moderation: Moderacja
 tags: Tagi
 access.multipass: Multipass?
 access.description: Niestety nie masz dostępu do tej strony. Prawdopodobnie artykuł
-  jest prywatny, a ty nie masz odpowiednich wymagań, aby go zobaczyć.
+  jest prywatny, a ty nie masz odpowiednich uprawnień, aby go zobaczyć.
 access.return: Wróć skąd przyszedłeś!
 access.homepage: Wróć do strony głównej
 favorites: Ulubione
 comments: Komentarze
-wip: W pracy
+wip: Praca w toku
