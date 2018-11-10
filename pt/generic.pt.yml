@@ -50,6 +50,6 @@ public: Público
 private: Privado
 open: Aberto
 views: Visualizações
-favorites: Favoritos
+favorites: Gostaram
 comments: Comentários
 wip: Em fase de construção
