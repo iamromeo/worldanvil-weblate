@@ -85,5 +85,19 @@ landmark.properties: Specjalne Właściwości
 landmark.effects: Efekty Środowiskowe
 landmark.architecture: Architektura
 landmark.ruined: RUINA
-landmark.owner: Właściciel
+landmark.owner: ''
 material.rarity: Częstość występowania
+alternativenames: Inne Nazwy
+landmark.professions: Powiązane Profesje
+landmark.materials: Powiązane Materiały
+material.useCommon: Zastosowanie w życiu codziennym
+material.useCultural: Zastosowanie i Znaczenie Kulturowe
+material.useIndustrial: Zastosowanie w przemyśle
+material.manufacturing: Wytwarzanie i Wyroby
+material.products: Produkty Uboczne
+material.storage: Przechowywanie
+material.locations: Powiązane Miejsca
+material.species: Powiązane Gatunki
+material.items: Powiązane Przedmioty
+material.technologies: Powiązane Technologie
+material.professions: Powiązane Profesje
