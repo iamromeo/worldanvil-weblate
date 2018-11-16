@@ -299,3 +299,8 @@ item: Objeto
 spell: Hechizo
 class: Clase
 race: Raza
+character: Personaje
+feat: Logro
+master.feature: Esta es una funcionalidad para Masters y superior. Únete al <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Gremio de Worldbuilders</a> para
+  ganar acceso a esta funcionalidad y ayudar en el desarrollo de World Anvil.
