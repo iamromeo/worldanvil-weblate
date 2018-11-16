@@ -101,3 +101,22 @@ material.species: Powiązane Gatunki
 material.items: Powiązane Przedmioty
 material.technologies: Powiązane Technologie
 material.professions: Powiązane Profesje
+landmark.charactersinlocation: Postaci w Lokacji
+material.properties: Właściwości
+material.geo: Geologia i Geografia
+material.orign: Geneza i Źródło
+material.discovery: Odkrycie
+material.refinement: Udoskonalenie
+material.hazards: Zagrożenia
+material.environment: Wpływ na Środowisko
+material.reusability: Ponowne użycie i Recycling
+material.distribution: Dystrybucja
+material.market: Handel i Rynek
+material.regulations: Prawo i Regulacje prawne
+material.value: Wartość
+material.odor: Zapach
+material.taste: Smak
+material.color: Kolor
+material.boiling: Temperatura Wrzenia / Kondensacji
+material.melting: Temperatura Topnięcia / Zamarzania
+material.density: Gęstość
