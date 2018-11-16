@@ -231,3 +231,11 @@ guild.feature: これはギルド専用の機能です。<a class="m-t-10 text-p
   Anvilの開発を手伝えましょう。
 grandmaster.feature: これはグランドマスター+のレベルをもつアカウントの専用機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
   Anvilの開発を手伝えましょう。
+create.article: 記事を作成
+edit.article: 記事を編集
+character: キャラクター
+feat: 偉業
+monster: モンスター
+npc: NPC
+item: アイテム
+spell: 呪文
