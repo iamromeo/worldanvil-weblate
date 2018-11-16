@@ -76,4 +76,32 @@ condition.origin: Origen
 condition.cycle: Ciclo
 condition.rarity: Rareza
 condition.species: Especies afectadas
-landmark.purpose: Propósito / Función
+landmark.purpose: Propósito/función
+landmark.entries: Entradas
+landmark.denizens: Habitantes
+landmark.contents: Contenidos y mobiliario
+landmark.valuables: Objetos de valor
+landmark.hazards: Peligros y trampas
+landmark.properties: Propiedades especiales
+landmark.effects: Efectos ambientales
+landmark.ruined: ESTRUCTURA EN RUINAS
+landmark.parent: Se encuentra en
+landmark.children: Lugares que incluye
+landmark.organization: Organización propietaria
+landmark.connectedrooms: Habitaciones adyacentes
+landmark.reportprimarylocations: Informe relacionado (localizaciones principales)
+landmark.reportsecondarylocations: Informe relacionado (localizaciones secundarias)
+material.characteristics: Características físicas
+material.compounds: Compuestos
+material.geo: Geología y geografía
+material.orign: Origen y fuente
+material.halflife: Vida y expiración
+material.manufacturing: Manufactura y productos
+material.products: Productos derivados y secundarios
+material.environment: Impacto ambiental
+material.reusability: Reutilización y reciclaje
+material.market: Comercio y mercado
+material.regulations: Ley y regulación
+material.boiling: Punto de ebullición/condensación
+material.melting: Punto de fusión/congelación
+material.commonState: Estado común
