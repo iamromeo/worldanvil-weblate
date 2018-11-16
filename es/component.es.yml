@@ -291,3 +291,11 @@ grandmaster.feature: Esta es una funcionalidad exclusiva para Grandmasters y sup
   Únete al <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremio
   de Worldbuilders</a> para conseguir acceso a esta funcionalidad y ayudar al desarrollo
   de World Anvil.
+create.article: Crear artículo
+edit.article: Editar artículo
+monster: Monstruo
+npc: PNJ
+item: Objeto
+spell: Hechizo
+class: Clase
+race: Raza
