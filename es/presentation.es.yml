@@ -105,3 +105,31 @@ material.regulations: Ley y regulación
 material.boiling: Punto de ebullición/condensación
 material.melting: Punto de fusión/congelación
 material.commonState: Estado común
+landmark.design: Diseño
+landmark.sensory: Descripción sensorial y apariencia
+landmark.alterations: Alteraciones
+landmark.architecture: Arquitectura
+landmark.owner: Dueño
+landmark.charactersinlocation: Personajes en el lugar
+landmark.professions: Profesiones relacionadas
+landmark.materials: Materiales relacionados
+landmark.contenders: En disputa por
+material.properties: Propiedades
+material.discovery: Descubrimiento
+material.useCommon: Uso diario
+material.useCultural: Importancia cultural y uso
+material.useIndustrial: Uso industrial
+material.refinement: Refinamiento
+material.hazards: Peligros
+material.distribution: Distribución
+material.storage: Almacenamiento
+material.value: Valor
+material.rarity: Rareza
+material.odor: Olor
+material.taste: Sabor
+material.color: Color
+material.density: Densidad
+material.locations: Lugares relacionados
+material.species: Especies relacionadas
+material.items: Objetos relacionados
+material.technologies: Tecnologías relacionadas
