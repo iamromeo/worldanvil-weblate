@@ -48,3 +48,6 @@ access.return: Vrať se, odkud jsi přišel!
 access.homepage: Přejít na domovskou stránku
 todo.status.zero: Kliknutím na název vytvoříš článek
 todo.status.one: Článek byl vytvořen, nebyl zveřejněn a je stále ve vývoji.
+moderation: Moderace
+author.notes: Autorovy poznámky
+access.multipass: Multipass?
