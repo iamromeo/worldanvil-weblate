@@ -2,7 +2,7 @@ create.author.profile: プロフィールを作成
 create.block: ブロックを作成
 create.campaign: キャンペーンを作成
 create.category: カテゴリを作成
-create.historical.entry: 歴史的なエントリーを作成
+create.historical.entry: 歴史的な登録を作成
 create.image: 画像を作成
 create.player.character: プレイヤーのキャラクターを作成
 create.timeline: タイムラインを作成
@@ -17,7 +17,7 @@ create.world: ワールドを作成
 create.new.block: 新規ブロックを作成
 create.new.campaign: 新規キャンペーンを作成
 create.new.category: 新規カテゴリを作成
-create.new.historical.entry: 新規歴史的なエントリーを作成
+create.new.historical.entry: 新規歴史的な登録を作成
 create.new.image: 新規画像を作成
 create.new.player.character: 新規プレイヤーのキャラクターを作成
 create.new.timeline: 新規タイムラインを作成
@@ -33,7 +33,7 @@ edit.author.profile: プロフィールを編集
 edit.block: ブロックを編集
 edit.campaign: キャンペーンを編集
 edit.category: カテゴリを編集
-edit.historical.entry: 歴史的なエントリーを編集
+edit.historical.entry: 歴史的な登録を編集
 edit.image: 画像を編集
 edit.player.character: プレイヤーのキャラクターを編集
 edit.timeline: タイムラインを編集
@@ -49,7 +49,7 @@ delete.author.profile: プロフィールを削除
 delete.block: ブロックを削除
 delete.campaign: キャンペーンを削除
 delete.category: カテゴリを削除
-delete.historical.entry: 歴史的なエントリーを削除
+delete.historical.entry: 歴史的な登録を削除
 delete.image: 画像を削除
 delete.player.character: プレイヤーのキャラクターを削除
 delete.timeline: タイムラインを削除
@@ -66,7 +66,7 @@ block: ブロック
 campaign: キャンペーン
 category: カテゴリ
 circle: 円
-historical.entry: 歴史的なエントリー
+historical.entry: 歴史的な登録
 image: 画像
 player.character: プレイヤーのキャラクター
 timeline: タイムライン
@@ -87,7 +87,7 @@ articles: 記事
 blocks: ブロック
 campaigns: キャンペーン
 categories: カテゴリ
-historical.entries: 歴史的なエントリー
+historical.entries: 歴史的な登録
 images: 画像
 player.characters: プレイヤーのキャラクター
 layers: レイヤー
@@ -103,7 +103,7 @@ list.articles: 記事一覧
 list.blocks: ブロック一覧
 list.campaigns: キャンペーン一覧
 list.categories: カテゴリ一覧
-list.historical.entries: 歴史てきなエントリー一覧
+list.historical.entries: 歴史てきな登録一覧
 list.images: 画像一覧
 list.player.characters: プレイヤーのキャラクター一覧
 list.maps: 地図一覧
@@ -205,7 +205,7 @@ guild.access.map: 無料アカウントではワールドのホームページ�
   Anvilの開発を手伝いましょう。
 line: 線
 related.article: 関連記事
-related.history: 関連歴史的なエントリー
+related.history: 関連歴史的な登録
 map.marker.group.description: マーカーグループはマーカーと地図のレイヤーを分類させて、表示・非表示を管理することができます（ギルドの会員に限り）。レイヤーと同様に、これにより、特定の情報を公開したり、読者からいくつかのマーカーを隠したりすることができます。
 map.marker.group.onload: グループの初期表示状況
 map.marker.group.onload.description: 最近の地図読み込むとき、このグループを公開します。

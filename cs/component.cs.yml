@@ -275,3 +275,24 @@ guild.feature: Tato možnost je dostupná pouze Členům cechu. K získání př
 grandmaster.feature: Tato možnost je dostupná pouze členům s úrovní Velmistr a vyšší.
   K získání přístupu se přidej k <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
   tvůrců světů (WBG)</a> a podílej se na rozvoji World Anvil.
+create.article: Vytvořit článek
+edit.article: Upravit článek
+character: Postava
+feat: Vlastnost
+monster: Nestvůra
+npc: NPC
+item: Předmět
+spell: Magie
+class: Povolání
+race: Rasa
+master.feature: Tato funkce je určena jen pro Mistry a výše. Přidej se k <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">1 Cechu tvůrců světů</a>2 abys
+  získal přístup k této funkci a pomohl vývoji World Anvil.
+map.marker.lineWeight.description: Tloušťka čáry v pixelech.
+map.marker.lineDash: Přerušovaná čára
+map.marker.lineDash.description: Toto je pokrkočilá funkce. Používá se k přesnému
+  definování vzoru přerušované čáry. Např. 8 8 znamená 8 pixelů dlouhá čára a 8 pixelů
+  dlouhá mezera. Můžeš použít i jen 8 nebo 1 2 3 4 pro přerušovanou čáru z čar různých
+  délek.
+map.marker.linePoints.check: Zaklikni toto pole a umísti novou značku abys vytvořil
+  čáru.
