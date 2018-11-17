@@ -93,4 +93,7 @@ landmark.ruined: RUINE
 landmark.parent: Übergeordneter Ort
 landmark.children: Beinhaltete Orte
 landmark.owner: Besitzer
-landmark.organization: Organisation, die diesen Ort besitzt
+landmark.organization: Besitzende Organisation
+landmark.charactersinlocation: Anwesende Charaktere
+landmark.connectedrooms: Angrenzende Räume
+landmark.materials: Zugehörige Materialien
