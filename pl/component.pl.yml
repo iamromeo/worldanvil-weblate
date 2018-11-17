@@ -276,9 +276,20 @@ pin.template.header: Standardowy szablon Pinezek
 pin.template.description: Użyj zawartych w tym archiwum plików aby utworzyć pinezki
   podobne do tych, które zostały zatwierdzone przez World Anvil.
 pin.value.notzero: Upewnij się, że wartość nie jest pusta i nie wynosi 0.
-guild.feature: Funkcja tylko dla Gildii. Przyłącz się do <a class="m-t-10 text-pink"
-  href="/worldbuilders-guild-membership">Gildii Światotwórców</a> by uzyskać dostęp
-  do tej funkcji i pomóc rozwijać World Anvil.
-grandmaster.feature: Funkcja tylko dla członków o randze Wielki Mistrz+. Przyłącz
+guild.feature: Funkcja tylko dla członków Gildii. Przyłącz się do <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Gildii Światotwórców</a> by uzyskać
+  dostęp do tej funkcji i pomóc rozwijać World Anvil.
+grandmaster.feature: Funkcja tylko dla członków Gildii o randze Wielki Mistrz+. Przyłącz
   się do <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildii
   Światotwórców</a> by uzyskać dostęp do tej funkcji i pomóc rozwijać World Anvil.
+create.article: Stwórz Artykuł
+master.feature: Funkcja tylko dla członków Gildii o randze Mistrz+. Przyłącz się do
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gildii Światotwórców</a>
+  by uzyskać dostęp do tej funkcji i pomóc rozwijać World Anvil.
+edit.article: Edytuj Artykuł
+character: Postać
+monster: Potwór
+item: Przedmiot
+spell: Zaklęcie
+class: Klasa
+race: Rasa
