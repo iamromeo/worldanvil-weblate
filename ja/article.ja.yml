@@ -62,3 +62,5 @@ description.map: 地図はワールドの地形を表示するためだけでは
 description.timeline: タイムラインはワールドの話を伝えたり、それを形作ってきた出来事を解説したりすることに役立つものです。
 description.historical.entry: 歴史的なエントリーや出来事は歴史そのものを作り上げてきた記録集です。つまり、ワールドの開発中に、現在の形を形作ってきた独特な各時点のことです。
 description.secret: 隠された真実、うわさ話、公開するに恐ろしい事実など。
+country: 国
+religion: 宗教
