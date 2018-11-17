@@ -13,3 +13,90 @@ secrets: Tajemství
 maps: Mapy
 image.gallery: Galerie
 articles: Články
+followers.all: Všichni sledující
+featured.articles: Vybrané články
+uncategorized.articles: Nezařazené články
+tweets.by: Tweety od
+twitch.live: Sleduj živě na Twitchi
+support.patreon: Podpoř projekt na Patreonu
+support.patreon.user: Podpoř %username% na Patreonu
+follow.action.remove: PŘESTAT SLEDOVAT
+follow.action.add: SLEDOVAT
+like.action.remove: UŽ SE MI TO NELÍBÍ
+like.action.add: TO SE MI LÍBÍ
+like.action.add.description: Dej autorovi vědět, že se ti líbí jeho práce. Tento článek
+  se nezařadí do tvého seznamu "ke čtení".
+reading.action.remove: ODSTRANIT ZE SEZNAMU KE ČTENÍ
+reading.action.add: PŘIDAT DO SEZNAMU KE ČTENÍ
+reading.action.add.description: Přidej tento článek do tvého seznamu ke čtení/uloženým
+  článkům. Autor článku nebude upozorněn.
+goto.homepage: Přejít na domovskou stránku %name%
+article.love: Lidé, kterým se líbí tvůj článek
+article.love.return: Běž a opětuj tobě vyjádřenou lásku!
+article.likes.number: Tento článek se líbí %number% tvůrců světů
+article.visibility: Tento článek je viditelný pro tyto skupiny odběratelů
+author.notes: Autorovy poznámky
+players.looking: Hledám hráče
+players.full: Kampaň je plná
+authors: Autoři
+author.page: Stránka autora
+author.since: Členem od
+author.interests: Záliby a koníčky
+author.movies: Oblíbené filmy
+author.tv: Oblíbené seriály
+author.books: Oblíbené knihy
+author.writers: Oblíbení spisovatelé
+author.games: Oblíbené hry
+author.comments: Komentáře a zpětná vazba
+author.characters: Postavy
+author.badges: Odznaky a medaile
+history: Historie
+type: Typ
+alternativenames: Další jména
+condition.transmission: Způsoby přenosu
+condition.causes: Příčiny
+condition.symptoms: Symptomy
+condition.prognosis: Prognóza
+condition.sequela: Trvalé následky
+condition.affectedgroups: Ohrožené skupiny
+condition.hosts: Hostitelé a přenašeči
+condition.prevention: Prevence
+condition.epidimiology: Epidemiologie
+condition.reception: Společenský náhled
+condition.origin: Původ
+condition.cycle: Cyklus
+condition.rarity: Vzácnost
+condition.species: Ovlivněné biologické druhy
+landmark.purpose: Účel, funkce
+landmark.design: Vzhled
+landmark.entries: Vchody
+landmark.sensory: Smyslové vjemy
+landmark.denizens: Obyvatelé
+landmark.contents: Nábytek a předměty
+landmark.valuables: Cennosti
+landmark.hazards: Nebezpečí a pasti
+landmark.properties: Zvláštní vlastnosti
+landmark.effects: Vlivy prostředí
+landmark.alterations: Změny v čase
+landmark.architecture: Architektura
+landmark.ruined: ZŘÍCENINA
+landmark.parent: Nadřazená lokace
+landmark.children: Podřazené lokace
+landmark.owner: Majitel
+landmark.organization: Organizace vlastnící tuto lokaci
+landmark.charactersinlocation: Přítomné postavy
+landmark.connectedrooms: Propojené pokoje
+landmark.professions: Související povolání
+landmark.materials: Související materiály
+material.geo: Zeměpis a geologie
+material.orign: Původ a zdroj
+powered.by: Sponzoři
+in: ve světě
+recent.articles: Nedávno upravované články
+support.kofi.user: Kup %username% kafe!
+join.discord.world: Přidej se na %worldname% Discord!
+following: Sledující %name%
+follow: Sledovat %name%
+follow.action.add.description: Sleduj svět, a všechny články napsané pro tento svět
+  se ti zobrazí ve Sledovaných světech!
+condition.treatment: Léčba
