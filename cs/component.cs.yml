@@ -275,3 +275,16 @@ guild.feature: Tato možnost je dostupná pouze Členům cechu. K získání př
 grandmaster.feature: Tato možnost je dostupná pouze členům s úrovní Velmistr a vyšší.
   K získání přístupu se přidej k <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Cechu
   tvůrců světů (WBG)</a> a podílej se na rozvoji World Anvil.
+create.article: Vytvořit článek
+edit.article: Upravit článek
+character: Postava
+feat: Vlastnost
+monster: Nestvůra
+npc: NPC
+item: Předmět
+spell: Magie
+class: Povolání
+race: Rasa
+master.feature: Tato funkce je určena jen pro Mistry a výše. Přidej se k <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">1 Cechu tvůrců světů</a>2 abys
+  získal přístup k této funkci a pomohl vývoji World Anvil.
