@@ -90,3 +90,13 @@ landmark.professions: Související povolání
 landmark.materials: Související materiály
 material.geo: Zeměpis a geologie
 material.orign: Původ a zdroj
+powered.by: Sponzoři
+in: ve světě
+recent.articles: Nedávno upravované články
+support.kofi.user: Kup %username% kafe!
+join.discord.world: Přidej se na %worldname% Discord!
+following: Sledující %name%
+follow: Sledovat %name%
+follow.action.add.description: Sleduj svět, a všechny články napsané pro tento svět
+  se ti zobrazí ve Sledovaných světech!
+condition.treatment: Léčba
