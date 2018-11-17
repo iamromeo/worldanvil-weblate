@@ -81,3 +81,16 @@ landmark.purpose: Zweck / Funktion
 landmark.design: Design
 landmark.entries: Eingänge
 landmark.sensory: Sinneseindrücke und Aussehen
+landmark.denizens: Bewohner
+landmark.contents: Möblierung & Gegenstände
+landmark.valuables: Schätze & Wertgegenstände
+landmark.hazards: Gefahren & Fallen
+landmark.properties: Besonderheiten
+landmark.effects: Umgebungseffekte
+landmark.alterations: Veränderungen
+landmark.architecture: Architekturstil
+landmark.ruined: RUINE
+landmark.parent: Übergeordneter Ort
+landmark.children: Beinhaltete Orte
+landmark.owner: Besitzer
+landmark.organization: Organisation, die diesen Ort besitzt
