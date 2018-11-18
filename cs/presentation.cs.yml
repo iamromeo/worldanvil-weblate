@@ -100,3 +100,35 @@ follow: Sledovat %name%
 follow.action.add.description: Sleduj svět, a všechny články napsané pro tento svět
   se ti zobrazí ve Sledovaných světech!
 condition.treatment: Léčba
+material.properties: Vlastnosti
+material.characteristics: Vlastnosti na první pohled
+material.compounds: Sloučeniny
+material.halflife: Trvanlivost a rozklad
+material.discovery: Objevení
+material.useCommon: Běžné využití
+material.useCultural: Význam a využití pro kulturu
+material.useIndustrial: Průmyslové využití
+material.refinement: Zpracování
+material.manufacturing: Výrobky
+material.products: Vedlejší produkty
+material.hazards: Bezpečnost využití
+material.environment: Dopady na životní prostředí
+material.reusability: Recyklace a opětovné využití
+material.distribution: Distribuce
+material.market: Obchodování a trh
+material.storage: Skladování
+material.regulations: Regulace
+material.value: Hodnota
+material.rarity: Vzácnost
+material.odor: Zápach
+material.taste: Chuť
+material.color: Barva
+material.boiling: Bod varu, bod zkapalněně
+material.melting: Bod mrazu, bod tuhnutí
+material.density: Hustota
+material.commonState: Skupenství
+material.locations: Související lokace
+material.species: Související živočišné druhy
+material.items: Související předměty
+material.technologies: Související technologie
+material.professions: Související povolání

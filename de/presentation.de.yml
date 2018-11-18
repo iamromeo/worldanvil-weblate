@@ -113,4 +113,10 @@ material.manufacturing: Verarbeitung und Produkte
 material.products: Nebenprodukte
 material.hazards: Gefahren
 material.environment: Umwelteinfluss
-material.reusability: Wiederbenutzbarkeit und Recycling
+material.reusability: Wiederverwertbarkeit und Recycling
+material.distribution: Verteilung
+material.market: Handel
+material.storage: Lagerung
+material.regulations: Gesetze und Regulierungen
+material.value: Wert
+material.rarity: Seltenheit
