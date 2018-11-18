@@ -13,4 +13,5 @@ location.building: Lloc, edifici
 building: Edifici
 location.geographic: Lloc, geografia
 geography: Geografia
-location.settlement: Lloc, Població
+location.settlement: Lloc, assentament
+settlement: Assentament
