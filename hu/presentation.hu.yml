@@ -76,3 +76,62 @@ condition.origin: Forrás
 condition.cycle: Ciklus
 condition.rarity: Ritkaság
 condition.species: Érintett Fajok
+alternativenames: Alternatív Nevek
+landmark.purpose: Cél/ Működés
+landmark.design: Dizájn
+landmark.entries: Bejegyzések
+landmark.sensory: Érzékek & Megjelenés
+landmark.denizens: Lakosok
+landmark.contents: Tartalom & Berendezés
+landmark.valuables: Értékek
+landmark.hazards: Veszélyek & Csapdák
+landmark.properties: Különleges tulajdonságok
+landmark.effects: Környezeti Hatások
+landmark.alterations: Változtatások
+landmark.architecture: Szerkezet
+landmark.ruined: ROMOS ÉPÜLET
+landmark.parent: Tartalmazó Terület
+landmark.children: Tartalmazott Területek
+landmark.owner: Birtokos
+landmark.organization: Birtokló Szervezet
+landmark.charactersinlocation: Karakterek a Területen
+landmark.connectedrooms: Kapcsolódó Szobák
+landmark.professions: Kapcsolódó Szakmák
+landmark.materials: Kapcsolódó Anyagok
+landmark.contenders: Igényt fektet rá
+landmark.reportprimarylocations: Kapcsolódó Jelentés (Elsődleges Területek)
+landmark.reportsecondarylocations: Kapcsolódó Jelentés (Másodlagos Területek)
+material.properties: Tulajdonságok
+material.characteristics: Fizikai Tulajdonságok
+material.compounds: Összetétel
+material.geo: Geológia & Földrajz
+material.orign: Eredet & Forrás
+material.halflife: Élettartam & Lejárat
+material.discovery: Felfedezés
+material.useCommon: Mindennapi Használat
+material.useCultural: Kulturális Jelentőség és Használat
+material.useIndustrial: Ipari Használat
+material.refinement: Finomítás
+material.manufacturing: Elkészítés & Termékek
+material.products: Melléktermékek
+material.hazards: Veszélyek
+material.environment: Környezeti Hatás
+material.reusability: Újrahasznosítás
+material.distribution: Forgalmazás
+material.market: Kereskedelem & Piac
+material.storage: Tárolás
+material.regulations: Törvény & Szabályozás
+material.value: Érték
+material.rarity: Ritkaság
+material.odor: Szag
+material.taste: Íz
+material.color: Szín
+material.boiling: Forrás-/ Szilárdulási Pont
+material.melting: Olvadás-/ Fagyáspont
+material.density: Sűrűség
+material.commonState: Általános Állapot
+material.locations: Kapcsolódó Területek
+material.species: Kapcsolódó Fajok
+material.items: Kapcsolódó Tárgyak
+material.technologies: Kapcsolódó Technológiák
+material.professions: Kapcsolódó Szakmák
