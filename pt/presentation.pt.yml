@@ -12,10 +12,10 @@ toc: Índice
 followers.all: Ver todos os seguidores
 image.gallery: Galeria de Imagens
 recent.articles: Artigos Recentes
-featured.articles: Artigos de Destaque
+featured.articles: Artigos em Destaque
 uncategorized.articles: Artigos sem categoria
 tweets.by: Tweets de
-twitch.live: Assista ao vivo no Twitch
+twitch.live: Assista ao vivo na Twitch
 support.patreon: Apoie o projeto no Patreon
 support.patreon.user: Apoie %username% no Patreon
 support.kofi.user: Compre um café para %username%!
@@ -25,7 +25,7 @@ follow: Seguir %name%
 follow.action.remove: DEIXAR DE SEGUIR
 follow.action.add: SEGUIR
 follow.action.add.description: Siga para receber as atualizações de todos os artigos
-  deste mundo escritos pelo autor!
+  escritos pelo autor neste mundo!
 like.action.remove: REMOVER GOSTEI
 like.action.add: GOSTEI
 like.action.add.description: Deixe o autor saber que você gostou de seu trabalho.
