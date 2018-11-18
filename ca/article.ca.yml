@@ -29,3 +29,8 @@ tradition.ritual: Tradició / Ritual
 tradition: Tradició
 vehicle: Vehicle
 rpg.session.report: Informe de la sessió de rol
+rpg.report: Informe del RPG
+description.building: '...o punt de referència. Unes maravelles, naturals i contruides,
+  unes ruines, unes masmorres, uns temples, uns grans arbres, una forja, una posada,
+  un castell, etc. Qualsevol cosa que es pugui senyalar i que els habitants considerin
+  suficientment important per nombrar-ho.'
