@@ -1,1 +1,24 @@
-{}
+show: Mostra
+edit: Modifica
+save.changes: Desa els canvis
+view: Visualitza
+delete: Elimina
+create: Crea
+replace: Substitueix
+search: Cerca
+search.in: Cerca a
+world.create: Crea un nou món
+world.view: Visualitza el món
+check.out: Dona-li un cop d'ull
+edit.and.play: Modifica i juga
+browse: Navega
+download: Descarrega
+login: Inicia la sessió
+logout: Finalitza la sessió
+register: Crea un compte
+create a new...: Crea...
+edit.map: Modifica el mapa
+view.map: Visualitza el mapa
+delete.map: Elimina el mapa
+edit.profile: Edita el perfil
+view.profile: Visualitza el perfil
