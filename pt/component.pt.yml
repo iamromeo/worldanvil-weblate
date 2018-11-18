@@ -282,13 +282,24 @@ pin.template.header: Modelo das Marcações Padrão
 pin.template.description: Use os arquivos desse compactado para criar marcadores similares
   aos disponibilizados pelo World Anvil.
 pin.value.notzero: Por favor, certifique-se de que esse valor não seja vazio nem 0.
-guild.feature: Essa é uma funcionalidade exclusiva para a Guilda. Junte-se à <a class="m-t-10
+guild.feature: Esta é uma funcionalidade exclusiva para a Guilda. Junte-se à <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Guilda dos Worldbuilders</a> para
-  ter acesso a essa funcionalidade e ajudar no desenvolvimento do World Anvil.
-grandmaster.feature: Essa e uma funcionalidade exclusiva para membros do nível Grandmaster
+  ter acesso a esta funcionalidade e ajudar no desenvolvimento do World Anvil.
+grandmaster.feature: Esta é uma funcionalidade exclusiva para membros do nível Grandmaster
   e acima. Junte-se à <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda
-  dos Worldbuilders</a> para ter acesso a essa funcionalidade e ajudar no desenvolvimento
+  dos Worldbuilders</a> para ter acesso a esta funcionalidade e ajudar no desenvolvimento
   do World Anvil.
 character: Personagem
 item: Item
 spell: Feitiço
+create.article: Criar Artigo
+edit.article: Editar Artigo
+feat: Talento
+monster: Monstro
+npc: NPC
+class: Classe
+race: Raça
+master.feature: Esta é uma funcionalidade exclusiva para membros do nível Master e
+  acima. Junte-se à <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda
+  dos Worldbuilders</a> para ter acesso a esta funcionalidade e ajudar no desenvolvimento
+  do World Anvil.
