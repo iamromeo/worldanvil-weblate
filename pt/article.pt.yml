@@ -19,7 +19,7 @@ profession: Profissão
 plot: Enredo
 rank.title: Patente / Título
 species: Espécie
-spell: Magia
+spell: Feitiço
 technology.science: Tecnologia / Ciência
 tradition.ritual: Tradição / Ritual
 vehicle: Veículo
@@ -98,3 +98,5 @@ description.vehicle: Montarias bípedes como dinossauros, barcos à vela, navios
 description.historical.entry: Registros Históricos ou Eventos são as histórias que
   botam o H maiúsculo em História. São esses momentos únicos no desenvolvimento do
   seu mundo que o moldaram para sua forma atual.
+country: País
+religion: Religião
