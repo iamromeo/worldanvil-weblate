@@ -289,3 +289,6 @@ grandmaster.feature: Essa e uma funcionalidade exclusiva para membros do nível 
   e acima. Junte-se à <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda
   dos Worldbuilders</a> para ter acesso a essa funcionalidade e ajudar no desenvolvimento
   do World Anvil.
+character: Personagem
+item: Item
+spell: Feitiço
