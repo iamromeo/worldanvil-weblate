@@ -25,3 +25,6 @@ create.new.image: Crea una nova imatge
 create.new.player.character: Crea un nou personatge jugador
 notes: Apunts
 status: Visibilitat
+category: Categoria
+world: Món
+tags: Etiquetes
