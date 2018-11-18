@@ -88,7 +88,7 @@ landmark.ruined: RUINA
 landmark.owner: Posiadane Przez
 material.rarity: Częstość występowania
 alternativenames: Inne Nazwy
-landmark.professions: Profesje Powiązane
+landmark.professions: Powiązane Profesje
 landmark.materials: Powiązane Materiały
 material.useCommon: Zastosowanie w życiu codziennym
 material.useCultural: Zastosowanie i Znaczenie Kulturowe
@@ -127,3 +127,8 @@ landmark.organization: Posiadane Przez Organizację
 landmark.entries: Wejścia
 landmark.contents: Zawartość i Umeblowanie
 landmark.connectedrooms: Połączone Pokoje
+landmark.reportprimarylocations: Powiązany Raport (Miejsca Główne)
+landmark.reportsecondarylocations: Powiązany Raport (Miejsca Drugorzędne)
+material.characteristics: Cechy Fizyczne
+material.compounds: Związki i połączenia
+material.commonState: Powszechny Stan Skupienia
