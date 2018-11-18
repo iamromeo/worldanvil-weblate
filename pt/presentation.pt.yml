@@ -77,3 +77,13 @@ condition.origin: Origem
 condition.cycle: Ciclo
 condition.rarity: Raridade
 condition.species: Espécies Afetadas
+alternativenames: Nomes Alternativos
+landmark.purpose: Propósito / Função
+landmark.denizens: Habitantes
+landmark.valuables: Objetos de Valor
+landmark.properties: Propriedades Especiais
+landmark.architecture: Arquitetura
+landmark.ruined: ESTRUTURA ARRUINADA
+landmark.children: Locais Inclusos
+landmark.owner: Proprietário
+landmark.organization: Organização Proprietária
