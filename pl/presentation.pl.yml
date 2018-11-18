@@ -85,10 +85,10 @@ landmark.properties: Specjalne Właściwości
 landmark.effects: Efekty Środowiskowe
 landmark.architecture: Architektura
 landmark.ruined: RUINA
-landmark.owner: ''
+landmark.owner: Posiadane Przez
 material.rarity: Częstość występowania
 alternativenames: Inne Nazwy
-landmark.professions: Powiązane Profesje
+landmark.professions: Profesje Powiązane
 landmark.materials: Powiązane Materiały
 material.useCommon: Zastosowanie w życiu codziennym
 material.useCultural: Zastosowanie i Znaczenie Kulturowe
@@ -120,3 +120,10 @@ material.color: Kolor
 material.boiling: Temperatura Wrzenia / Kondensacji
 material.melting: Temperatura Topnięcia / Zamarzania
 material.density: Gęstość
+landmark.sensory: Wygląd i Opis Sensoryczny
+landmark.parent: Znajduje się w
+landmark.children: Zawiera
+landmark.organization: Posiadane Przez Organizację
+landmark.entries: Wejścia
+landmark.contents: Zawartość i Umeblowanie
+landmark.connectedrooms: Połączone Pokoje
