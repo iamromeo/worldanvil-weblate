@@ -1,4 +1,30 @@
 edit.map: Modifica el mapa
 delete.map: Elimina el mapa
 create.author.profile: Crea el perfil
-create.block: Crea bloc
+create.block: Crea un bloc
+create.campaign: Crea una campanya
+create.category: Crea una categoria
+create.historical.entry: Crea un esdeveniment històric
+create.image: Crea una imatge
+create.player.character: Crea un personatge jugador
+create.timeline: Crea una línia de temps
+create.layer: Crea una capa
+create.map: Crea un mapa
+create.marker: Crea un marcador
+create.marker.group: Crea un grup de marcadors
+create.note: Crea un apunt
+create.pin: Crea una xinxeta pel mapa
+create.secret: Crea un secret
+create.world: Crea un món
+create.article: Crea un article
+create.new.block: Crea un nou bloc
+create.new.campaign: Crea una campanya nova
+create.new.category: Crea una categoria nova
+create.new.historical.entry: Crea un nou esdeveniment històric
+create.new.image: Crea una nova imatge
+create.new.player.character: Crea un nou personatge jugador
+notes: Apunts
+status: Visibilitat
+category: Categoria
+world: Món
+tags: Etiquetes
