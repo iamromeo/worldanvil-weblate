@@ -39,5 +39,5 @@ open: Obert
 views: Visites
 favorites: Preferits
 comments: Comentaris
-access.description: Ho sento però no té permís per aquesta pàgina. Això probablement
-  és perquè l'article és privat i no té els drets per veure'l.
+access.description: Ho sento, però no podeu accedir a aquesta pàgina. Segurament és
+  un article privat i no teniu els permisos necessaris per veure'l.
