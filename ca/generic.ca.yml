@@ -22,3 +22,5 @@ studio.homepage: Pàgina principal de l'estudi del creador
 studio.description.header: Què és l'estudi del creador
 todo.your.list: Coses per fer
 todo.status.zero: Cliqueu sobre el títol per crear l'article!
+todo.status.one: Aquest article està creat, no publicat i inacabat
+todo.status.two: Aquest article està publicat i inacabat
