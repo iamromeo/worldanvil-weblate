@@ -28,3 +28,16 @@ todo.status.three: L'article està acabat!
 moderation: Moderació
 metadata: Metadades
 wip: En construcció
+article.template: Plantilla
+author: Autor
+creation.date: Data de creació
+update.date: Data de l'última actualització
+visibility: Visibilitat
+public: Públic
+private: Privat
+open: Obert
+views: Visites
+favorites: Preferits
+comments: Comentaris
+access.description: Ho sento però no té permís per aquesta pàgina. Això probablement
+  és perquè l'article és privat i no té els drets per veure'l.
