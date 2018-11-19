@@ -15,4 +15,5 @@ announcements: Novetats
 world.select: Selecciona un món
 world.summary: Resum del món
 world.goto: Ves a
-world.configure: Configuri el món
+world.configure: Configuració del món
+welcome: Hola
