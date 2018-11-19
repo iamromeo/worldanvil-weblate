@@ -4,3 +4,12 @@ secrets: Secrets
 maps: Cartes
 articles: Articles
 history: ''
+recent.articles: Articles récents
+uncategorized.articles: Articles non catégorisés
+following: Vous êtes abonné à %name%
+follow: S'abonner à %name%
+follow.action.remove: Se désabonner
+follow.action.add: S'abonner
+follow.action.add.description: S'abonner pour recevoir dans votre fil d'actualité
+  les nouveautés de ce monde.
+like.action.add: J'aime
