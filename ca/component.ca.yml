@@ -13,7 +13,7 @@ create.map: Crea un mapa
 create.marker: Crea un marcador
 create.marker.group: Crea un grup de marcadors
 create.note: Crea un apunt
-create.pin: Crea una xinxeta pel mapa
+create.pin: Crea una marcador pel mapa
 create.secret: Crea un secret
 create.world: Crea un món
 create.article: Crea un article
