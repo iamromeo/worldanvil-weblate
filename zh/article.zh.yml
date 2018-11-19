@@ -5,3 +5,21 @@ document: 文章
 ethnicity: 族
 language: 语言
 myth.legend: 神话 / 传说
+formation.military: 团体（军事)
+item: 品
+material: 材料
+military.conflict: 战争
+location.building: 地点， 建造
+building: 建造
+location.geographic: 地点，地理
+geography: 地理
+location.settlement: 地点，镇/成
+settlement: 镇/成
+law: 定律 （神/物理）
+organization: 组织
+prose: 文
+profession: 行业
+plot: 情节
+rank.title: 官 / 衔
+species: 物种
+spell: 魔法
