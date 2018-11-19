@@ -19,7 +19,7 @@ meta.title.standard: Worldbuilding i gestió de campanyes de rol | World Anvil
 meta.description.standard: Eines de gestió de worldbuilding i campanyes de rol per
   tots els escriptors, Dungeon Masters i autors de ficció
 studio.homepage: Pàgina principal de l'estudi del creador
-studio.description.header: Qué és l'estudi del creador?
+studio.description.header: Qué és l'estudi del creador
 todo.your.list: Coses per fer
 todo.status.zero: Cliqueu sobre el títol per crear l'article!
 todo.status.one: Aquest article està creat, no publicat i en construcció
@@ -43,3 +43,13 @@ access.description: Ho sento, però no podeu accedir a aquesta pàgina. Segurame
   un article privat i no teniu els permisos necessaris per veure'l.
 access.return: Torna al lloc d'on venies!
 access.homepage: Ves a la pàgina principal
+studio.description.text: L'Estudi del creador és la llar de tota la personalització
+  avançada a World Anvil. Grandmasters, i rangs superiors, podran crear i compartir
+  fitxes de personatge, widgets, marcadors de mapa personalitzats, i molt més a mesura
+  que anem creixent.
+guild.required: Necessites ser part del Gremi per utilitzar aquesta funció!
+guild.required.master: Per poder utilitzar aquesta funció necessites ser, com a mínim,
+  Master del Gremi.
+guild.required.grandmaster: Per poder utilitzar aquesta funció necessites ser, com
+  a mínim, Grandmaster del Gremi.
+access.multipass: Multientrada?
