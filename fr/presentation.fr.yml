@@ -19,3 +19,11 @@ followers: Abonnés
 followers.all: Voir tous les abonnés
 campaigns: Campagnes
 image.gallery: Galerie d'Images
+twitch.live: Regarder en direct sur Twitch
+support.patreon: Soutenir le projet sur Patreon
+support.patreon.user: Soutenir %username% sur Patreon
+support.kofi.user: Offrir un café à %username% !
+join.discord.world: Rejoindre %worldname% sur Discord !
+like.action.add.description: Faites savoir à l'auteur que vous aimez son travail.
+  Cet article ne sera PAS ajouté dans votre collection "à lire plus tard".
+article.love: personnes qui aiment votre article
