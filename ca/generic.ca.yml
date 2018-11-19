@@ -25,3 +25,5 @@ todo.status.zero: Cliqueu sobre el títol per crear l'article!
 todo.status.one: Aquest article està creat, no publicat i en construcció
 todo.status.two: Aquest article està publicat i en construcció
 todo.status.three: L'article està acabat!
+moderation: Moderació
+metadata: Metadata
