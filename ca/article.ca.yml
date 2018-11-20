@@ -25,15 +25,15 @@ rank.title: Rang/Títol
 spell: Sortilegi
 technology.science: Tecnologia/Ciència
 technology: Tecnologia
-tradition.ritual: Tradició / Ritual
+tradition.ritual: Tradició/ritual
 tradition: Tradició
 vehicle: Vehicle
 rpg.session.report: Informe de la sessió de rol
-rpg.report: Informe del RPG
+rpg.report: Informe de rol
 description.building: '...o punt de referència. Meravelles, naturals o construïdes,
-  ruïnes, masmorres, temples, grans arbres, la forja, la posada, el castell, etc.
-  Qualsevol cosa que es pugui senyalar i que els habitants considerin suficientment
-  important per posar-li un nom.'
+  ruïnes, masmorres, temples, grans arbres, la forja, la posada, el castell. Qualsevol
+  cosa que es pugui assenyalar i que els habitants considerin suficientment important
+  per posar-li un nom.'
 description.character: Des de reis i reines fins a herois, pagesos i déus.
 description.condition: Malalties naturals i màgiques, afeccions, mutacions i transformacions.
 description.document: Tractats, llibres, obres d'art, manuals, guies, declaracions
@@ -54,7 +54,7 @@ description.law: Potser en el teu món la gravetat funciona diferent, o hi ha m�
   lleis sobrenaturals de la naturalesa i la física.
 description.language: Les maneres en que les espècies intel·ligents es comuniquen
   i intercanvien idees i pensaments.
-description.material: Materies primàries, recursos comercials, elements químics. Qualsevol
+description.material: Primeres matèries, recursos comercials, elements químics. Qualsevol
   cosa des de mithril i adamantium fins urani i unobtainium 2000.
 description.conflict: Guerres, batalles, setges i escaramusses. El que passa normalment
   quan dos grups es troben amb pals punxeguts.
@@ -71,10 +71,10 @@ description.rank: Rei d'Endor, primer ciutadà de la Federació, Almirall de la 
   federal d'Okabu, Arximag de Loboutas...
 description.report: Informes de les sessions de rol, pren notes sobre què ha passat
   durant la sessió, tingues un punt d'inici per quan organitzis la següent sessió.
-description.settlement: Qualsevol assentament des de el poble més petit fins les estacions
-  espacials més gegantes i animades.
-description.species: Animals, plantes, sensibles o intel·ligents. Humans, elfs i extraterrestres
-  inclosos.
+description.settlement: Qualsevol assentament, des del poble més petit fins les estacions
+  espacials més grans i animades.
+description.species: Animals i plantes, sensibles o intel·ligents. Humans, elfs i
+  extraterrestres inclosos.
 description.spell: Encanteris, rituals, habilitats psíquiques i superpoders!
 description.plot: El guió dominant, els actes, les escenes, les seqüències o com vulgueu
   anomenar les parts de la vostre història. Feu-ho servir per la vostra prosa o per
