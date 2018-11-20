@@ -98,12 +98,12 @@ tag: Mot-clé
 markers: Repères
 marker.groups: Groupes de Repères
 tags: Mots-clés
-list.markers: Liste de Repères
-list.marker.groups: Liste de Groupes de Repères
+list.markers: Liste des Repères
+list.marker.groups: Liste des Groupes de Repères
 related.category: Catégories associées
 related.location: Lieux associés
 related.map: Cartes associées
-related.organization: Organisations apparentées
+related.organization: Organisations associées
 position: Position/Poids
 position.description: Le Poids est un nombre définissant l'ordre dans lequel les éléments
   seront listés. Plus le nombre est grand et plus l'élément est prioritaire dans la
@@ -159,7 +159,7 @@ edit.layer: Modifier Calque
 delete.layer: Supprimer Calque
 layer: Calque
 layers: Calques
-list.layers: Liste de Calques
+list.layers: Liste des Calques
 map.image.secondary: Calque
 map.update.image: Modifier l'image principale de la carte
 map.image.details: La résolution attendue pour l'image est
@@ -170,7 +170,7 @@ tag.description: Les mots-clés doivent être séparés par des virgules. Ils se
 map.compass: Image de Rose des vents
 map.thumbnail: Vignette
 map.zoom.initial: Zoom initial
-map.zoom.initial.description: Définis le zoom par défaut lors du premier chargement
+map.zoom.initial.description: Définit le zoom par défaut lors du premier chargement
   de la carte (0 par défaut).
 map.zoom.min: Zoom minimum autorisé
 map.zoom.min.description: Définis le zoom arrière maximum. Ce multiplicateur est négatif,
@@ -183,9 +183,9 @@ edit.pin: Modifier Icône de Repère de Carte
 delete.pin: Supprimer Icône de Repère de Carte
 link: Lien Direct
 popup: Info-bulle
-map.compass.description: Sélectionne une image pour représenter la rose des vents.
-  Elle sera visible en bas à droite de la carte. Il est conseillé d'utiliser une image
-  avec transparence.
+map.compass.description: Apparaît dans l'angle inférieur droit de la carte. Une image
+  de rose des vents est utilisée pour indiquer les points cardinaux. Il est conseillé
+  d'utiliser une image avec transparence pour un meilleur rendu visuel.
 map.center.description: Les coordonnés initiales du centre de la carte utilisées lors
   du première affichage de celle-ci. Par défaut, les coordonnés centrales de la carte
   sont utilisées. Le point 0:0 représente l'angle en bas à gauche de la carte.
@@ -198,26 +198,36 @@ map.marker.radius.description: Rayon du cercle en pixels. Uniquement nécessaire
   un repère de type cercle. Inutile pour un polygone.
 map.marker.polygonPoints.description: "Le formatage d'un point est le suivant: la\
   \ longitude, suivi d'une virgule, suivi de la latitude. Chaque point doit être séparé\
-  \ du suivant par un espace. \nExemple: 20,20 25,30 42,42\nAstuce: Utilisez le repère\
+  \ du suivant par un espace. \nExemple: 20,20 25,30 42,42.\nAstuce: Utilisez le repère\
   \ \"Nouveau point\" présent sur la carte ci-dessus pour obtenir les coordonnés voulues."
-map.marker.colorOutline: Couleur du contour
+map.marker.colorOutline: Couleur de la bordure
 circle: Cercle
 label: Label
 polygon: Polygone
 pin: Icônes de Repères de Carte
-list.pins: Liste d'Icônes de Repères de Cartes
+list.pins: Liste des Icônes de Repères de Cartes
 map.center.y: Point central intial (Axe Y)
 map.center.x: Point central initial (Axe X)
 map.marker.label: Texte du label
 map.marker.polygonPoints: Points du polygones
-map.marker.colorOutline.description: 'La couleur du contour pour le cercle ou le polygone.
+map.marker.colorOutline.description: 'La couleur de la bordure pour le cercle ou le
+  polygone. Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow,
+  #FFFFFF).'
+map.marker.colorFill: Couleur du fond
+map.marker.colorFill.description: 'La couleur du fond pour le cercle ou le polygone.
   Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
-map.marker.colorFill: Couleur de remplissage
-map.marker.colorFill.description: 'La couleur de fond pour le cercle ou le polygone.
-  Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
-map.marker.opacityOutline: Opacité du contour
-map.marker.opacityOutline.description: Le pourcentage d'opacité du contour. Choisir
+map.marker.opacityOutline: Opacité de la bordure
+map.marker.opacityOutline.description: Le pourcentage d'opacité de la bordure. Choisir
   une valeur numérique entre 0 et 100.
 map.marker.opacityFill: Opacité du fond
 map.marker.opacityFill.description: Le pourcentage d'opacité pour le fond du cercle
   ou du polygone. Choisir une valeur numérique entre 0 et 100.
+create.article: Créer Article
+edit.article: Modifier Article
+line: Ligne
+related.article: Articles associés
+related.history: Évènements Historiques associés
+map.zoom.max.description: Définis le zoom avant maximum. Ce multiplicateur est positif,
+  plus le nombre est grand et plus le zoom avant autorisera un champ restreint (0
+  par défaut). Au dessus de 0, l'image deviendra flou.
+map.marker.lineColor: Couleur de la ligne
