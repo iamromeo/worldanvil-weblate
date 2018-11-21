@@ -4,3 +4,5 @@ success.generic: La vostra sol·licitud ha estat forjada amb èxit.
 success.deletion: El martell ha arrasat tal com heu ordenat.
 failure.deletion: Ui! Alguna cosa ha anat malament! Pot ser que el que esteu intentant
   esborrar s'utilitzi en un altre lloc?
+bbcode.embed: Copia i enganxa el següent BBCode en qualsevol part del seu article
+  per col·locar l'element en ell!
