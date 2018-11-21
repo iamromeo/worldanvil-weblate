@@ -19,3 +19,22 @@ studio.description.text: La Forge du Créateur est l'atelier de personnalisation
   de WorldAnvil. Grand maîtres et rangs supérieurs pourront créer et partager divers
   contenus tel que des fiches personnages, des gadgets, des indicateurs personnalisés
   pour cartes et bien plus.
+guild.required: Cette fonctionnalité nécessite une souscription
+todo.your.list: Liste 'À faire'
+todo.status.zero: Cliquez sur le titre pour créer un article.
+todo.status.three: L'article est fini.
+notes: Notes
+tags: Mots-clés
+article.template: Template d'article
+world: Monde
+category: Catégorie
+author: Auteur
+creation.date: Date de création
+update.date: Date de dernière mise à jour
+private: Privé
+favorites: Favoris
+comments: Commentaires
+author.notes: Notes de l'auteur
+access.description: Vous n'avez pas accès à cette page. Cet article est certainement
+  privée et vous n'avez pas les droits nécessaires pour la voir.
+access.return: Retourner d'où je viens.
