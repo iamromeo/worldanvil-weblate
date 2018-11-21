@@ -1,5 +1,5 @@
 created.by: Créé par
-toc: Table des Matières
+toc: Table des matières
 secrets: Secrets
 maps: Cartes
 articles: Articles
@@ -18,7 +18,7 @@ timelines: Frises Chronologiques
 followers: Abonnés
 followers.all: Voir tous les abonnés
 campaigns: Campagnes
-image.gallery: Galerie d'Images
+image.gallery: Galerie d'images
 twitch.live: Regarder en direct sur Twitch
 support.patreon: Soutenir le projet sur Patreon
 support.patreon.user: Soutenir %username% sur Patreon
@@ -27,3 +27,6 @@ join.discord.world: Rejoindre %worldname% sur Discord !
 like.action.add.description: Faites savoir à l'auteur que vous aimez son travail.
   Cet article ne sera PAS ajouté dans votre collection "à lire plus tard".
 article.love: Personnes qui aiment votre article
+account.create: Créer votre compte
+in: dans
+author.notes: Notes de l'auteur
