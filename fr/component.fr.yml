@@ -231,3 +231,24 @@ map.zoom.max.description: Définis le zoom avant maximum. Ce multiplicateur est 
   plus le nombre est grand et plus le zoom avant autorisera un champ restreint (0
   par défaut). Au dessus de 0, l'image deviendra flou.
 map.marker.lineColor: Couleur de la ligne
+map.layers.max: Vous avez atteint le nombre maximum de calques que vous pouvez avoir
+  avec votre compte. Si vous souhaitez utiliser plus de calques pour vos cartes, vous
+  pouvez passer à une souscription supérieur au sein de la guilde des <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership"> Forgemondes.</a>
+map.marker.linePoints: Coordonnées de lignes
+map.marker.lineColor.description: 'La couleur de la ligne. Une couleur CSS ou un hexcode
+  peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
+map.marker.lineWeight: Épaisseur de la ligne
+map.marker.lineWeight.description: l'Épaisseur relative de la ligne en pixels.
+map.marker.lineOpacity: Opacité de la ligne
+map.marker.lineOpacity.description: Le pourcentage d'opacité de la ligne. Choisir
+  une valeur numérique entre 0 et 100.
+functionality: Fonctionnalité
+appearance: Apparence
+character: Personnage
+monster: Monstre
+npc: PNJ
+item: Objet
+spell: Sort
+class: Classe
+race: Race
