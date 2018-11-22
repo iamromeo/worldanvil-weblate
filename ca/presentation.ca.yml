@@ -31,3 +31,7 @@ follow.action.remove: DEIXA DE SEGUIR
 follow.action.add: SEGUEIX
 follow.action.add.description: Seguiu aquest món per rebre les actualitzacions que
   els seus autors publiquin!
+like.action.remove: JA NO M'AGRADA
+like.action.add: M'AGRADA
+like.action.add.description: Faci saber al autor que li agrada el seu treball. Aquest
+  atricle NO es guardarà en la seva llista de llegir més tard
