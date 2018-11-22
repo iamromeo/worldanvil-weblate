@@ -39,3 +39,5 @@ reading.action.remove: ELIMINA DE LA LLISTA DE LECTURA
 reading.action.add: AFEGEIX A LA LLISTA DE LECTURA
 reading.action.add.description: Afegiu aquest article a la vostre llista de lectura
   / articles guardats. L'autor NO serà notificat.
+goto.homepage: Vés a la pàgina principal de %name%
+article.love: Gent a la que li ha encantat el seu article
