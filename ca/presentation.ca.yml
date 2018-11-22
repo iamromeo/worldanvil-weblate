@@ -41,3 +41,4 @@ reading.action.add.description: Afegiu aquest article a la vostre llista de lect
   / articles guardats. L'autor NO serà notificat.
 goto.homepage: Vés a la pàgina principal de %name%
 article.love: Gent a qui encanta el vostre article
+article.love.return: Retorna'ls-hi una mica d'amor!
