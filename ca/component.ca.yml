@@ -134,6 +134,6 @@ status.description: Establiu aquest element com públic perquè tothom sigui cap
   de veure'l. Els elements privats només seran visibles per a vós, els vostres coautors
   i pels subscriptors que tinguin permís.
 access: Accés
-access.description: Estableixi l'articla com a públic perquè tothom sigui capaç de
-  veure'l. Els elements privats només seran visibles per a vosté, els seus coautors
-  i pels subscriptors que tinguin permís.
+access.description: Establiu l'article com a públic perquè tothom sigui capaç de veure'l.
+  Els elements privats només seran visibles per a vós, els vostres coautors i els
+  subscriptors que tinguin permís.
