@@ -137,3 +137,6 @@ access: Accés
 access.description: Establiu l'article com a públic perquè tothom sigui capaç de veure'l.
   Els elements privats només seran visibles per a vós, els vostres coautors i els
   subscriptors que tinguin permís.
+subscriber.groups: Grup de subscriptors
+subscriber.groups.description: Seleccioni un o més grups per als que vulgui donar
+  accés a aquest article. Això només afecta als articles privats.
