@@ -142,3 +142,5 @@ subscriber.groups.description: Seleccioneu un o més grups als quals vulgueu don
   accés a l'article. Això només afecta als articles privats.
 display: Mostra
 display.homepage: Mostra aquest mapa a la pàgina principal del món.
+tags.description: Utilitzi comes per separar les seves etiquetes. Afegint etiquetes
+  a qualsevol contingut l'ajudarà a trobar-lo fent servir qualsevol etiqueta utilitzada.
