@@ -128,5 +128,5 @@ related.article: Article relacionat
 related.history: Esdeveniment històric relacionat
 BETA: BETA
 position: Posició/Pes
-position.description: El pes és un nombre que defineix en quin ordre apareix un element
-  en la seva d'aquests elements. Com més gran el nombre, més adalt apareixerà l'element.
+position.description: El pes és el nombre que defineix en quin ordre apareix un element
+  en la seva llista. Com més gran el número, més amunt apareixerà l'element.
