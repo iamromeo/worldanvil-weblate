@@ -115,3 +115,18 @@ list.markers: Llista de marcadors
 list.marker.groups: Llista de grups de marcadors
 list.layers: Llista de capes
 list.timelines: Llista de línies de temps
+list.notes: Llista d'apunts
+list.pins: Llista de marcadors
+list.secrets: Llista de secrets
+list.worlds: Llista de mons
+subscribers: Subscriptors
+related.category: Categoria relacionada
+related.location: Ubicació relacionada
+related.map: Mapa relacionat
+related.organization: Organització relacionada
+related.article: Article relacionat
+related.history: Esdeveniment històric relacionat
+BETA: BETA
+position: Posició/Pes
+position.description: El pes és un nombre que defineix en quin ordre apareix un element
+  en la seva d'aquests elements. Com més gran el nombre, més adalt apareixerà l'element.
