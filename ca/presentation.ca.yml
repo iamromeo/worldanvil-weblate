@@ -49,7 +49,7 @@ players.full: La campanya és plena
 authors: Autors
 author.page: Pàgina de l'autor
 author.since: Membre des de
-author.interests: 'Interessos i aficions '
+author.interests: Interessos i aficions
 author.movies: Pel·lícules preferides
 author.tv: Sèries de televisió preferides
 author.books: Llibres preferits
@@ -64,18 +64,18 @@ type: Tipus
 alternativenames: Noms alternatius
 condition.transmission: Transmissió i vectors
 condition.causes: Causes
-condition.symptoms: Simptomes
+condition.symptoms: Símptomes
 condition.treatment: Tractament
 condition.prognosis: Prognosi
-condition.sequela: Seqüela
+condition.sequela: Seqüeles
 condition.affectedgroups: Grups afectats
 condition.hosts: Portadors i hostes
 condition.prevention: Prevenció
 condition.epidimiology: Epidemiologia
-condition.reception: Recepció cultural
+condition.reception: Percepció cultural
 condition.origin: Origen
 condition.cycle: Cicle
 condition.rarity: Raresa
-condition.species: Especies afectades
+condition.species: Espècies afectades
 landmark.purpose: Propòsit/funció
-landmark.design: Diseny
+landmark.design: Disseny
