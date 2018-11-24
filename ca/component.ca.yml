@@ -130,6 +130,6 @@ BETA: BETA
 position: Posició/Pes
 position.description: El pes és el nombre que defineix en quin ordre apareix un element
   en la seva llista. Com més gran el número, més amunt apareixerà l'element.
-status.description: Estableixi aquest element com públic perquè tots siguin capaços
-  de veure'l. Els elements privats només seran visibles per a vosté, els seus coautors
+status.description: Establiu aquest element com públic perquè tothom sigui capaços
+  de veure'l. Els elements privats només seran visibles per a vós, els vostres coautors
   i pels subscriptors que tinguin permís.
