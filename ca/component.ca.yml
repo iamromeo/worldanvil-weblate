@@ -83,3 +83,12 @@ line: Línia
 historical.entry: Esdeveniment històric
 image: Imatge
 player.character: Personatge jugador
+layer: Capa
+label: Etiqueta
+link: Enllaç directe
+map: Mapa
+marker: Marcador
+marker.group: Grup de marcadors
+note: Apunt
+polygon: Polígon
+pin: Marcador
