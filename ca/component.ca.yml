@@ -67,3 +67,19 @@ delete.category: Elimina la categoria
 delete.historical.entry: Elimina l'esdeveniment històric
 delete.image: Elimina la imatge
 delete.player.character: Elimina el personatge jugador
+delete.timeline: Elimina la línia de temps
+delete.layer: Elimina la capa
+delete.marker: Elimina el marcador
+delete.marker.group: Elimina el grup de marcadors
+delete.note: Elimina l'apunt
+delete.pin: Elimina el marcador
+delete.secret: Elimina el secret
+delete.world: Elimina el món
+author.profile: Perfil
+block: Bloc de rol
+campaign: Campanya
+circle: Cercle
+line: Línia
+historical.entry: Esdeveniment històric
+image: Imatge
+player.character: Personatge del jugador
