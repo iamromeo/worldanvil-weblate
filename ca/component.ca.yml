@@ -141,3 +141,4 @@ subscriber.groups: Grup de subscriptors
 subscriber.groups.description: Seleccioneu un o més grups als quals vulgueu donar
   accés a l'article. Això només afecta als articles privats.
 display: Mostra
+display.homepage: Eshibeixi aquest mapa a la pàgina principal del món.
