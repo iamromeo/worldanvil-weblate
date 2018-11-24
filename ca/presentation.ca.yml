@@ -80,3 +80,58 @@ condition.species: Espècies afectades
 landmark.purpose: Propòsit/funció
 landmark.design: Disseny
 landmark.entries: Entrades
+landmark.sensory: Descripció sensorial i aparença
+landmark.denizens: Habitants
+landmark.contents: Continguts i mobiliari
+landmark.valuables: Objectes de valor
+landmark.hazards: Perills i trampes
+landmark.properties: Propietats especials
+landmark.effects: Efectes ambientals
+landmark.alterations: Alteracions
+landmark.architecture: Arquitectura
+landmark.ruined: ESTRUCTURA EN RUÏNES
+landmark.parent: Ubicació
+landmark.children: Ubicacions incloses
+landmark.owner: Propietari
+landmark.organization: Organització propietària
+landmark.charactersinlocation: Personatges en aquest lloc
+landmark.connectedrooms: Habitacions adjacents
+landmark.professions: Professions relacionades
+landmark.materials: Materials relacionats
+landmark.contenders: En disputa per
+landmark.reportprimarylocations: Informe relacionat (localitzacions principals)
+landmark.reportsecondarylocations: Informe relacionat (localitzacions secundàries)
+material.properties: Propietats
+material.characteristics: Característiques físiques
+material.compounds: Compostos
+material.geo: Geologia i geografia
+material.orign: Origen i font
+material.halflife: Vida i expiració
+material.discovery: Descobriment
+material.useCommon: Ús diari
+material.useCultural: Importància cultural i ús
+material.useIndustrial: Ús industrial
+material.refinement: Refinament
+material.manufacturing: Manufactura i productes
+material.products: Productes derivats i secundaris
+material.hazards: Perills
+material.environment: Impacte ambiental
+material.reusability: Reutilització i reciclatge
+material.distribution: Distribució
+material.market: Comerç i mercat
+material.storage: Emmagatzematge
+material.regulations: Llei i regulació
+material.value: Valor
+material.rarity: Raresa
+material.odor: Olor
+material.taste: Gust
+material.color: Color
+material.boiling: Punt d'ebullició/condensació
+material.melting: Punt de fusió/congelació
+material.density: Densitat
+material.commonState: Estat comú
+material.locations: Llocs relacionats
+material.species: Espècies relacionades
+material.items: Objectes relacionats
+material.technologies: Tecnologies relacionades
+material.professions: Professions relacionades
