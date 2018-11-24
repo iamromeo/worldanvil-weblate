@@ -63,3 +63,18 @@ history: Història
 type: Tipus
 alternativenames: Noms alternatius
 condition.transmission: Transmissió i vectors
+condition.causes: Causes
+condition.symptoms: Simptomes
+condition.treatment: Tractament
+condition.prognosis: Prognosi
+condition.sequela: Seqüela
+condition.affectedgroups: Grups afectats
+condition.hosts: Portadors i hostes
+condition.prevention: Prevenció
+condition.epidimiology: Epidemiologia
+condition.reception: Recepció cultural
+condition.origin: Origen
+condition.cycle: Cicle
+condition.rarity: Raresa
+condition.species: Especies afectades
+landmark.purpose: Proposit/Funció
