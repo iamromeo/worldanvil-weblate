@@ -133,3 +133,7 @@ position.description: El pes és el nombre que defineix en quin ordre apareix un
 status.description: Establiu aquest element com públic perquè tothom sigui capaços
   de veure'l. Els elements privats només seran visibles per a vós, els vostres coautors
   i pels subscriptors que tinguin permís.
+access: Accés
+access.description: Estableixi l'articla com a públic perquè tothom sigui capaç de
+  veure'l. Els elements privats només seran visibles per a vosté, els seus coautors
+  i pels subscriptors que tinguin permís.
