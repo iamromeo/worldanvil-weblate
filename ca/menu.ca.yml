@@ -18,7 +18,7 @@ world.goto: Ves a
 world.configure: Configuració del món
 welcome: Hola
 configuration: Configuració
-saved.articles: Articles guardats
+saved.articles: Articles desats
 notifications: Notificacions
 world.browse: Navega mons
 campaign.home: Inici
@@ -35,7 +35,7 @@ dashboard: Taulell
 interface.settings: Configuració de la interfície
 your.stream: Mons que seguiu
 faq: FAQ
-about: Sobre
+about: Qui som?
 campaign.quicklinks: Enllaços ràpids
 campaign.corkboard: Apunts de la campanya
 tos: Termes i condicions
@@ -45,7 +45,7 @@ progress: Progrés
 our.patrons: Els nostres mecenes
 etiquette: Etiqueta
 News & Updates: Notícies i actualitzacions
-i am a gamemaster: Sóc un master de rol
+i am a gamemaster: Soc Master de rol
 i am an author: Sóc escriptor/a
 i am an artist: Soc artista
 Search for Articles, Worlds & Users: Cerca articles, mons i usuaris
