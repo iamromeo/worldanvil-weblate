@@ -195,5 +195,5 @@ map.marker.label.description: Aquest és el text que apareixerà en el vostre ma
 map.display.homepage: Mostra aquest mapa a la pàgina principal del vostre món.
 map.marker.choice: Escolliu i empleneu una de les següents opcions.
 map.marker.radius: Radi del cercle
-map.marker.radius.description: El radi del cercle en píxels. Només emplena això si
-  vol crear un cercle i no un polígon.
+map.marker.radius.description: El radi del cercle en píxels. Empleneu aquest camp
+  només si voleu crear un cercle i no un polígon.
