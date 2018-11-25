@@ -192,4 +192,4 @@ map.marker.fill: Genial! Ara empleneu la resta de camps.
 map.marker.label: Text de l'etiqueta
 map.marker.label.description: Aquest és el text que apareixerà en el vostre mapa per
   aquesta etiqueta
-map.display.homepage: Exhibeix aquest mapa en la pàgina principal del seu món.
+map.display.homepage: Mostra aquest mapa a la pàgina principal del vostre món.
