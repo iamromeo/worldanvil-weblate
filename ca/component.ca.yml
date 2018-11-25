@@ -163,4 +163,4 @@ map.thumbnail: Imatge de miniatura
 map.zoom.initial: Nivell inicial del zoom
 map.zoom.initial.description: Establiu quant zoom tindrà el mapa en carregar-se (el
   valor per defecte és 0).
-map.zoom.min: Zoom mínim permés
+map.zoom.min: Zoom mínim permès
