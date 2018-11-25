@@ -197,3 +197,5 @@ map.marker.choice: Escolliu i empleneu una de les següents opcions.
 map.marker.radius: Radi del cercle
 map.marker.radius.description: El radi del cercle en píxels. Empleneu aquest camp
   només si voleu crear un cercle i no un polígon.
+map.marker.link.description: Si senyala el marcador com un marcador d'enllaç directe,
+  quan sigui apretat dirigirà l'usuari directament a la pàgina.
