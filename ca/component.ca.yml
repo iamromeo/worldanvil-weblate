@@ -164,3 +164,6 @@ map.zoom.initial: Nivell inicial del zoom
 map.zoom.initial.description: Establiu quant zoom tindrà el mapa en carregar-se (el
   valor per defecte és 0).
 map.zoom.min: Zoom mínim permès
+map.zoom.min.description: Fins quan es pot allunyar amb el zoom. Això és un multiplicador
+  negatiu, es a dir, com més petit sigui el nombre més lluny podrà anar el zoom. (El
+  valor per defecte és -2)
