@@ -173,3 +173,6 @@ map.zoom.max.description: Com de lluny o a prop podreu fer zoom. 0 significa un 
   que la imatge començarà a veure's borrosa (el valor per defecte és 0).
 map.center.y: Punt central inicial de l'eix Y
 map.center.x: Punt central inicial de l'eix X
+map.center.description: Les coordinades inicials del centre del mapa quan es carrega.
+  Normalment això és calcula perquè estigui al centre del seu mapa. La cantonada inferior
+  esquera del seu mapa és 0:0.
