@@ -190,3 +190,5 @@ map.marker.new: Nou marcador de localització
 map.marker.drag: Arrossegeu-me per establir les coordenades del nou marcador
 map.marker.fill: Genial! Ara empleneu la resta de camps.
 map.marker.label: Text de l'etiqueta
+map.marker.label.description: Aquest és el text que apareixerà en el seu mapa per
+  aquesta etiqueta
