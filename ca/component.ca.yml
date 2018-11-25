@@ -179,3 +179,7 @@ map.center.description: Les coordenades inicials del centre del mapa quan es car
 map.legend.description: Això apareixerà a la cantonada esquerra del seu mapa. Utilitzeu-ho
   per a crear una llegenda pels seus marcadors, escriure una petita descripció o donar-li
   un altre context.
+map.marker.style: Estil
+map.marker.color: Color
+map.marker.longitude: Longitud
+map.marker.latitude: Latitut
