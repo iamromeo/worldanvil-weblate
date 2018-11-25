@@ -151,4 +151,4 @@ tag.description: Utilitzeu comes per separar les vostres etiquetes. Afegir etiqu
   utilitzada.
 map.image: Imatge base del mapa
 map.image.secondary: Imatge de capa
-map.update.image: Actualitza la imatge primària del mapa
+map.update.image: Actualitza la imatge base del mapa
