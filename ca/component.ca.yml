@@ -154,3 +154,8 @@ map.image.secondary: Imatge de capa
 map.update.image: Actualitza la imatge base del mapa
 map.edit.details: Modifica els detalls del mapa
 map.image.details: Les dimensions esperades de l'arxiu són
+map.legend: Llegenda
+map.compass: Imatge per la rosa dels vents
+map.compass.description: Seleccioni una imatge que serà exhibida com a rosa dels vents
+  a la cantonada inferior dreta del mapa. Utilitzant una imatge amb el fons transparent
+  obtindrà millors resultats.
