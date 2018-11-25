@@ -161,5 +161,5 @@ map.compass.description: Seleccioneu una imatge per mostrar-la com a rosa dels v
   obtindrà millors resultats visuals.
 map.thumbnail: Imatge de miniatura
 map.zoom.initial: Nivell inicial del zoom
-map.zoom.initial.description: Estableixi quant zoom tindrà el seu mapa al cargar-se.
-  (El valor per defecte és 0)
+map.zoom.initial.description: Establiu quant zoom tindrà el mapa en carregar-se (el
+  valor per defecte és 0).
