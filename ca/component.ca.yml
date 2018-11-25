@@ -171,4 +171,4 @@ map.zoom.max: Zoom màxim permès
 map.zoom.max.description: Com de lluny o a prop podreu fer zoom. 0 significa un zoom
   amb escala 1:1 respecte les dimensions del mapa. Un nombre superior a 0 significarà
   que la imatge començarà a veure's borrosa (el valor per defecte és 0).
-map.center.y: Punt central inicial del eix Y
+map.center.y: Punt central inicial de l'eix Y
