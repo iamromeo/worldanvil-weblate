@@ -168,6 +168,6 @@ map.zoom.min.description: Quant es pot allunyar amb el zoom. Això és un multip
   negatiu, es a dir, com més petit sigui el nombre més lluny podrà anar el zoom (el
   valor per defecte és -2).
 map.zoom.max: Zoom màxim permès
-map.zoom.max.description: Com de lluny o aprop podrà der zoom. 0 significa un zoom
+map.zoom.max.description: Com de lluny o a prop podreu fer zoom. 0 significa un zoom
   amb escala 1:1 respecte les dimensions del mapa. Un nombre superior a 0 significarà
-  que la imatge començarà a veure-se borrosa. (El valor per defecte és 0)
+  que la imatge començarà a veure's borrosa (el valor per defecte és 0).
