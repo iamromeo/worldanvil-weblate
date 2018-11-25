@@ -193,3 +193,4 @@ map.marker.label: Text de l'etiqueta
 map.marker.label.description: Aquest és el text que apareixerà en el vostre mapa per
   aquesta etiqueta
 map.display.homepage: Mostra aquest mapa a la pàgina principal del vostre món.
+map.marker.choice: Escolleixi i empleni una de les següents opcions.
