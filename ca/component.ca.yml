@@ -152,3 +152,5 @@ tag.description: Utilitzeu comes per separar les vostres etiquetes. Afegir etiqu
 map.image: Imatge base del mapa
 map.image.secondary: Imatge de capa
 map.update.image: Actualitza la imatge base del mapa
+map.edit.details: Modifica els detalls del mapa
+map.image.details: Les dimensions esperades del arxiu són
