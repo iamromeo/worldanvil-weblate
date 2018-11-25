@@ -149,3 +149,6 @@ group: Grup
 tag.description: Utilitzeu comes per separar les vostres etiquetes. Afegir etiquetes
   a qualsevol contingut us ajudarà a trobar-lo fent servir qualsevol de les etiquetes
   utilitzada.
+map.image: Imatge base del mapa
+map.image.secondary: Imatge de capa
+map.update.image: Actualitza la imatge primària del mapa
