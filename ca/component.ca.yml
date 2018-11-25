@@ -202,3 +202,4 @@ map.marker.link.description: Si senyaleu el marcador com un marcador d'enllaç d
 map.marker.link.relation.description: Escolliu una de les següents relacions per a
   que l'enllaç directe es vinculi. Si n'escolliu més d'una, només la primera es tindrà
   en compte.
+map.marker.polygonPoints: Vèrtex del polígon
