@@ -82,26 +82,26 @@ landmark.denizens: Mieszkańcy
 landmark.valuables: Kosztowności
 landmark.hazards: Zagrożenia i Pułapki
 landmark.properties: Specjalne Właściwości
-landmark.effects: Efekty Środowiskowe
+landmark.effects: Wpływ na środowisko
 landmark.architecture: Architektura
 landmark.ruined: RUINA
-landmark.owner: Posiadane Przez
+landmark.owner: Posiadane przez
 material.rarity: Częstość występowania
 alternativenames: Inne Nazwy
 landmark.professions: Powiązane Profesje
 landmark.materials: Powiązane Materiały
 material.useCommon: Zastosowanie w życiu codziennym
-material.useCultural: Zastosowanie i Znaczenie Kulturowe
+material.useCultural: Zastosowanie i Znaczenie kulturowe
 material.useIndustrial: Zastosowanie w przemyśle
 material.manufacturing: Wytwarzanie i Wyroby
-material.products: Produkty Uboczne
+material.products: Produkty uboczne
 material.storage: Przechowywanie
 material.locations: Powiązane Miejsca
 material.species: Powiązane Gatunki
 material.items: Powiązane Przedmioty
 material.technologies: Powiązane Technologie
 material.professions: Powiązane Profesje
-landmark.charactersinlocation: Postaci w Lokacji
+landmark.charactersinlocation: Znajdujące się tu Postaci
 material.properties: Właściwości
 material.geo: Geologia i Geografia
 material.orign: Geneza i Źródło
@@ -120,10 +120,10 @@ material.color: Kolor
 material.boiling: Temperatura Wrzenia / Kondensacji
 material.melting: Temperatura Topnięcia / Zamarzania
 material.density: Gęstość
-landmark.sensory: Wygląd i Opis Sensoryczny
+landmark.sensory: Wygląd i Odczucia zmysłowe
 landmark.parent: Znajduje się w
 landmark.children: Zawiera
-landmark.organization: Posiadane Przez Organizację
+landmark.organization: Posiadane przez organizację
 landmark.entries: Wejścia
 landmark.contents: Zawartość i Umeblowanie
 landmark.connectedrooms: Połączone Pokoje
@@ -132,3 +132,6 @@ landmark.reportsecondarylocations: Powiązany Raport (Miejsca Drugorzędne)
 material.characteristics: Cechy Fizyczne
 material.compounds: Związki i połączenia
 material.commonState: Powszechny Stan Skupienia
+landmark.alterations: Zmiany
+landmark.contenders: 'Spór o to toczą:'
+material.halflife: Okres przydatności
