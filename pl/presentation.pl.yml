@@ -1,21 +1,21 @@
-world.anvil.header: Społeczność i Narzędzia tworzenia świata World Anvil
+world.anvil.header: Społeczność i narzędzia tworzenia świata World Anvil
 world.anvil.description: World Anvil jest platformą do tworzenia światów i społecznością
   pisarzy, twórców RPG i miłośników tworzenia światów
-account.create: Stwórz Konto
+account.create: Stwórz konto
 created.by: Stworzone przez
 powered.by: Wspierane przez
-toc: Spis Treści
+toc: Spis treści
 in: w
 followers.all: Zobacz wszystkich obserwujących
-image.gallery: Galeria Obrazów
-featured.articles: Wyróżnione Artykuły
-recent.articles: Ostatnie Artykuły
-uncategorized.articles: Nieskategoryzowane Artykuły
+image.gallery: Galeria obrazów
+featured.articles: Wyróżnione artykuły
+recent.articles: Ostatnie artykuły
+uncategorized.articles: Nieskategoryzowane artykuły
 tweets.by: Tweetowane przez
 twitch.live: Oglądaj na żywo na Twitchu
 support.patreon: Wspieraj projekt na Patreonie
 support.patreon.user: Wspieraj %username% na Patreonie
-support.kofi.user: Kup %username% kawę! (Lub herbatę, albo soczek ;))
+support.kofi.user: Kup %username% kawę! (Lub herbatę, albo soczek :v)
 join.discord.world: Dołącz do Discorda %worldname%!
 following: Obseruje %name%
 follow: Obserwuj %name%
@@ -36,8 +36,8 @@ article.love.return: Odwdzięcz się swoją miłością!
 article.likes.number: Ten wpis został polubiony przez %number% światotwórców
 article.visibility: Ten artykuł jest widoczny dla poniższych grup subskrybentów
 article.love: Ludzie, którzy kochają twój artykuł
-author.notes: Notatki Autora
-players.looking: Szuka Graczy
+author.notes: Notatki autora
+players.looking: Szuka graczy
 timeline: Oś czasu
 timelines: Osie czasu
 followers: Obserwujący
@@ -46,92 +46,92 @@ secrets: Sekrety
 maps: Mapy
 articles: Artykuły
 authors: Autorzy
-author.page: Strona Autora
+author.page: Strona autora
 author.since: Członek od
-author.interests: Hobby i Zainteresowania
-author.movies: Ulubione Filmy
-author.tv: Ulubione Seriale
-author.books: Ulubione Książki
-author.writers: Ulubieni Pisarze
-author.games: Ulubione Gry
-author.comments: Komentarze i Opinie
+author.interests: Hobby i zainteresowania
+author.movies: Ulubione filmy
+author.tv: Ulubione seriale
+author.books: Ulubione książki
+author.writers: Ulubieni pisarze
+author.games: Ulubione gry
+author.comments: Komentarze i opinie
 author.worlds: Światy
 author.characters: Postacie
-author.badges: Odznaki i Medale
+author.badges: Odznaki i medale
 history: Historia
 type: Rodzaj
-condition.transmission: Rozprzestrzenianie i Wektory
+condition.transmission: Rozprzestrzenianie i wektory
 condition.causes: Przyczyny
 condition.symptoms: Symptomy
 condition.treatment: Leczenie
 condition.prognosis: Rokowanie
 condition.sequela: Następstwa
-condition.affectedgroups: Dotknięte Grupy
-condition.hosts: Gospodarze i Nosiciele
+condition.affectedgroups: Dotknięte grupy
+condition.hosts: Gospodarze i nosiciele
 condition.prevention: Zapobieganie
 condition.epidimiology: Epidemiologia
-condition.reception: Odbiór Kulturowy
+condition.reception: Odbiór kulturowy
 condition.origin: Źródło
 condition.cycle: Cykl
 condition.rarity: Częstość występowania
-condition.species: Dotknięte Gatunki
+condition.species: Dotknięte gatunki
 players.full: Kampania jest pełna
 landmark.purpose: Przeznaczenie / Funkcja
 landmark.design: Projekt
 landmark.denizens: Mieszkańcy
 landmark.valuables: Kosztowności
-landmark.hazards: Zagrożenia i Pułapki
-landmark.properties: Specjalne Właściwości
+landmark.hazards: Zagrożenia i pułapki
+landmark.properties: Specjalne właściwości
 landmark.effects: Wpływ na środowisko
 landmark.architecture: Architektura
 landmark.ruined: RUINA
 landmark.owner: Posiadane przez
 material.rarity: Częstość występowania
-alternativenames: Inne Nazwy
-landmark.professions: Powiązane Profesje
-landmark.materials: Powiązane Materiały
+alternativenames: Inne nazwy
+landmark.professions: Powiązane profesje
+landmark.materials: Powiązane materiały
 material.useCommon: Zastosowanie w życiu codziennym
-material.useCultural: Zastosowanie i Znaczenie kulturowe
+material.useCultural: Zastosowanie i znaczenie kulturowe
 material.useIndustrial: Zastosowanie w przemyśle
-material.manufacturing: Wytwarzanie i Wyroby
+material.manufacturing: Wytwarzanie i wyroby
 material.products: Produkty uboczne
 material.storage: Przechowywanie
-material.locations: Powiązane Miejsca
-material.species: Powiązane Gatunki
-material.items: Powiązane Przedmioty
-material.technologies: Powiązane Technologie
-material.professions: Powiązane Profesje
-landmark.charactersinlocation: Znajdujące się tu Postaci
+material.locations: Powiązane miejsca
+material.species: Powiązane gatunki
+material.items: Powiązane przedmioty
+material.technologies: Powiązane technologie
+material.professions: Powiązane profesje
+landmark.charactersinlocation: Znajdujące się tu postaci
 material.properties: Właściwości
-material.geo: Geologia i Geografia
-material.orign: Geneza i Źródło
+material.geo: Geologia i geografia
+material.orign: Geneza i źródło
 material.discovery: Odkrycie
 material.refinement: Udoskonalenie
 material.hazards: Zagrożenia
-material.environment: Wpływ na Środowisko
-material.reusability: Ponowne użycie i Recycling
+material.environment: Wpływ na środowisko
+material.reusability: Ponowne użycie i recycling
 material.distribution: Dystrybucja
-material.market: Handel i Rynek
-material.regulations: Prawo i Regulacje prawne
+material.market: Handel i rynek
+material.regulations: Prawo i regulacje prawne
 material.value: Wartość
 material.odor: Zapach
 material.taste: Smak
 material.color: Kolor
-material.boiling: Temperatura Wrzenia / Kondensacji
-material.melting: Temperatura Topnięcia / Zamarzania
+material.boiling: Temperatura wrzenia / kondensacji
+material.melting: Temperatura topnięcia / zamarzania
 material.density: Gęstość
-landmark.sensory: Wygląd i Odczucia zmysłowe
+landmark.sensory: Wygląd i odczucia zmysłowe
 landmark.parent: Znajduje się w
 landmark.children: Zawiera
 landmark.organization: Posiadane przez organizację
 landmark.entries: Wejścia
-landmark.contents: Zawartość i Umeblowanie
-landmark.connectedrooms: Połączone Pokoje
-landmark.reportprimarylocations: Powiązany Raport (Miejsca Główne)
-landmark.reportsecondarylocations: Powiązany Raport (Miejsca Drugorzędne)
-material.characteristics: Cechy Fizyczne
+landmark.contents: Zawartość i umeblowanie
+landmark.connectedrooms: Połączone pokoje
+landmark.reportprimarylocations: Powiązany raport (miejsca główne)
+landmark.reportsecondarylocations: Powiązany raport (miejsca drugorzędne)
+material.characteristics: Cechy fizyczne
 material.compounds: Związki i połączenia
-material.commonState: Powszechny Stan Skupienia
+material.commonState: Powszechny stan skupienia
 landmark.alterations: Zmiany
 landmark.contenders: 'Spór o to toczą:'
 material.halflife: Okres przydatności
