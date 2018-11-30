@@ -74,32 +74,32 @@ list.notes: Lista Notatek
 list.secrets: Lista Sekretów
 list.worlds: Lista Światów
 create.marker: Stwórz Znacznik
-create.marker.group: Stwórz Grupę Znaczników
+create.marker.group: Stwórz Grupę znaczników
 create.new.block: Stwórz nowy Blok RPG
 create.new.campaign: Stwórz nową Kampanię
 create.new.category: Stwórz nową Kategorię
 create.new.historical.entry: Stwórz nowe Wydarzenie historyczne
 create.new.image: Stwórz nowy Obraz
 create.new.player.character: Stwórz nowego Bohatera Gracza
-create.new.timeline: Stwórz nową Oś Czasu
+create.new.timeline: Stwórz nową Oś czasu
 create.new.map: Stwórz nową Mapę
 create.new.marker: Stwórz nowy Znacznik
-create.new.marker.group: Stwórz nową Grupę Znaczników
+create.new.marker.group: Stwórz nową Grupę znaczników
 create.new.note: Stwórz nową Notatkę
 create.new.secret: Stwórz nowy Sekret
 create.new.world: Stwórz nowy Świat
 edit.marker: Edytuj Znacznik
-edit.marker.group: Edytuj Grupę Znaczników
+edit.marker.group: Edytuj Grupę znaczników
 delete.marker: Usuń Znacznik
-delete.marker.group: Usuń Grupę Znaczników
+delete.marker.group: Usuń Grupę znaczników
 marker: Znacznik
-marker.group: Grupa Znaczników
+marker.group: Grupa znaczników
 tag: Tag
 markers: Znaczniki
-marker.groups: Grupy Znaczników
+marker.groups: Grupy znaczników
 tags: Tagi
 list.markers: Lista Znaczników
-list.marker.groups: Lista Grup Znaczników
+list.marker.groups: Lista Grup znaczników
 related.category: Powiązana Kategoria
 related.location: Powiązane Miejsce
 related.map: Powiązana Mapa
@@ -114,7 +114,7 @@ status.description: Ustaw ten element jako publiczny, aby wszyscy mogli go zobac
 access: Dostęp
 access.description: Ustaw swój wpis jako publiczny, aby wszyscy mogli go zobaczyć.
   Prywatne wpisy widoczne są jedynie dla ciebie oraz współautorów twojego świata
-subscriber.groups: Grupy Subskrybentów
+subscriber.groups: Grupy subskrybentów
 group: Grupa
 map.image: Główny Obraz Mapy
 map.edit.details: Edytuj Szczegóły Mapy
@@ -139,7 +139,7 @@ guild.access: Wszystkie elementy darmowych kont są publiczne. Dołącz do <a cl
   text-pink" href="{{ path('app_membership')}}">Gildii Światotwórców</a>, by nadawać
   uprawnienia swoim grupom subskrybentów, pozwolić im zobaczyć tę treść, którą chcesz
   im pokazać i wspomóc rozwój World Anvil.
-guild.subscriber.groups: Grupy Subskrybentów umożliwiają <a class="m-t-10 text-pink"
+guild.subscriber.groups: Grupy subskrybentów umożliwiają <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Gildii Światotwórców</a> nadawać członkom tych
   grup uprawnienia do czytania prywatnych artykułów.
 guild.access.status: Wszystkie elementy darmowych kont są publiczne. Dołącz do <a
@@ -170,7 +170,7 @@ edit.pin: Edytuj Pinezkę
 delete.pin: Usuń Pinezkę
 circle: Okrąg
 label: Etykieta
-link: Bezpośredni Link
+link: Bezpośredni link
 polygon: Wielokąt
 popup: Wyskakujące Okno
 pin: Pinezki

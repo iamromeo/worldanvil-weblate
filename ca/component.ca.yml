@@ -203,3 +203,4 @@ map.marker.link.relation.description: Escolliu una de les següents relacions pe
   que l'enllaç directe es vinculi. Si n'escolliu més d'una, només la primera es tindrà
   en compte.
 map.marker.polygonPoints: Vèrtex del polígon
+popup: Finestra emergent
