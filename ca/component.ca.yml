@@ -217,5 +217,5 @@ map.marker.colorFill.description: 'El color de l''àrea d''un cercle o polígon.
   fer servir colors CSS com blue, red, yellow, etc, O el codi hexadecimal del color
   amb el coixinet, per exemple #000000.'
 map.marker.opacityOutline: Opacitat de la vora
-map.marker.opacityOutline.description: La opacitat en percentatge (%) de la vora.
-  Des de 0% fins a 100% (per exemple 50%)
+map.marker.opacityOutline.description: L'opacitat en percentatge (%) de la vora. Des
+  de 0% fins a 100% (per exemple 50%)
