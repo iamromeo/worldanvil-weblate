@@ -262,3 +262,4 @@ pin.iconAnchor.description: El punt d'ancoratge és un únic píxel que fa de pu
   contacte dels vostres marcadors en el mapa. Normalment estaria en el cartesià 0X
   i en l'eix Y de la meitat de l'amplada del marcador.
 pin.iconAnchorX: Punt d'ancoratge X (en píxels)
+pin.iconAnchorY: Punt d'anclatge Y (en píxels)
