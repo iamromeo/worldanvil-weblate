@@ -268,4 +268,4 @@ pin.popupAnchor.description: El punt d'ancoratge de la finestra emergent és el 
   marcador, es trobaria a la part superior de la icona o fins i tot més amunt.
 pin.popupAnchorX: Punt de la finestra emergent (en píxels)
 pin.popupAnchorY: Punt de la finestra emergent Y (en píxels)
-pin.template.header: Plantilla dels marcadors estandars
+pin.template.header: Plantilla dels marcadors estàndard
