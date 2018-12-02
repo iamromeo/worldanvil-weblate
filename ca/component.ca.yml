@@ -287,6 +287,6 @@ guild.access: Totes les pàgines en els comptes gratuïts són públiques. Uniu-
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi de Worldbuilders</a>
   per poder donar permisos a específics grups de subscriptors perquè accedeixin al
   contingut que vulgueu i ajudar al desenvolupament de World Anvil.
-guild.subscriber.groups: Els grups de subscriptors li permeteixen que el <a class="m-t-10
+guild.subscriber.groups: Els grups de subscriptors permeten que el <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Gremi de Worldbuilders</a> doni
-  permís per llegir els artícles privats als membres d'aquell grup.
+  permís per llegir articles privats als membres d'un grup.
