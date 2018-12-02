@@ -50,7 +50,7 @@ edit.block: Modifica el bloc de rol
 edit.campaign: Modifica la campanya
 edit.category: Modifica la categoria
 edit.historical.entry: Modifica l'esdeveniment històric
-edit.image: Modifica l'imatge
+edit.image: Modifica la imatge
 edit.player.character: Modifica el personatge jugador
 edit.timeline: Modifica la línia de temps
 edit.layer: Modifica la capa
@@ -130,13 +130,13 @@ BETA: BETA
 position: Posició/Pes
 position.description: El pes és el nombre que defineix en quin ordre apareix un element
   en la seva llista. Com més gran el número, més amunt apareixerà l'element.
-status.description: Establiu aquest element com públic perquè tothom sigui capaços
-  de veure'l. Els elements privats només seran visibles per a vós, els vostres coautors
-  i pels subscriptors que tinguin permís.
+status.description: Feu públic aquest element perquè tothom pugui veure'l. Els elements
+  privats només seran visibles per a vós, els vostres coautors i pels subscriptors
+  que tinguin permís.
 access: Accés
-access.description: Establiu l'article com a públic perquè tothom sigui capaç de veure'l.
-  Els elements privats només seran visibles per a vós, els vostres coautors i els
-  subscriptors que tinguin permís.
+access.description: Feu públic aquest element perquè tothom pugui veure'l. Els elements
+  privats només seran visibles per a vós, els vostres coautors i pels subscriptors
+  que tinguin permís.
 subscriber.groups: Grup de subscriptors
 subscriber.groups.description: Seleccioneu un o més grups als quals vulgueu donar
   accés a l'article. Això només afecta als articles privats.
@@ -303,7 +303,7 @@ grandmaster.feature: Aquesta és una funcionalitat exclusiva per Grandmasters i 
   Uniu-vos al <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi
   de Worldbuilders</a> per tenir accés a aquesta funcionalitat i ajudar al desenvolupament
   de World Anvil.
-guild.access.map: Tots els mapes de comptes gratuïtes es poden veure a la pàgina principal
-  del mon. Uneixte a <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">1Worldbuilders
-  Guild</a>2 per seleccionar els teus mapes, articles i mons com a privats i ajudar
+guild.access.map: Tots els mapes dels comptes gratuïtes es poden veure a la pàgina
+  principal del mon. Uniu-vos al <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi
+  de Worldbuilders</a> per fer els vostres mapes, articles i mons privats i ajudar
   al desenvolupament de World Anivl.
