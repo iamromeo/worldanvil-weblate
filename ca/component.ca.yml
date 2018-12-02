@@ -253,3 +253,8 @@ map.marker.lineDash.description: Aquesta és una funció avançada. Utilitzeu l'
   1 2 3 4 per un espaiat variable.
 map.marker.linePoints.check: Seleccioneu això i arrossegueu i deixeu anar el nou marcador
   per crear una línia.
+pin.pinImage: Imatge del marcador
+pin.shadow: Imatge de l'ombra del marcador
+pin.shadow.description: La imatge de l'ombra del marcador. Aquesta imatge és opcional.
+  Si vosté subministra l'imatge, aquesta ha de ser més ample que l'imatge del marcador
+  i expandir-se cap al cantó dret.
