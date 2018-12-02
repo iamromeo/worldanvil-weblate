@@ -232,3 +232,8 @@ map.layers.max: Heu arribat al nombre màxim de capes que podeu tenir amb aquest
   Si voleu més capes en els seus mapes, si us plau, considereu millorar el vostre
   compte! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi
   de Worldbuilders</a>
+map.marker.linePoints: Punts de la línia
+map.marker.linePoints.description: La longuitut i la latitut de cada punt per parelles
+  separades per comes entre si i amb espais amb les altres coordenades. Per exemple
+  20,30 30,30 50,45. Un consell! Faci servir el marcador vermell com a "nou marcador"
+  per obtenir la long./lat. de cada punt.
