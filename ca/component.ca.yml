@@ -204,7 +204,7 @@ map.marker.link.relation.description: Escolliu una de les següents relacions pe
   en compte.
 map.marker.polygonPoints: Vèrtex del polígon
 popup: Finestra emergent
-map.marker.polygonPoints.description: La longuitut i la latitut de cada punt per parelles
-  separades per comes entre si i amb espais amb les altres coordenades. Per exemple
-  20,30 30,30 50,45. Un consell! Faci servir el marcador vermell com a "nou marcador"
-  per obtenir la long./lat. de cada punt.
+map.marker.polygonPoints.description: La longitud i la latitud de cada punt per parells
+  separats per comes entre si i amb espais amb les altres coordenades. Per exemple
+  20,30 30,30 50,45. Un consell! Utilitzeu el marcador vermell "nou marcador" per
+  obtenir la long./lat. de cada punt.
