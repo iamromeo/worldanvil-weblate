@@ -226,3 +226,5 @@ map.marker.group.description: Els grups de marcados us permeten organitzar els m
   i les capes del mapa en categories que podeu mostrar o no i controlar la visibilitat
   (si sou un membre del gremi). Les capes poden exhibir diferent informació o amagar
   un grup de marcadors als vostres lectors si voleu.
+map.marker.group.onload: Visibilitat inicial del grup
+map.marker.group.onload.description: Faci aquest grup visible al carregar el mapa.
