@@ -210,5 +210,5 @@ map.marker.polygonPoints.description: La longitud i la latitud de cada punt per 
   obtenir la long./lat. de cada punt.
 map.marker.colorOutline: Color de la vora
 map.marker.colorOutline.description: 'El color de la vora d''un cercle o polígon.
-  Pot fer servir colors CSS com blau, vermell, groc, etc, O el codi hexadecimal del
-  color inclòs el coixinet, per exemple #000000.'
+  Podeu fer servir colors CSS com blue, red, yellow, etc, O el codi hexadecimal del
+  color amb el coixinet, per exemple #000000.'
