@@ -281,3 +281,9 @@ monster: Monstre
 item: Objecte
 spell: Conjur
 npc: PNJ
+class: Classe
+race: Raça
+guild.access: Totes les pàgines en les comptes gratuïtes són públiques. Uneixi al
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi de Worldbuilders</a>
+  per donar permisos a específics grups de subscriptors per accedir al contingut que
+  vol i ajudi al desenvolupament de World Anvil.
