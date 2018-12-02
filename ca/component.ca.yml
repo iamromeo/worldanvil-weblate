@@ -269,5 +269,5 @@ pin.popupAnchor.description: El punt d'ancoratge de la finestra emergent és el 
 pin.popupAnchorX: Punt de la finestra emergent (en píxels)
 pin.popupAnchorY: Punt de la finestra emergent Y (en píxels)
 pin.template.header: Plantilla dels marcadors estàndard
-pin.template.description: Utilitzi els arxius en aquest arxiu comprimit per crear
+pin.template.description: Utilitzeu els fitxers en aquest arxiu comprimit per crear
   marcadors similars als de World Anvil.
