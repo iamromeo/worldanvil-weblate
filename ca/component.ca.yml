@@ -256,5 +256,5 @@ map.marker.linePoints.check: Seleccioneu això i arrossegueu i deixeu anar el no
 pin.pinImage: Imatge del marcador
 pin.shadow: Imatge de l'ombra del marcador
 pin.shadow.description: La imatge de l'ombra del marcador. Aquesta imatge és opcional.
-  Si vosté subministra l'imatge, aquesta ha de ser més ample que l'imatge del marcador
-  i expandir-se cap al cantó dret.
+  Si n'utilitzeu una, aquesta ha de ser més ample que la imatge del marcador i expandir-se
+  cap a la dreta.
