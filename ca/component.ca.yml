@@ -222,7 +222,7 @@ map.marker.opacityOutline.description: L'opacitat en percentatge (%) de la vora.
 map.marker.opacityFill: Opacitat del farciment
 map.marker.opacityFill.description: L'opacitat en percentatge (%) de l'àrea del cercle
   o el polígon. Des de 0% fins a 100% (per exemple 50%)
-map.marker.group.description: Els grups de marcados el permeten organitzar els marcadors
-  i les capes del mapa en categories que pot exhibir o no i controla la visibilitat
-  (si vosté és un membre del gremi). Les capes poden exhibir diferenta informació
-  o amagar un grup de marcadors als seus lectors si ho desitja.
+map.marker.group.description: Els grups de marcados us permeten organitzar els marcadors
+  i les capes del mapa en categories que podeu mostrar o no i controlar la visibilitat
+  (si sou un membre del gremi). Les capes poden exhibir diferent informació o amagar
+  un grup de marcadors als vostres lectors si voleu.
