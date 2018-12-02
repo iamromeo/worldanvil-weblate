@@ -219,3 +219,6 @@ map.marker.colorFill.description: 'El color de l''àrea d''un cercle o polígon.
 map.marker.opacityOutline: Opacitat de la vora
 map.marker.opacityOutline.description: L'opacitat en percentatge (%) de la vora. Des
   de 0% fins a 100% (per exemple 50%)
+map.marker.opacityFill: Opacitat del farciment
+map.marker.opacityFill.description: La opacitat en percentatge (%) de l'àrea del cercle
+  o el polígon. Des de 0% fins a 100% (per exemple 50%)
