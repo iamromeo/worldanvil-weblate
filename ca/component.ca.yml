@@ -251,5 +251,5 @@ map.marker.lineDash.description: Aquesta és una funció avançada. Utilitzeu l'
   de la línia per definir el patró de la vostra línia. Per exemple, 8 8 significa
   8 píxels de línia i 8 píxels d'espaiat. Però també podeu escriure simplement 8 o
   1 2 3 4 per un espaiat variable.
-map.marker.linePoints.check: Seleccioni això, arrossega-ho i deixa-ho anar el nou
-  marcador per crear una línia.
+map.marker.linePoints.check: Seleccioneu això i arrossegueu i deixeu anar el nou marcador
+  per crear una línia.
