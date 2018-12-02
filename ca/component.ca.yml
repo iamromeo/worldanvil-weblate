@@ -247,7 +247,7 @@ map.marker.lineOpacity: Opacitat de la línia
 map.marker.lineOpacity.description: La opacitat en percentatge (%) de la línia. Des
   de 0% fins a 100% (per exemple 50%)
 map.marker.lineDash: Espaciat de la línia
-map.marker.lineDash.description: Aquesta és una funció avançada. Utilitzi l'espaiat
-  de la línia per definir el patró de la seva línia. Per exemple, 8 8 significa 8
-  píxels de línia i 8 píxels d'espaiat. Però també pot escriure simplement 8 o 1 2
-  3 4 per un espaiat variable.
+map.marker.lineDash.description: Aquesta és una funció avançada. Utilitzeu l'espaiat
+  de la línia per definir el patró de la vostra línia. Per exemple, 8 8 significa
+  8 píxels de línia i 8 píxels d'espaiat. Però també podeu escriure simplement 8 o
+  1 2 3 4 per un espaiat variable.
