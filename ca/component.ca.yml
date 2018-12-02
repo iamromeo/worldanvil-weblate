@@ -273,3 +273,7 @@ pin.template.description: Utilitzeu els fitxers en aquest arxiu comprimit per cr
   marcadors similars als de World Anvil.
 pin.value.notzero: Si us plau, assegureu-vos que aquest valor no està buit ni és 0.
 organization.and.access: Organització i accés
+functionality: Funcionalitat
+appearance: Aparença
+character: Personatge
+feat: Punt
