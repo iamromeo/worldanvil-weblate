@@ -263,6 +263,6 @@ pin.iconAnchor.description: El punt d'ancoratge és un únic píxel que fa de pu
   i en l'eix Y de la meitat de l'amplada del marcador.
 pin.iconAnchorX: Punt d'ancoratge X (en píxels)
 pin.iconAnchorY: Punt d'ancoratge Y (en píxels)
-pin.popupAnchor.description: El punt d'anclatge de la finestra emergent és el punt
-  en que es centra la punta de la finestra emergent. Al contrari que l'anclatge del
-  marcador, es trobaría a la part superior del icona o inclòs més adalt.
+pin.popupAnchor.description: El punt d'ancoratge de la finestra emergent és el punt
+  en què es centra la punta de la finestra emergent. Al contrari que l'ancoratge del
+  marcador, es trobaria a la part superior de la icona o fins i tot més amunt.
