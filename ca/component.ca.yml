@@ -266,3 +266,6 @@ pin.iconAnchorY: Punt d'ancoratge Y (en píxels)
 pin.popupAnchor.description: El punt d'ancoratge de la finestra emergent és el punt
   en què es centra la punta de la finestra emergent. Al contrari que l'ancoratge del
   marcador, es trobaria a la part superior de la icona o fins i tot més amunt.
+pin.popupAnchorX: Punt de la finestra emergent (en píxels)
+pin.popupAnchorY: Punt de la finestra emergent Y (en píxels)
+pin.template.header: Plantilla dels marcadors estandars
