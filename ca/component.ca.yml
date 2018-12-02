@@ -228,6 +228,7 @@ map.marker.group.description: Els grups de marcados us permeten organitzar els m
   un grup de marcadors als vostres lectors si voleu.
 map.marker.group.onload: Visibilitat inicial del grup
 map.marker.group.onload.description: Fes aquest grup visible en carregar el mapa.
-map.layers.max: Ha arribat al nombre màxim de capes que pot tenir amb aquesta compte!
-  Si vol més capes en els seus mapes, sisplau, consideri millorar la seva compte!<a
-  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi de Worldbuilders</a>
+map.layers.max: Heu arribat al nombre màxim de capes que podeu tenir amb aquesta compte!
+  Si voleu més capes en els seus mapes, si us plau, considereu millorar el vostre
+  compte! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi
+  de Worldbuilders</a>
