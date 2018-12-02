@@ -240,7 +240,7 @@ pin.iconAnchorX: Punto de anclaje X (en píxeles)
 pin.iconAnchorY: Punto de anclaje Y (en píxeles)
 pin.popupAnchor.description: El punto de anclaje de la ventana emergente es el punto
   en que se centrará la punta de la ventana emergente. Al contrario que el anclaje
-  del marcador, se encontraría en la parte superior del icono o inclso más alto
+  del marcador, se encontraría en la parte superior del icono o incluso más alto
 pin.popupAnchorX: Punto de la ventana emergente X (en píxeles)
 pin.popupAnchorY: Punto de la ventana emergente Y (en píxeles)
 appearance: Apariencia
