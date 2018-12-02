@@ -271,3 +271,4 @@ pin.popupAnchorY: Punt de la finestra emergent Y (en píxels)
 pin.template.header: Plantilla dels marcadors estàndard
 pin.template.description: Utilitzeu els fitxers en aquest arxiu comprimit per crear
   marcadors similars als de World Anvil.
+pin.value.notzero: Sisplau, asseguris que aquest valor no està buit ni és 0.
