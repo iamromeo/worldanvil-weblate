@@ -258,6 +258,6 @@ pin.shadow: Imatge de l'ombra del marcador
 pin.shadow.description: La imatge de l'ombra del marcador. Aquesta imatge és opcional.
   Si n'utilitzeu una, aquesta ha de ser més ample que la imatge del marcador i expandir-se
   cap a la dreta.
-pin.iconAnchor.description: El punt d'ancoratge és un únic pixel que fa de punt de
-  contacte dels seus marcadors en el mapa. Normalment estaría en el cartesià 0X i
-  en l'eix Y de l'amplada del marcador.
+pin.iconAnchor.description: El punt d'ancoratge és un únic píxel que fa de punt de
+  contacte dels vostres marcadors en el mapa. Normalment estaria en el cartesià 0X
+  i en l'eix Y de la meitat de l'amplada del marcador.
