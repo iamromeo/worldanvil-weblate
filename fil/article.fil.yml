@@ -1,1 +1,66 @@
-{}
+article.generic: Artikulo, Payak
+character: Tauhan
+condition: Kalagayan
+document: Dokumento
+ethnicity: Etniko
+formation.military: Pormasyon (Hukbo)
+item: Bagay
+language: Wika
+material: Bagay
+myth.legend: Alamat
+military.conflict: Tunggalian ng Sandatahan
+location.building: Kinaroroonan, Gusali
+building: Gusali
+location.geographic: Kinaroroonan, Heograpiya
+geography: Heograpiya
+location.settlement: Kinaroroonan, Pamayanan
+settlement: Pamayanan
+law: Batas (Meta/Pisikal)
+organization: Samahan
+prose: Tuluyan
+profession: Propesyon
+plot: Banghay
+rank.title: Ranggo / Titulo
+species: Uri
+spell: Gayuma
+technology.science: Teknolohiya / Agham
+technology: Teknolohiya
+tradition.ritual: Tradisyon / Ritwal
+tradition: Tradisyon
+vehicle: Sasakyan
+rpg.session.report: RPG Ulat sa Pulong
+rpg.report: RPG Ulat
+description.building: '...o Palatandaan. Kinamamanghaan, likas at itinayo, pinagguhuan,
+  bartolina, templo, mga punong magiting, Smithy, Panuluyanan, Kastilyo. Kahit na
+  anong gusto mo na mahalagang pangalanan.'
+description.character: Mula sa mga Hari at Reyna hanggang sa mga bayani, magbubukid
+  at mga Diyos.
+description.condition: Likas at Salamangka, mga sakit, karamdaman at mga pagbabago
+  ng anyo.
+description.document: Mga kasunduan, Aklat, Gawa, Patnubay, Pahayag at marami pang
+  iba!
+description.ethnicity: Hindi batay sa uri kundi ng mga magkakaugnay na tao sa kalinangan
+  at kanunununuan. Hindi ng mga tao sa Kahirian, kundi ng mga taong may iisang paniniwala
+  at tradisyon.
+description.formation: Pormasyong pangmilitar. Ano ang histsura o kaanyuan ng mga
+  Pulutong, Kawal, Tagatabak, Tagasibat, Kabalyero mo. Ano-ano ang kanilang mga kagamitan
+  at pamamaraan?
+description.generic: Pangkalahatang Artikulo na magagagit pandagdag sa nilalaman,
+  RPG gawang-bahay na panuntunan, Panimula sa mga Kabanta, Kwento, tuluyan atbp.
+description.geography: Mga daigdig at Sansinukob. Mga kalawakan, sistemang solar,
+  planeta, bulubundukin, lambak, malawak na karagatan, balaho at lawa. Lahat ng kinalalagayan
+  at kinaroroonan.
+description.item: Pang-araw araw na gamit, salapi, kasangkapan, armor mula sa pinakapangkaraniwan
+  hanggang sa pinakakatangitangi
+description.law: Baka naiiba ang dagsin sa iyong daigdig, o mayroong salamangka sa
+  hangin, o mas mabagal ang paglakbay ng liwanag. Anuman sa pangkaraniwan o higit
+  pang batas ng kalikasan at pisika.
+description.language: Mga pamamaraan ng komunikasyon ng mga uri na matatalas ang isip
+  sa pakikipagpalitan ng mga haka at kaisipan sa iyong daigdig.
+description.material: Hilaw na kagamitan, Pangkalakalang yaman, Elementong kemikal.
+  Kahit na ano mula Mythril at Adamantium hanggang sa Uranium at Unobtainium 2000.
+description.conflict: Mga digmaan, Labanan, Paglusob at Pananalanta. Sa pangkalahatan,
+  kung ano ang nangyayari kapag ang bawat isang magkabilang panig ay nagkaharap sa
+  laban.
+description.legend: Mga kwento-kwento sa iyong daigdig. Ipagpalagay si Haring Arthur,
+  Mga buwaya sa agusan ng New York o Malaking paa.
