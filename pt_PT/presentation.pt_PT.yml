@@ -1,1 +1,30 @@
-{}
+world.anvil.header: World Anvil Plataforma de Construção de Mundos e Comunidade
+world.anvil.description: O World Anvil é uma plataforma de construção de mundos e
+  uma comunidade para escritores, contadores de estórias de RPG e amantes da criação
+  de novos mundos
+account.create: Criar uma conta
+created.by: Criado por
+powered.by: Powered by
+in: em
+timeline: Linha Temporal
+timelines: Linhas Temporais
+toc: Índice
+followers: Seguidores
+followers.all: Ver todos os seguidores
+campaigns: Campanhas
+secrets: Segredos
+maps: Mapas
+image.gallery: Galeria de Imagens
+articles: Artigos
+recent.articles: Artigos Recentes
+featured.articles: Artigos Destacados
+uncategorized.articles: Artigos sem Categoria
+tweets.by: Tweets de
+twitch.live: Ver ao vivo no Twitch
+support.patreon: Suporta o projecto no Patreon
+support.patreon.user: Ajudar %username% no Patreon
+support.kofi.user: Pagar um café a %username%!
+join.discord.world: Join %worldname% Discord!
+following: A seguir/seguindo ?? %name%
+follow: Seguir %name%
+follow.action.remove: PARAR DE SEGUIR
