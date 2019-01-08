@@ -1,1 +1,6 @@
-{}
+rpg.resources: Recursos RPG
+rpg.resources.welcome.header: Te damos la bienvenida a la página de recursos RPG de
+  World Anvil
+rpg.resources.welcome.intro1: ¡Aquí puedes encontrar todos los recursos creados por
+  la comunidad de World Anvil y cualquier contenido de las SRD (Documentos de Referencia
+  del Sistema)!
