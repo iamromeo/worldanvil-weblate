@@ -22,3 +22,5 @@ view.profile: Ver perfil
 edit.map: Editar mapa
 edit.profile: Editar perfil
 download: Descargar
+copy: Copiar
+copy.to.clipboard: Haz clic para copiar esto en el portapapeles
