@@ -171,7 +171,7 @@ map.zoom.min.description: How far out/away you can zoom out. This is a negative 
 map.zoom.max: Maximum Allowed Zoom
 map.zoom.max.description: How far in/deep you can zoon in. 0 means zoom to the 1:1 dimensions of the map. Anything above 0 will mean that the image will start to get blurry. (0 by Default)
 map.center.y: Initial Center point (Y Axis)
-map.center.x: Inirial Center point (X Axis)
+map.center.x: Initial Center point (X Axis)
 map.center.description: The initial coordinates of the center of the map when it's first loaded. Normally this is calculated to be the center of your map. The bottom left of your map is point 0:0.
 map.legend.description: This will appear on the bottom left of your map. Use it to create a legend for your markers, write a short description or give any other context.
 map.marker.style: Style 

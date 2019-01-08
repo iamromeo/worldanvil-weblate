@@ -1,0 +1,10 @@
+rpg.resources: RPG Resources
+rpg.resources.welcome.header: Welcome to World Anvil's RPG Resources page
+rpg.resources.welcome.intro1: This is where all the resources created by the World Anvil Community and any content from SRDs (System Reference Documents) can be found!
+rpg.resources.welcome.intro2: Each "block" (stat block) hosted here has a BBcode that you can copy and use in your world or use it while playing. All resources hosted here are either under licence or willingly shared by their authors.  
+rpg.world.systems: Your World's System(s)
+rpg.systems.list: RPG Systems List
+rpg.add.to.world: Add this system to your World
+
+
+rpg.statblock.copy: Make a copy of this Stat Block

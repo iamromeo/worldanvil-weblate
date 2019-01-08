@@ -2,6 +2,7 @@ show: 'Show'
 edit: 'Edit'
 save.changes: Save Changes
 view: 'View'
+copy: 'Copy'
 delete: 'Delete'
 create: 'Create'
 replace: Replace
@@ -13,6 +14,7 @@ check.out: 'Check it out'
 edit.and.play: 'Edit & Play'
 browse: Browse
 download: Download
+copy.to.clipboard: Click to copy the on your clipboard
 
 login: 'Login'
 logout: 'Logout'
