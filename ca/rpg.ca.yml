@@ -1,1 +1,12 @@
-{}
+rpg.resources: Recursos de rol
+rpg.resources.welcome.header: Us donem la benvinguda a la pàgina de recursos de rol
+  de World Anvil
+rpg.resources.welcome.intro1: Aquí podeu trobar tots els recursos creats per la comunitat
+  de World Anvil i els continguts dels DRS (Document de Referència del Sistema)!
+rpg.resources.welcome.intro2: Tots els blocs d'estadístiques d'aquí tenen un BBCode
+  que podeu copiar i utilitzar al vostre món o mentre jugueu. Tots els recursos d'aquí
+  són publicats sota una llicència o compartits voluntàriament pels seus autors.
+rpg.world.systems: Sistemes del vostre món
+rpg.systems.list: Llista de sistemes de rol
+rpg.add.to.world: Afegeix aquest sistema meu món
+rpg.statblock.copy: Fes una còpia d'aquest bloc d'estadístiques
