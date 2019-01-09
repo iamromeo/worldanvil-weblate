@@ -22,3 +22,5 @@ delete.map: 地図を削除
 edit.profile: プロフィールを編集
 view.profile: プロフィールを表示
 download: ダウンロード
+copy: コピー
+copy.to.clipboard: クリックするとクリップボードにコピーされます
