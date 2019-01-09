@@ -1,3 +1,8 @@
 rpg.resources: RPGの資源
 rpg.resources.welcome.header: ワールド・アンヴィルのRPGの資源ページ
 rpg.resources.welcome.intro1: ここでワールド・アンヴィル・コミュニティーの作成したあらゆる資源や、SRD（システム参照書）からのコンテンツを見けることができます！
+rpg.resources.welcome.intro2: ここにホストされた各「プロック」、即ち、ステータス・プロックは、コピーして自分のワールドで、または、ロールプレイしながら使用できる、BBコードを持っています。ここにホストされたすべての資源はライセンスを得ている、または、各ものの作者によって快く共有しています。
+rpg.world.systems: ワールドのシステム
+rpg.systems.list: RPGシステム一覧
+rpg.add.to.world: このシステムをワールドに追加
+rpg.statblock.copy: このステータス・プロックを複製
