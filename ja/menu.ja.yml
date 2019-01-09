@@ -3,7 +3,7 @@ dashboard: ダッシュボード
 campaigns: キャンペーン
 notebook: ノート
 studio: スタジオ
-srd: RPG SRD
+srd: RPGの資源
 about: World Anvilについて
 community: コミュニティ
 challenges: 問題
@@ -51,3 +51,8 @@ Search for Articles, Worlds & Users: 記事、ワールド、ユーザーを検�
 Go to Dashboard: ダッシュボードへ
 All Rights Reserved: 不許複製・禁無断転載
 todo.list: やることリスト
+join.guild: キルドに加わっててご覧！
+join.guild.description: 機能をすべてゲット！ワールドアンヴィルの世界づくりを生き続けていきましょう！
+account.subscription: あなたの登録
+feature.suggest: 機能を勧める
+team: チーム
