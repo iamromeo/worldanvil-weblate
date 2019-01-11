@@ -1,1 +1,11 @@
-{}
+rpg.resources: RPG Anyagok
+rpg.resources.welcome.header: Üdvözlünk a World Anvil RPG Anyagok oldalán
+rpg.resources.welcome.intro1: Itt található az összes anyag a World Anvil közösségtől,
+  és bármely SRD-ből (Rendszer Referencia-dokumentum)!
+rpg.resources.welcome.intro2: Minden egyes itt tárolt "blokk" (stat blokk) rendelkezik
+  egy BB kóddal, amit kimásolhatsz a világodhoz vagy játékodhoz. Minden itt található
+  anyag licencelt, vagy az alkotójuk beleegyezésével került ki.
+rpg.world.systems: A Világod Rendszere(i)
+rpg.systems.list: RPG Rendszer Lista
+rpg.add.to.world: Add ezt a rendszert a Világodhoz
+rpg.statblock.copy: Másold le ezt a Stat Blokkot
