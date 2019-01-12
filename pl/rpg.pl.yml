@@ -1,1 +1,12 @@
-{}
+rpg.resources: Zasoby RPG
+rpg.resources.welcome.header: Witaj na stronie z zasobami RPG World Anvil
+rpg.resources.welcome.intro1: Tutaj znajdują się wszystkie zasoby stworzone przez
+  Społeczność World Anvil oraz wszelka zawartość z oficjalnych SRD!
+rpg.resources.welcome.intro2: Każdy "blok" (blok statystyk), znajdujący się tutaj,
+  ma BBcode, który możesz skopiować i wykorzystać w swoim świecie albo użyć go podczas
+  gry. Wszelkie zasoby tutaj zamieszczone są albo objęte licencją, albo dobrowolnie
+  udostępnione przez ich autorów.
+rpg.world.systems: Systemy w twoim Świecie
+rpg.systems.list: Lista Systemów RPG
+rpg.add.to.world: Dodaj ten system do swojego Świata
+rpg.statblock.copy: Stwórz kopię tego Bloku Statystyk
