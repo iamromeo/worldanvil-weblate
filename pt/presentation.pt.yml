@@ -83,7 +83,7 @@ landmark.denizens: Habitantes
 landmark.valuables: Objetos de Valor
 landmark.properties: Propriedades Especiais
 landmark.architecture: Arquitetura
-landmark.ruined: ESTRUTURA ARRUINADA
+landmark.ruined: ESTRUTURA EM RUÍNAS
 landmark.children: Locais Inclusos
 landmark.owner: Proprietário
 landmark.organization: Organização Proprietária
@@ -101,12 +101,12 @@ landmark.reportprimarylocations: Relatório Relacionado (Locais Primários)
 landmark.reportsecondarylocations: Relatórios Relacionados (Locais Secundários)
 material.properties: Propriedades
 material.characteristics: Características Físicas
-material.compounds: Complexo
+material.compounds: Compostos
 material.geo: Geologia e Geografia
 material.orign: Origem e Fonte
 material.useCommon: Uso Diário
 material.discovery: Descoberta
-material.useCultural: Significado e Uso Cultural
+material.useCultural: Uso e Significado Cultural
 material.useIndustrial: Uso Industrial
 material.refinement: Refinamento
 material.manufacturing: Produtos e Manufatura
@@ -135,4 +135,4 @@ material.technologies: Tecnologias Relacionadas
 material.professions: Profissões Relacionadas
 landmark.connectedrooms: Cômodos conectados
 material.halflife: Prazo e Expiração
-landmark.parent: Localização de Origem
+landmark.parent: Local Pai
