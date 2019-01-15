@@ -2,7 +2,7 @@ toggle: Alternar Menu
 dashboard: Painel
 campaigns: Campanhas
 notebook: Anotações
-srd: RPG SRD
+srd: Recursos para RPG
 about: Sobre
 community: Comunidade
 challenges: Desafios
@@ -51,4 +51,9 @@ Go to Dashboard: Ir para o Painel
 All Rights Reserved: Todos os Direitos Reservados
 studio: Estúdio
 todo.list: Lista de Afazeres
-join.guild: JUNTE-SE A GUILDA!
+join.guild: JUNTE-SE À GUILDA!
+join.guild.description: TENHA TODAS AS FUNCIONALIDADES! Ajude-nos a manter o World
+  Anvil vivo e crescendo!
+feature.suggest: Sugerir uma Funcionalidade
+team: Equipe
+account.subscription: Sua Assinatura
