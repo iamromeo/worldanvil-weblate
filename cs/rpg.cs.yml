@@ -1,1 +1,8 @@
 rpg.resources: RPG zdroje
+rpg.resources.welcome.header: Vítej na stránce pro RPG zdroje World Anvil
+rpg.resources.welcome.intro1: Právě tady najdeš všechny materiály vytvořené komunitou
+  World Anvil, a taky jakýkoliv obsah z SRD(system reference document).
+rpg.world.systems: RPG systém(y) tvého světa
+rpg.systems.list: Seznam RPG systémů
+rpg.add.to.world: Přidat RPG systém do tvého světa
+rpg.statblock.copy: Zkopírovat RPG materiál
