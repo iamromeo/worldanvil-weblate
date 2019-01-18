@@ -133,3 +133,5 @@ material.species: Aiheeseen liittyvät lajit
 material.items: Aiheeseen liittyvät esineet
 material.technologies: Aiheeseen liittyvät teknologiat
 material.professions: Aiheeseen liittyvät ammatit
+material.color: Väri
+material.commonState: Normaali olotila
