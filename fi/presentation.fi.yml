@@ -77,12 +77,12 @@ condition.cycle: Kierto
 condition.rarity: Harvinaisuus
 condition.species: Riskilajit
 alternativenames: Vaihtoehtoiset nimet
-landmark.purpose: Tarkoitus / Toimintatarkoitus
+landmark.purpose: Tarkoitus / Käyttö
 landmark.design: Design
 landmark.entries: Merkinnät
 landmark.sensory: Aistihavainnot & ulkonäkö
 landmark.denizens: Asukkaat
-landmark.contents: Sisältö & kalustus
+landmark.contents: Sisältö ja kalustus
 landmark.valuables: Arvoesineet
 landmark.hazards: Vaarat & ansat
 landmark.properties: Erityisominaisuudet
@@ -91,7 +91,7 @@ landmark.alterations: Muutostyöt
 landmark.architecture: Arkkitehtuuri
 landmark.ruined: RAUNIO
 landmark.parent: Sijainti
-landmark.children: Sisältyvät sijainnit
+landmark.children: Sisältyvät paikat
 landmark.owner: Omistaja
 landmark.organization: Omistava organisaatio
 landmark.charactersinlocation: Läsnä olevat hahmot
