@@ -43,7 +43,7 @@ article.love: Henkilöt, jotka pitivät artikkelistasi
 article.love.return: Vastaa samalla mitalla!
 article.likes.number: '%number% maailmanrakentajaa pitää tästä artikkelista'
 article.visibility: Tämä artikkeli näkyy seuraaville tilaajaryhmille
-author.notes: Tekijän huomioita
+author.notes: Kirjoittajan muistiinpanot
 players.looking: Pelaajia halutaan
 players.full: Kampanja on täynnä
 authors: Tekijät
@@ -67,13 +67,13 @@ condition.symptoms: Oireet
 condition.treatment: Hoito
 condition.prognosis: Ennuste
 condition.sequela: Seuraus
-condition.affectedgroups: Kohderyhmät
-condition.hosts: Isännät & välittäjät
+condition.affectedgroups: Riskiryhmät
+condition.hosts: Isännät & kantajat
 condition.prevention: Torjunta
 condition.epidimiology: Epidemiologia
 condition.reception: Kulttuurinen vastaanotto
 condition.origin: Alkuperä
-condition.cycle: Sykli
+condition.cycle: Taudin kierto
 condition.rarity: Harvinaisuus
 condition.species: Kohdelajit
 alternativenames: Vaihtoehtoiset nimet
