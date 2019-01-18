@@ -43,7 +43,7 @@ article.love: Henkilöt, jotka pitivät artikkelistasi
 article.love.return: Vastaa samalla mitalla!
 article.likes.number: '%number% maailmanrakentajaa pitää tästä artikkelista'
 article.visibility: Tämä artikkeli näkyy seuraaville tilaajaryhmille
-author.notes: Tekijän merkintöjä
+author.notes: Tekijän huomioita
 players.looking: Pelaajia halutaan
 players.full: Kampanja on täynnä
 authors: Tekijät
@@ -76,3 +76,60 @@ condition.origin: Alkuperä
 condition.cycle: Sykli
 condition.rarity: Harvinaisuus
 condition.species: Kohdelajit
+alternativenames: Vaihtoehtoiset nimet
+landmark.purpose: Tarkoitus / Funktio
+landmark.design: Design
+landmark.entries: Merkinnät
+landmark.sensory: Aistihavainnot & ulkonäkö
+landmark.denizens: Asukkaat
+landmark.contents: Sisältö & kalustus
+landmark.valuables: Arvoesineet
+landmark.hazards: Vaarat & ansat
+landmark.properties: Erityisominaisuudet
+landmark.effects: Ympäristövaikutukset
+landmark.alterations: Muutostyöt
+landmark.architecture: Arkkitehtuuri
+landmark.ruined: RAUNIO
+landmark.parent: Sijainti
+landmark.children: Sisältyvät sijainnit
+landmark.owner: Omistaja
+landmark.organization: Omistava organisaatio
+landmark.charactersinlocation: Läsnä olevat hahmot
+landmark.connectedrooms: Naapurihuoneet
+landmark.professions: Aiheeseen liittyvät ammatit
+landmark.materials: Aiheeseen liittyvät materiaalit
+landmark.contenders: Kiistanalaisuuden aiheuttaja
+landmark.reportprimarylocations: Aiheeseen liittyvä raportti (ensisijaiset paikat)
+landmark.reportsecondarylocations: Aiheeseen liittyvä raportti (toissijaiset paikat)
+material.properties: Ominaisuudet
+material.characteristics: Fyysiset piirteet
+material.compounds: Yhdisteet
+material.geo: Maantiede & geologia
+material.origin: Alkuperä & lähde
+material.halflife: Elinkaari & vanhentuminen
+material.discovery: Keksiminen
+material.useCommon: Arkikäyttö
+material.useCultural: Kulttuurillinen merkitys ja käyttö
+material.useIndustrial: Teollinen käyttö
+material.refinement: Jalostus
+material.manufacturing: Tuotanto & tuotteet
+material.products: Sivu- ja oheistuotteet
+material.hazards: Vaarat
+material.environment: Ympäristövaikutukset
+material.reusability: Uudelleenkäyttö & kierrätys
+material.distribution: Jakelu
+material.market: Kauppa & markkinat
+material.storage: Varastointi
+material.regulations: Lait & sääntely
+material.value: Arvo
+material.rarity: Harvinaisuus
+material.odor: Haju
+material.taste: Maku
+material.boiling: Kiehumis- tai kastepiste
+material.melting: Sulamis- tai jäätymispiste
+material.density: Tiheys
+material.locations: Asiaan liittyvät paikat
+material.species: Aiheeseen liittyvät lajit
+material.items: Aiheeseen liittyvät esineet
+material.technologies: Aiheeseen liittyvät teknologiat
+material.professions: Aiheeseen liittyvät ammatit
