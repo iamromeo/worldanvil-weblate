@@ -75,9 +75,9 @@ condition.reception: Kulttuurinen vastaanotto
 condition.origin: Alkuperä
 condition.cycle: Kierto
 condition.rarity: Harvinaisuus
-condition.species: Kohdelajit
+condition.species: Riskilajit
 alternativenames: Vaihtoehtoiset nimet
-landmark.purpose: Tarkoitus / Funktio
+landmark.purpose: Tarkoitus / Toimintatarkoitus
 landmark.design: Design
 landmark.entries: Merkinnät
 landmark.sensory: Aistihavainnot & ulkonäkö
