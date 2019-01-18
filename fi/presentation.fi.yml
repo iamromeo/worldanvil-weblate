@@ -78,14 +78,14 @@ condition.rarity: Harvinaisuus
 condition.species: Riskilajit
 alternativenames: Vaihtoehtoiset nimet
 landmark.purpose: Tarkoitus / Käyttö
-landmark.design: Design
-landmark.entries: Merkinnät
-landmark.sensory: Aistihavainnot & ulkonäkö
+landmark.design: Muotoilu
+landmark.entries: Sisäänkäynnit
+landmark.sensory: Aistimukset ja ulkonäkö
 landmark.denizens: Asukkaat
 landmark.contents: Sisältö ja kalustus
 landmark.valuables: Arvoesineet
-landmark.hazards: Vaarat & ansat
-landmark.properties: Erityisominaisuudet
+landmark.hazards: Vaarat ja ansat
+landmark.properties: Erityispiirteet
 landmark.effects: Ympäristövaikutukset
 landmark.alterations: Muutostyöt
 landmark.architecture: Arkkitehtuuri
@@ -98,7 +98,7 @@ landmark.charactersinlocation: Läsnä olevat hahmot
 landmark.connectedrooms: Naapurihuoneet
 landmark.professions: Aiheeseen liittyvät ammatit
 landmark.materials: Aiheeseen liittyvät materiaalit
-landmark.contenders: Kiistanalaisuuden aiheuttaja
+landmark.contenders: Kilpaileva taho
 landmark.reportprimarylocations: Aiheeseen liittyvä raportti (ensisijaiset paikat)
 landmark.reportsecondarylocations: Aiheeseen liittyvä raportti (toissijaiset paikat)
 material.properties: Ominaisuudet
@@ -107,17 +107,17 @@ material.compounds: Yhdisteet
 material.geo: Maantiede & geologia
 material.origin: Alkuperä & lähde
 material.halflife: Elinkaari & vanhentuminen
-material.discovery: Keksiminen
+material.discovery: Löytäminen
 material.useCommon: Arkikäyttö
 material.useCultural: Kulttuurillinen merkitys ja käyttö
-material.useIndustrial: Teollinen käyttö
+material.useIndustrial: Teollisuuskäyttö
 material.refinement: Jalostus
 material.manufacturing: Tuotanto & tuotteet
-material.products: Sivu- ja oheistuotteet
+material.products: Sivutuotteet
 material.hazards: Vaarat
-material.environment: Ympäristövaikutukset
-material.reusability: Uudelleenkäyttö & kierrätys
-material.distribution: Jakelu
+material.environment: Ympäristövaikutus
+material.reusability: Uusiokäyttö & kierrätys
+material.distribution: Levinneisyys
 material.market: Kauppa & markkinat
 material.storage: Varastointi
 material.regulations: Lait & sääntely
