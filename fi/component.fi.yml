@@ -280,3 +280,16 @@ guild.access.map: Kaikki ilmaistilien kartat näytetään maailman kotisivulla. 
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Maailmanrakentajien
   kiltaan</a> jotta voit asettaa karttasi, artikkelisi ja maailmasi yksityisiksi.
   Samalla autat World Anvilin kehitystyötä.
+create.article: Luo artikkeli
+edit.article: Muokkaa artikkelia
+character: Hahmo
+feat: Valtti
+monster: Hirviö
+npc: Sivuhahmo
+item: Esine
+spell: Loitsu
+class: Luokka
+race: Rotu
+master.feature: Tämä on vähintään mestareille tarkoitettu toiminto. Liity <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Maailmanrakentajien kiltaan</a>
+  jotta pystyt käyttämään tätä toimintoa sekä auttamaan World Anvilin kehitystyötä.
