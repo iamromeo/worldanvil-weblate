@@ -1,1 +1,12 @@
-{}
+rpg.resources: Roolipeliresurssit
+rpg.resources.welcome.header: Tervetuloa World Anvilin roolipeliresurssien sivulle
+rpg.resources.welcome.intro1: Tänne on koottu World Anvil -yhteisön luomat resurssit
+  sekä SRD-dokumenttien (System Reference Document) sisältö!
+rpg.resources.welcome.intro2: Jokainen täällä oleva "lohko" (kykylistaus) sisältää
+  BBcode-merkkijonon jonka voit kopioida omaan maailmaasi tai käyttää pelin aikana.
+  Kaikki tänne tallennetut resurssit ovat lisensoitu tai tekijöidensä vapaaehtoisesti
+  jakelemia.
+rpg.world.systems: Maailmasi säännöstö(t)
+rpg.systems.list: Roolipelisäännöstöjen luettelo
+rpg.add.to.world: Lisää tämä säännöstö maailmaasi
+rpg.statblock.copy: Kopioi tämä kykylistaus
