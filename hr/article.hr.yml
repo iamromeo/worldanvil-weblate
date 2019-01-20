@@ -1,1 +1,98 @@
-{}
+article.generic: Članak, Opčenito
+character: Lik
+condition: Stanje
+document: Dokument
+ethnicity: Etnicitet
+formation.military: Vojne formacije
+item: Predmet
+language: Jezik
+material: Materijal
+myth.legend: Mit/Legenda
+military.conflict: Vojni Sukob
+location.building: Lokacija, Građevina
+building: Građevina
+location.geographic: Lokacija, Geografska
+geography: Geografija
+location.settlement: Lokacija, Naselje
+settlement: Naselje
+law: Zakon (metafizički)
+organization: Organizacija
+prose: Proza
+profession: Profesija
+plot: Zaplet
+rank.title: Čin / Titula
+species: Vrsta
+spell: Čarolija
+technology.science: Tehnologija / Znanost
+technology: Tehnologija
+tradition.ritual: Tradicija / Obred
+tradition: Tradicija
+vehicle: Vozilo
+rpg.session.report: Izvješće RPG sesije
+rpg.report: RPG Izvješće
+description.building: '...ili Znamenitost. Čuda, prirodna ili izgrađena, ruševine,
+  tamnice, hramovi, velika stabla, Kovačnica, Krčme, Dvorci. Sve na što možete pokazati
+  i što ljudi smatraju vrijednim imenovati.'
+description.character: Od Kraljeva i Kraljica do heroja, seljaka i Bogova.
+description.condition: Prirodne i magične bolesti, mutacije i transformacije.
+description.document: Ugovori, Knjige, Umjetnička djela, Priručnici, Vodiči, Izjave
+  i još mnogo toga!
+description.ethnicity: Ne vrste nego ljudi koji su povezani zajedničkom kulturom.
+  Ne ljudi istog Kraljevstva, već ljudi s istim uvjerenjima i tradicijama.
+description.formation: Prototipovi vojnih formacija. Kako izgledaju vaše Legije, Falange,
+  Mačevaoci, Kopljonoše, Vitezovi. Koja je njihova oprema i taktika?
+description.generic: Općeniti članci koji se mogu koristiti za dodatne sadržaje, pravila
+  igranja igara uloga, uvod u poglavlja, priče, prozu itd.
+description.geography: Svjetovi i svemiri. Galaksije, solarni sustavi, planeti, planinski
+  lanci, doline, velika mora, močvare i jezera. Sve zemljopisne lokacije.
+description.item: Svakodnevna upotreba, novčići, alati, oružje, oklopi od najčešćih
+  do jedinstvenih
+description.law: Možda se u vašem svijetu gravitacija ponaša drugačije, ili postoji
+  magija u zraku, ili svjetlo putuje sporije. Bilo koji od normalnih ili nadnaravnih
+  zakona prirode i fizike.
+description.language: Načini na koje inteligentne vrste komuniciraju u vašem svijetu
+  i razmjenjuju ideje i misli.
+description.material: Sirovine, prodajni materijali, kemijski elementi. Sve od Mythrila
+  i Adamantiuma do Urana i Unobtainiuma 2000.
+description.conflict: Ratovi, bitke, opsade i okršaji. Općenito, što se događa kada
+  se dvije strane susreću šiljatim oružjem.
+description.legend: Legende i priče iz vašeg svijeta. Razmislite o kralju Arthuru,
+  krokodilima u kanalizaciji New Yorka ili Bigfootu.
+description.organization: Kraljevstva, baroni, crkve (organizirana religija), tajna
+  društva, vojske nemilosrdnih plaćenika, viteški i čarobnjački redovi. Teritorijalne
+  i neteritorijalne organizacije.
+description.profession: Od vodoinstalatera do ekstravagantnog hakera i plaćenika,
+  profesije definiraju vaš svijet i ljude u njemu.
+description.prose: Haiku, pjesme, kratke priče, poglavlja vaših knjiga prikazane čisto
+  i s naglaskom na čitljivost.
+description.rank: Kralj Endora, prvi građanin Federacije, admiral Federalne Okabu
+  flote, Veliki mag Loboutas itd.
+description.report: Izvješća o sesijama igre igranja uloga, praćenje bilješki o tome
+  što se dogodilo tijekom sesije, polazna točka kada organizirate sljedeću sesiju.
+description.settlement: Sve od najsitnijih sela do golemih svemirskih postaja
+description.species: Životinje, biljke, osjetne ili inteligentne. Ljudi, vilenjaci
+  i izvanzemaljci su uključeni
+description.spell: Čarobne riječi, rituali, umne moći, supermoći!
+description.plot: Vaši sveobuhvatni zapleti, djela, scene ili kako god već zovete
+  dijelove svoje priče. Koristite ih za svoju prozu ili vašu RPG kampanju.
+description.technology: Znanost i tehnologije. Od izuma poljoprivrede pa do parnih
+  strojeva i laserskih oružja
+description.tradition: Običaji, tradicije i obredi. Proslave žetve, Dani sjećanja,
+  tajna rukovanja i koliko poljubaca na svakom obrazu.
+description.vehicle: Dvonožni dinosauri za jahanje, jedrenjaci, leteći gusarski brodovi
+  ili svemirski brodovi. Imenovani ili Opčeniti
+description.category: Kategorije vam pomažu u organizaciji i segmentiranju sadržaja.
+  Poput poglavlja u knjizi.
+description.image: Kažu da je slika jednaka tisuću riječi, nažalost ne za vaš broj
+  riječi, ali ipak.
+description.map: Karte se mogu koristiti kao zemljopisni prikaz vaših svjetova, ali
+  i kao alternativni način navigacije
+description.timeline: Vremenske crte pomažu vam da ispričate priče svog svijeta i
+  opišete događaje koji su ga oblikovali.
+description.historical.entry: Povijesni unosi ili događaji su priče koje stavljaju
+  P u povijest. To su ti jedinstveni trenutci i vremena u razvoju vašeg svijeta koji
+  su oblikovali njegov trenutni oblik.
+description.secret: Skrivene istine, šaputanja u zadnjim uličicama, strašne stvarnosti
+  koje će se tek otkriti
+country: Država
+religion: Vjera
