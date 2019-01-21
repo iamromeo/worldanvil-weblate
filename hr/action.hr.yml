@@ -8,10 +8,10 @@ create: Stvori
 replace: Zamijeni
 search: Pretraži
 search.in: Pretraži u
-world.create: Stvori novi svijet
-world.view: Prikaži svijet
+world.create: Stvori novi Svijet
+world.view: Prikaži Svijet
 check.out: Vidi ovo
-edit.and.play: Uredi i igraj
+edit.and.play: Uredi i Igraj
 browse: Pregledaj
 download: Preuzmi
 copy.to.clipboard: Kliknite da biste kopirali u međuspremnik
@@ -19,8 +19,8 @@ login: Prijava
 logout: Odjava
 register: Kreirajte svoj račun
 create a new...: Stvori...
-edit.map: Uredi kartu
-view.map: Prikaži kartu
-delete.map: Izbriši kartu
-edit.profile: Uredi profil
-view.profile: Prikaži profil
+edit.map: Uredi Kartu
+view.map: Prikaži Kartu
+delete.map: Izbriši Kartu
+edit.profile: Uredi Profil
+view.profile: Prikaži Profil
