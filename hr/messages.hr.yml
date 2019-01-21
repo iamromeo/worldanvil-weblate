@@ -1,1 +1,8 @@
-{}
+Public: Javno
+Private: Privatno
+success.generic: World Anvil je uspješno iskovao vaš zahtjev.
+success.deletion: Čekić je uništio kao što mu je zapovjeđeno.
+failure.deletion: Ups! Nešto je pošlo po zlu! Je li moguće da se ono što ste pokušali
+  izbrisati još negdje koristi?
+bbcode.embed: Kopirajte i zalijepite BBCode u bilo koji dio članka koji omogućuje
+  BBcode ugradnju!
