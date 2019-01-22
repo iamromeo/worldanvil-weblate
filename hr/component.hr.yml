@@ -1,1 +1,175 @@
-{}
+create.author.profile: Kreiraj Profil
+create.block: Stvori Blok
+create.campaign: Stvori Kampanju
+create.category: Stvori Kategoriju
+create.historical.entry: Stvori Povijesni Članak
+create.image: Stvori Sliku
+create.player.character: Kreiraj Igrivog Lika
+create.timeline: Stvori Vremensku Liniju
+create.layer: Stvori Sloj
+create.map: Stvori Kartu
+create.marker: Stvori Oznaku
+create.marker.group: Stvori Grupu Oznaka
+create.note: Stvori Bilješku
+create.pin: Stvori Oznaku na Karti
+create.secret: Stvori Tajnu
+create.world: Stvori Svijet
+create.article: Stvori Članak
+create.new.block: Stvori novi Blok
+create.new.campaign: Stvori novu Kampanju
+create.new.category: Stvori novu Kategoriju
+create.new.historical.entry: Stvori novi Povijesni Zapis
+create.new.image: Stvori novu Sliku
+create.new.player.character: Stvori novog Igrivog Lika
+create.new.timeline: Stvori novu Vremensku Crtu
+create.new.layer: Stvori novi Sloj
+create.new.map: Stvori novu Kartu
+create.new.marker: Stvori novu Oznaku
+create.new.marker.group: Stvori novu Grupu Oznaka
+create.new.note: Stvori novu Bilješku
+create.new.pin: Stvori novu Oznaku na Karti
+create.new.secret: Stvori novu Tajnu
+create.new.world: Stvori novi Svijet
+edit.article: Uredi Članak
+edit.author.profile: Uredi Profil
+edit.block: Uredi Blok
+edit.campaign: Uredi Kampanju
+edit.category: Uredi Kategoriju
+edit.historical.entry: Uredi Povijesni Zapis
+edit.image: Uredi Sliku
+edit.player.character: Izmijeni Igrivog Lika
+edit.timeline: Uredi Vremensku Crtu
+edit.layer: Uredi Sloj
+edit.map: Uredi Kartu
+edit.marker: Uredi Oznaku
+edit.marker.group: Uredi Grupu Oznaka
+edit.note: Uredi Bilješku
+edit.pin: Uredi Oznaku na Karti
+edit.secret: Izmijeni Tajnu
+edit.world: Izmijeni Svijet
+delete.author.profile: Izbriši Profil
+delete.block: Izbriši Blok
+delete.campaign: Izbriši Kampanju
+delete.category: Izbriši Kategoriju
+delete.historical.entry: Izbriši Povijesni Zapis
+delete.image: Izbriši Sliku
+delete.player.character: Izbriši Igrivog Lika
+delete.timeline: Izbriši Vremensku Crtu
+delete.layer: Izbriši Sloj
+delete.map: Izbriši Kartu
+delete.marker: Izbriši Oznaku
+delete.marker.group: Izbriši Grupu Oznaka
+delete.note: Izbriši Bilješku
+delete.pin: Izbriši Oznaku na Karti
+delete.secret: Izbriši Tajnu
+delete.world: Izbriši Svijet
+author.profile: Profil
+block: Blok
+campaign: Kampanja
+category: Kategorija
+circle: Krug
+line: Linija
+historical.entry: Povijesni Zapis
+image: Slika
+player.character: Igračev Lik
+timeline: Vremenska Crta
+layer: Sloj
+label: Oznaka/Etiketa
+link: Izravna Link
+map: Karta
+marker: Marker
+marker.group: Grupa Oznaka/Markera
+note: Bilješka
+polygon: Poligon
+popup: Popup
+pin: Kartne Oznake/Oznake na Karti
+secret: Tajna
+tag: Tag/Oznaka
+world: Svijet
+articles: Članci
+blocks: Blokovi
+campaigns: Kampanje
+categories: Kategorije
+historical.entries: Povijesni Zapisi/Unosi
+images: Slike
+player.characters: Igračevi Likovi
+layers: Slojevi
+maps: Karte
+markers: Markeri/Oznake
+marker.groups: Grupe Oznaka/Markera
+timelines: Vremenske Crte
+notes: Bilješke
+secrets: Tajne
+tags: Tagovi/Oznake
+worlds: Svjetovi
+list.articles: Popis Članaka
+list.blocks: Popis Blokova
+list.campaigns: Popis Kampanja
+list.categories: Popis Kategorija
+list.historical.entries: Popis Povijesnih Zapisa
+list.images: Popis Slika
+list.player.characters: Popis Likova
+list.maps: Popis Karata
+list.markers: Popis Markera/Oznaka
+list.marker.groups: Popis Grupa Markera/Oznaka
+list.layers: Popis Slojeva
+list.timelines: Popis Vremenskih Crta/Linija
+list.notes: Popis Bilješki
+list.pins: Popis Kartnih Oznaka/Oznaka na Karti
+list.secrets: Popis Tajni
+list.worlds: Popis Svjetova
+subscribers: Pretplatnici
+followers: Sljedbenici
+related.category: Povezana Kategorija
+related.location: Povezana Lokacija
+related.map: Povezana Karta
+related.organization: Povezana Organizacija
+related.article: Povezani Članak
+related.history: Povezani Povijesni Zapis
+BETA: BETA
+position: Pozicija/Važnost
+position.description: Važnost je broj koji određuje redoslijed kojim će se stavka
+  pojaviti na popisu tih stavki. Što je broj veći, to će stavka biti na višoj poziciji.
+status: Status
+status.description: Postavite ovu stavku kao javnu da ju svi mogu vidjeti. Privatne
+  stavke vidljive su samo vama, ko-autorima i pretplatnicima uz odgovarajuće dozvole
+  vašeg svijeta
+access: Pristup
+access.description: Postavite članak kao javni da bi ga svi mogli vidjeti. Privatni
+  članci vidljivi su samo vama i ko-autorima svoga svijeta
+subscriber.groups: Grupe Pretplatnika
+subscriber.groups.description: Odaberite jednu ili više grupa kojima želite omogućiti
+  pristup ovom članku. To utječe samo na privatne članke.
+display: Prikaz
+display.homepage: Prikaži ovu kartu na početnoj stranici vašeg Svijeta.
+tags.description: Koristite zareze da biste razdvojili oznake. Dodavanje oznaka bilo
+  kojem dijelu sadržaja pomoći će vam da ga pretražite pomoću bilo koje oznake.
+group: Grupa
+tag.description: Koristite zareze da biste razdvojili oznake. Dodavanje oznaka bilo
+  kojem dijelu sadržaja pomoći će vam da ga pretražite pomoću bilo koje oznake.
+map.image: Mapiraj Primarnu Sliku
+map.image.secondary: Sloj Slike
+map.update.image: Ažuriraj Primarnu Sliku Karte
+map.edit.details: Izmijeni Detalje Karte
+map.image.details: Očekivane dimenzije datoteka su
+map.legend: Legenda
+map.compass: Slika Kompasa
+map.compass.description: Odaberite sliku koja će se prikazati kao kompas na karti
+  u donjem desnom kutu karte. Korištenje transparentne slike će vizualno imati mnogo
+  bolji rezultat.
+map.thumbnail: Minijatura
+map.zoom.initial: Početna Razina Uvećanja
+map.zoom.initial.description: Postavite kako će se uvećati karta kada se prvi put
+  učita. (0 prema zadanoj postavci)
+map.zoom.min: Najmanje Dopušteno Uvećanje
+map.zoom.min.description: Koliko se daleko možete udaljiti od karte. To je negativan
+  množitelj. Što je manji broj to se više možete udaljiti od karte. (-2 je zadana
+  postavka)
+map.zoom.max: Najveće Dozvoljeno Uvećanje
+map.zoom.max.description: Koliko daleko/duboko možete uvećati kartu. 0 znači uvećanje
+  do 1:1 dimenzija karte. Sve iznad 0 će postepeno zamućivati sliku. (0 je zadana
+  postavka)
+map.center.y: Početna točka Središta (Y os)
+map.center.x: Početna točka Središta (X os)
+map.center.description: Početne koordinate središta karte kada se prvi put učita.
+  To se obično izračunava kao središte karte. Donji lijevi dio karte je točka 0:0.
