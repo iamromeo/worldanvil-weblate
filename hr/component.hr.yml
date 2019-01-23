@@ -2,9 +2,9 @@ create.author.profile: Kreiraj Profil
 create.block: Stvori Blok
 create.campaign: Stvori Kampanju
 create.category: Stvori Kategoriju
-create.historical.entry: Stvori Povijesni Članak
+create.historical.entry: Stvori Povijesni Zapis
 create.image: Stvori Sliku
-create.player.character: Kreiraj Igrivog Lika
+create.player.character: Kreiraj Igraćeg Lika
 create.timeline: Stvori Vremensku Liniju
 create.layer: Stvori Sloj
 create.map: Stvori Kartu
@@ -20,7 +20,7 @@ create.new.campaign: Stvori novu Kampanju
 create.new.category: Stvori novu Kategoriju
 create.new.historical.entry: Stvori novi Povijesni Zapis
 create.new.image: Stvori novu Sliku
-create.new.player.character: Stvori novog Igrivog Lika
+create.new.player.character: Kreiraj novog Igraćeg Lika
 create.new.timeline: Stvori novu Vremensku Crtu
 create.new.layer: Stvori novi Sloj
 create.new.map: Stvori novu Kartu
@@ -74,33 +74,33 @@ image: Slika
 player.character: Igračev Lik
 timeline: Vremenska Crta
 layer: Sloj
-label: Oznaka/Etiketa
+label: Oznaka (Tekst)
 link: Izravna Link
 map: Karta
 marker: Marker
-marker.group: Grupa Oznaka/Markera
+marker.group: Grupa Markera
 note: Bilješka
 polygon: Poligon
 popup: Popup
-pin: Kartne Oznake/Oznake na Karti
+pin: Oznake na Karti
 secret: Tajna
-tag: Tag/Oznaka
+tag: Oznaka (index)
 world: Svijet
 articles: Članci
 blocks: Blokovi
 campaigns: Kampanje
 categories: Kategorije
-historical.entries: Povijesni Zapisi/Unosi
+historical.entries: Povijesni Zapisi
 images: Slike
-player.characters: Igračevi Likovi
+player.characters: Igraći Likovi
 layers: Slojevi
 maps: Karte
-markers: Markeri/Oznake
-marker.groups: Grupe Oznaka/Markera
+markers: Markeri
+marker.groups: Grupe Markera
 timelines: Vremenske Crte
 notes: Bilješke
 secrets: Tajne
-tags: Tagovi/Oznake
+tags: Oznake (index)
 worlds: Svjetovi
 list.articles: Popis Članaka
 list.blocks: Popis Blokova
@@ -110,12 +110,12 @@ list.historical.entries: Popis Povijesnih Zapisa
 list.images: Popis Slika
 list.player.characters: Popis Likova
 list.maps: Popis Karata
-list.markers: Popis Markera/Oznaka
-list.marker.groups: Popis Grupa Markera/Oznaka
+list.markers: Popis Markera
+list.marker.groups: Popis Grupa Markera
 list.layers: Popis Slojeva
-list.timelines: Popis Vremenskih Crta/Linija
+list.timelines: Popis Vremenskih Crta
 list.notes: Popis Bilješki
-list.pins: Popis Kartnih Oznaka/Oznaka na Karti
+list.pins: Popis Oznaka na Karti
 list.secrets: Popis Tajni
 list.worlds: Popis Svjetova
 subscribers: Pretplatnici
@@ -148,7 +148,7 @@ group: Grupa
 tag.description: Koristite zareze da biste razdvojili oznake. Dodavanje oznaka bilo
   kojem dijelu sadržaja pomoći će vam da ga pretražite pomoću bilo koje oznake.
 map.image: Mapiraj Primarnu Sliku
-map.image.secondary: Sloj Slike
+map.image.secondary: Novi Sloj
 map.update.image: Ažuriraj Primarnu Sliku Karte
 map.edit.details: Izmijeni Detalje Karte
 map.image.details: Očekivane dimenzije datoteka su
@@ -173,3 +173,65 @@ map.center.y: Početna točka Središta (Y os)
 map.center.x: Početna točka Središta (X os)
 map.center.description: Početne koordinate središta karte kada se prvi put učita.
   To se obično izračunava kao središte karte. Donji lijevi dio karte je točka 0:0.
+map.legend.description: Ovo će se pojaviti u donjem lijevom dijelu karte. Koristite
+  ga za stvaranje legende za svoje oznake, napišite kratak opis ili navedite bilo
+  koji drugi kontekst.
+map.marker.style: Stil
+map.marker.color: Boja
+map.marker.longitude: Duljina
+map.marker.latitude: Visina
+map.marker.lng: Lng
+map.marker.lat: Lat
+map.marker.height: Visina
+map.marker.new: Nova Oznaka Lokacije
+map.marker.drag: Povucite me da biste postavili koordinate novog Markera
+map.marker.fill: Odlično! Ispunite obrazac ispod karte!
+map.marker.label: Tekst unutar Oznake
+map.marker.label.description: Ovo je tekst koji će se pojaviti na vašoj karti za ovu
+  Oznaku.
+map.display.homepage: Prikažite ovu Kartu na početnoj stranici vašeg Svijeta.
+map.marker.choice: Odaberite i ispunite samo jednu od sljedećih opcija.
+map.marker.radius: Radijus Kruga
+map.marker.radius.description: Radijus kruga u pikselima. Ispunite ovo samo ako želite
+  stvoriti krug, a ne poligon.
+map.marker.link.description: Ako Marker označite kao Marker s izravnom vezom, kada
+  korisnik klikne na Marker, odmah će doći do ciljne stranice.
+map.marker.link.relation.description: Odaberite jednu od niže navedenih opcija do
+  koje će voditi Marker s izravnom vezom. Ako odaberete više od jedne opcije, samo
+  prva će se učitati.
+map.marker.polygonPoints: Točke Poligona
+map.marker.polygonPoints.description: Zemljopisna dužina i širina svake točke kao
+  par odvojen zarezom i međusobno odvojeni razmakom. Na primjer 20,20 30,30 50,45.
+  Savjet! Upotrijebite crveni Marker "nova točka" da biste dobili lon/lat.
+map.marker.colorOutline: Boja Obrisa
+map.marker.colorOutline.description: Boja obrisa kruga ili poligona. Možete koristiti
+  CSS boje kao što su plava, crvena, žuta itd. ILI heksadecimalni kod boje uključujući
+  hash (#) ispred niza
+map.marker.colorFill: Boja Ispune
+map.marker.colorFill.description: Boja područja koje ispunjava krug ili poligon. Možete
+  koristiti CSS boje kao što su plava, crvena, žuta itd. ILI heksadecimalni kod boje
+  uključujući hash (#) ispred niza
+map.marker.opacityOutline: Prozirnost Obrisa
+map.marker.opacityOutline.description: Prozirnost obrisa. Od 0 do 100% (npr. 50)
+map.marker.opacityFill: Prozirnost Ispune
+map.marker.opacityFill.description: Prozirnost ispune kruga ili poligona. Od 0 do
+  100% (npr. 50)
+map.marker.group.description: Grupe markera omogućuju vam da organizirate oznake i
+  slojeve karte u kategorije koje možete uključiti i isključiti te upravljati njihovom
+  vidljivošću (ako ste pretplatnik). Kao i kod slojeva, one se mogu koristiti za prikazivanje
+  različitih informacija ili skrivanje skupa / grupa markera od vaših čitatelja ako
+  želite.
+map.marker.group.onload: Početna Vidljivost Grupe
+map.marker.group.onload.description: Učinite ovu grupu vidljivom tijekom početnog
+  učitavanja karte
+map.layers.max: Dosegli ste maksimalni broj slojeva koje možete imati na računu! Ako
+  želite više slojeva na svojim kartama, razmislite o nadogradnji vašeg računa! <a
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
+map.marker.linePoints: Točke Linije
+map.marker.linePoints.description: Zemljopisna dužina i širina svake točke kao par
+  odvojen zarezom i međusobno odvojeni razmakom. Na primjer 20,20 30,30 50,45. Savjet!
+  Upotrijebite crveni Marker "nova točka" da biste dobili lon/lat.
+map.marker.lineColor: Boja Linije
+map.marker.lineColor.description: Boja linije. Možete koristiti CSS boje kao što su
+  plava, crvena, žuta itd. ILI heksadecimalni kod boje uključujući hash (#) ispred
+  niza

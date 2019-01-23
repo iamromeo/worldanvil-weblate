@@ -193,3 +193,19 @@ map.marker.colorOutline.description: Farven på linjen af en cirkel eller polygo
   Du kan bruge CSS farver som blå, rød, gul osv, eller hexkoden for farven, havelågen
   (#) skal være foran
 map.marker.colorFill: Udfyldningsfarve
+create.pin: Opret Kort Nål
+create.article: Opret Artikel
+create.new.pin: Opret en ny Kort Nål
+edit.article: Rediger Artikel
+edit.pin: Rediger Kort Nål
+delete.pin: Slet Kort Nål
+line: Linje
+pin: Kort Nåle
+list.pins: Kort Nåle Liste
+related.article: Relateret Artikel
+related.history: Relateret Historisk Post
+map.thumbnail: Miniature Billede
+map.center.description: De initielle koordinater til kortets centrum når det først
+  indlæses. Normalt er dette beregnet til at være kortets midte. Det nederste venstre
+  hjørne af dit kort er punkt 0:0.
+map.marker.lng: Lgd
