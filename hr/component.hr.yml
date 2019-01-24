@@ -235,3 +235,25 @@ map.marker.lineColor: Boja Linije
 map.marker.lineColor.description: Boja linije. Možete koristiti CSS boje kao što su
   plava, crvena, žuta itd. ILI heksadecimalni kod boje uključujući hash (#) ispred
   niza
+map.marker.lineWeight: Debljina Linije
+map.marker.lineWeight.description: Debljina u relativnim pikselima linije.
+map.marker.lineOpacity: Prozirnost Linije
+map.marker.lineOpacity.description: Postotak prozirnosti linije. Od 0 do 100% (npr.
+  50)
+map.marker.lineDash.description: Ovo je napredna značajka. Upotrijebite crtu linije
+  da biste definirali uzorak crtanja svoje linije. Na primjer 8 8 znači 8 piksela
+  linije 8 piksela razmaka. Ali također možete koristiti jednostavno 8 ili 1 2 3 4
+  da biste imali promjenjivu crtu linije.
+map.marker.linePoints.check: Označite, povucite i ispustite marker kako biste izradili
+  liniju.
+pin.shadow.description: Slika sjene oznake. Ova slika nije obavezna. Ako ju dodate,
+  mora biti šira od oznake slike i širiti se na desnu stranu.
+pin.iconAnchor.description: Točka sidrišta je jedinstvena točka piksela gdje je rub
+  / kontaktna točka vaše oznake uz/sa kartom. Obično bi to bilo u kartezijanskom 0X
+  i pola širine oznake Y
+pin.iconAnchorX: Točka sidrišta X (u pikselima)
+pin.iconAnchorY: Točka sidrišta Y (u pikselima)
+pin.popupAnchor.description: Točka sidrišta u skočnom prozoru je točka na kojoj će
+  se centrirati trokut prozora. Nasuprot sidrištu oznake nalazimo ju na vrhu ikone
+  ako ne i više
+pin.popupAnchorX: Popup točka X (u pikselima)
