@@ -53,3 +53,8 @@ guild.required.master: Per poder utilitzar aquesta funció necessites ser, com a
 guild.required.grandmaster: Per poder utilitzar aquesta funció necessites ser, com
   a mínim, Grandmaster del Gremi.
 access.multipass: Multientrada?
+studio.pins: 'Estudi del creador: marcadors'
+studio.sheets: 'Estudi del creador: fitxes'
+access.passcode: Contrasenya obligatòria
+access.passcode.description: Aquesta pàgina està protegida amb una contrasenya! Si
+  la sabeu, introduïu-la a sota per accedir al contingut.
