@@ -1,5 +1,6 @@
 create.author.profile: 'Create Profile'
 create.block: 'Create Block'
+create.block.template: Create Block Template
 create.campaign: 'Create Campaign'
 create.category: 'Create Category'
 create.historical.entry: 'Create Historical Entry'
@@ -17,6 +18,7 @@ create.world: 'Create World'
 create.article: 'Create Article'
 
 create.new.block: 'Create a new Block'
+create.new.block.template: Create a New Block Template
 create.new.campaign: 'Create a new Campaign'
 create.new.category: 'Create a new Category'
 create.new.historical.entry: 'Create a new Historical Entry'
@@ -35,6 +37,7 @@ create.new.world: 'Create a new World'
 edit.article: Edit Article
 edit.author.profile: 'Edit Profile'
 edit.block: 'Edit Block'
+edit.block.template: Edit Block Template
 edit.campaign: 'Edit Campaign'
 edit.category: 'Edit Category'
 edit.historical.entry: 'Edit Historical Entry'
@@ -52,6 +55,7 @@ edit.world: 'Edit World'
 
 delete.author.profile: 'Delete Profile'
 delete.block: 'Delete Block'
+delete.block.template: Delete Block Template
 delete.campaign: 'Delete Campaign'
 delete.category: 'Delete Category'
 delete.historical.entry: 'Delete Historical Entry'
@@ -69,6 +73,7 @@ delete.world: 'Delete World'
 
 author.profile: 'Profile'
 block: 'Block'
+block.template: Block Template
 campaign: 'Campaign'
 category: 'Category'
 circle: Circle 
@@ -95,6 +100,7 @@ world: 'World'
 
 articles: 'Articles'
 blocks: 'Blocks'
+block.templates: 'Block Templates'
 campaigns: 'Campaigns'
 categories: 'Categories'
 historical.entries: 'Historical Entries'
@@ -113,6 +119,7 @@ worlds: 'Worlds'
 
 list.articles: 'Articles List'
 list.blocks: 'Blocks List'
+list.block.templates: 'Block Templates List'
 list.campaigns: 'Campaigns List'
 list.categories: 'Categories List'
 list.historical.entries: 'Historical Entries  List'

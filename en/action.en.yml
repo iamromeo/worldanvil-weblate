@@ -3,6 +3,7 @@ edit: 'Edit'
 save.changes: Save Changes
 view: 'View'
 copy: 'Copy'
+dismiss: 'Dismiss'
 delete: 'Delete'
 create: 'Create'
 replace: Replace
