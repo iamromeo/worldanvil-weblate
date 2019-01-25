@@ -307,3 +307,10 @@ guild.access.map: Tots els mapes dels comptes gratuïtes es poden veure a la pà
   principal del mon. Uniu-vos al <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gremi
   de Worldbuilders</a> per fer els vostres mapes, articles i mons privats i ajudar
   al desenvolupament de World Anivl.
+create.block.template: Crea una plantilla per un bloc de rol
+create.new.block.template: Crea una nova plantilla per un bloc de rol
+edit.block.template: Edita la plantilla de bloc
+delete.block.template: Elimina a plantilla de bloc
+block.template: Plantilla de bloc de rol
+block.templates: Plantilles de bloc
+list.block.templates: Llista de plantilles de bloc
