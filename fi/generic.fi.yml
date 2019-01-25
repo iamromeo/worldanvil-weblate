@@ -50,3 +50,8 @@ access.description: Valitettavasti sinulla ei ole pääsyä sivulle. Luultavasti
 access.return: Palaa takaisin!
 access.homepage: Siirry kotisivulle
 author.notes: Kirjoittajan muistiinpanot
+studio.pins: 'Suunnittelijoiden studio: nastat'
+studio.sheets: 'Suunnittelijoiden studio: lomakkeet'
+access.passcode: Salasana vaaditaan
+access.passcode.description: Tämä sivu on suojattu salasanalla! Jos tiedät salasanan,
+  kirjoita se alapuolelle.
