@@ -304,3 +304,10 @@ feat: Dote
 master.feature: Esta es una funcionalidad para Masters y superior. Únete al <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Gremio de Worldbuilders</a> para
   ganar acceso a esta funcionalidad y ayudar en el desarrollo de World Anvil.
+create.block.template: Crear plantilla de bloque RPG
+create.new.block.template: Crear una nueva plantilla de bloque RPG
+edit.block.template: Editar plantilla de bloque RPG
+delete.block.template: Eliminar plantilla de bloque RPG
+block.template: Plantilla de bloque RPG
+block.templates: Plantillas de bloques RPG
+list.block.templates: Lista de plantillas de bloques RPG
