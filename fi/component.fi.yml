@@ -293,3 +293,10 @@ race: Rotu
 master.feature: Tämä on vähintään mestareille tarkoitettu toiminto. Liity <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Maailmanrakentajien kiltaan</a>
   jotta pystyt käyttämään tätä toimintoa sekä auttamaan World Anvilin kehitystyötä.
+create.block.template: Luo lohkon mallipohja
+create.new.block.template: Luo uusi lohkon mallipohja
+edit.block.template: Muokkaa lohkon mallipohjaa
+delete.block.template: Poista lohkon mallipohja
+block.template: Lohkon mallipohja
+block.templates: Lohkojen mallipohjat
+list.block.templates: Lohkojen mallipohjien luettelo
