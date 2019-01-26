@@ -15,7 +15,7 @@ interface.settings: Opções de Interface
 account.details: Detalhes da Conta
 announcements: Anúncios
 world.select: Selecionar Mundo
-world.summary: Sumário do Mundo
+world.summary: Resumo do Mundo
 world.goto: Ir para ... do Mundo
 world.configure: Configurar Mundo
 configuration: Configurações
@@ -26,7 +26,7 @@ notifications: Notificações
 world.browse: Procurar Mundos
 campaign.home: Início
 campaign.sessions: Sessões
-campaign.plots: Enredos
+campaign.plots: Tramas
 campaign.cast: Elenco
 campaign.quicklinks: Links Rápidos
 campaign.corkboard: Quadro de Notas
@@ -44,16 +44,16 @@ etiquette: Etiqueta
 help: Ajuda
 News & Updates: Notícias e Atualizações
 i am a gamemaster: Sou um(a) Mestre de RPG
-i am an author: Sou um(a) escritor(a)
-i am an artist: Sou um(a) artista
+i am an author: Sou um(a) Escritor(a)
+i am an artist: Sou um(a) Artista
 Search for Articles, Worlds & Users: Procurar por Artigos, Mundos e Usuários
 Go to Dashboard: Ir para o Painel
 All Rights Reserved: Todos os Direitos Reservados
 studio: Estúdio
 todo.list: Lista de Afazeres
-join.guild: JUNTE-SE À GUILDA!
+join.guild: ENTRE PARA A GUILDA!
 join.guild.description: TENHA TODAS AS FUNCIONALIDADES! Ajude-nos a manter o World
   Anvil vivo e crescendo!
-feature.suggest: Sugerir uma Funcionalidade
+feature.suggest: Sugira uma Funcionalidade
 team: Equipe
 account.subscription: Sua Assinatura
