@@ -243,3 +243,10 @@ class: クラス
 race: 種族
 master.feature: これはマスター+のレベルをもつアカウントの専用機能です。 <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
   Anvilの開発を手伝えましょう。
+create.block.template: ブロックテンプレートを作成
+create.new.block.template: 新規ブロックテンプレートを作成
+edit.block.template: ブロックテンプレートを編集
+delete.block.template: ブロックテンプレートを削除
+block.template: ブロックテンプレート
+block.templates: ブロックテンプレート
+list.block.templates: ブロックテンプレート一覧
