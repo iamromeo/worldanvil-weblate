@@ -46,3 +46,7 @@ access.description: 申し訳ありませんが、このページにはアクセ
 access.return: 戻りましょう！
 access.homepage: ホームページへ
 author.notes: 作者のメモ
+studio.pins: 創作者のスタジオ：ピン
+studio.sheets: 創作者のスタジオ：シート
+access.passcode: パスワードが必須
+access.passcode.description: このページを見るにはパスワードが必要です！パスワードを下に入力した上で、内容が見られるようになります。
