@@ -296,3 +296,10 @@ race: Rassz
 master.feature: Ez egy Mester+ szintű exkluzív funkció. Csatlakozz a  <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">1Világalkotók Céhébe Guild</a>2
   , hogy használhasd ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
+create.block.template: Blokk Sablon Létrehozása
+create.new.block.template: Új Blokk Sablon Létrehozása
+edit.block.template: Blokk Sablon Szerkesztése
+delete.block.template: Blokk Sablon Törlése
+block.template: Blokk Sablon
+block.templates: Blokk Sablonok
+list.block.templates: Blokk Sablon Lista
