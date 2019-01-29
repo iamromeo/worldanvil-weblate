@@ -54,3 +54,8 @@ favorites: Gostaram
 comments: Comentários
 wip: Em fase de construção
 author.notes: Notas do Autor
+studio.pins: 'Estúdio do Criador: Marcações'
+studio.sheets: 'Estúdio do Criador: Fichas'
+access.passcode: Senha Necessária
+access.passcode.description: Esta página é protegida por senha! Se você tem a senha,
+  favor insira-a abaixo para acessar o conteúdo.
