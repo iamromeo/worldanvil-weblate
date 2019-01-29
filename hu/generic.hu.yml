@@ -54,3 +54,8 @@ access.description: Sajnáljuk, de nincs engedélyed megnyitni ezt az oldalt. Ez
 access.return: Térj vissza ahonnét jöttél!
 access.homepage: A Kezdőoldalra
 author.notes: A Szerző Jegyzetei
+studio.pins: 'Alkotók Stúdiója: Kitűzések'
+studio.sheets: 'Alkotók Stúdiója: Lapok'
+access.passcode: Jelszó Szükséges
+access.passcode.description: Ez az oldal jelszóval védett! Ha rendelkezel a jelszóval,
+  add meg alul, hogy hozzáférj a tartalomhoz.
