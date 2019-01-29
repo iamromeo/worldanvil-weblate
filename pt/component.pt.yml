@@ -303,3 +303,10 @@ master.feature: Esta é uma funcionalidade exclusiva para membros do nível Mast
   acima. Junte-se à <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilda
   dos Worldbuilders</a> para ter acesso a esta funcionalidade e ajudar no desenvolvimento
   do World Anvil.
+create.block.template: Criar Modelo de Bloco
+create.new.block.template: Criar um Novo Modelo de Bloco
+edit.block.template: Editar Modelo de Bloco
+delete.block.template: Apagar Modelo de Bloco
+block.template: Modelo de Bloco
+block.templates: Modelos de Blocos
+list.block.templates: Lista de Modelos de Blocos
