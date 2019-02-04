@@ -336,3 +336,10 @@ access.group.assets: Detalls del grup
 access.group.description.description: (opcional) Per a recordar qui forma part d'aquest
   grup i per què.
 access.group.position.description: (opcional) Només perquè puguis
+access.authors.coowner: Copropietari
+access.authors.editor: Editor
+access.authors.writer: Escriptor
+access.authors.add: Afegeix un nou autor
+access.authors.groups: Grups
+access.subscribers.add: Afegeix un subscriptor al(s) grup(s)
+access.group.edit: Edita el grup de subscriptors
