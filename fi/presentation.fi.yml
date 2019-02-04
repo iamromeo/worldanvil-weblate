@@ -135,3 +135,33 @@ material.technologies: Aiheeseen liittyvät teknologiat
 material.professions: Aiheeseen liittyvät ammatit
 material.color: Väri
 material.commonState: Normaali olotila
+editorial.team: Toimitustyöryhmä
+writers.team: kirjoittajien työryhmä
+campaign.system: '%system_name% -peli'
+campaign.world: '%world_name% -maailmassa'
+campaign.storytellers: Tämän tarinan on kertonut
+campaign.watchlive: Katso kampanjaa suorana Twitchissä
+campaign.protagonists: Päähenkilöt
+campaign.playedby: pelaajana
+campaign.lfp: Pelaajia haetaan
+campaign.full: Täynnä
+campaign.support.patreon: Tue tätä kampanjaa Patreonissa
+campaign.sessions: Istuntojen luettelo
+campaign.sessions.scheduled: Suunnitellut istunnot
+campaign.sessions.past: Aiemmat istunnot
+campaign.session.live: SUORA
+campaign.supporting.cast: Sivuhenkilöt
+campaign.adversaries: Vastustajat
+campaign.allies: Liittolaiset
+campaign.competitors: Kilpailijat
+campaign.neutral: Neutraalit tahot
+campaign.setting: Pelimaailma
+campaign.explore.world: Tutki %world_name%:n maailmaa
+campaign.timelines: Aikajanat
+campaign.maps: Kartat
+campaign.vtt: Virtuaalinen pelipöytä
+campaign.journal.world: Maailma
+campaign.journal.campaign: Kampanja
+campaign.journal.player: Pelaaja
+campaign.journal.character: Hahmo
+campaign.journal.session.report: Istuntoraportti
