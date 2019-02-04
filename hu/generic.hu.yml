@@ -59,3 +59,5 @@ studio.sheets: 'Alkotók Stúdiója: Lapok'
 access.passcode: Jelszó Szükséges
 access.passcode.description: Ez az oldal jelszóval védett! Ha rendelkezel a jelszóval,
   add meg alul, hogy hozzáférj a tartalomhoz.
+username: Felhasználónév
+state: Állapot
