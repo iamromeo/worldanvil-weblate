@@ -136,3 +136,33 @@ material.items: Kapcsolódó Tárgyak
 material.technologies: Kapcsolódó Technológiák
 material.professions: Kapcsolódó Szakmák
 material.origin: Származás & Forrás
+editorial.team: Szerkesztői Csoport
+writers.team: írói Csoport
+campaign.system: Egy %system_name% játék
+campaign.world: A %world_name% világában
+campaign.storytellers: Ezen történet mesélője
+campaign.watchlive: Kövesd figyelemmel a kampányt Twitch-en
+campaign.protagonists: A Főszereplők
+campaign.playedby: 'Játékos:'
+campaign.lfp: Játékosokat Keres
+campaign.full: Megtelt
+campaign.support.patreon: Támogasd a kampányt Patreon-on
+campaign.sessions: Üléslista
+campaign.sessions.scheduled: Betervezett Ülések
+campaign.sessions.past: Múlt Ülések
+campaign.session.live: ÉLŐ
+campaign.supporting.cast: Mellékszereplők
+campaign.adversaries: Ellenségek
+campaign.allies: Szövetségesek
+campaign.competitors: Versenytársak
+campaign.neutral: Semleges Felek
+campaign.setting: A Környezet
+campaign.explore.world: Fedezd fel %world_name% világát
+campaign.timelines: Idővonalak
+campaign.maps: Térképek
+campaign.vtt: Virtuális Asztali Játék
+campaign.journal.world: Világ
+campaign.journal.campaign: Kampány
+campaign.journal.player: Játékos
+campaign.journal.character: Karakter
+campaign.journal.session.report: Ülés Beszámoló
