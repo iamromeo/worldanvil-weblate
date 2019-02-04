@@ -57,3 +57,5 @@ studio.sheets: 'Estudio del creador: fichas'
 access.passcode: Contraseña requerida
 access.passcode.description: ¡Esta página está protegida con contraseña! Si tienes
   la contraseña, por favor introdúcela abajo para acceder al contenido.
+username: Nombre de usuario
+state: Estado
