@@ -323,4 +323,16 @@ list.subscribers: Subscriptors
 access.rights.subscribers: Subscriptors
 access.rights.groups: Grups
 access.rights.authors: Autors
-access.authors.revoke: Revocar l'accés
+access.authors.revoke: Revoca l'accés
+access.rights.management: Gestió de permisos
+access.authors.management: Gestió d'autors
+access.authors.slots: Places d'autor utilitzades
+access.subscribers.slots: Places de subscriptor utilitzades
+access.authors.username: Nom d'usuari
+access.authors.rank: Rang
+access.subscribers.management: Gestió de subscriptors
+access.group.management: Gestió de grups de subscriptors
+access.group.assets: Detalls del grup
+access.group.description.description: (opcional) Per a recordar qui forma part d'aquest
+  grup i per què.
+access.group.position.description: (opcional) Només perquè puguis
