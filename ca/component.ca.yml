@@ -314,3 +314,13 @@ delete.block.template: Elimina a plantilla de bloc
 block.template: Plantilla de bloc de rol
 block.templates: Plantilles de bloc
 list.block.templates: Llista de plantilles de bloc
+create.group: Crea un grup
+edit.group: Edita el grup
+delete.group: Elimina el grup
+subscriber: Subscriptor
+groups: Grups
+list.subscribers: Subscriptors
+access.rights.subscribers: Subscriptors
+access.rights.groups: Grups
+access.rights.authors: Autors
+access.authors.revoke: Revocar l'accés
