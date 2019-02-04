@@ -312,3 +312,21 @@ access.rights.groups: Ryhmät
 access.rights.authors: Tekijät
 access.authors.management: Tekijöiden hallinta
 access.authors.revoke: Poista pääsy
+access.authors.coowner: Yhteisomistaja
+access.authors.editor: Toimittaja
+access.authors.writer: Kirjoittaja
+access.authors.slots: Tekijäpaikkoja käytetty
+access.subscribers.slots: Tilaajapaikkoja käytetty
+access.authors.add: Lisää uusi tekijä
+access.authors.username: Käyttäjätunnus
+access.authors.rank: Sijoitus
+access.authors.groups: Ryhmät
+access.subscribers.add: Lisää tilaaja ryhmiin
+access.subscribers.management: Tilaajien hallinta
+access.group.management: Tilaajaryhmien hallinta
+access.group.edit: Muokkaa tilaajaryhmiä
+access.group.assets: Ryhmien resurssit
+access.group.description.description: (valinnainen) Muistuttamaan ryhmässä olemisen
+  syystä.
+access.group.position.description: (valinnainen) Jotta voit tarvittaessa järjestellä
+  ryhmäsi.
