@@ -139,7 +139,7 @@ material.origin: Origen i font
 editorial.team: Edició
 writers.team: Redacció
 campaign.system: Un joc de %system_name%
-campaign.world: A %world_name_%
+campaign.world: A %world_name%
 campaign.watchlive: Mireu la campanya en directe a Twitch
 campaign.playedby: Interpretat per
 campaign.support.patreon: Dona suport a aquesta campanya a Patreon
@@ -157,4 +157,6 @@ campaign.adversaries: Adversaris
 campaign.allies: Aliats
 campaign.competitors: Competidors
 campaign.setting: L'ambientació
-campaign.explore.world: Explora el món de %world_name%
+campaign.explore.world: Explora %world_name%
+campaign.vtt: Tauler virtual
+campaign.journal.session.report: Informe de la sessió
