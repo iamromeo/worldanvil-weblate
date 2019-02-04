@@ -3,6 +3,8 @@ world.anvil.description: World Anvil is a worldbuilding tools platform and commu
 account.create: Create your Account
 
 created.by: Created by
+editorial.team: Editorial Team 
+writers.team: Writers Team
 powered.by: Powered by
 in: in # name/link of category or world
 
@@ -71,6 +73,37 @@ author.badges: Badges & Medals
 history: History 
 type: Type
 alternativenames: Alternative Names
+
+
+# Campaign Page
+campaign.system: A %system_name% game 
+campaign.world: In the world of %world_name%
+campaign.storytellers: This story is told by
+campaign.watchlive: Watch the campaign live on Twitch
+campaign.protagonists: The Protagonists
+campaign.playedby: Played by
+campaign.lfp: Looking for Players
+campaign.full: Full
+campaign.support.patreon: Support this Campaign on Patreon
+campaign.sessions: Sessions List
+campaign.sessions.scheduled: Scheduled Sessions
+campaign.sessions.past: Past Session
+campaign.session.live: LIVE
+campaign.supporting.cast: Supporting Cast
+campaign.adversaries: Adversaries 
+campaign.allies: Allies 
+campaign.competitors: Competitors 
+campaign.neutral: Neutral Parties 
+campaign.setting: The Setting
+campaign.explore.world: Explore the world of %world_name%
+campaign.timelines: Timelines 
+campaign.maps: Maps
+campaign.vtt: Virtual Tabletop 
+campaign.journal.world: World
+campaign.journal.campaign: Campaign
+campaign.journal.player: Player 
+campaign.journal.character: Character
+campaign.journal.session.report: Session Report
 
 # Templates
 condition.transmission: Transmission & Vectors

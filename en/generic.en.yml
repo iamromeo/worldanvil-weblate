@@ -1,6 +1,8 @@
+username: Username
 new: 'new'
 title: Title
 description: Description
+state: State
 status: Status
 weight: Weight 
 help: Help

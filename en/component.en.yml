@@ -16,6 +16,7 @@ create.pin: Create Map Pin
 create.secret: 'Create Secret'
 create.world: 'Create World'
 create.article: 'Create Article'
+create.group: Create Group
 
 create.new.block: 'Create a new Block'
 create.new.block.template: Create a New Block Template
@@ -52,6 +53,7 @@ edit.note: 'Edit Note'
 edit.pin: Edit Map Pin
 edit.secret: 'Edit Secret'
 edit.world: 'Edit World'
+edit.group: Edit Group
 
 delete.author.profile: 'Delete Profile'
 delete.block: 'Delete Block'
@@ -70,6 +72,7 @@ delete.note: 'Delete Note'
 delete.pin: Delete Map Pin
 delete.secret: 'Delete Secret'
 delete.world: 'Delete World'
+delete.group: Delete Group
 
 author.profile: 'Profile'
 block: 'Block'
@@ -95,7 +98,8 @@ pin: Map Pin
 secret: 'Secret'
 tag: Tag
 world: 'World'
-
+group: Group 
+subscriber: Subscriber
 
 
 articles: 'Articles'
@@ -116,6 +120,8 @@ pin: Map Pins
 secrets: 'Secrets'
 tags: Tags
 worlds: 'Worlds'
+groups: Groups
+subscribers: Subscribers
 
 list.articles: 'Articles List'
 list.blocks: 'Blocks List'
@@ -134,9 +140,10 @@ list.notes: 'Notes List'
 list.pins: Map Pins List
 list.secrets: 'Secrets List'
 list.worlds: 'Worlds List'
-
+access: 'Access Rights'
 subscribers: 'Subscribers'
 followers: 'Followers'
+list.subscribers: Subscribers
 
 # Relations
 related.category: Related Category
@@ -263,3 +270,28 @@ master.feature: This is a Master+ level exclusive feature. Join the <a class="m-
 grandmaster.feature: This is a Grandmaster+ level exclusive feature. Join the <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> to get access to this feature and help the development of World Anvil.
 
 guild.access.map: All map on free accounts are displayed on the world homepage. Join the <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> to set your map, articles and worlds to private, and help the development of World Anvil.
+
+
+#world 
+access.rights.management: Access Rights Management
+access.rights.subscribers: Subscribers
+access.rights.groups: Groups
+access.rights.authors: Authors
+access.authors.management: Authors Management
+access.authors.revoke: Revoke Access
+access.authors.coowner: Co-Owner
+access.authors.editor: Editor 
+access.authors.writer: Writer 
+access.authors.slots: Author Slots Used
+access.subscribers.slots: Subscriber Slots Used
+access.authors.add: Add new Author 
+access.authors.username: Username
+access.authors.rank: Rank
+access.authors.groups: Groups
+access.subscribers.add: Add Subscriber to Group(s)
+access.subscribers.management: Subscribers Management
+access.group.management: Subscriber Groups Management
+access.group.edit: Edit Subscribers Group
+access.group.assets: Group Assets
+access.group.description.description: (optional) To remind you who and why are in this group.
+access.group.position.description: (optional) Just so you can organize your groups if you need to.
