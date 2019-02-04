@@ -300,3 +300,15 @@ delete.block.template: Poista lohkon mallipohja
 block.template: Lohkon mallipohja
 block.templates: Lohkojen mallipohjat
 list.block.templates: Lohkojen mallipohjien luettelo
+create.group: Luo ryhmä
+edit.group: Muokkaa ryhmää
+delete.group: Poista ryhmä
+subscriber: Tilaaja
+groups: Ryhmät
+list.subscribers: Tilaajat
+access.rights.management: Pääsyoikeuksien hallinta
+access.rights.subscribers: Tilaajat
+access.rights.groups: Ryhmät
+access.rights.authors: Tekijät
+access.authors.management: Tekijöiden hallinta
+access.authors.revoke: Poista pääsy
