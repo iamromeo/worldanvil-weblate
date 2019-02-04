@@ -136,3 +136,33 @@ material.technologies: Tecnologías relacionadas
 alternativenames: Nombres alternativos
 material.professions: Profesiones relacionadas
 material.origin: Origen y fuente
+editorial.team: Equipo de edición
+writers.team: Equipo de redacción
+campaign.storytellers: Historia narrada por
+campaign.playedby: Interpretado por
+campaign.supporting.cast: Otros personajes
+campaign.neutral: Grupos neutrales
+campaign.setting: El escenario
+campaign.timelines: Líneas del tiempo
+campaign.vtt: Tablero virtual
+campaign.journal.session.report: Informe de sesión
+campaign.system: Un juego de %system_name%
+campaign.watchlive: Ve la campaña en vivo en Twitch
+campaign.world: En el mundo de %world_name%
+campaign.protagonists: Los protagonistas
+campaign.lfp: Se buscan jugadores
+campaign.full: Llena
+campaign.support.patreon: Apoya esta campaña en Patreon
+campaign.sessions: Lista de sesiones
+campaign.sessions.scheduled: Sesiones programadas
+campaign.sessions.past: Última sesión
+campaign.session.live: EN DIRECTO
+campaign.adversaries: Adversarios
+campaign.allies: Aliados
+campaign.competitors: Competidores
+campaign.explore.world: Explora el mundo de %world_name%
+campaign.maps: Mapas
+campaign.journal.world: Mundo
+campaign.journal.campaign: Campaña
+campaign.journal.player: Jugador
+campaign.journal.character: Personaje

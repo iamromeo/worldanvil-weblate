@@ -6,7 +6,7 @@ articles: Articles
 history: ''
 recent.articles: Articles récents
 uncategorized.articles: Articles non catégorisés
-following: Vous êtes abonné à %name%
+following: Abonné à %name%
 follow: S'abonner à %name%
 follow.action.remove: Se désabonner
 follow.action.add: S'abonner
@@ -30,3 +30,26 @@ article.love: Personnes qui aiment votre article
 account.create: Créer votre compte
 in: dans
 author.notes: Notes de l'auteur
+editorial.team: Les éditeurs
+writers.team: Les écrivains
+author.badges: Médailles & Badges
+campaign.storytellers: Cette histoire est contée par
+campaign.protagonists: Les protagonistes
+campaign.playedby: Joué par
+campaign.lfp: Recherche des joueurs
+campaign.full: Complet
+campaign.adversaries: Adversaires
+campaign.allies: Alliés
+campaign.competitors: Compétiteurs
+campaign.timelines: Frises chronologiques
+campaign.maps: Cartes
+campaign.journal.world: Monde
+campaign.journal.campaign: Campagne
+campaign.journal.player: Joueur
+campaign.journal.character: Personnage
+condition.causes: Causes
+condition.symptoms: Symptomes
+condition.treatment: Traitement
+condition.origin: Origine
+condition.cycle: Cycle
+condition.rarity: Rareté
