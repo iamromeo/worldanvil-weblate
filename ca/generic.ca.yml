@@ -58,3 +58,5 @@ studio.sheets: 'Estudi del creador: fitxes'
 access.passcode: Contrasenya obligatòria
 access.passcode.description: Aquesta pàgina està protegida amb una contrasenya! Si
   la sabeu, introduïu-la a sota per accedir al contingut.
+username: Nom d'usuari
+state: Estat
