@@ -146,3 +146,5 @@ campaign.setting: El escenario
 campaign.timelines: Líneas del tiempo
 campaign.vtt: Tablero virtual
 campaign.journal.session.report: Informe de sesión
+campaign.system: Un juego de %system_name%
+campaign.watchlive: Ve la campaña en vivo en Twitch
