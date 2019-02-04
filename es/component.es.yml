@@ -330,3 +330,14 @@ access.authors.rank: Rango
 access.authors.groups: Grupos
 access.subscribers.add: Añadir suscriptor al/los grupo/s
 access.group.edit: Editar grupo de suscriptores
+access.rights.management: Configuración de permisos
+access.authors.management: Configuración de autores
+access.authors.slots: Plazas de autor usadas
+access.subscribers.slots: Plazas de suscriptor usadas
+access.subscribers.management: Configuración de suscriptores
+access.group.management: Configuración de grupos de suscriptores
+access.group.assets: Detalles del grupo
+access.group.description.description: (Opcional) Para recordar quién está en este
+  grupo y por qué.
+access.group.position.description: (opcional) Para que puedas organizar tus grupos
+  si lo necesitas.
