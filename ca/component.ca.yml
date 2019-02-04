@@ -333,9 +333,10 @@ access.authors.rank: Rang
 access.subscribers.management: Gestió de subscriptors
 access.group.management: Gestió de grups de subscriptors
 access.group.assets: Detalls del grup
-access.group.description.description: (opcional) Per a recordar qui forma part d'aquest
-  grup i per què.
-access.group.position.description: (opcional) Només perquè puguis
+access.group.description.description: (opcional) Per a recordar-vos qui forma part
+  d'aquest grup i per què.
+access.group.position.description: (opcional) Per tal de poder organitzar els vostres
+  grups si ho necessiteu.
 access.authors.coowner: Copropietari
 access.authors.editor: Editor
 access.authors.writer: Escriptor
