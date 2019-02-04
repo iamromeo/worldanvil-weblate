@@ -136,3 +136,12 @@ material.items: Objectes relacionats
 material.technologies: Tecnologies relacionades
 material.professions: Professions relacionades
 material.origin: Origen i font
+editorial.team: Edició
+writers.team: Redacció
+campaign.system: Un joc de %system_name%
+campaign.world: A %world_name_%
+campaign.watchlive: Mireu la campanya en directe a Twitch
+campaign.playedby: Interpretat per
+campaign.support.patreon: Dona suport a aquesta campanya a Patreon
+campaign.supporting.cast: Personatges secundaris
+campaign.neutral: Grups neutrals
