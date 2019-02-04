@@ -303,3 +303,33 @@ delete.block.template: Blokk Sablon Törlése
 block.template: Blokk Sablon
 block.templates: Blokk Sablonok
 list.block.templates: Blokk Sablon Lista
+create.group: Csoport Létrehozása
+edit.group: Csoport Szerkesztése
+delete.group: Csoport Törlése
+subscriber: Feliratkozó
+groups: Csoportok
+list.subscribers: Feliratkozók
+access.rights.management: Hozzáférési Engedély Kezelés
+access.rights.subscribers: Feliratkozók
+access.rights.groups: Csoportok
+access.rights.authors: Szerzők
+access.authors.management: Szerzők Kezelése
+access.authors.revoke: Hozzáférés Visszavonása
+access.authors.coowner: Társtulajdonos
+access.authors.editor: Szerkesztő
+access.authors.writer: író
+access.authors.slots: Foglalt Szerző Helyek
+access.subscribers.slots: Foglalt Feliratkozó Helyek
+access.authors.add: Új Szerző Hozzáadása
+access.authors.username: Felhasználónév
+access.authors.rank: Rang
+access.authors.groups: Csoportok
+access.subscribers.add: Feliratkozói Csoport(ok)hoz Rendelés
+access.subscribers.management: Feliratkozók Kezelése
+access.group.management: Feliratkozói Csoportok Kezelése
+access.group.edit: Feliratkozói Csoportok Szerkesztése
+access.group.assets: Csoport Eszközök
+access.group.description.description: (opcionális) Emlékeztető hogy ki és miért tagja
+  a csoportnak.
+access.group.position.description: (opcionális) Csak hogy rendszerezni tudd a csoportjaid,
+  ha szükséges.
