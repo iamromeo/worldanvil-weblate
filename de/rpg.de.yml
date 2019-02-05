@@ -8,4 +8,6 @@ rpg.resources.welcome.intro2: Jeder hier gespeicherte "Block" (Werte Block) hat 
   kannst. Alle hier gehosteten Ressourcen werden entweder unter Lizenz verwendet oder
   wurden freiwillig von ihren Autoren geteilt.
 rpg.world.systems: System(e) deiner Welt
-rpg.systems.list: RPG Systeme Liste
+rpg.systems.list: RPG System-Liste
+rpg.add.to.world: Dieses System deiner Welt hinzufügen
+rpg.statblock.copy: Diesen Werte Block kopieren
