@@ -183,8 +183,8 @@ map.thumbnail: Vorschaubild
 map.zoom.initial: Anfängliche Zoom-Stufe
 map.marker.lng: Länge
 map.marker.lat: Breite
-map.zoom.initial.description: 'Lege fest, wie weit in die Karte hineingezoomt ist,
-  wenn sie geladen wird. (Standard: 0)'
+map.zoom.initial.description: 'Lege fest, wie weit in die Karte hineingezoomt werden
+  soll, wenn sie geladen wird. (Standard: 0)'
 map.zoom.min: Minimale erlaubte Zoom-Stufe
 map.zoom.min.description: 'Wie weit du hinauszoomen kannst. Dies ist ein negativer
   Multiplikator. Umso kleiner der Wert, umso weiter kannst du hinauszoomen. (Standard:
@@ -252,7 +252,7 @@ map.marker.group.description: Marker Gruppen ermöglichen es, die Marker und Kar
   hinsichtlich ihrer Sichtbarkeit verwaltet werden. Genau wie Layer können sie genutzt
   werden, um unterschiedliche Informationen darzustellen oder um Gruppen von Markern
   von den Lesern zu verbergen.
-map.marker.group.onload: Gruppen Sichtbarkeit zu Beginn
+map.marker.group.onload: Gruppensichtbarkeit zu Beginn
 map.marker.group.onload.description: Diese Gruppe ist sichtbar direkt beim Laden der
   Karte
 map.layers.max: 'Die maximale Anzahl an Layern für diesen Account wurde erreicht!
@@ -290,3 +290,8 @@ grandmaster.feature: Dies ist eine Grandmaster+ Level Funktion. Trete der <a cla
   Zugang zu dieser Funktion zu erhalten und hilf damit der Entwicklung von World Anvil.
 create.article: Neuer Artikel
 edit.article: Artikel bearbeiten
+feat: Merkmal
+item: Gegenstand
+spell: Zauberspruch
+class: Klasse
+race: Rasse
