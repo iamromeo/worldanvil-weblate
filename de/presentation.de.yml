@@ -6,7 +6,7 @@ world.anvil.description: World Anvil ist eine Worldbuilding Tools Plattform und 
 powered.by: Unterstützt von
 timeline: Zeitleiste
 timelines: Zeitleisten
-followers: Abonnenten
+followers: Beobachter
 followers.all: Sehe alle Abonnenten
 featured.articles: Hervorgehobene Artikel
 uncategorized.articles: Unkategorisierte Artikel
@@ -139,5 +139,6 @@ campaign.adversaries: Gegenspieler
 campaign.allies: Verbündete
 campaign.competitors: Rivalen
 campaign.neutral: Neutrale Parteien
-campaign.setting: Der Hintergrund
+campaign.setting: Das Setting
 campaign.session.live: JETZT LIVE
+material.compounds: Komposit
