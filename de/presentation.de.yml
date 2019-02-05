@@ -159,3 +159,10 @@ campaign.vtt: Virtuelle Spieloberfläche
 campaign.journal.session.report: Sitzungsbericht
 material.locations: Zugehörige Standorte
 material.professions: Zugehörige Berufe
+landmark.reportprimarylocations: Zugehöriger Bericht (Hauptstandorte)
+landmark.reportsecondarylocations: Zugehöriger Bericht (Nebenstandorte)
+material.boiling: Siede-/Kondensationspunkt
+material.melting: Schmelz-/Gefrierpunkt
+material.species: Zugehörige Spezies
+material.items: Zugehörige Gegenstände
+material.technologies: Zugehörige Technologien
