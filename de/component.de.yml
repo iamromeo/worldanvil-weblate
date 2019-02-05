@@ -282,9 +282,10 @@ pin.template.header: Standard Pin Vorlage
 pin.template.description: Nutze die Dateien in dieser zip Datei um Pins ähnlich der
   World Anvil Pins zu erstellen.
 pin.value.notzero: Bitte stelle sicher, dass dieser Wert nicht leer oder 0 ist.
-guild.feature: Dies ist eine Gildenexklusive Funktion. Trete der <a class="m-t-10
+guild.feature: Dies ist eine gildenexklusive Funktion. Trete der <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
-  Zugang zu dieser Funktion zu erhalten und hilf damit der Entwicklung von World Anvil.
+  Zugang zu dieser Funktion zu erhalten und unterstütze damit die Entwicklung von
+  World Anvil.
 grandmaster.feature: Dies ist eine Grandmaster+ Level Funktion. Trete der <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
   Zugang zu dieser Funktion zu erhalten und hilf damit der Entwicklung von World Anvil.
