@@ -318,3 +318,8 @@ groups: Gruppen
 list.block.templates: Block Vorlagen
 list.subscribers: Abonnenten
 access.rights.management: Zugangsberechtigungs Verwaltung
+access.rights.subscribers: Abonnenten
+access.rights.groups: Gruppen
+access.rights.authors: Autoren
+access.authors.management: Autorenverwaltung
+access.authors.revoke: Zugriff entziehen
