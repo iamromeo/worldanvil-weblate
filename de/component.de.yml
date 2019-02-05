@@ -139,13 +139,13 @@ guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete de
   \ class=\"m-t-10 text-pink\" href=\"/worldbuilders-guild-membership\">Weltenbauer\
   \ Gilde</a> bei, um Mitgliedsgruppen \n gezielt Zugriff auf von dir gewählte Inhalte\
   \ zu geben und gleichzeitig den Entwicklern von World Anvil zu helfen."
-guild.subscriber.groups: Mitgliedsgruppen erlauben es der <a class="m-t-10 text-pink"
-  href="{{ path('app_membership')}}">Weltenbauer Gilde</a>, lesenden Zugriff auf private
-  Artikel an die Mitglieder der Gruppe zu vergeben.
+guild.subscriber.groups: Mitgliedsgruppen erlauben es der  <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Weltenbauer Gilde</a>, lesenden Zugriff auf
+  private Artikel an die Mitglieder der Gruppe zu vergeben.
 guild.access.status: Alle Inhalte eines kostenlosen Kontos sind öffentlich. Trete
-  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau Gilde</a>
-  bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung von
-  World Anvil zu unterstützen.
+  der  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
+  Gilde</a> bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung
+  von World Anvil zu unterstützen.
 guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
   Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau
   Gilde</a> bei, um Karten, Artikel und Welten privat zu schalten und unterstütze
