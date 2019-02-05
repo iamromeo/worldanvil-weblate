@@ -337,3 +337,6 @@ access.subscribers.management: Abonnentenverwaltung
 access.group.management: Abonnentengruppenverwaltung
 access.group.edit: Abonenntengruppe bearbeiten
 access.group.assets: Gruppenressourcen
+access.group.description.description: (optional) Um dich daran zu erinnern wer und
+  warum in dieser Gruppe ist.
+access.group.position.description: (optional) Um deine Gruppen im Bedarfsfall zu organisieren.
