@@ -142,10 +142,10 @@ guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete de
 guild.subscriber.groups: Mitgliedsgruppen erlauben es der <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Weltenbauer Gilde</a>, lesenden Zugriff auf private
   Artikel an die Mitglieder der Gruppe zu vergeben.
-guild.access.status: Alle Einträge eines kostenlosen Kontos sind öffentlich. Trete
-  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer Gilde</a>
-  bei, um alles was du willst privat zu setzen und den Entwicklern von World Anvil
-  zu helfen.
+guild.access.status: Alle Inhalte eines kostenlosen Kontos sind öffentlich. Trete
+  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau Gilde</a>
+  bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung von
+  World Anvils zu unterstützen.
 guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
   Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer
   Gilde</a> bei, um Karten, Artikel und Welten privat zu setzen und den Entwicklern
@@ -183,8 +183,8 @@ map.thumbnail: Vorschaubild
 map.zoom.initial: Anfängliche Zoom-Stufe
 map.marker.lng: Länge
 map.marker.lat: Breite
-map.zoom.initial.description: 'Lege fest, wie weit in die Karte hineingezoomt ist,
-  wenn sie geladen wird. (Standard: 0)'
+map.zoom.initial.description: 'Lege fest, wie weit in die Karte hineingezoomt werden
+  soll, wenn sie geladen wird. (Standard: 0)'
 map.zoom.min: Minimale erlaubte Zoom-Stufe
 map.zoom.min.description: 'Wie weit du hinauszoomen kannst. Dies ist ein negativer
   Multiplikator. Umso kleiner der Wert, umso weiter kannst du hinauszoomen. (Standard:
@@ -248,11 +248,11 @@ line: Linie
 related.article: Zugehöriger Artikel
 related.history: Zugehöriger historischer Eintrag
 map.marker.group.description: Marker Gruppen ermöglichen es, die Marker und Kartenlayer
-  in Gruppen zu organisieren. Diese können an und aus geschaltet und (von Gildenmitgliedern)
+  in Gruppen zu organisieren. Diese können ein- und ausgeblendet und (von Gildenmitgliedern)
   hinsichtlich ihrer Sichtbarkeit verwaltet werden. Genau wie Layer können sie genutzt
   werden, um unterschiedliche Informationen darzustellen oder um Gruppen von Markern
-  von den Lesern zu verbergen.
-map.marker.group.onload: Gruppen Sichtbarkeit zu Beginn
+  von den Lesern zu verbergen, wenn gewünscht.
+map.marker.group.onload: Gruppensichtbarkeit zu Beginn
 map.marker.group.onload.description: Diese Gruppe ist sichtbar direkt beim Laden der
   Karte
 map.layers.max: 'Die maximale Anzahl an Layern für diesen Account wurde erreicht!
@@ -288,3 +288,13 @@ guild.feature: Dies ist eine Gildenexklusive Funktion. Trete der <a class="m-t-1
 grandmaster.feature: Dies ist eine Grandmaster+ Level Funktion. Trete der <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
   Zugang zu dieser Funktion zu erhalten und hilf damit der Entwicklung von World Anvil.
+create.article: Neuer Artikel
+edit.article: Artikel bearbeiten
+feat: Merkmal
+item: Gegenstand
+spell: Zauberspruch
+class: Klasse
+race: Rasse
+character: Charakter
+monster: Monster
+npc: NPC
