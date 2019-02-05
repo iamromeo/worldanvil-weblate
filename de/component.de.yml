@@ -323,3 +323,13 @@ access.rights.groups: Gruppen
 access.rights.authors: Autoren
 access.authors.management: Autorenverwaltung
 access.authors.revoke: Zugriff entziehen
+access.authors.coowner: Mit-Inhaber
+access.authors.editor: Editor
+access.authors.writer: Autor
+access.authors.slots: Genutzte Autoren-Plätze
+access.subscribers.slots: Genutzte Abonnenten-Plätze
+access.authors.add: Neuen Autor hinzufügen
+access.authors.username: Benutzername
+access.authors.rank: Rang
+access.authors.groups: Gruppen
+access.subscribers.add: Abonnent zu Gruppe(n) hinzufügen
