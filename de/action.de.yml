@@ -25,3 +25,4 @@ download: Herunterladen
 save: Speichern
 copy: Kopieren
 dismiss: Verwerfen
+copy.to.clipboard: Anklicken, um den Link in die Zwischenablage zu kopieren
