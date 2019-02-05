@@ -147,7 +147,7 @@ guild.access.status: Alle Inhalte eines kostenlosen Kontos sind öffentlich. Tre
   Gilde</a> bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung
   von World Anvil zu unterstützen.
 guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
-  Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau
+  Welt angezeigt. Trete der  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
   Gilde</a> bei, um Karten, Artikel und Welten privat zu schalten und unterstütze
   die Entwicklung des World Anvils.
 create.layer: Neue Ebene
@@ -286,8 +286,8 @@ guild.feature: Dies ist eine gildenexklusive Funktion. Trete der <a class="m-t-1
   text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
   Zugang zu dieser Funktion zu erhalten und unterstütze damit die Entwicklung von
   World Anvil.
-grandmaster.feature: Dies ist eine Funktion für Großmeister des Weltenbaus. Trete
-  der <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
+grandmaster.feature: Dies ist eine Funktion für Großmeister der Weltenbau Gilde oder
+  höher. Trete der <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
   Guilde</a> bei, um Zugang zu dieser Funktion zu erhalten und unterstütze damit die
   Entwicklung des World Anvil.
 create.article: Neuer Artikel
@@ -300,7 +300,21 @@ race: Rasse
 character: Charakter
 monster: Monster
 npc: NPC
-master.feature: 'Dies ist eine Funktion für Meister der Weltenbau Gilde oder höher.
+master.feature: Dies ist eine Funktion für Meister der Weltenbau Gilde oder höher.
   Trete der <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
   Gilde</a> bei, um Zugang zu dieser Funktion zu erhalten und unterstütze die Entwicklung
-  von World Anvil. '
+  von World Anvil.
+create.block.template: Neue Block Vorlage
+create.group: Neue Gruppe
+create.new.block.template: Neue Block Vorlage
+edit.block.template: Block Vorlage bearbeiten
+edit.group: Gruppe bearbeiten
+delete.block.template: Block Vorlage löschen
+delete.group: Gruppe löschen
+block.template: Block Vorlage
+subscriber: Mitglied
+block.templates: Block Vorlagen
+groups: Gruppen
+list.block.templates: Block Vorlagen
+list.subscribers: Abonnenten
+access.rights.management: Zugangsberechtigungen verwalten
