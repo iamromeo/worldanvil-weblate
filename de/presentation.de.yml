@@ -120,3 +120,9 @@ material.storage: Lagerung
 material.regulations: Gesetze und Regulierungen
 material.value: Wert
 material.rarity: Seltenheit
+editorial.team: Redaktion
+writers.team: Autorenteam
+campaign.system: Ein %system_name%-Spiel
+campaign.world: In der Welt von %world_name%
+campaign.storytellers: Eine Geschichte erzählt von
+campaign.watchlive: Verfolge die Kampagne live bei Twitch
