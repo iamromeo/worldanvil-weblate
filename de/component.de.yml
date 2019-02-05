@@ -147,9 +147,9 @@ guild.access.status: Alle Inhalte eines kostenlosen Kontos sind öffentlich. Tre
   bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung von
   World Anvil zu unterstützen.
 guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
-  Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer
-  Gilde</a> bei, um Karten, Artikel und Welten privat zu setzen und den Entwicklern
-  von World Anvil zu helfen.
+  Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau
+  Gilde</a> bei, um Karten, Artikel und Welten privat zu schalten und unterstütze
+  die Entwicklung des World Anvils.
 create.layer: Neue Ebene
 create.new.layer: Neue Ebene
 edit.layer: Ebene bearbeiten
@@ -286,9 +286,10 @@ guild.feature: Dies ist eine gildenexklusive Funktion. Trete der <a class="m-t-1
   text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
   Zugang zu dieser Funktion zu erhalten und unterstütze damit die Entwicklung von
   World Anvil.
-grandmaster.feature: Dies ist eine Grandmaster+ Level Funktion. Trete der <a class="m-t-10
-  text-pink" href="/worldbuilders-guild-membership">Weltenbauer Guilde</a> bei, um
-  Zugang zu dieser Funktion zu erhalten und hilf damit der Entwicklung von World Anvil.
+grandmaster.feature: Dies ist eine Funktion für Großmeister des Weltenbaus. Trete
+  der <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
+  Guilde</a> bei, um Zugang zu dieser Funktion zu erhalten und unterstütze damit die
+  Entwicklung des World Anvil.
 create.article: Neuer Artikel
 edit.article: Artikel bearbeiten
 feat: Merkmal
@@ -299,3 +300,7 @@ race: Rasse
 character: Charakter
 monster: Monster
 npc: NPC
+master.feature: 'Dies ist eine Funktion für Meister der Weltenbau Gilde oder höher.
+  Trete der <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Weltenbau
+  Gilde</a> bei, um Zugang zu dieser Funktion zu erhalten und unterstütze die Entwicklung
+  von World Anvil. '
