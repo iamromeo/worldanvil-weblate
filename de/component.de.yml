@@ -59,7 +59,7 @@ notes: Notizen
 secrets: Geheimnisse
 worlds: Welten
 subscribers: Mitglieder
-followers: Abonnenten
+followers: Beobachter
 BETA: BETA
 list.articles: Artikel
 list.blocks: Blöcke
@@ -312,7 +312,7 @@ edit.group: Gruppe bearbeiten
 delete.block.template: Block Vorlage löschen
 delete.group: Gruppe löschen
 block.template: Block Vorlage
-subscriber: Mitglied
+subscriber: Abonnenten
 block.templates: Block Vorlagen
 groups: Gruppen
 list.block.templates: Block Vorlagen
