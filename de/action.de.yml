@@ -22,3 +22,7 @@ edit.profile: Profil bearbeiten
 view.profile: Profil ansehen
 browse: Durchsuchen
 download: Herunterladen
+save: Speichern
+copy: Kopieren
+dismiss: Verwerfen
+copy.to.clipboard: Anklicken, um den Link in die Zwischenablage zu kopieren
