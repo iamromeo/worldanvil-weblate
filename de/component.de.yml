@@ -142,10 +142,10 @@ guild.access: "Alle Eintrage eines kostenlosen Kontos sind öffentlich. Trete de
 guild.subscriber.groups: Mitgliedsgruppen erlauben es der <a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Weltenbauer Gilde</a>, lesenden Zugriff auf private
   Artikel an die Mitglieder der Gruppe zu vergeben.
-guild.access.status: Alle Einträge eines kostenlosen Kontos sind öffentlich. Trete
-  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer Gilde</a>
-  bei, um alles was du willst privat zu setzen und den Entwicklern von World Anvil
-  zu helfen.
+guild.access.status: Alle Inhalte eines kostenlosen Kontos sind öffentlich. Trete
+  der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbau Gilde</a>
+  bei, um Inhalte nach deinen Wünschen privat zu schalten und die Entwicklung von
+  World Anvils zu unterstützen.
 guild.access.map: Alle Karten eines kostenlosen Kontos werden auf der Startseite der
   Welt angezeigt. Trete der <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Weltenbauer
   Gilde</a> bei, um Karten, Artikel und Welten privat zu setzen und den Entwicklern
@@ -248,10 +248,10 @@ line: Linie
 related.article: Zugehöriger Artikel
 related.history: Zugehöriger historischer Eintrag
 map.marker.group.description: Marker Gruppen ermöglichen es, die Marker und Kartenlayer
-  in Gruppen zu organisieren. Diese können an und aus geschaltet und (von Gildenmitgliedern)
+  in Gruppen zu organisieren. Diese können ein- und ausgeblendet und (von Gildenmitgliedern)
   hinsichtlich ihrer Sichtbarkeit verwaltet werden. Genau wie Layer können sie genutzt
   werden, um unterschiedliche Informationen darzustellen oder um Gruppen von Markern
-  von den Lesern zu verbergen.
+  von den Lesern zu verbergen, wenn gewünscht.
 map.marker.group.onload: Gruppensichtbarkeit zu Beginn
 map.marker.group.onload.description: Diese Gruppe ist sichtbar direkt beim Laden der
   Karte
