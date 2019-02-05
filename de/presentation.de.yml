@@ -85,7 +85,7 @@ landmark.denizens: Bewohner
 landmark.contents: Möblierung & Gegenstände
 landmark.valuables: Schätze & Wertgegenstände
 landmark.hazards: Gefahren & Fallen
-landmark.properties: Besonderheiten
+landmark.properties: Besondere Eigenschaften
 landmark.effects: Umgebungseffekte
 landmark.alterations: Veränderungen
 landmark.architecture: Architekturstil
@@ -142,3 +142,16 @@ campaign.neutral: Neutrale Parteien
 campaign.setting: Das Setting
 campaign.session.live: JETZT LIVE
 material.compounds: Komposit
+campaign.explore.world: Erkunde die Welt von %world_name%
+campaign.timelines: Zeitleisten
+campaign.maps: Karten
+campaign.journal.world: Welt
+campaign.journal.campaign: Kampagne
+campaign.journal.player: Spieler
+campaign.journal.character: Charakter
+material.origin: Ursprung/Quelle
+material.odor: Geruch
+material.taste: Geschmack
+material.color: Farbe
+material.density: Dichte
+material.commonState: Standardzustand
