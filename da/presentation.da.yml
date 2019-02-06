@@ -79,3 +79,22 @@ alternativenames: Alternative navne
 landmark.purpose: Formål / Funktion
 landmark.design: Design
 landmark.entries: Indlæg
+landmark.denizens: Beboere
+landmark.valuables: Værdigenstande
+landmark.alterations: Ændringer
+landmark.architecture: Arkitektur
+landmark.children: Inkluderede steder
+landmark.owner: Ejer
+landmark.connectedrooms: Forbundne værelser
+landmark.professions: Relaterede professioner
+landmark.materials: Relaterede materialer
+material.properties: Egenskaber
+material.characteristics: Fysiske egenskaber
+material.geo: Geologi og geografi
+material.discovery: Opdagelse
+material.useCommon: Daglig brug
+material.useIndustrial: Industriel brug
+material.refinement: Forfinelse
+material.manufacturing: Produktion og produkter
+material.hazards: Farer
+material.distribution: Fordeling
