@@ -1,4 +1,4 @@
-article.generic: Artikel, generisch
+article.generic: Artikel, allgemein
 condition: Zustand
 document: Dokument
 ethnicity: Ethnie
@@ -97,3 +97,5 @@ description.plot: Handlung umfasst Storylines, Akte, Szenen, Beats und andere Be
 description.historical.entry: Historische Ereignisse sind die kleinen Geschichten,
   die Geschichte schreiben. Dies sind die einzigartigen Momente und Zeitspannen, die
   deine Welt geprägt haben.
+country: Land
+religion: Religion
