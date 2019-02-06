@@ -210,3 +210,10 @@ map.center.description: De initielle koordinater til kortets centrum når det f�
   hjørne af dit kort er punkt 0:0.
 map.marker.lng: ''
 map.marker.choice: Vælg og udfyld kun én af følgende muligheder.
+create.block.template: Opret Blok Skabelon
+create.new.block.template: Opret en Ny Blok Skabelon
+edit.block.template: Rediger Blok Skabelon
+delete.block.template: Slet Blok Skabelon
+block.template: Blok Skabelon
+block.templates: Blok Skabeloner
+list.block.templates: Blok Skabeloner Liste
