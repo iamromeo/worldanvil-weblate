@@ -82,7 +82,7 @@ landmark.denizens: Mieszkańcy
 landmark.valuables: Kosztowności
 landmark.hazards: Zagrożenia i pułapki
 landmark.properties: Specjalne właściwości
-landmark.effects: Wpływ na środowisko
+landmark.effects: Warunki Środowiskowe
 landmark.architecture: Architektura
 landmark.ruined: RUINA
 landmark.owner: Posiadane przez
@@ -135,3 +135,10 @@ material.commonState: Powszechny stan skupienia
 landmark.alterations: Zmiany
 landmark.contenders: 'Spór o to toczą:'
 material.halflife: Okres przydatności
+campaign.lfp: Szuka graczy
+campaign.timelines: Osie czasu
+campaign.maps: Mapy
+campaign.journal.world: Świat
+campaign.journal.campaign: Kampania
+campaign.journal.player: Gracz
+campaign.journal.character: Postać
