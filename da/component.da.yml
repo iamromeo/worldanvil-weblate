@@ -208,7 +208,7 @@ map.thumbnail: Miniature Billede
 map.center.description: De initielle koordinater til kortets centrum når det først
   indlæses. Normalt er dette beregnet til at være kortets midte. Det nederste venstre
   hjørne af dit kort er punkt 0:0.
-map.marker.lng: ''
+map.marker.lng: L
 map.marker.choice: Vælg og udfyld kun én af følgende muligheder.
 create.block.template: Opret Blok Skabelon
 create.new.block.template: Opret en Ny Blok Skabelon
