@@ -27,11 +27,11 @@ guild.required.master: Ta opcja wymaga członkostwa w Gildii na poziomie od Mist
   wzwyż.
 guild.required.grandmaster: Ta opcja wymaga członkostwa w Gildii, od poziomu Wielkiego
   Mistrza wzwyż.
-todo.your.list: Do Zrobienia
+todo.your.list: Lista "Do Zrobienia"
 todo.status.zero: Kliknij na tytuł by stworzyć artykuł!
-todo.status.one: Ten artykuł został stworzony, ale nie został opublikowany i prace
-  nad nim nadal trwają.
-todo.status.two: Ten artykuł został opublikowany, ale prace nad nim nadal trwają.
+todo.status.one: Ten artykuł jest tworzony, nieopublikowany i praca nad nim nadal
+  trwa.
+todo.status.two: Ten artykuł został opublikowany, ale praca nad nim nadal trwa.
 article.template: Szablon artykułu
 creation.date: Data utworzenia
 update.date: Data ostatniej modyfikacji
