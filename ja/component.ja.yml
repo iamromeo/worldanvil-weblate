@@ -208,8 +208,8 @@ related.article: 関連記事
 related.history: 関連歴史的な登録
 map.marker.group.description: マーカーグループはマーカーと地図のレイヤーを分類させて、表示・非表示を管理することに使用します（ギルドの会員に限り）。レイヤーと同様に、これにより、特定の情報を公開したり、読者からいくつかのマーカーを隠したりすることができます。
 map.marker.group.onload: グループの初期表示状況
-map.marker.group.onload.description: 最近の地図読み込むとき、このグループを公開します。
-map.layers.max: アカウントのレイヤー数の最大許容限度に達しました。地図のレイヤ数ーの許容量を増加するには、アカウントのアップグレードをおすすめします。<a
+map.marker.group.onload.description: 初回地図読み込み時、このグループを表示します。
+map.layers.max: アカウントに割り当てられているレイヤー数の最大許容限度に達しました。地図に対するレイヤー許容数を増加するには、アカウントのアップグレードをおすすめします。<a
   class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワルドビルダーズ・ギルド</a>
 map.marker.linePoints: 線の点
 map.marker.linePoints.description: コンマで区切られている各点の経度と緯度の組み合わせで、各点の組み合わせはスペースで区切られています。例えば、20,20
