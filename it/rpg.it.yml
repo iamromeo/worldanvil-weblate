@@ -2,3 +2,7 @@ rpg.resources: Risorse GDR
 rpg.resources.welcome.header: Benvenuto nella pagina Risorse GDR di World Anvil
 rpg.resources.welcome.intro1: Qui puoi trovare tutte le risorse create dalla community
   di World Anvil e ogni altro contenuto SRD (System Reference Documents)
+rpg.resources.welcome.intro2: Ogni "blocco" (blocco di statistiche) qui presente ha
+  un codice BB che puoi copiare e utilizzare nel tuo mondo o mentre giochi. Tutte
+  le risorse qui presenti sono sottoposte a licenza o condivise liberamente dai rispettivi
+  autori.
