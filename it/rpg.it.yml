@@ -3,10 +3,10 @@ rpg.resources.welcome.header: Benvenuto nella pagina Risorse GDR di World Anvil
 rpg.resources.welcome.intro1: Qui puoi trovare tutte le risorse create dalla community
   di World Anvil e ogni altro contenuto SRD (System Reference Documents)
 rpg.resources.welcome.intro2: Ogni "blocco" (blocco di statistiche) qui presente ha
-  comandi BBcode che puoi copiare e utilizzare nel tuo mondo o mentre giochi. Tutte
-  le risorse qui presenti sono sottoposte a licenza o condivise liberamente dai rispettivi
-  autori.
-rpg.world.systems: Il sistema dei tuoi Mondi
+  comandi BBcode che puoi copiare e utilizzare nel tuo mondo o mentre giochi [ "mentre
+  giochi" ha un diverso significato? ]. Tutte le risorse qui presenti sono sottoposte
+  a licenza o condivise liberamente dai rispettivi autori.
+rpg.world.systems: I Sistemi dei tuoi Mondi
 rpg.systems.list: Lista dei Sistemi GDR
 rpg.add.to.world: Aggiungi questo sistema al tuo Mondo
 rpg.statblock.copy: Copia questo Blocco di Statistiche
