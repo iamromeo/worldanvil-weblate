@@ -9,3 +9,10 @@ item: Oggetto
 material: Materiale
 myth.legend: Mito / Leggenda
 military.conflict: Conflitto Militare
+location.building: Luogo, Edificio
+building: Edificio
+location.geographic: Luogo, Geografico
+geography: Geografia
+location.settlement: Luogo, Insediamento
+settlement: Insediamento
+law: Legge (Meta/Fisica)
