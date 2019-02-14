@@ -1,1 +1,6 @@
-{}
+article.generic: Articolo, Generico
+condition: Status
+character: Personaggio
+document: Documento
+ethnicity: Etnia
+formation.military: Formazione (militare)
