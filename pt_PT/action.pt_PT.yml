@@ -22,3 +22,6 @@ view.map: Ver Mapa
 delete.map: Apagar Mapa
 edit.profile: Editar Perfil
 view.profile: Ver Perfil
+save: Guardar
+copy: Copiar
+dismiss: Ignorar
