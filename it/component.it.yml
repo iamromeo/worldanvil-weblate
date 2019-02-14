@@ -1,1 +1,15 @@
-{}
+create.author.profile: Crea Profilo
+create.block: Crea Blocco
+create.campaign: Crea Campagna
+create.category: Crea Categoria
+create.historical.entry: Crea --- Storica
+create.image: Crea Immagine
+create.player.character: Crea Personaggio Giocatore
+create.timeline: Crea Timeline
+create.map: Crea Mappa
+create.note: Crea Nota
+edit.map: Modifica Mappa
+delete.map: Elimina Mappa
+character: Personaggio
+item: Oggetto
+spell: Incantesimo
