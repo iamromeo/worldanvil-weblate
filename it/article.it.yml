@@ -3,4 +3,5 @@ condition: Status
 character: Personaggio
 document: Documento
 ethnicity: Etnia
-formation.military: Formazione (militare)
+formation.military: Formazione (Militare)
+language: Lingua
