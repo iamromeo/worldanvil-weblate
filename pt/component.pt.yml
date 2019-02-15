@@ -310,3 +310,6 @@ delete.block.template: Apagar Modelo de Bloco
 block.template: Modelo de Bloco
 block.templates: Modelos de Blocos
 list.block.templates: Lista de Modelos de Blocos
+create.group: Criar Grupo
+edit.group: Editar Grupo
+delete.group: Deletar Grupo
