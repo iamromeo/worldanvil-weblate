@@ -338,3 +338,5 @@ access.subscribers.slots: Espaços para Membros Usados
 access.authors.rank: Patente
 access.subscribers.add: Adicionar Membro ao(s) Grupo(s)
 access.rights.management: Administrar Direitos de Acesso
+access.subscribers.management: Gestão de Membros
+access.group.edit: Editar Grupo de Membros
