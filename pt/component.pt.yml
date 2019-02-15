@@ -328,6 +328,9 @@ access.authors.groups: Grupos
 access.group.management: Gestão de Grupos de Membros
 access.group.assets: Recursos do Grupo
 access.group.description.description: (opcional) Para te lembrar quem e porquê estão
-  neste grupo
+  neste grupo.
 access.group.position.description: (opcional) Só para você organizar os seus grupos
-  caso precise
+  caso precise.
+subscriber: Membro
+list.subscribers: Membros
+access.rights.subscribers: Membros
