@@ -7,3 +7,262 @@ maps: Mapas
 timelines: Linhas Temporais
 secrets: Segredos
 followers: Seguidores
+create.author.profile: Criar Perfil
+create.block: Criar Bloco
+create.block.template: Criar um modelo de bloco
+create.campaign: Criar Campanha
+create.category: Criar Categoria
+create.historical.entry: Criar um Registo Histórico
+create.image: Criar Imagem
+create.player.character: Criar um Personagem Jogador
+create.timeline: Criar uma Linha Temporal
+create.layer: Criar um Nível
+create.map: Criar um Mapa
+create.marker: Criar um Marcador
+create.marker.group: Criar um Grupo de Marcadores
+create.note: Criar uma Nota
+create.pin: Criar um pin de Mapa
+create.secret: Criar Segredo
+create.world: Criar um Mundo
+create.article: Criar Artigo
+create.group: Criar Grupo
+create.new.block: Criar um novo Bloco
+create.new.block.template: Criar um novo Modelo de Bloco
+create.new.campaign: Criar uma nova Campanha
+create.new.category: Criar uma nova Categoria
+create.new.historical.entry: Criar um novo Registo Histórico
+create.new.image: Criar uma nova Imagem
+create.new.player.character: Criar um novo Jogador-Personagem
+create.new.timeline: Criar uma nova Linha Temporal
+create.new.layer: Criar um novo Nível
+create.new.map: Criar um novo Mapa
+create.new.marker: Criar um novo Marcador
+create.new.marker.group: Criar um novo Grupo de Marcadores
+create.new.note: Criar uma nova Nota
+create.new.pin: Criar um novo Pin de Mapa
+create.new.secret: Criar um novo Segredo
+create.new.world: Criar um novo Mundo
+edit.article: Editar Artigo
+edit.author.profile: Editar Perfil
+edit.block: Editar Bloco
+edit.block.template: Editar Modelo de Bloco
+edit.campaign: Editar Campanha
+edit.category: Editar Categoria
+edit.historical.entry: Editar Registo Histórico
+edit.image: Editar Imagem
+edit.player.character: Editar Personagem-Jogador
+edit.timeline: Editar Linha Temporal
+edit.layer: Editar Nível
+edit.marker: Editar Marcador
+edit.marker.group: Editar Grupo de Marcadores
+edit.note: Editar Nota
+edit.pin: Editar Pin de Mapa
+edit.secret: Editar Segredo
+edit.world: Editar Mundo
+edit.group: Editar Grupo
+delete.author.profile: Apagar Perfil
+delete.block: Apagar Bloco
+delete.block.template: Apagar Modelo de Bloco
+delete.campaign: Apagar Campanha
+delete.category: Apagar Categoria
+delete.historical.entry: Apagar Registo Histórico
+delete.image: Apagar Imagem
+delete.player.character: Apagar Personagem-Jogador
+delete.timeline: Apagar Linha Temporal
+delete.layer: Apagar Nível
+delete.marker: Apagar Marcador
+delete.marker.group: Apagar Grupo de Marcadores
+delete.note: Apagar Nota
+delete.pin: Apagar pin de Mapa
+delete.secret: Apagar Segredo
+delete.world: Apagar Mundo
+delete.group: Apagar Grupo
+author.profile: Perfil
+block: Bloco
+block.template: Modelo de Bloco
+campaign: Campanha
+category: Categoria
+circle: Círculo
+line: Linha
+historical.entry: Registo Histórico
+image: Imagem
+player.character: Jogador-Personagem
+layer: Nível
+label: Legenda
+link: Link Directo
+map: Mapa
+marker: Marcador
+marker.group: Grupo de Marcadores
+note: Nota
+polygon: Polígono
+popup: Popup
+pin: Pins de Mapa
+secret: Segredo
+tag: Tag
+world: Mundo
+group: Grupo
+subscriber: Subscritor
+blocks: Blocos
+block.templates: Modelos de Blocos
+categories: Categorias
+historical.entries: Registos Históricos
+images: Imagens
+player.characters: Jogadores-Personagens
+layers: Níveis
+markers: Marcadores
+marker.groups: Grupos de Marcadores
+notes: Notas
+tags: Tags
+worlds: Mundos
+groups: Grupos
+subscribers: Subscritores
+list.articles: Lista de Artigos
+list.blocks: Lista de Blocos
+list.block.templates: Lista de modelos de Blocos
+list.campaigns: Lista de Campanhas
+list.categories: Lista de Categorias
+list.historical.entries: Lista de Registos Históricos
+list.images: Lista de Imagens
+list.player.characters: Lista de Jogadores-Personagem
+list.maps: Lista de Mapas
+list.markers: Lista de Marcadores
+list.marker.groups: Lista de Grupos de Marcadores
+list.layers: Lista de Níveis
+list.timelines: Lista de Linhas Temporais
+list.notes: Lista de Notas
+list.pins: Lista de pins de Mapas
+list.secrets: Lista de Segredos
+list.worlds: Lista de Mundos
+access: Acesso
+list.subscribers: Subscritores
+related.category: Categorias Relacionadas
+related.location: Locais Relacionados
+related.map: Mapa relacionado
+related.organization: Organização Relacionada
+related.article: Artigo Relacionado
+related.history: Registo Histórico Relacionado
+BETA: BETA
+position: Posição/Peso
+position.description: '"Peso" é um número que define em que ordem um item aparece
+  numa lista destes items. Quanto maior o número, mais elevado o item vai aparecer
+  na lista.'
+status: Estado
+status.description: Altera o estado deste item para "público" para que todos o possam
+  ver. Items Privados só são visíveis para o autor, co-autores e para subscritores
+  com as necessárias permissões de acesso a este Mundo
+access.description: Altera o estado deste artigo para "público" para que todos o possam
+  ver. Artigos Privados só são visíveis para o autor e co-autores do seu mundo
+subscriber.groups: Grupos de Subscritores
+subscriber.groups.description: Selecciona um ou mais grupos a quem pretendas dar acesso
+  a este artigo. Só afecta artigos privados.
+display: Mostrar
+display.homepage: Mostrar este mapa da Página principal deste Mundo
+tags.description: Usa vírgulas para separar as Tags. Adicionar tags a qualquer peça
+  de conteúdo vai ajudar-te a pesquisá-las, usando qualquer uma das tags.
+tag.description: Usa vírgulas para separar as Tags. Adicionar tags a qualquer peça
+  de conteúdo vai ajudar-te a pesquisá-las, usando qualquer uma das tags.
+map.image: Imagem de Referência do Mapa
+map.image.secondary: Imagem do nível
+map.update.image: Actualizar Imagem de Referência do Mapa
+map.edit.details: Editar detalhes do Mapa
+map.image.details: As dimensões esperadas do ficheiro são
+map.legend: Lenda
+map.compass: Imagem da Rosa dos Ventos
+map.compass.description: Selecciona uma imagem para ser mostrada como a Rosa dos Ventos
+  do teu mapa no canto inferior direito do mesmo. Os melhores resultados visuais serão
+  obtidos de a imagem tiver transparência.
+map.thumbnail: Miniaturas
+map.zoom.initial: Zoom inicial
+map.zoom.initial.description: Define o nível de zoom que o mapa vai mostrar quando
+  carrado pela primeira vez. (0 Pré-definido)
+map.zoom.min: Zoom mínimo permitido
+map.zoom.min.description: Ate onde é permitido o zoom out? Este é um multiplicador
+  negativo, quanto mais pequeno, mais será possível afastar o zoom. (-2 Pré-definido)
+map.zoom.max: Zoom máximo permitido
+map.zoom.max.description: Até onde pode ser aumentado o zoom? 0 significa zoom até
+  à dimensão 1:1 do mapa. Qualquer valor acima de 0 significa que a imagem vai desfocar
+  gradualmente. (0 Pré-definido)
+map.center.y: Ponto central inicial (Eixo Y)
+map.center.x: Ponto central inicial (Eixo X)
+map.center.description: As coordenadas iniciais do centro do mapa quando é carregado
+  inicialmente. Normalmente isto é calculado para ser o centro do seu mapa. O canto
+  inferior esquerdo do mapa é o ponto 0:0.
+map.legend.description: Isto vai aparecer no canto inferior esquerdo do mapa. Usa-o
+  para criar uma legenda para os marcadores, escreve uma pequena descrição ou dá-lhe
+  um outro contexto.
+map.marker.style: Estilo
+map.marker.color: Cor
+map.marker.longitude: Longitude
+map.marker.latitude: Latitude
+map.marker.lng: Lng
+map.marker.lat: Lat
+map.marker.height: Altura
+map.marker.new: Marcador de Novo Local
+map.marker.drag: Arrasta-me para definir as coordenadas do novo Marcador
+map.marker.fill: Fantástico! Agora preenche o formulário abaixo!
+map.marker.label: Legenda
+map.marker.label.description: Este é o texto que vai aparecer no mapa para esta legenda.
+map.display.homepage: Mostrar este mapa na Página-Principal do Mundo
+map.marker.choice: Selecciona e preenche apenas uma das seguintes opções.
+map.marker.radius: Raio-de-Acção
+map.marker.radius.description: Raio-de-Acção em píxeis. Preenche isto apenas se pretenderes
+  criar um círculo e não um polígono.
+map.marker.link.description: Se assinalares o marcador como um marcador de link directo,
+  vai redireccionar directamente o utilizador para a página-alvo.
+map.marker.link.relation.description: Escolhe uma das relações abaixo como destino
+  para o link directo. Se seleccionares várias, só o primeiro terá efeito.
+map.marker.polygonPoints: Pontos do Polígono
+map.marker.polygonPoints.description: 'Longitude e Latitude de cada ponto como um
+  par separado por uma vírgula e separados entre si com um espaço. Por exemplo: 20,20
+  30,30 50,45.  Dica: usa o pin vermelho do "novo ponto" para obter long/lat.'
+map.marker.colorOutline: Cor do rebordo
+map.marker.colorOutline.description: 'A cor do rebordo de um círculo ou polígono.
+  Podes usar cores CSS como azul, vermelho, amarelho, etc., OU o "hexcode" da cor
+  incluíndo o hash "#" em frente da referência. Exemplo: "#CCCCCC" ou "red".'
+map.marker.colorFill: Preenchimento
+map.marker.colorFill.description: 'A cor do preenchimento da área do círculo ou polígono.
+  Podes usar cores CSS como azul, vermelho, amarelho, etc., OU o "hexcode" da cor
+  incluíndo o hash "#" em frente da referência. Exemplo: "#CCCCCC" ou "red".'
+map.marker.opacityOutline: Opacidade do Rebordo
+map.marker.opacityOutline.description: 'A % da opacidade do rebordo. De 0 a 100% (ex:
+  50)'
+map.marker.opacityFill: Nível de opacidade do preenchimento
+map.marker.opacityFill.description: 'A % de opacidade do preenchimento da área do
+  círculo ou polígono. De 0 a 100% (ex: 50)'
+map.marker.group.description: Marcadores de Grupos permitem organizar marcadores e
+  níveis em categorias que podem ser ligadas ou desligadas e geridas no que respeita
+  a visibilidade (se fores um "guild member"). Como os níveis, estes podem ser usados
+  para revelar vários tipos de informação ou esconder um set/grupo de marcadores dos
+  leitores, se necessário.
+map.marker.group.onload: Visibilidade inicial do Grupo
+map.marker.group.onload.description: Tornar este grupo Visível durante o carregamento
+  inicial do mapa
+map.layers.max: O número máximo permitido de níveis foi atingido! Se precisas de mais
+  níveis nos teus mapas, considera um upgrade para a <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a>
+map.marker.linePoints: Pontos de Linha
+map.marker.linePoints.description: 'Longitude e Latitude de cada ponto como um par
+  separado por uma vírgula e separado entre si por um espaço. Por exemplo 20,20 30,30
+  50,45. Dica: usa o pin vermelho "newpoint" para obter a long/lat.'
+map.marker.lineColor: Cor da linha
+map.marker.lineColor.description: A cor da linha. Podes usar CSS como azul, vermelho
+  amarelo, etc., ou o "hexcode" da cor incluíndoo o "hash" (#) em frente da referência
+map.marker.lineWeight: Espessura da Linha
+map.marker.lineWeight.description: A espessura relativa, em pixeis, da linha.
+map.marker.lineOpacity: Opacidade da linha
+map.marker.lineOpacity.description: 'A % de opacidade da Linha. De 0 a 100% (ex: 50)'
+map.marker.lineDash: Line Dash Array
+map.marker.lineDash.description: Esta é uma funcionalidade avançada. Usa linha pontuada
+  para definir um padrão pontuado para a linha. Por exemplo 8 8 significa 8 pixeis
+  de linha e 8 pixeis de intervalo. Mas podes usar simplesmente 8 ou  2 3 4 para ter
+  um pontuado variável.
+map.marker.linePoints.check: Assinala e arrasta e larga o novo pin para criar uma
+  linha.
+pin.pinImage: Imagem do Pin
+pin.shadow: Sombra do Pin
+pin.shadow.description: A imagem da sombra do pin. Esta imagem é opcional. Se adicionada
+  tem que ser mais larga que a imagem do pin e deve estender-se para o seu lado direito.
+pin.iconAnchor.description: A Âncora é o único ponto onde o limite de contacto do
+  pin com o mapa. Normalmente seria em 0X cartesiano e metade da largura Y do pin
+pin.iconAnchorX: Àncora X (em pixeis)
+pin.iconAnchorY: Àncora Y (em píxeis)
