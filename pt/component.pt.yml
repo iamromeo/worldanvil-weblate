@@ -319,3 +319,15 @@ access.rights.groups: Grupos
 access.authors.management: Gestão de Autores
 access.authors.revoke: Revogar/Cancelar Acesso
 access.authors.coowner: Co-Proprietário
+access.authors.editor: Editor(a)
+access.authors.writer: Escritor(a)
+access.authors.slots: Espaços para Autor Usados
+access.authors.add: Adicionar novo Autor
+access.authors.username: Nome de Usuário
+access.authors.groups: Grupos
+access.group.management: Gestão de Grupos de Membros
+access.group.assets: Recursos do Grupo
+access.group.description.description: (opcional) Para te lembrar quem e porquê estão
+  neste grupo
+access.group.position.description: (opcional) Só para você organizar os seus grupos
+  caso precise
