@@ -315,3 +315,7 @@ edit.group: Editar Grupo
 delete.group: Apagar Grupo
 groups: Grupos
 access.rights.authors: Autores
+access.rights.groups: Grupos
+access.authors.management: Gestão de Autores
+access.authors.revoke: Revogar/Cancelar Acesso
+access.authors.coowner: Co-Propietário
