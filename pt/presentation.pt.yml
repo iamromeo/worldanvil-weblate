@@ -153,3 +153,6 @@ campaign.sessions.scheduled: Sessões Agendadas
 campaign.sessions.past: Sessão Passada
 campaign.session.live: AO VIVO
 campaign.supporting.cast: Elenco de Apoio
+campaign.adversaries: Adversários
+campaign.allies: Aliados
+campaign.explore.world: Explore O Mundo De %world_name%
