@@ -334,3 +334,6 @@ access.group.position.description: (opcional) Só para você organizar os seus g
 subscriber: Membro
 list.subscribers: Membros
 access.rights.subscribers: Membros
+access.subscribers.slots: Espaços para Membros Usados
+access.authors.rank: Patente
+access.subscribers.add: Adicionar Membro ao Grupo
