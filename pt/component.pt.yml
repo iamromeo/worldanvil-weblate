@@ -313,3 +313,5 @@ list.block.templates: Lista de Modelos de Blocos
 create.group: Criar Grupo
 edit.group: Editar Grupo
 delete.group: Apagar Grupo
+groups: Grupos
+access.rights.authors: Autores
