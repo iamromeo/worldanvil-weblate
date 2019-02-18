@@ -340,3 +340,6 @@ access.authors.coowner.description: Pääsy kaikkeen, mukaan lukien maailman ase
   CSS ja oikeuksien hallinta.
 access.authors.editor.description: Pääsy luomaan, katsomaan ja muokkaamaan mitä tahansa
   sisältoä.
+access.authors.writer.description: 'Pääsy luomaan artikkeleita, jotka ovat asetettu
+  vedoksiksi. Toimittajat ja sen yläpuolella olevat voivat hallita, järjestää ja julkaista
+  näitä artikkeleita. '
