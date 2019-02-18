@@ -338,3 +338,5 @@ access.rights.notice: Ryhmät & Tilaajat -toiminnallisuus on vain Killan jäsent
 access.rights.codes: Tilaajien pääsykoodit
 access.authors.coowner.description: Pääsy kaikkeen, mukaan lukien maailman asetukset,
   CSS ja oikeuksien hallinta.
+access.authors.editor.description: Pääsy luomaan, katsomaan ja muokkaamaan mitä tahansa
+  sisältoä.
