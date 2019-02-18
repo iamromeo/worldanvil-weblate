@@ -142,3 +142,23 @@ campaign.journal.world: Świat
 campaign.journal.campaign: Kampania
 campaign.journal.player: Gracz
 campaign.journal.character: Postać
+editorial.team: Zespół Redakcyjny
+writers.team: Zespół Autorów
+campaign.system: Gra %system_name%
+campaign.world: W świecie %world_name%
+campaign.storytellers: Historia opowiadana przez
+campaign.watchlive: Oglądaj kampanię na żywo na Twitch.tv
+campaign.protagonists: Protagoniści
+campaign.playedby: Grane przez
+campaign.full: Pełna
+campaign.support.patreon: Wspieraj tę Kampanię na Patreonie
+campaign.sessions: Lista Sesji
+campaign.sessions.scheduled: Zaplanowane Sesje
+campaign.sessions.past: Poprzednie Sesje
+campaign.session.live: NA ŻYWO
+campaign.adversaries: Przeciwnicy
+campaign.competitors: Rywale
+campaign.neutral: Grupy Neutralne
+campaign.explore.world: Zwiedzaj świat %world_name%
+campaign.vtt: Wirtualny Stół
+material.origin: Źródło i pochodzenie
