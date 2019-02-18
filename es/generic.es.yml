@@ -59,3 +59,9 @@ access.passcode.description: ¡Esta página está protegida con contraseña! Si 
   la contraseña, por favor introdúcela abajo para acceder al contenido.
 username: Nombre de usuario
 state: Estado
+access.activate: Activación de la suscripción
+access.activate.description: Escribe tu código de suscripción abajo para acceder al
+  contenido, ¡así de fácil!
+access.activate.subscription: Activar suscripción
+access.activate.code: Introducir código de activación
+access.activate.login: ¡Tienes que iniciar sesión para activar tu suscripción!

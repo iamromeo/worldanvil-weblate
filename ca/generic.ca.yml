@@ -60,3 +60,6 @@ access.passcode.description: Aquesta pàgina està protegida amb una contrasenya
   la sabeu, introduïu-la a sota per accedir al contingut.
 username: Nom d'usuari
 state: Estat
+access.activate: Activació de subscripcions
+access.activate.description: Escriu el teu codi de subscripció a sota per accedir
+  al contingut. És així de fàcil!
