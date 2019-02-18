@@ -340,3 +340,14 @@ access.group.assets: Gruppenressourcen
 access.group.description.description: (optional) Um dich daran zu erinnern wer und
   warum in dieser Gruppe ist.
 access.group.position.description: (optional) Um deine Gruppen im Bedarfsfall zu organisieren.
+view.world: Welt ansehen
+access.authors.editor.description: Erlaubnis zum Erstellen, Einsehen und Bearbeiten
+  aller Inhalte.
+access.authors.writer.description: Erlaubnis Artikel als Entwurf zu erstellen. Editoren
+  und höher können diese Artikel verwalten, organisieren und veröffentlichen.
+access.subscribers.emails: Abonnenten E-Mails
+access.code.management: Abonnenten Codes verwalten
+access.code.group: Abonnenten Gruppe
+access.code.maxUses: Maximale Anzahl an Nutzungen
+access.code.expiryDate: Ablaufdatum
+access.code.edit: Abonnenten Codes bearbeiten
