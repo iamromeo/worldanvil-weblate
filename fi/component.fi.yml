@@ -343,7 +343,7 @@ access.authors.editor.description: Pääsy luomaan, katsomaan ja muokkaamaan mit
 access.authors.writer.description: Pääsy luomaan artikkeleita, jotka ovat asetettu
   vedoksiksi. Jäsenet toimittajista ylöspäin voivat hallita, järjestää ja julkaista
   näitä artikkeleita.
-access.subscribers.purge: Poista kaikki nykyiset tilaajat luettelosta ennen tuontia.
+access.subscribers.purge: Poista kaikki nykyiset tilaajat luettelosta ennen tuontia
 access.subscribers.emails: Tilaajien sähköpostit
 access.subscriber.add: Lisää tilaaja ryhmiin
 access.code.management: Tilaajakoodien hallinta
@@ -351,4 +351,4 @@ access.code.code: Koodi
 access.code.group: Tilaajaryhmä
 access.code.maxUses: Käyttökertojen enimmäismäärä
 access.code.expiryDate: Erääntymispäivä
-access.code.edit: Muokkaa tilaajien tunnuslukuja
+access.code.edit: Muokkaa tilaajakoodia
