@@ -28,3 +28,114 @@ join.discord.world: Join %worldname% Discord!
 following: A seguir/seguindo ?? %name%
 follow: Seguir %name%
 follow.action.remove: PARAR DE SEGUIR
+editorial.team: Equipa Editorial
+writers.team: Equipa de Escritores
+follow.action.add: SEGUIR
+like.action.remove: REMOVER LIKE
+like.action.add.description: Alertar o autor que gostou do seu trabalho. Este artigo
+  não será adicionado à sua colecção para ler mais tarde
+reading.action.remove: REMOVER DA LISTA DE LEITURA
+reading.action.add: ADICIONAR À LISTA DE LEITURA
+goto.homepage: Ir para a página inicial de %name%
+article.love: Utilizadores que adoraram o seu artigo
+article.likes.number: '%number% de Worldbuilders gostaram deste Artigo'
+article.visibility: Este artigo é visível aos seguintes grupos de subscritores
+author.notes: Notas de Autor
+players.looking: À procura de Jogadores
+players.full: A Campanha está cheia
+authors: Autores
+author.page: Página do Autor
+author.since: Membro desde
+author.interests: Interesses e Hobbies
+author.movies: Filmes Preferidos
+author.tv: Séries de TV preferidas
+author.books: Livros preferidos
+author.writers: Escritores preferidos
+author.games: Jogos preferidos
+author.comments: Comentários e Feedback
+author.worlds: Mundos
+author.characters: Personagens
+author.badges: Crachás e Medalhas
+history: História
+type: Tipo
+alternativenames: Nomes Alternativos
+campaign.system: Um jogo %system_name%
+campaign.world: No mundo de %world_name%
+campaign.storytellers: Esta história é contada por
+campaign.watchlive: Vê a Campanha em directo no Twitch
+campaign.protagonists: Os Protagonistas
+campaign.playedby: Jogado por
+campaign.lfp: À procura de Jogadores
+campaign.full: Cheio
+campaign.support.patreon: Apoie esta Campanha no Patreon
+campaign.sessions: Lista de Sessões
+campaign.sessions.scheduled: Sessões programadas
+campaign.sessions.past: Última Sessão
+campaign.session.live: EM DIRECTO
+campaign.supporting.cast: Personagens Secundárias
+campaign.adversaries: Adversários
+campaign.allies: Aliados
+campaign.competitors: Concorrência
+campaign.explore.world: Explore o mundo de %world_name%
+campaign.timelines: Linhas temporais
+campaign.maps: Mapas
+campaign.vtt: Tabuleiro Virtual
+campaign.journal.world: Mundo
+campaign.journal.campaign: Campanha
+campaign.journal.player: Jogador
+campaign.journal.character: Personagem
+campaign.journal.session.report: Relatório da Sessão
+condition.transmission: Transmissão e Vectores
+condition.causes: Causas
+condition.symptoms: Sintomas
+condition.treatment: Tratamento
+condition.prognosis: Prognóstico
+condition.sequela: Sequela
+condition.affectedgroups: Grupos afectados
+condition.hosts: Hospedeiros e Portadores
+condition.prevention: Prevenção
+condition.epidimiology: Epidemiologia
+condition.origin: Origem
+condition.cycle: Ciclo
+condition.rarity: Raridade
+condition.species: Espécies Afectadas
+landmark.purpose: Propósito / Função
+landmark.design: Design
+landmark.denizens: Habitantes
+landmark.hazards: Perigos e Armadilhas
+landmark.properties: Propriedades Especiais
+landmark.effects: Efeitos Ambientais
+landmark.alterations: Alterações
+landmark.architecture: Arquitectura
+landmark.children: Localizações Incluídas
+landmark.owner: Proprietário
+landmark.charactersinlocation: Personagens nesta localização
+landmark.connectedrooms: Salas interligadas
+landmark.professions: Profissões relacionadas
+landmark.materials: Materiais relacionados
+material.properties: Propriedades
+material.characteristics: Características Físicas
+material.geo: Geologia e Geografia
+material.origin: Origem e Fonte
+material.discovery: Descoberta
+material.useCommon: Udo diário
+material.useIndustrial: Uso/Utilização Industrial
+material.manufacturing: Manufactura e Produtos
+material.hazards: Perigos
+material.environment: Impacto ambiental
+material.distribution: Distribuição
+material.market: Comércio e Mercado
+material.storage: Armazenamento
+material.regulations: Leis e Regulamentos
+material.value: Valor
+material.rarity: Raridade
+material.odor: Odor
+material.taste: Sabor
+material.color: Cor
+material.boiling: Fervura / Ponto de Condensação
+material.density: Densidade
+material.locations: Locais relacionados
+material.species: Espécies relacionadas
+material.items: Items relacionados
+material.technologies: Tecnologias relacionadas
+material.professions: Profissões relacionadas
