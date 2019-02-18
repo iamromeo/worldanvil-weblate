@@ -26,3 +26,5 @@ copy: コピー
 copy.to.clipboard: クリックするとクリップボードにコピーされます
 dismiss: 非表示
 save: 保存
+manage: 管理
+update: 更新
