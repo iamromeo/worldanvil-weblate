@@ -1,7 +1,9 @@
 show: 'Show'
 edit: 'Edit'
+manage: 'Manage'
 save: Save
 save.changes: Save Changes
+update: Update
 view: 'View'
 copy: 'Copy'
 dismiss: 'Dismiss'

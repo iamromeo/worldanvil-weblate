@@ -62,3 +62,8 @@ access.return: Head back where you came from!
 access.homepage: Go to Homepage
 access.passcode: Password Required
 access.passcode.description: This page is protected by a password! If you have the password please enter it below to access the content.
+access.activate: Subscription Activation
+access.activate.description: Write your Subscription code below to get access to the content. It's that simple!
+access.activate.subscription: Activate Subscription
+access.activate.code: Enter Activation Code
+access.activate.login: You will need to be logged in to activate your subscription!

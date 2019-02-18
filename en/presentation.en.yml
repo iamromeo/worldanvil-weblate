@@ -34,6 +34,7 @@ join.discord.world:  Join %worldname% Discord!
 following: Following %name%
 follow: Follow %name%
 follow.action.remove: UNFOLLOW
+follow.action.unfollow.world: Unfollow World
 follow.action.add: FOLLOW
 follow.action.add.description: Follow to get in your stream all the articles written by its authors in this world!
 like.action.remove: REMOVE LIKE

@@ -17,15 +17,17 @@ create.secret: 'Create Secret'
 create.world: 'Create World'
 create.article: 'Create Article'
 create.group: Create Group
+create.code: Create Code
 
 create.new.block: 'Create a new Block'
 create.new.block.template: Create a New Block Template
 create.new.campaign: 'Create a new Campaign'
 create.new.category: 'Create a new Category'
+create.new.timeline: 'Create a new Timeline'
 create.new.historical.entry: 'Create a new Historical Entry'
+create.new.era: 'Create a new Era'
 create.new.image: 'Create a new Image'
 create.new.player.character: 'Create a new Player Character'
-create.new.timeline: 'Create a new Timeline'
 create.new.layer: Create a new Layer
 create.new.map: 'Create a new Map'
 create.new.marker: Create a new Marker
@@ -34,6 +36,7 @@ create.new.note: 'Create a new Note'
 create.new.pin: Create a new Map Pin
 create.new.secret: 'Create a new Secret'
 create.new.world: 'Create a new World'
+
 
 edit.article: Edit Article
 edit.author.profile: 'Edit Profile'
@@ -72,7 +75,11 @@ delete.note: 'Delete Note'
 delete.pin: Delete Map Pin
 delete.secret: 'Delete Secret'
 delete.world: 'Delete World'
-delete.group: Delete Group
+
+view.world: 'View World'
+
+delete.group: 'Delete Group'
+deete.code: 'Delete Code'
 
 author.profile: 'Profile'
 block: 'Block'
@@ -273,25 +280,39 @@ guild.access.map: All map on free accounts are displayed on the world homepage. 
 
 
 #world 
+access.rights.notice: Groups & Subscribers functionality is only available to members of the Guild! 
 access.rights.management: Access Rights Management
 access.rights.subscribers: Subscribers
 access.rights.groups: Groups
 access.rights.authors: Authors
+access.rights.codes: Subscriber Access Codes
 access.authors.management: Authors Management
 access.authors.revoke: Revoke Access
 access.authors.coowner: Co-Owner
+access.authors.coowner.description: Access to everything including World configuration, CSS and Access Management.
 access.authors.editor: Editor 
+access.authors.editor.description: Access to create, view and edit any and all content.
 access.authors.writer: Writer 
+access.authors.writer.description: Access to create articles set to Draft. Editors and above can then manager, organize and publish those articles.
 access.authors.slots: Author Slots Used
 access.subscribers.slots: Subscriber Slots Used
+access.subscribers.purge: Purge all current Subscribers from the list before importing
+access.subscribers.emails: Subscriber emails
 access.authors.add: Add new Author 
 access.authors.username: Username
 access.authors.rank: Rank
 access.authors.groups: Groups
-access.subscribers.add: Add Subscriber to Group(s)
+access.subscriber.add: Add Subscriber to Group(s)
+access.subscribers.add: Add Subscribers to Group
 access.subscribers.management: Subscribers Management
 access.group.management: Subscriber Groups Management
 access.group.edit: Edit Subscribers Group
 access.group.assets: Group Assets
 access.group.description.description: (optional) To remind you who and why are in this group.
 access.group.position.description: (optional) Just so you can organize your groups if you need to.
+access.code.management: Subscriber Codes Management
+access.code.code: Code 
+access.code.group: Subscriber Group
+access.code.maxUses: Maximum Number of Uses 
+access.code.expiryDate: Expiry Date 
+access.code.edit: Edit Subscribers Code
