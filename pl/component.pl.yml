@@ -295,3 +295,14 @@ class: Klasa
 race: Rasa
 feat: Atut
 npc: NPC
+create.group: Stwórz Grupę
+edit.group: Edytuj Grupę
+delete.group: Usuń Grupę
+subscriber: Subskrybent
+groups: Grupy
+view.world: Zobacz Świat
+list.subscribers: Subskrybenci
+access.rights.subscribers: Subskrybenci
+access.rights.groups: Grupy
+access.rights.authors: Autorzy
+access.authors.coowner: Współwłaściciel
