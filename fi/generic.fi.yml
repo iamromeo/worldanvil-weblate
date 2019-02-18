@@ -57,3 +57,4 @@ access.passcode.description: Tämä sivu on suojattu salasanalla! Jos tiedät sa
   kirjoita se alapuolelle.
 username: Käyttäjätunnus
 state: Vaihe
+access.activate: Tilauksen aktivointi
