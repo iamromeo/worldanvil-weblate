@@ -62,4 +62,4 @@ access.activate.description: Saat pääsyn sisältöön kirjoittamalla tilauskoo
   Se on niin helppoa!
 access.activate.subscription: Aktivoi tilaus
 access.activate.code: Syötä aktivointikoodi
-access.activate.login: Sinun täytyy olla sisäänkirjautuneena aktivoidaksesi tilauksesi!
+access.activate.login: Tilauksen aktivointi edellyttää sisäänkirjautumista!
