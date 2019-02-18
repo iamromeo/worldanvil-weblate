@@ -357,7 +357,7 @@ access.authors.editor.description: Permís per crear, veure i editar tot el cont
 access.authors.writer.description: Permís per crear articles com a esborranys. Després,
   els editors poden gestionar, organitzar i publicar aquestes articles.
 access.subscribers.purge: Neteja tots els subscriptors actuals de la llista abans
-  d'importar.
+  d'importar
 access.subscribers.emails: Correus de subscriptors
 access.subscriber.add: Afegeix el subscriptor al(s) grup(s)
 access.code.management: Gestió de codis de subscripció
