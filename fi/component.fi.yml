@@ -343,3 +343,4 @@ access.authors.editor.description: Pääsy luomaan, katsomaan ja muokkaamaan mit
 access.authors.writer.description: Pääsy luomaan artikkeleita, jotka ovat asetettu
   vedoksiksi. Jäsenet toimittajista ylöspäin voivat hallita, järjestää ja julkaista
   näitä artikkeleita.
+access.subscribers.purge: Poista kaikki nykyiset tilaajat listalta ennen tuontia.
