@@ -346,4 +346,5 @@ access.authors.writer.description: Pääsy luomaan artikkeleita, jotka ovat aset
 access.subscribers.purge: Poista kaikki nykyiset tilaajat luettelosta ennen tuontia.
 access.subscribers.emails: Tilaajien sähköpostit
 access.subscriber.add: Lisää tilaaja ryhmiin
-access.code.management: Tilaajien tunnuslukujen hallinta
+access.code.management: Tilaajakoodien hallinta
+access.code.code: Koodi
