@@ -341,3 +341,23 @@ access.group.description.description: (Opcional) Para recordar quién está en e
   grupo y por qué.
 access.group.position.description: (opcional) Para que puedas organizar tus grupos
   si lo necesitas.
+create.code: Crear código
+create.new.era: Crear una nueva era
+view.world: Ver mundo
+deete.code: Eliminar código
+access.rights.notice: ¡La funcionalidad de grupos y suscriptores solamente está disponible
+  para miembros del Gremio!
+access.rights.codes: Códigos de acceso para suscriptores
+access.authors.coowner.description: Accederá a todo, incluyendo configuración del
+  mundo, CSS y configuración de permisos.
+access.authors.editor.description: Podrá crear, ver y editar cualquier contenido.
+access.authors.writer.description: Podrá crear borradores de artículos. Los editores
+  y superiores podrán configurar, organizar y publicar esos artículos.
+access.subscribers.purge: Limpia la lista de suscriptores antes de importar
+access.subscribers.emails: E-mails de los suscriptores
+access.subscriber.add: Añadir suscriptor al(los) grupo(s)
+access.code.management: Configuración de códigos de suscriptores
+access.code.code: Código
+access.code.group: Grupo de suscriptores
+access.code.maxUses: Número máximo de usos
+access.code.expiryDate: Fecha de expiración
