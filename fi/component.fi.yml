@@ -330,3 +330,6 @@ access.group.description.description: (valinnainen) Muistuttamaan ryhmässä ole
   syystä.
 access.group.position.description: (valinnainen) Jotta voit tarvittaessa järjestellä
   ryhmäsi.
+create.code: Luo tunnusluku
+create.new.era: Luo uusi aikakausi
+view.world: Tarkastele maailmaa
