@@ -336,5 +336,5 @@ view.world: Tarkastele maailmaa
 deete.code: Poista koodi
 access.rights.notice: Ryhmät & Tilaajat -toiminnallisuus on vain Killan jäsenten käytössä!
 access.rights.codes: Tilaajien pääsykoodit
-access.authors.coowner.description: Pääsy kaikkeen, sisältäen maailman asetukset,
+access.authors.coowner.description: Pääsy kaikkeen, mukaan lukien maailman asetukset,
   CSS ja oikeuksien hallinta.
