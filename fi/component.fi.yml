@@ -348,3 +348,4 @@ access.subscribers.emails: Tilaajien sähköpostit
 access.subscriber.add: Lisää tilaaja ryhmiin
 access.code.management: Tilaajakoodien hallinta
 access.code.code: Koodi
+access.code.group: Tilaajaryhmä
