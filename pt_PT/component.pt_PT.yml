@@ -266,3 +266,37 @@ pin.iconAnchor.description: A Âncora é o único ponto onde o limite de contact
   pin com o mapa. Normalmente seria em 0X cartesiano e metade da largura Y do pin
 pin.iconAnchorX: Àncora X (em pixeis)
 pin.iconAnchorY: Àncora Y (em píxeis)
+pin.popupAnchorX: Ponto de Popup X (em pixeis)
+pin.popupAnchorY: Ponto de Popup Y (em pixeis)
+pin.template.header: Modelo base de Pins
+pin.template.description: Usar os ficheiros neste zip para criar pins semelhantes
+  aos fornecidos pelo World Anvil.
+pin.value.notzero: Por favor certifique-se que este valor não fica vazio ou 0.
+organization.and.access: Organização e Acesso
+functionality: Funcionalidade
+appearance: Aparência
+character: Personagem
+monster: Monstro
+item: Item
+spell: Feitiço
+class: Classe
+race: Raça
+access.rights.management: Gestor de Direitos de Acesso
+access.rights.subscribers: Subscritores
+access.rights.groups: Grupos
+access.rights.authors: Autores
+access.authors.management: Gestão de Autores
+access.authors.revoke: Revogar Acesso
+access.authors.editor: Editor
+access.authors.writer: Escritor
+access.authors.slots: Vagas de Autor usadas
+access.authors.add: Adicionar novo Autor
+access.authors.username: Nome de Utilizador
+access.authors.groups: Grupos
+access.subscribers.add: Adicionar Subscritor a Grupo(s)
+access.subscribers.management: Gestão de Subscritores
+access.group.management: Gestão de Grupos de Subscritores
+access.group.edit: Editar Grupo de Subscritores
+access.group.assets: Grupo de Activos
+access.group.position.description: (opcional) Para que possa organizar os seus grupos
+  se precisar.
