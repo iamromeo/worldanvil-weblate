@@ -324,7 +324,7 @@ access.authors.add: Új Szerző Hozzáadása
 access.authors.username: Felhasználónév
 access.authors.rank: Rang
 access.authors.groups: Csoportok
-access.subscribers.add: Feliratkozói Csoport(ok)hoz Rendelés
+access.subscribers.add: Feliratkozók Csoporthoz rendelése
 access.subscribers.management: Feliratkozók Kezelése
 access.group.management: Feliratkozói Csoportok Kezelése
 access.group.edit: Feliratkozói Csoportok Szerkesztése
@@ -333,3 +333,27 @@ access.group.description.description: (opcionális) Emlékeztető hogy ki és mi
   a csoportnak.
 access.group.position.description: (opcionális) Csak hogy rendszerezni tudd a csoportjaid,
   ha szükséges.
+create.code: Kód Létrehozása
+create.new.era: Új Korszak Létrehozása
+view.world: Világ Megtekintése
+deete.code: Kód Törlése
+access.rights.notice: A Csoportok és Feliratkozók funkció csak a Céhtagoknak érhető
+  el!
+access.rights.codes: Feliratkozó Hozzáférési Kódok
+access.authors.coowner.description: Hozzáférés mindenhez, kezdve a Világ konfigurációktól
+  a CSS és Hozzáférés-kezelésig.
+access.authors.editor.description: Hozzáférés bármely tartalom létrehozásához, megtekintéséhez,
+  és szerkesztéséhez.
+access.authors.writer.description: Engedély Vázlat beállítású cikkek létrehozására.
+  A szerkesztők és fölöttük állók ezután kezelhetik, rendszerezhetik, és kiadhatják
+  ezen cikkeket.
+access.subscribers.purge: Az összes jelenlegi Feliratkozó eltávolítása a listáról
+  importálás előtt
+access.subscribers.emails: Feliratkozó e-mailek
+access.subscriber.add: Feliratkozó Csoport(ok)hoz adása
+access.code.management: Feliratkozó Kódok Kezelése
+access.code.code: Kód
+access.code.group: Feliratkozó Csoport
+access.code.maxUses: Használatok Maximális Száma
+access.code.expiryDate: Lejárati Dátum
+access.code.edit: Feliratkozó Kód Szerkesztése
