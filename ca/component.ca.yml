@@ -344,3 +344,25 @@ access.authors.add: Afegeix un nou autor
 access.authors.groups: Grups
 access.subscribers.add: Afegeix un subscriptor al(s) grup(s)
 access.group.edit: Edita el grup de subscriptors
+create.code: Crea codi
+create.new.era: Crea una nova era
+view.world: Mostra el món
+deete.code: Esborra el codi
+access.rights.notice: La funcionalitat de grups i subscriptors només està disponible
+  pels membres del Gremi!
+access.rights.codes: Codis d'accés per a subscriptors
+access.authors.coowner.description: Accés a tot, incloent la configuració del món,
+  el CSS i la gestió d'accés.
+access.authors.editor.description: Permís per crear, veure i editar tot el contingut.
+access.authors.writer.description: Permís per crear articles com a esborranys. Després,
+  els editors poden gestionar, organitzar i publicar aquestes articles.
+access.subscribers.purge: Neteja tots els subscriptors actuals de la llista abans
+  d'importar.
+access.subscribers.emails: Correus de subscriptors
+access.subscriber.add: Afegeix el subscriptor al(s) grup(s)
+access.code.management: Gestió de codis de subscripció
+access.code.code: Codi
+access.code.group: Grup de subscriptors
+access.code.maxUses: Nombre màxim d'usos
+access.code.expiryDate: Data d'expiració
+access.code.edit: Edita codi de subscripció
