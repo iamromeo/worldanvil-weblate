@@ -325,7 +325,7 @@ access.authors.management: Autorenverwaltung
 access.authors.revoke: Zugriff entziehen
 access.authors.coowner: Mit-Inhaber
 access.authors.editor: Editor
-access.authors.writer: Autor
+access.authors.writer: Co-Autor
 access.authors.slots: Genutzte Autoren-Plätze
 access.subscribers.slots: Genutzte Abonnenten-Plätze
 access.authors.add: Neuen Autor hinzufügen
