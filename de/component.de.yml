@@ -360,3 +360,4 @@ access.rights.codes: Zugriffscodes für Abonnenten
 access.authors.coowner.description: Zugriff auf alles, inklusive Weltkonfiguration,
   CSS und Zugriffsverwaltung
 access.subscribers.purge: Entferne vor dem Import alle Abonnenten von der Liste
+access.code.code: Code
