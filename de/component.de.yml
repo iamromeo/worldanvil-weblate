@@ -352,7 +352,7 @@ access.code.maxUses: Maximale Anzahl an Nutzungen
 access.code.expiryDate: Ablaufdatum
 access.code.edit: Abonnenten Codes bearbeiten
 create.code: Neuer Code
-create.new.era: Neue Ära
+create.new.era: Neue Ära erstellen
 deete.code: Code löschen
 access.rights.notice: Gruppen- und Abonnentenfunktion ist nur für Gildenmitglieder
   verfügbar!
