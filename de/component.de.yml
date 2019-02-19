@@ -332,7 +332,7 @@ access.authors.add: Neuen Autor hinzufügen
 access.authors.username: Benutzername
 access.authors.rank: Rang
 access.authors.groups: Gruppen
-access.subscribers.add: Abonnenten zu Gruppe(n) hinzufügen
+access.subscribers.add: Abonnenten zu Gruppe hinzufügen
 access.subscribers.management: Abonnentenverwaltung
 access.group.management: Abonnentengruppenverwaltung
 access.group.edit: Abonenntengruppe bearbeiten
@@ -340,3 +340,24 @@ access.group.assets: Gruppenressourcen
 access.group.description.description: (optional) Um dich daran zu erinnern wer und
   warum in dieser Gruppe ist.
 access.group.position.description: (optional) Um deine Gruppen im Bedarfsfall zu organisieren.
+view.world: Welt ansehen
+access.authors.editor.description: Erlaubnis zum Erstellen, Einsehen und Bearbeiten
+  aller Inhalte.
+access.authors.writer.description: Erlaubnis Artikel als Entwurf zu erstellen. Editoren
+  und höher können diese Artikel verwalten, organisieren und veröffentlichen.
+access.subscribers.emails: Abonnenten E-Mails
+access.code.management: Abonnenten Codes verwalten
+access.code.group: Abonnenten Gruppe
+access.code.maxUses: Maximale Anzahl an Nutzungen
+access.code.expiryDate: Ablaufdatum
+access.code.edit: Abonnenten Codes bearbeiten
+create.code: Neuer Code
+create.new.era: Neue Ära
+deete.code: Code löschen
+access.rights.notice: Gruppen- und Abonnentenfunktion ist nur für Gildenmitglieder
+  verfügbar!
+access.rights.codes: Zugriffscodes für Abonnenten
+access.authors.coowner.description: Zugriff auf alles, inklusive Weltkonfiguration,
+  CSS und Zugriffsverwaltung
+access.subscribers.purge: Entferne vor dem Import alle Abonnenten von der Liste
+access.code.code: Code
