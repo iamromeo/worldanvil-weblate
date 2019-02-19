@@ -62,3 +62,8 @@ studio.sheets: 'Creator''s Studio: Block Vorlagen'
 access.passcode: Passwort benötigt
 access.passcode.description: Diese Seite ist passwortgeschützt! Wenn du das Passwort
   kennst, gib es bitte ein, um die Seite zu sehen.
+access.activate.description: Gib deinen Abonnentencode ein, um Zugriff auf die Seite
+  zu erhalten. So einfach ist das!
+access.activate.subscription: Abonnement aktivieren
+access.activate.code: Aktivierungscode eingeben
+access.activate.login: Du musst eingeloggt sein, um dein Abonnement zu aktivieren!
