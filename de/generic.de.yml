@@ -40,7 +40,7 @@ category: Kategorie
 author: Autor
 update.date: Letztes Änderungsdatum
 visibility: Sichtbarkeit
-creation.date: Erstelldatum
+creation.date: Erstellungsdatum
 public: Öffentlich
 private: Privat
 open: Offen
@@ -58,7 +58,7 @@ author.notes: Anmerkungen des Autors
 username: Benutzername
 state: Zustand
 studio.pins: 'Creators Studio: Pins'
-studio.sheets: 'Creator''s Studio: Block Vorlagen'
+studio.sheets: 'Creator''s Studio: Charakterbögen'
 access.passcode: Passwort benötigt
 access.passcode.description: Diese Seite ist passwortgeschützt! Wenn du das Passwort
   kennst, gib es bitte ein, um die Seite zu sehen.
@@ -67,3 +67,4 @@ access.activate.description: Gib deinen Abonnentencode ein, um Zugriff auf die S
 access.activate.subscription: Abonnement aktivieren
 access.activate.code: Aktivierungscode eingeben
 access.activate.login: Du musst eingeloggt sein, um dein Abonnement zu aktivieren!
+access.activate: Abonnement Aktivierung
