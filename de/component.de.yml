@@ -253,8 +253,8 @@ map.marker.group.description: Marker Gruppen ermöglichen es, die Marker und Kar
   werden, um unterschiedliche Informationen darzustellen oder um Gruppen von Markern
   von den Lesern zu verbergen, wenn gewünscht.
 map.marker.group.onload: Gruppensichtbarkeit zu Beginn
-map.marker.group.onload.description: Diese Gruppe ist sichtbar direkt beim Laden der
-  Karte
+map.marker.group.onload.description: Diese Gruppe ist direkt beim Laden der Karte
+  sichtbar
 map.layers.max: 'Die maximale Anzahl an Layern für diesen Account wurde erreicht!
   Um weitere Layer nutzen zu können, werte deinen Account bitte auf!
 
@@ -335,7 +335,7 @@ access.authors.groups: Gruppen
 access.subscribers.add: Abonnenten zu Gruppe hinzufügen
 access.subscribers.management: Abonnentenverwaltung
 access.group.management: Abonnentengruppenverwaltung
-access.group.edit: Abonenntengruppe bearbeiten
+access.group.edit: Abonnenten-Gruppen bearbeiten
 access.group.assets: Gruppenressourcen
 access.group.description.description: (optional) Um dich daran zu erinnern wer und
   warum in dieser Gruppe ist.
@@ -358,6 +358,6 @@ access.rights.notice: Gruppen- und Abonnentenfunktion ist nur für Gildenmitglie
   verfügbar!
 access.rights.codes: Zugriffscodes für Abonnenten
 access.authors.coowner.description: Zugriff auf alles, inklusive Weltkonfiguration,
-  CSS und Zugriffsverwaltung
+  CSS und Zugriffsverwaltung.
 access.subscribers.purge: Entferne vor dem Import alle Abonnenten von der Liste
 access.code.code: Code
