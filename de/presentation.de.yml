@@ -15,11 +15,11 @@ toc: Inhaltsverzeichnis
 campaigns: Kampagnen
 secrets: Geheimnisse
 maps: Karten
-image.gallery: Bildergallerie
+image.gallery: Bildergalerie
 articles: Artikel
 recent.articles: Neueste Artikel
 tweets.by: Tweets von
-twitch.live: Schaue live auf Twitch
+twitch.live: Live auf Twitch ansehen
 support.patreon: Unterstütze das Projekt auf Patreon
 support.patreon.user: Unterstütze %username% auf Patreon
 support.kofi.user: Kaufe %username% einen Kaffee!
@@ -32,17 +32,17 @@ follow.action.add.description: Abonnieren, um in deinem Stream alle Artikel gesc
   von den Autoren in dieser Welt angezeigt zu bekommen!
 like.action.remove: MAG ICH NICHT MEHR
 like.action.add: ICH MAG DAS
-like.action.add.description: Lass den Autor wissen dass dir seine Arbeit gefällt.
+like.action.add.description: Lass den Autor wissen, dass dir seine Arbeit gefällt.
   Dieser Artikel wird NICHT zu deiner Leseliste hinzugefügt.
-reading.action.remove: ENTFERNE VON LESELISTE
-reading.action.add: FÜGE ZUR LESELISTE HINZU
+reading.action.remove: VON LESELISTE ENTFERNEN
+reading.action.add: ZUR LESELISTE HINZUFÜGEN
 reading.action.add.description: Füge diesen Artikel zu deiner gespeicherten Leseliste
   hinzu. Der Autor wird NICHT benachrichtigt.
 goto.homepage: Gehe zur Homepage von %name%
 article.love: Leute, denen dein Artikel gefallen hat
 article.love.return: Gib ihnen etwas Liebe zurück!
 article.likes.number: Dieser Post gefällt %number% Weltenbauern
-article.visibility: Dieser Artikel ist sichtbar für die folgenden Subscriber Gruppen
+article.visibility: Dieser Artikel ist sichtbar für die folgenden Abonnenten-Gruppen
 author.notes: Anmerkungen des Autors
 players.looking: Sucht nach Spielern
 players.full: Die Kampagne ist voll
@@ -50,15 +50,15 @@ authors: Autoren
 author.page: Autorenseite
 author.since: Mitglied seit
 author.interests: Interessen & Hobbies
-author.movies: Lieblingsfilme
+author.movies: Lieblings Filme
 author.tv: Lieblings Fernsehserien
-author.books: Lieblingsbücher
-author.writers: Lieblingsautoren
-author.games: Lieblingsspiele
+author.books: Lieblings Bücher
+author.writers: Lieblings Autoren
+author.games: Lieblings Spiele
 author.comments: Kommentare & Rückmeldungen
 author.worlds: Welten
 author.characters: Charaktere
-author.badges: Abzeichen & Medallien
+author.badges: Abzeichen & Medaillen
 history: Geschichte
 type: Typ
 condition.transmission: Übertragung & Vektoren
@@ -74,21 +74,21 @@ condition.epidimiology: Epidemiologie
 condition.reception: Kulturelle Wahrnehmung
 condition.origin: Ursprung
 condition.cycle: Zyklus
-condition.rarity: Häufigkeit
-condition.species: Betroffene Spezien
+condition.rarity: Seltenheit
+condition.species: Betroffene Spezies
 alternativenames: Alternative Namen
 landmark.purpose: Zweck / Funktion
 landmark.design: Design
 landmark.entries: Eingänge
-landmark.sensory: Sinneseindrücke und Aussehen
+landmark.sensory: Sinneseindrücke & Aussehen
 landmark.denizens: Bewohner
 landmark.contents: Möblierung & Gegenstände
-landmark.valuables: Schätze & Wertgegenstände
+landmark.valuables: Wertgegenstände
 landmark.hazards: Gefahren & Fallen
 landmark.properties: Besondere Eigenschaften
 landmark.effects: Umgebungseffekte
 landmark.alterations: Veränderungen
-landmark.architecture: Architekturstil
+landmark.architecture: Architektur
 landmark.ruined: RUINE
 landmark.parent: Übergeordneter Ort
 landmark.children: Beinhaltete Orte
@@ -103,25 +103,25 @@ material.properties: Eigenschaften
 material.characteristics: Äußerliche Merkmale
 material.geo: Geologie & Geografie
 material.orign: Ursprung
-material.halflife: Lebensdauer und Verfall
+material.halflife: Lebensdauer & Verfall
 material.discovery: Entdeckung
 material.useCommon: Alltägliche Nutzung
-material.useCultural: Kulturelle Bedeutung/Benutzung
+material.useCultural: Kulturelle Bedeutung & Benutzung
 material.useIndustrial: Industrielle Nutzung
 material.refinement: Verarbeitung und Veredelung
-material.manufacturing: Verarbeitung und Produkte
+material.manufacturing: Verarbeitung & Produkte
 material.products: Nebenprodukte
 material.hazards: Gefahren
 material.environment: Umwelteinfluss
-material.reusability: Wiederverwertbarkeit und Recycling
+material.reusability: Wiederverwendbarkeit & Recycling
 material.distribution: Verteilung
 material.market: Handel
 material.storage: Lagerung
-material.regulations: Gesetze und Regulierungen
+material.regulations: Gesetze & Regulierungen
 material.value: Wert
 material.rarity: Seltenheit
 editorial.team: Redaktion
-writers.team: Autorenteam
+writers.team: Co-Autorenteam
 campaign.system: Ein %system_name%-Spiel
 campaign.world: In der Welt von %world_name%
 campaign.storytellers: Eine Geschichte erzählt von
@@ -141,7 +141,7 @@ campaign.competitors: Rivalen
 campaign.neutral: Neutrale Parteien
 campaign.setting: Das Setting
 campaign.session.live: JETZT LIVE
-material.compounds: Komposit
+material.compounds: Verbindungen
 campaign.explore.world: Erkunde die Welt von %world_name%
 campaign.timelines: Zeitleisten
 campaign.maps: Karten
