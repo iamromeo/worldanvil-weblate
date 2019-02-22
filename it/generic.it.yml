@@ -31,4 +31,4 @@ todo.status.zero: Clicca sul titolo per Creare l'Articolo!
 todo.status.one: L'articolo è stato creato, non pubblicato e ancora in fase Work in
   Progress
 todo.status.two: L'articolo è stato pubblicato e ancora in fase Work in Progress
-todo.status.three: L'articolo è terminato!
+todo.status.three: L'articolo è stato completato!
