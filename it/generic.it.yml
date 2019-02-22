@@ -51,5 +51,6 @@ views: Visualizzazioni
 favorites: Preferiti
 comments: Commenti
 author.notes: Note dell'Autore
-access.description: Spiacenti, non hai accesso a questa pagina. Probabilmente ciò
-  è dovuto al fatto che l'articolo è privato e non hai i permessi per visualizzarlo.
+access.description: Siamo spiacenti, non hai accesso a questa pagina. Probabilmente
+  ciò è dovuto al fatto che l'articolo è privato e non hai i permessi necessari per
+  visualizzarlo.
