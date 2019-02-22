@@ -32,3 +32,7 @@ todo.status.one: L'articolo è stato creato, non pubblicato e ancora in fase Wor
   Progress
 todo.status.two: L'articolo è stato pubblicato e ancora in fase Work in Progress
 todo.status.three: L'articolo è stato completato!
+notes: Note
+moderation: Moderazione
+metadata: Metadati
+tags: Tags
