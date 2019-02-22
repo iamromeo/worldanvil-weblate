@@ -4,3 +4,5 @@ success.generic: L'Incudine ha martellato correttamente la tua richiesta.
 success.deletion: Il martello ha distrutto come da comando.
 failure.deletion: Ops! Qualcosa è andato storto! C'è qualche possibilità che ciò che
   hai cercato di eliminare sia ancora in uso da qualche parte?
+bbcode.embed: Copia e incolla il codice BB sottostante in una parte qualsiasi del
+  tuo articolo abilitato al codice BB per inserirci questo oggetto!
