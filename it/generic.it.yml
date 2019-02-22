@@ -57,5 +57,5 @@ access.description: Siamo spiacenti, non hai accesso a questa pagina. Probabilme
 access.return: Torna indietro da dove sei venuto!
 access.homepage: Vai alla Homepage
 access.passcode: Richiesta Password
-access.passcode.description: Questa pagina è protetta da password! Se conosci la password
-  inseriscila qui sotto per accedere al contenuto.
+access.passcode.description: Questa pagina è protetta da una password! Se possiedi
+  la password inseriscila qui sotto per accedere al contenuto.
