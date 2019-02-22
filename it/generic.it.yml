@@ -41,4 +41,6 @@ world: Mondo
 category: Categoria
 author: Autore
 creation.date: Data di Creazione
-update.date: Data ultima modifica
+update.date: Data Ultima Modifica
+open: Apri
+wip: Work in Progress
