@@ -55,3 +55,5 @@ access.description: Siamo spiacenti, non hai accesso a questa pagina. Probabilme
   ciò è dovuto al fatto che l'articolo è privato e non hai i permessi necessari per
   visualizzarlo.
 access.return: Torna indietro da dove sei venuto!
+access.homepage: Vai alla Homepage
+access.passcode: Richiesta password
