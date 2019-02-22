@@ -24,3 +24,5 @@ studio.description.text: Il Laboratorio è la casa di tutte le personalizzazioni
 guild.required: Questa funzione richiede l'iscrizione alla Gilda!
 guild.required.master: Questa funzione richiede l'iscrizione alla Gilda con il rango
   di Maestro o superiore.
+guild.required.grandmaster: Questa funzionalità richiede l'iscrizione alla Gilda con
+  il rango di Granmaestro o superiore.
