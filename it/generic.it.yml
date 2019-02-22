@@ -22,3 +22,5 @@ studio.description.text: Il Laboratorio è la casa di tutte le personalizzazioni
   su World Anvil. I Granmaestri, e superiori, potranno creare e condividere Schede
   personaggio, Widgets, Marcatori di Mappe Personalizzati e molto altro quando cresceremo.
 guild.required: Questa funzione richiede l'iscrizione alla Gilda!
+guild.required.master: Questa funzionalità richiede l'iscrizione alla Gilda con il
+  rango di Maestro o superiore.
