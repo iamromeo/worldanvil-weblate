@@ -2,3 +2,5 @@ Public: Pubblico
 Private: Privato
 success.generic: L'Incudine ha martellato correttamente la tua richiesta.
 success.deletion: Il martello ha distrutto come da comando.
+failure.deletion: Ops! Qualcosa è andato storto! C'è qualche possibilità che ciò che
+  hai cercato di eliminare sia usato ancora da qualche parte?
