@@ -13,3 +13,8 @@ delete.map: Elimina Mappa
 character: Personaggio
 item: Oggetto
 spell: Incantesimo
+category: Categoria
+world: Mondo
+notes: Note
+tags: Tag
+status: Status
