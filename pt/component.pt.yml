@@ -359,3 +359,6 @@ access.subscriber.add: Adicionar Seguidor ao(s) Grupo(s)
 access.code.management: Gerenciar Códigos dos Seguidores
 access.code.code: Código
 access.code.group: Grupo de Seguidores
+access.code.maxUses: Numero Máximo de Usos
+access.code.expiryDate: Data de expiração
+access.code.edit: Editar Código dos Seguidores
