@@ -349,3 +349,7 @@ access.rights.notice: Funcionalidade de Grupos & Seguidores só está disponíve
 access.rights.codes: Códigos de Acesso dos Seguidores
 access.authors.coowner.description: Acesso para tudo incluindo configuração do Mundo,
   CSS e Gerenciamento de Permissões.
+access.authors.editor.description: Permissão para criar, visualizar e editar todo
+  e qualquer conteúdo.
+access.authors.writer.description: Permissão para criar artigos como Rascunho. Editores
+  e acima podem administrar, organizar e publicar os artigos.
