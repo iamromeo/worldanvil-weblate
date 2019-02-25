@@ -316,8 +316,8 @@ delete.group: Apagar Grupo
 groups: Grupos
 access.rights.authors: Autores
 access.rights.groups: Grupos
-access.authors.management: Administrar Autores
-access.authors.revoke: Revogar/Cancelar Acesso
+access.authors.management: Gerenciar Autores
+access.authors.revoke: Revogar Acesso
 access.authors.coowner: Co-Proprietário
 access.authors.editor: Editor(a)
 access.authors.writer: Escritor(a)
@@ -325,7 +325,7 @@ access.authors.slots: Espaços para Autor Usados
 access.authors.add: Adicionar novo Autor
 access.authors.username: Nome de Usuário
 access.authors.groups: Grupos
-access.group.management: Administrar Grupos de Membros
+access.group.management: Gerenciar Grupos de Membros
 access.group.assets: Recursos do Grupo
 access.group.description.description: (opcional) Para te lembrar quem e porquê estão
   neste grupo.
@@ -337,6 +337,6 @@ access.rights.subscribers: Membros
 access.subscribers.slots: Espaços para Membros Usados
 access.authors.rank: Patente
 access.subscribers.add: Adicionar Membro ao Grupo
-access.rights.management: Administrar Direitos de Acesso
-access.subscribers.management: Administrar Membros
+access.rights.management: Gerenciar Direitos de Acesso
+access.subscribers.management: Gerenciar Membros
 access.group.edit: Editar Grupo de Membros
