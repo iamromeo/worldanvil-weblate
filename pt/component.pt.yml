@@ -356,4 +356,4 @@ access.authors.writer.description: Permissão para criar artigos definidos como 
 access.subscribers.purge: Remove todos os Seguidores atuais da lista antes de importar
 access.subscribers.emails: Emails dos Seguidores
 access.subscriber.add: Adicionar Seguidor ao(s) Grupo(s)
-access.code.management: Administrar Códigos dos Seguidores
+access.code.management: Gerenciar Códigos dos Seguidores
