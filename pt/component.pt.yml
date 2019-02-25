@@ -347,5 +347,5 @@ deete.code: Apagar Código
 access.rights.notice: Funcionalidade de Grupos & Seguidores só está disponível para
   membros da Guilda!
 access.rights.codes: Códigos de Acesso dos Seguidores
-access.authors.coowner.description: Permissão para tudo incluindo configuração do
-  Mundo, CSS e Administração de Permissões.
+access.authors.coowner.description: Acesso para tudo incluindo configuração do Mundo,
+  CSS e Gerenciamento de Permissões.
