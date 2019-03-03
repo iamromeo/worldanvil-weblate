@@ -114,7 +114,7 @@ status.description: Coloque esse item como público para que todos possam vê-lo
 access: Acesso
 access.description: Coloque esse item como público para que todos possam vê-lo. Itens
   privados são visíveis apenas para você e co-autores do seu mundo
-subscriber.groups: Grupos de Membros
+subscriber.groups: Grupos de Inscritos
 subscriber.groups.description: Selecione um ou mais grupos que você deseja que tenham
   acesso a esse artigo. Isso afeta apenas artigos privados.
 display: Exibição
@@ -137,11 +137,11 @@ map.marker.drag: Me arraste para determinar as coordenadas do novo Marcador
 map.marker.fill: Legal! Agora preencha o formulário abaixo!
 guild.access: Todos os itens em contas gratuitas são públicos. Junte-se à <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Guilda dos Worldbuilders</a> para
-  dar permissões apenas a grupos de membros específicos acessarem o conteúdo que quiser
-  e ajude no desenvolvimento do World Anvil.
-guild.subscriber.groups: '"Grupos de Membros" permitem à <a class="m-t-10 text-pink"
+  dar permissões apenas a grupos de inscritos específicos acessarem o conteúdo que
+  quiser e ajude no desenvolvimento do World Anvil.
+guild.subscriber.groups: '"Grupos de Inscritos" permitem à <a class="m-t-10 text-pink"
   href="{{ path(''app_membership'')}}">Guilda dos Worldbuilders</a> dar acesso de
-  leitura a artigos privados para membros de um grupo.'
+  leitura a artigos privados para membros de cada grupo.'
 guild.access.status: Todos os itens em contas gratuitas são abertos ao público. Junte-se
   à <a class="m-t-10 text-pink" href="{{ path('app_membership')}}">Guilda dos Worldbuilders</a>
   para colocar o que quiser como privado e ajude no desenvolvimento do World Anvil.
@@ -325,40 +325,40 @@ access.authors.slots: Espaços para Autor Usados
 access.authors.add: Adicionar novo Autor
 access.authors.username: Nome de Usuário
 access.authors.groups: Grupos
-access.group.management: Gerenciar Grupos de Membros
+access.group.management: Gerenciar Grupos de Inscritos
 access.group.assets: Recursos do Grupo
 access.group.description.description: (opcional) Para te lembrar quem e porquê estão
   neste grupo.
 access.group.position.description: (opcional) Só para você organizar os seus grupos
   caso precise.
-subscriber: Membro
-list.subscribers: Membros
-access.rights.subscribers: Membros
-access.subscribers.slots: Espaços para Membros Usados
+subscriber: Inscrito(a)
+list.subscribers: Inscritos
+access.rights.subscribers: Inscritos
+access.subscribers.slots: Espaços para Inscritos Usados
 access.authors.rank: Patente
-access.subscribers.add: Adicionar Membro ao Grupo
+access.subscribers.add: Adicionar Inscritos ao Grupo
 access.rights.management: Gerenciar Direitos de Acesso
-access.subscribers.management: Gerenciar Membros
-access.group.edit: Editar Grupo de Membros
+access.subscribers.management: Gerenciar Inscritos
+access.group.edit: Editar Grupo de Inscritos
 create.code: Criar código
 create.new.era: Criar uma nova Era
 view.world: Ver Mundo
 deete.code: Apagar Código
-access.rights.notice: Funcionalidade de Grupos & Seguidores só está disponível para
+access.rights.notice: A funcionalidade de Grupos e Inscritos só está disponível para
   membros da Guilda!
-access.rights.codes: Códigos de Acesso dos Seguidores
+access.rights.codes: Códigos de Acesso para Inscritos
 access.authors.coowner.description: Acesso para tudo incluindo configuração do Mundo,
   CSS e Gerenciamento de Permissões.
 access.authors.editor.description: Permissão para criar, visualizar e editar todo
   e qualquer conteúdo.
 access.authors.writer.description: Permissão para criar artigos definidos como Rascunho.
   Editores e acima podem gerenciar, organizar e publicar os artigos.
-access.subscribers.purge: Remove todos os Seguidores atuais da lista antes de importar
-access.subscribers.emails: Emails dos Seguidores
-access.subscriber.add: Adicionar Seguidor ao(s) Grupo(s)
-access.code.management: Gerenciar Códigos dos Seguidores
+access.subscribers.purge: Remova todos os Inscritos atuais da lista antes de importar
+access.subscribers.emails: Emails dos Inscritos
+access.subscriber.add: Adicionar Inscrito(a) ao(s) Grupo(s)
+access.code.management: Gerenciar Códigos para Inscritos
 access.code.code: Código
-access.code.group: Grupo de Seguidores
+access.code.group: Grupo de Inscritos
 access.code.maxUses: Numero Máximo de Usos
 access.code.expiryDate: Data de expiração
-access.code.edit: Editar Código dos Seguidores
+access.code.edit: Editar Código para Inscritos
