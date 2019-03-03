@@ -61,9 +61,9 @@ access.passcode.description: Esta página é protegida por senha! Se você tem a
   favor insira-a abaixo para acessar o conteúdo.
 username: Nome de Usuário
 state: Estado
-access.activate: Ativar Assinatura de Mundos
+access.activate: Ativar Inscrição
 access.activate.code: Digite o Código de Ativação
-access.activate.description: Escreva abaixo o código da Assinatura de Mundos para
-  ter acesso ao conteúdo. É simples assim!
-access.activate.subscription: Ativar Assinatura de Mundos
-access.activate.login: Você deve estar logado para ativar a Assinatura de Mundos!
+access.activate.description: Escreva abaixo o código de Inscrição para ter acesso
+  ao conteúdo. É simples assim!
+access.activate.subscription: Ativar Inscrição
+access.activate.login: Você deve estar logado para ativar sua inscrição!
