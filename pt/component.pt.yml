@@ -58,7 +58,7 @@ timelines: Linhas do Tempo
 notes: Anotações
 secrets: Segredos
 worlds: Mundos
-subscribers: Membros
+subscribers: Inscritos
 followers: Seguidores
 BETA: BETA
 list.articles: Lista de Artigos
@@ -109,8 +109,8 @@ position.description: '"Peso" é um número que define em que ordem um item irá
   na lista de itens. Quanto maior esse número, mais acima esse item ficará.'
 status: Status
 status.description: Coloque esse item como público para que todos possam vê-lo. Itens
-  privados são visíveis apenas para você, seus co-autores e membros do seu mundo com
-  permissões apropriadas
+  privados são visíveis apenas para você, seus co-autores e inscritos do seu mundo
+  com permissões apropriadas
 access: Acesso
 access.description: Coloque esse item como público para que todos possam vê-lo. Itens
   privados são visíveis apenas para você e co-autores do seu mundo
