@@ -17,4 +17,6 @@ maps: Mappe
 image.gallery: Galleria Immagini
 articles: Articoli
 recent.articles: Articoli Recenti
-featured.articles: Articoli in evidenza
+featured.articles: Articoli in Evidenza
+uncategorized.articles: Articoli senza Categoria
+support.kofi.user: Compra un caffè a %username%!
