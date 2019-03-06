@@ -86,3 +86,8 @@ campaign.timelines: Timeline
 campaign.explore.world: Esplora il mondo di % world_name%
 campaign.maps: Mappe
 campaign.vtt: Tavolo Virtuale
+campaign.journal.world: Mondo
+campaign.journal.campaign: Campagna
+campaign.journal.player: Giocatore
+campaign.journal.character: Personaggio
+campaign.journal.session.report: Resoconto della sessione
