@@ -32,4 +32,5 @@ follow.action.unfollow.world: Smetti di seguire Mondo
 follow.action.add: SEGUI
 follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
   dagli autori di questo mondo!
-like.action.remove: RIMUOVI MI PIACE
+like.action.remove: RIMUOVI LIKE
+like.action.add: LIKE
