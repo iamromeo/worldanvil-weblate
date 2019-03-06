@@ -38,5 +38,5 @@ like.action.add.description: Fai sapere all'autore che ti piace il suo lavoro. Q
   articolo NON sarà aggiunto alla tua lista "leggi in seguito"
 reading.action.remove: RIMUOVI DALLA LISTA DI LETTURA
 reading.action.add: AGGIUNGI ALLA LISTA DI LETTURA
-reading.action.add.description: Aggiungi questo articolo alla tua lista degli articoli
-  "Leggi in seguito"/salvati. L'autore NON riceverà una notifica.
+reading.action.add.description: Aggiungi questo articolo alla tua lista "leggi in
+  seguito"/ "articoli salvati". L'autore NON riceverà una notifica.
