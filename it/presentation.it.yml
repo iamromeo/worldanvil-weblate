@@ -122,7 +122,7 @@ landmark.organization: Organizzazione Proprietaria
 landmark.charactersinlocation: Personaggi in Loco
 landmark.connectedrooms: Stanze Collegate
 landmark.professions: Professioni Connesse
-landmark.materials: Materiali Connessi
+landmark.materials: Materiali Correlati
 landmark.contenders: Contestato da
 material.properties: Proprietà
 material.characteristics: Caratteristiche Fisiche
@@ -152,4 +152,17 @@ material.color: Colore
 material.boiling: Punto di Ebollizione / Condensazione
 material.melting: Punto di Fusione / Congelamento
 material.density: Densità
-material.commonState: Stato naturale
+material.commonState: Stato Naturale
+world.anvil.header: La Piattaforma Strumenti per la Creazione di Mondi e la Community
+  di World Anvil
+powered.by: Alimentato da
+condition.affectedgroups: Gruppi Colpiti
+condition.reception: Prospettiva Culturale
+landmark.parent: Località
+landmark.reportprimarylocations: Rapporto Connesso (Luoghi Primari)
+landmark.reportsecondarylocations: Rapporti Correlati (Luoghi Secondari)
+material.locations: Luoghi Correlati
+material.species: Specie Connesse
+material.items: Oggetti Correlati
+material.technologies: Tecnologie Connesse
+material.professions: Professioni Connesse
