@@ -29,3 +29,6 @@ following: Stai seguendo %name%
 follow: Segui %name%
 follow.action.remove: SMETTI DI SEGUIRE
 follow.action.unfollow.world: Smetti di seguire Mondo
+follow.action.add: SEGUI
+follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
+  dagli autori di questo mondo!
