@@ -93,3 +93,14 @@ campaign.journal.character: Personaggio
 campaign.journal.session.report: Rapporto Sessione
 condition.transmission: Trasmissioni e Vettori
 condition.sequela: Postumi
+condition.causes: Cause
+condition.symptoms: Sintomi
+condition.treatment: Trattamento
+condition.prognosis: Prognosi
+condition.hosts: Ospiti e Portatori
+condition.prevention: Prevenzione
+condition.epidimiology: Epidemiologia
+condition.origin: Origine
+condition.cycle: Ciclo
+condition.rarity: Rarità
+condition.species: Specie colpite
