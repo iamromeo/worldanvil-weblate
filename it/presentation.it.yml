@@ -43,3 +43,4 @@ reading.action.add.description: Aggiungi questo articolo alla tua lista "leggi i
 goto.homepage: Vai alla Homepage di %name%
 article.love: Persone a cui è piaciuto il tuo articolo
 article.love.return: Resituisci un po' di amore!
+article.likes.number: Questo post piace a %number% creatori di mondi
