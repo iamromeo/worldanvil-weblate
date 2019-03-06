@@ -42,3 +42,4 @@ reading.action.add.description: Aggiungi questo articolo alla tua lista "leggi i
   seguito"/ "articoli salvati". L'autore NON riceverà una notifica.
 goto.homepage: Vai alla Homepage di %name%
 article.love: Persone a cui è piaciuto il tuo articolo
+article.love.return: Restituisci un po' di amore!
