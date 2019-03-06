@@ -36,4 +36,5 @@ like.action.remove: RIMUOVI LIKE
 like.action.add: LIKE
 like.action.add.description: Fai sapere all'autore che ti piace il suo lavoro. Questo
   articolo NON sarà aggiunto alla tua lista "leggi in seguito"
-reading.action.remove: RIMUOVI DALLA LISTA "DA LEGGERE"
+reading.action.remove: RIMUOVI DALLA LISTA DI LETTURA
+reading.action.add: AGGIUNGI ALLA LISTA DI LETTURA
