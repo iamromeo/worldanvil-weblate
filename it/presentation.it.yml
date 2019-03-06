@@ -128,4 +128,6 @@ material.properties: Proprietà
 material.characteristics: Caratteristiche Fisiche
 material.compounds: Composti
 material.geo: Geologia e Geografia
-material.origin: Origine & Fonte
+material.origin: Origine e Fonte
+material.halflife: Vita e Scadenza
+material.useCommon: Uso quotidiano
