@@ -151,3 +151,5 @@ material.taste: Sapore
 material.color: Colore
 material.boiling: Punto di Ebollizione / Condensazione
 material.melting: Punto di Fusione / Congelamento
+material.density: Densità
+material.commonState: Stato naturale
