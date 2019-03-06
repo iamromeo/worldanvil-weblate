@@ -40,4 +40,4 @@ reading.action.remove: RIMUOVI DALLA LISTA DI LETTURA
 reading.action.add: AGGIUNGI ALLA LISTA DI LETTURA
 reading.action.add.description: Aggiungi questo articolo alla tua lista "leggi in
   seguito"/ "articoli salvati". L'autore NON riceverà una notifica.
-goto.homepage: Vai alla homepage di %nane%
+goto.homepage: Vai alla Homepage di %name%
