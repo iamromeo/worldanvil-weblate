@@ -83,3 +83,6 @@ campaign.allies: Alleati
 campaign.competitors: Concorrenti
 campaign.setting: L'ambientazione
 campaign.timelines: Timeline
+campaign.explore.world: Esplora il mondo di % world_name%
+campaign.maps: Mappe
+campaign.vtt: Tavolo virtuale
