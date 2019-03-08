@@ -324,3 +324,8 @@ access.authors.revoke: Отменить доступ
 access.authors.coowner: Совладелец
 access.authors.coowner.description: Доступ ко всему включая конфигурацию Мира, CSS
   и управление правами доступа
+access.authors.editor: Редактор
+access.authors.editor.description: Доступ к созданию, просмотру и изменению любого
+  и всего контента.
+access.authors.writer: Писатель
+access.authors.slots: Использовано Ячеек Авторов
