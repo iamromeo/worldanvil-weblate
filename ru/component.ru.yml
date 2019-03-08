@@ -293,3 +293,7 @@ create.code: Создать пароль
 character: Персонаж
 item: Предмет
 spell: Заклинание
+create.block.template: Создать Шаблон Блока
+create.new.block.template: Создать новый Шаблон Блока
+edit.block.template: Редактировать Шаблон Блока
+delete.block.template: Удалить Шаблон Блока
