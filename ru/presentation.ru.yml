@@ -1,5 +1,4 @@
-world.anvil.header: World Anvil  Сообщество и платформа с инструментарием создания
-  миров
+world.anvil.header: World Anvil - Мастерская создания миров и Сообщество
 in: в
 follow.action.remove: ОТПИСКА
 follow.action.add: ПОДПИСКА
@@ -72,9 +71,13 @@ reading.action.add: ДОБАВИТЬ В СПИСОК ЧТЕНИЯ
 article.visibility: Эта статья видна таким группам подписчиков
 condition.sequela: Осложнения
 condition.cycle: Цикл
-followers.all: Открыть список наблюдающих
+followers.all: Открыть список Наблюдающих
 following: Наблюдает за %name%
 follow: Наблюдать за %name%
 type: Тип
 condition.transmission: Распространение и Носители
 condition.reception: Культурное Восприятие
+campaign.system: Игра %system_name%
+campaign.world: В мире %world_name%
+campaign.storytellers: Историю рассказывает
+campaign.watchlive: Смотреть прохождение кампании онлайн на Twich
