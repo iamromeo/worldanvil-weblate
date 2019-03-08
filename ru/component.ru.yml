@@ -330,3 +330,4 @@ access.authors.editor.description: Доступ к созданию, просм�
 access.authors.writer: Писатель
 access.authors.slots: Занято мест Авторов
 access.subscribers.slots: Занято мест Подписчиков
+access.subscribers.emails: почтовые адреса Подписчиков
