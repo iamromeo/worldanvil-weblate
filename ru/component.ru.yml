@@ -297,3 +297,10 @@ create.block.template: Создать Шаблон Блока
 create.new.block.template: Создать новый Шаблон Блока
 edit.block.template: Редактировать Шаблон Блока
 delete.block.template: Удалить Шаблон Блока
+create.article: Создать статью
+create.group: Создать группу
+create.new.era: Создать новую Эру
+edit.article: Редактировать статью
+edit.group: Редактировать группу
+view.world: Показать Мир
+delete.group: Удалить Группу
