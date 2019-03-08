@@ -90,7 +90,7 @@ edit.pin: Редактировать Значок на Карте
 delete.player.character: Удалить Игрового Персонажа
 circle: Круг
 line: Линия
-player.character: Персонаж игрока
+player.character: Игровой Персонаж
 timeline: Хронология
 label: Метка
 marker.group: Группа Маркеров
@@ -98,13 +98,13 @@ polygon: Полигон
 popup: Всплывающее окно
 tag: Тег
 articles: Статьи
-player.characters: Персонажи игроков
+player.characters: Игровые Персонажи
 marker.groups: Группы Маркеров
 timelines: Хронологии
 tags: Теги
 list.articles: Список статей
 list.blocks: Список блоков
-list.player.characters: Список персонажей игроков
+list.player.characters: Список Игровых Персонажей
 list.markers: Список маркеров
 related.article: Статьи по теме
 create.marker.group: Создать Группу Маркеров
@@ -303,4 +303,5 @@ create.new.era: Создать новую Эру
 edit.article: Редактировать статью
 edit.group: Редактировать группу
 view.world: Показать Мир
-delete.group: Удалить Группу
+delete.group: Удалить группу
+deete.code: Удалить пароль
