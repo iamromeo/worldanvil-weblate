@@ -273,7 +273,7 @@ guild.access: Все элементы на бесплатных аккаунта
   Guild</a>, вы сможете давать разрешения конкретным Группам Подписчиков на доступ
   к нужному вам контенту, а также поможете развитию World Anvil.
 guild.subscriber.groups: Группы Подписчиков позволяют <a class="m-t-10 text-pink"
-  href="/worldbuilders-guild-membership">Worldbuilders Guild</a> давать право чтения
+  href="/worldbuilders-guild-membership">Worldbuilders Guild</a> давать доступ к чтению
   приватных статей членам этих групп.
 guild.access.status: Все элементы на бесплатных аккаунтах являются публичными. Присоединившись
   к <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
@@ -320,4 +320,4 @@ access.rights.subscribers: Подписчики
 access.rights.groups: Группы
 access.rights.authors: Авторы
 access.authors.management: Управление авторскими правами
-access.authors.revoke: Отменить Доступ
+access.authors.revoke: Отменить доступ
