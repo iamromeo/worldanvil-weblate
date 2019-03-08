@@ -79,12 +79,12 @@ historical.entries: Исторические События
 secrets: Секреты
 list.secrets: Список Тайн
 create.marker: Создать Маркер
-create.pin: Создать Значок на Карте
+create.pin: Создать пометку на карте
 create.new.block: Созадать новый Блок
 create.new.timeline: Создать новую Хронологию
 create.new.marker: Создать новый Маркер
 create.new.marker.group: Создать новую Группу Маркеров
-create.new.pin: Создать новый Значок на Карте
+create.new.pin: Создать новую пометку на карте
 edit.block: Изменить блок
 edit.pin: Редактировать Значок на Карте
 delete.player.character: Удалить Игрового Персонажа
