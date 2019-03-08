@@ -71,7 +71,7 @@ reading.action.add: ДОБАВИТЬ В СПИСОК ЧТЕНИЯ
 article.visibility: Эта статья видна таким группам подписчиков
 condition.sequela: Осложнения
 condition.cycle: Цикл
-followers.all: Открыть список наблюдающих
+followers.all: Открыть список Наблюдающих
 following: Наблюдает за %name%
 follow: Наблюдать за %name%
 type: Тип
