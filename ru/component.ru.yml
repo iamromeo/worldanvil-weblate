@@ -321,3 +321,6 @@ access.rights.groups: Группы
 access.rights.authors: Авторы
 access.authors.management: Управление авторскими правами
 access.authors.revoke: Отменить доступ
+access.authors.coowner: Совладелец
+access.authors.coowner.description: Доступ ко всему включая конфигурацию Мира, CSS
+  и Управление Доступом
