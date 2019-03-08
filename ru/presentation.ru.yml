@@ -95,3 +95,42 @@ campaign.explore.world: Изучить мир %world_name%
 campaign.support.patreon: Поддержать Кампанию на Patreon
 campaign.setting: Сеттинг
 campaign.journal.session.report: Отчет по сессии
+campaign.timelines: Хронологии
+campaign.maps: Карты
+campaign.journal.world: Мир
+campaign.journal.campaign: Кампания
+campaign.journal.player: Игрок
+campaign.journal.character: Персонаж
+landmark.purpose: Назначение / Функция
+landmark.valuables: Ценности
+landmark.hazards: Опасности и ловушки
+landmark.properties: Особые свойства
+landmark.architecture: Архитектура
+landmark.owner: Владелец
+landmark.charactersinlocation: Персонажи в локации
+material.properties: Свойства
+material.characteristics: Физические характеристики
+material.compounds: Составные элементы
+material.geo: Геология и география
+material.origin: Происхождение и источник
+material.discovery: Открытие
+material.useCommon: Бытовое использование
+material.useCultural: Культурное значение и использование
+material.useIndustrial: Промышленное применение
+material.refinement: Очистка
+material.products: Побочные продукты
+material.hazards: Опасности
+material.environment: Влияние на окружающую среду
+material.reusability: Повторное использование и переработка
+material.distribution: Распостранение
+material.market: Рынок
+material.storage: Хранение
+material.value: Ценность
+material.rarity: Редкость
+material.odor: Запах
+material.taste: Вкус
+material.color: Цвет
+material.boiling: Температура кипения / испарения
+material.melting: Температура плавления / затвердевания
+material.density: Плотность
+material.commonState: Обычное состояние
