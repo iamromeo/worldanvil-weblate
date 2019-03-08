@@ -331,3 +331,7 @@ access.authors.writer: Писатель
 access.authors.slots: Занято мест Авторов
 access.subscribers.slots: Занято мест Подписчиков
 access.subscribers.emails: Почтовые адреса Подписчиков
+access.authors.add: Добавить Автора
+access.authors.rank: Ранг
+access.authors.groups: Группы
+access.subscriber.add: Добавить Подписчика в Группу(ы)
