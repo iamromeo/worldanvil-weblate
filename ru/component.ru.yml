@@ -316,3 +316,7 @@ npc: НПС
 class: Класс
 race: Раса
 access.rights.management: Управление доступом
+access.rights.subscribers: Подписчики
+access.rights.groups: Группы
+access.rights.authors: Авторы
+access.authors.management: Управление Авторами
