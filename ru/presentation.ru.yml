@@ -91,6 +91,7 @@ campaign.adversaries: Противники
 campaign.allies: Союзники
 campaign.competitors: Соперники
 campaign.neutral: Нейтральные команды
-campaign.explore.world: Исследуй мир %world_name%
+campaign.explore.world: Изучить мир %world_name%
 campaign.support.patreon: Поддержать Кампанию на Patreon
 campaign.setting: Сеттинг
+campaign.journal.session.report: Отчет по сессии
