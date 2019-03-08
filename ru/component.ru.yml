@@ -337,3 +337,5 @@ access.authors.groups: Группы
 access.subscriber.add: Добавить Подписчика в группу(ы)
 access.subscribers.add: Добавить Подписчиков в группу
 access.code.code: Пароль
+access.subscribers.management: Управление Подписчиками
+access.code.group: Группа Подписчиков
