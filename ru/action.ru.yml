@@ -22,3 +22,6 @@ register: Создать себе учетную запись
 view.map: Просмотреть карту
 view.profile: Просмотреть Профиль
 check.out: Посмотреть
+save: Сохранить
+dismiss: Отклонить
+copy.to.clipboard: Скопировать в буфер обмена
