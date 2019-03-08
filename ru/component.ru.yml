@@ -87,7 +87,7 @@ create.new.marker.group: Создать новую Группу Маркеров
 create.new.pin: Создать новый Значок на Карте
 edit.block: Изменить блок
 edit.pin: Редактировать Значок на Карте
-delete.player.character: Удалить Персонажа Игрока
+delete.player.character: Удалить Игрового Персонажа
 circle: Круг
 line: Линия
 player.character: Персонаж игрока
@@ -289,3 +289,7 @@ guild.access.map: Все Карты на бесплатных аккаунтах
   Мира. Присоединившись к <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
   Guild</a>, вы сможете сделать ваши Карты, Статьи и Миры приватными, а также поможете
   развитию World Anvil.
+create.code: Создать пароль
+character: Персонаж
+item: Предмет
+spell: Заклинание
