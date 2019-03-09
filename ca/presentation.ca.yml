@@ -167,3 +167,109 @@ campaign.journal.campaign: Campanya
 campaign.journal.player: Jugador
 campaign.journal.character: Personatge
 follow.action.unfollow.world: Deixa de seguir el món
+campaign.generic: Altres PNJs
+document.purpose: Propòsit
+document.structure: Estructura del document
+document.clauses: Clàusules
+document.caveats: Advertències
+document.references: Referències
+document.publication.status: Estat de la publicació
+document.legal.status: Estat legal
+document.historical.details: Detalls històrics
+document.background: Antecedents
+document.history: Història
+document.public.reaction: Reacció pública
+document.legacy: Llegat
+document.term: Termini
+document.modal.read.document: Llegiu el document
+document.modal.close: Tanca
+document.article.medium: Mitjà
+document.article.authoringdate: Data d'autoria
+document.article.ratificationdate: Data de ratificació
+document.article.expirationdate: Data d'expiració
+document.article.myth: Mite
+document.article.location: Ubicació
+document.article.authors: Autors
+document.article.signatoriescharacters: Signataris (Personatges)
+document.article.signatoriesorganizations: Signataris (Organitzacions)
+ethnicity.naming.traditions: Tradicions de noms
+ethnicity.feminine.names: Noms femenins
+ethnicity.masculine.names: Noms masculins
+ethnicity.unisex.names: Noms unisex
+ethnicity.family.names: Noms familiars
+ethnicity.other.names: Altres noms
+ethnicity.culture: Cultura
+ethnicity.major.lang.groups.dialects: Famílies lingüístiques i dialectes majoritaris
+ethnicity.culture.cultural.heritage: Cultura i herència cultural
+ethnicity.shared.customary.codes.values: Valors i costums compartits
+ethnicity.Average.technological.level: Nivell tecnològic mitjà
+ethnicity.common.etiquette.rules: Normes d'etiqueta típiques
+ethnicity.common.dress.code: Codi de vestimenta típic
+ethnicity.art.architecture: Art i arquitectura
+ethnicity.common.customs.traditions.rituals: Rituals, tradicions i costums típics
+ethnicity.birth.baptismal.rites: Ritus de naixement i bateig
+ethnicity.comingofage.rites: Ritus de la majoria d'edat
+ethnicity.funerary.memorial.Customs: Costums funeraris i memorials
+ethnicity.common.taboos: Tabús típics
+ethnicity.common.myths.legends: Llegendes i mites típics
+ethnicity.historical.figures: Figures històriques
+ethnicity.ideals: Ideals
+ethnicity.beauty.ideals: Ideals de bellesa
+ethnicity.gender.ideals: Ideals de gènere
+ethnicity.courtship.ideals: Ideals de festeig
+ethnicity.relationship.ideals: Ideals de les relacions
+ethnicity.major.organizations: Organitzacions importants
+formation.manpower: Força
+formation.equipment: Equipament
+formation.weaponry: Armament
+formation.vehicles: Vehicles
+formation.structure: Estructura
+formation.tactics: Estratègia
+formation.training: Entrenament
+formation.logistics: Logística
+formation.logistical.support: Suport logístic
+formation.auxilia: Auxiliars
+formation.upkeep: Manteniment
+formation.recruitment: Reclutament
+formation.history: Història
+formation.historical.loyalties: Lleialtats històriques
+formation.sidebar.type: Tipus
+formation.sidebar.founding: Fundació
+formation.sidebar.dissolution: Dissolució
+formation.sidebar.overall.training.level: Nivell d'entrenament general
+formation.sidebar.assumed.veterancy: Experiència mitjana
+formation.sidebar.parent.formation: Forma part de...
+formation.sidebar.usedby: Utilitzada per
+formation.sidebar.ranks.titles: Títols i rangs
+item.inner.workings: ' Mecàniques i funcionament intern'
+item.manufacturing.process: Procés de manufacturació
+item.significance: Importància
+item.rpg.datasheet: Full de dades de rol
+item.sidebar.itemtype: Tipus d'objecte
+item.sidebar.subtype.model: Model
+item.sidebar.usedby: Utilitzat per
+item.sidebar.manufacturer: Manufacturador
+item.sidebar.related.technologies: Tecnologia relacionada
+item.sidebar.related.ethnicities: Ètnies relacionades
+item.sidebar.owning.organization: Organització propietària
+item.sidebar.related.condition: Condició relacionada
+item.sidebar.rarity: Raresa
+item.sidebar.weight: Pes
+item.sidebar.dimensions: Dimensions
+item.sidebar.base.price: Preu base
+item.sidebar.rawmaterials.components: Components i materials bàsics
+item.sidebar.tools: Eines
+item.sidebar.related.myths: Mites relacionats
+language.alphabet: Alfabet
+language.geographical.distribution: Distribució geogràfica
+language.phonology: Fonologia
+language.morphology: Morfologia
+language.syntax: Sintaxi
+language.vocabulary: Vocabulari
+language.phonetics: Fonètica
+language.sidebar.common.phrases: Frases típiques
+language.sidebar.common.female.names: Noms femenins típics
+language.sidebar.common.male.names: Noms masculins típics
+language.sidebar.common.unisex.names: Noms unisex típics
+law.manifestation: Manifestació
+law.localization: Ubicació
