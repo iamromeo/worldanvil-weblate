@@ -167,3 +167,109 @@ campaign.journal.campaign: Campaña
 campaign.journal.player: Jugador
 campaign.journal.character: Personaje
 follow.action.unfollow.world: Dejar de seguir mundo
+campaign.generic: Otros NPCs
+document.purpose: Propósito
+document.structure: Estructura del documento
+document.clauses: Cláusulas
+document.caveats: Advertencias
+document.references: Referencias
+document.publication.status: Estado de publicación
+document.legal.status: Estado legal
+document.historical.details: Detalles históricos
+document.background: Trasfondo
+document.history: Historia
+document.public.reaction: Reacción pública
+document.legacy: Legado
+document.term: Período
+document.modal.read.document: Leer el documento
+document.modal.close: Cerrar
+document.article.medium: Medio
+document.article.authoringdate: Fecha de creación
+document.article.ratificationdate: Fecha de ratificación
+document.article.expirationdate: Fecha de expiración
+document.article.myth: Mito
+document.article.location: Localización
+document.article.authors: Autores
+document.article.signatoriescharacters: Firmantes (personajes)
+document.article.signatoriesorganizations: Firmantes (organizaciones)
+ethnicity.naming.traditions: Nombres tradicionales
+ethnicity.feminine.names: Nombres femeninos
+ethnicity.masculine.names: Nombres masculinos
+ethnicity.unisex.names: Nombres unisex
+ethnicity.family.names: Nombres familiares
+ethnicity.other.names: Otros nombres
+ethnicity.culture: Cultura
+ethnicity.major.lang.groups.dialects: Grupos lingüísticos y dialectos importantes
+ethnicity.culture.cultural.heritage: Cultura y herencia cultural
+ethnicity.shared.customary.codes.values: Códigos de conducta y valores compartidos
+ethnicity.Average.technological.level: Nivel tecnológico medio
+ethnicity.common.etiquette.rules: Normas de cortesía comunes
+ethnicity.common.dress.code: Código de vestimenta común
+ethnicity.art.architecture: Arte y arquitectura
+ethnicity.common.customs.traditions.rituals: Costumbres, tradiciones y rituales comunes
+ethnicity.birth.baptismal.rites: Ritos de nacimiento y bautismo
+ethnicity.comingofage.rites: Ritos de mayoría de edad
+ethnicity.funerary.memorial.Customs: Costumbres funerarias y de homenaje
+ethnicity.common.taboos: Tabús comunes
+ethnicity.common.myths.legends: Mitos y leyendas comunes
+ethnicity.historical.figures: Figuras históricas
+ethnicity.ideals: Ideales
+ethnicity.beauty.ideals: Ideales de belleza
+ethnicity.gender.ideals: Ideales de género
+ethnicity.courtship.ideals: Ideales de cortejo
+ethnicity.relationship.ideals: Ideales en relaciones románticas
+ethnicity.major.organizations: Organizaciones principales
+formation.manpower: Recursos humanos
+formation.equipment: Equipamiento
+formation.weaponry: Armamento
+formation.vehicles: Vehículos
+formation.structure: Estructura
+formation.tactics: Tácticas
+formation.training: Entrenamiento
+formation.logistics: Logística
+formation.logistical.support: Apoyo logístico
+formation.auxilia: Auxilia
+formation.upkeep: Mantenimiento
+formation.recruitment: Reclutamiento
+formation.history: Historia
+formation.historical.loyalties: Filiaciones históricas
+formation.sidebar.type: Tipo
+formation.sidebar.founding: Fundación
+formation.sidebar.dissolution: Disolución
+formation.sidebar.overall.training.level: Nivel medio de entrenamiento
+formation.sidebar.assumed.veterancy: Veteranía esperada
+formation.sidebar.parent.formation: Formación superior
+formation.sidebar.usedby: Usada por
+formation.sidebar.ranks.titles: Rangos y títulos
+item.inner.workings: ' Funcionamiento y protocolos internos'
+item.manufacturing.process: Proceso de manufactura
+item.significance: Importancia
+item.rpg.datasheet: Ficha RPG
+item.sidebar.itemtype: Tipo de objeto
+item.sidebar.subtype.model: Subtipo/modelo
+item.sidebar.usedby: Usado por
+item.sidebar.manufacturer: Creador
+item.sidebar.related.technologies: Tecnologías relacionadas
+item.sidebar.related.ethnicities: Etnias relacionadas
+item.sidebar.owning.organization: Pertenece a (organización)
+item.sidebar.related.condition: Condición relacionada
+item.sidebar.rarity: Rareza
+item.sidebar.weight: Peso
+item.sidebar.dimensions: Dimensiones
+item.sidebar.base.price: Precio de base
+item.sidebar.rawmaterials.components: Materiales y componentes
+item.sidebar.tools: Herramientas
+item.sidebar.related.myths: Mitos relacionados
+language.alphabet: Alfabeto
+language.geographical.distribution: Distribución geográfica
+language.phonology: Fonología
+language.morphology: Morfología
+language.syntax: Sintaxis
+language.vocabulary: Vocabulario
+language.phonetics: Fonética
+language.sidebar.common.phrases: Frases comunes
+language.sidebar.common.female.names: Nombres femeninos comunes
+language.sidebar.common.male.names: Nombres masculinos comunes
+language.sidebar.common.unisex.names: Nombres unisex comunes
+law.manifestation: Manifestación
+law.localization: Localización
