@@ -20,6 +20,7 @@ interface.settings: 'Interface Settings'
 account.details: 'Account Details'
 account.subscription: 'Your Subscription'
 announcements: 'Announcements'
+badges: 'Badges'
 
 world.select: 'Select World'
 world.summary: 'World Summary'

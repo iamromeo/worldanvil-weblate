@@ -95,6 +95,7 @@ campaign.adversaries: Adversaries
 campaign.allies: Allies 
 campaign.competitors: Competitors 
 campaign.neutral: Neutral Parties 
+campaign.generic: Other NPCs
 campaign.setting: The Setting
 campaign.explore.world: Explore the world of %world_name%
 campaign.timelines: Timelines 
@@ -123,6 +124,106 @@ condition.cycle: Cycle
 condition.rarity: Rarity 
 condition.species: Affected Species 
 
+# Document
+document.purpose: Purpose
+document.structure: "Document Structure"
+document.clauses: Clauses
+document.caveats: Caveats
+document.references: References
+document.publication.status: "Publication Status"
+document.legal.status: "Legal status"
+document.historical.details: "Historical Details"
+document.background: Background
+document.history: History
+document.public.reaction: "Public Reaction"
+document.legacy: Legacy
+document.term: Term
+document.modal.read.document: "Read the Document"
+document.modal.close: Close
+document.article.medium: Medium
+document.article.authoringdate: "Authoring Date"
+document.article.ratificationdate: "Ratification Date"
+document.article.expirationdate: "Expiration Date"
+document.article.myth: Myth
+document.article.location: Location
+document.article.authors: Authors
+document.article.signatoriescharacters: "Signatories (Characters)"
+document.article.signatoriesorganizations: "Signatories (Organizations)"
+
+#Ethnicity
+ethnicity.naming.traditions: "Naming Traditions"
+ethnicity.feminine.names: "Feminine names"
+ethnicity.masculine.names: "Masculine names"
+ethnicity.unisex.names: "Unisex names"
+ethnicity.family.names: "Family names"
+ethnicity.other.names: "Other names"
+ethnicity.culture: "Culture"
+ethnicity.major.lang.groups.dialects: "Major language groups and dialects"
+ethnicity.culture.cultural.heritage: "Culture and cultural heritage"
+ethnicity.shared.customary.codes.values: "Shared customary codes and values"
+ethnicity.Average.technological.level: "Average technological level"
+ethnicity.common.etiquette.rules: "Common Etiquette rules"
+ethnicity.common.dress.code: "Common Dress code"
+ethnicity.art.architecture: "Art & Architecture"
+ethnicity.common.customs.traditions.rituals: "Common Customs, traditions and rituals"
+ethnicity.birth.baptismal.rites: "Birth & Baptismal Rites"
+ethnicity.comingofage.rites: "Coming of Age Rites"
+ethnicity.funerary.memorial.Customs: "Funerary and Memorial customs"
+ethnicity.common.taboos: "Common Taboos"
+ethnicity.common.myths.legends: "Common Myths and Legends"
+ethnicity.historical.figures: "Historical figures"
+ethnicity.ideals: Ideals
+ethnicity.beauty.ideals: "Beauty Ideals"
+ethnicity.gender.ideals: "Gender Ideals"
+ethnicity.courtship.ideals: "Courtship Ideals"
+ethnicity.relationship.ideals: "Relationship Ideals"
+ethnicity.major.organizations: "Major organizations"
+
+#Formation
+formation.manpower: Manpower
+formation.equipment: Equipment
+formation.weaponry: Weaponry
+formation.vehicles: Vehicles
+formation.structure: Structure
+formation.tactics: Tactics
+formation.training: Training
+formation.logistics: Logistics
+formation.logistical.support: "Logistical Support"
+formation.auxilia: Auxilia
+formation.upkeep: Upkeep
+formation.recruitment: Recruitment
+formation.history: History
+formation.historical.loyalties: "Historical loyalties"
+formation.sidebar.type: Type
+formation.sidebar.founding: Founding
+formation.sidebar.dissolution: Dissolution
+formation.sidebar.overall.training.level: "Overall training Level"
+formation.sidebar.assumed.veterancy: "Assumed Veterancy"
+formation.sidebar.parent.formation: "Parent Formation"
+formation.sidebar.usedby: "Used by"
+formation.sidebar.ranks.titles: "Ranks & Titles"
+
+#Item
+item.inner.workings: " Mechanics & Inner Workings"
+item.manufacturing.process: "Manufacturing process"
+item.significance: Significance
+item.rpg.datasheet: "RPG Datasheet"
+item.sidebar.itemtype: "Item type"
+item.sidebar.subtype.model: "Subtype / Model"
+item.sidebar.usedby: "Used by"
+item.sidebar.manufacturer: Manufacturer
+item.sidebar.related.technologies: "Related Technologies"
+item.sidebar.related.ethnicities: "Related ethnicities"
+item.sidebar.owning.organization: "Owning Organization"
+item.sidebar.related.condition: "Related Condition"
+item.sidebar.rarity: Rarity
+item.sidebar.weight: Weight
+item.sidebar.dimensions: Dimensions
+item.sidebar.base.price: "Base Price"
+item.sidebar.rawmaterials.components: "Raw materials & Components"
+item.sidebar.tools: Tools
+item.sidebar.related.myths: "Related Myths"
+
 landmark.purpose: Purpose / Function
 landmark.design: Design 
 landmark.entries: Entries 
@@ -147,6 +248,19 @@ landmark.materials: Related Materials
 landmark.contenders: Contested By
 landmark.reportprimarylocations: Related Report (Primary Locations)
 landmark.reportsecondarylocations: Related Report (Secondary Locations)
+
+#Language
+language.alphabet: Alphabet
+language.geographical.distribution: "Geographical Distribution"
+language.phonology: Phonology
+language.morphology: Morphology
+language.syntax: Syntax
+language.vocabulary: Vocabulary
+language.phonetics: Phonetics
+language.sidebar.common.phrases: "Common Phrases"
+language.sidebar.common.female.names: "Common Female Names"
+language.sidebar.common.male.names: "Common Male Names"
+language.sidebar.common.unisex.names: "Common Unisex Names"
 
 material.properties: Properties 
 material.characteristics: Physical Characteristics
@@ -182,3 +296,6 @@ material.species: Related Species
 material.items: Related Items 
 material.technologies: Related Technologies 
 material.professions: Related Professions 
+
+law.manifestation: Manifestation
+law.localization: Localization

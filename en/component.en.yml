@@ -223,7 +223,7 @@ map.marker.opacityOutline: Outline Opacity
 map.marker.opacityOutline.description: The opacity % of the outline. From 0 to 100% (i.e. 50)
 map.marker.opacityFill: Fill Opacity
 map.marker.opacityFill.description: The opacity % of the area filling the circle or polygon. From 0 to 100% (i.e. 50)
-map.marker.group.description: Marker groups allow you to organize your markers and map layers into categories that you can turn on and off and manage their visibility (if you are a guild member). As with layers these can be use to display different information or hide a set/group of markers from your readers if you wish.
+map.marker.group.description: Marker groups allow you to organize your markers and map layers into categories that you can turn on and off and manage their visibility (if you are a guild member). As with layers these can be used to display different information or hide a set/group of markers from your readers if you wish.
 map.marker.group.onload: Initial Group Visibility
 map.marker.group.onload.description: Make this group visible during the initial loading of the map
 map.layers.max: You have reached the maximum number of layers you can have on your account! If you want more layers on your maps, please consider upgading! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
