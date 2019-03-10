@@ -61,9 +61,9 @@ access.passcode.description: Esta página é protegida por senha! Se você tem a
   favor insira-a abaixo para acessar o conteúdo.
 username: Nome de Usuário
 state: Estado
-access.activate: Ativar Inscrição
+access.activate: Ativação de Inscrição
 access.activate.code: Digite o Código de Ativação
-access.activate.description: Escreva abaixo o código de Inscrição para ter acesso
+access.activate.description: Escreva abaixo seu código de Inscrição para ter acesso
   ao conteúdo. É simples assim!
 access.activate.subscription: Ativar Inscrição
 access.activate.login: Você deve estar logado para ativar sua inscrição!
