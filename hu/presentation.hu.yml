@@ -167,3 +167,109 @@ campaign.journal.player: Játékos
 campaign.journal.character: Karakter
 campaign.journal.session.report: Ülés Beszámoló
 follow.action.unfollow.world: Világ követésének leállítása
+campaign.generic: Más NPC-k
+document.purpose: Cél
+document.structure: Dokumentumstruktúra
+document.clauses: Záradékok
+document.caveats: Figyelmeztetések
+document.references: Hivatkozások
+document.publication.status: Kiadási státusz
+document.legal.status: Jogi státusz
+document.historical.details: Történelmi Részletek
+document.background: Háttér
+document.history: Történelem
+document.public.reaction: Nyilvános Reakció
+document.legacy: Hagyaték
+document.term: Határidő
+document.modal.read.document: Olvasd el a Dokumentumot
+document.modal.close: Bezárás
+document.article.medium: Médium
+document.article.authoringdate: Szerzés Időpontja
+document.article.ratificationdate: Jóváhagyás Időpontja
+document.article.expirationdate: Lejárat Időpontja
+document.article.myth: Mítosz
+document.article.location: Elhelyezkedés
+document.article.authors: Szerzők
+document.article.signatoriescharacters: Szerződő felek (Karakterek)
+document.article.signatoriesorganizations: Szerződő felek (Szervezetek)
+ethnicity.naming.traditions: Névadási Hagyományok
+ethnicity.feminine.names: Női nevek
+ethnicity.masculine.names: Férfi nevek
+ethnicity.unisex.names: Uniszex nevek
+ethnicity.family.names: Családnevek
+ethnicity.other.names: Egyéb nevek
+ethnicity.culture: Kultúra
+ethnicity.major.lang.groups.dialects: Főbb nyelvcsoportok és nyelvjárások
+ethnicity.culture.cultural.heritage: Kultúra és kulturális hagyaték
+ethnicity.shared.customary.codes.values: Közös szokások és értékek
+ethnicity.Average.technological.level: Általános technológiai szint
+ethnicity.common.etiquette.rules: Általános illemszabályok
+ethnicity.common.dress.code: Általános Öltözködési szokások
+ethnicity.art.architecture: Művészet és Építészet
+ethnicity.common.customs.traditions.rituals: Általános szokások, hagyományok, rituálék
+ethnicity.birth.baptismal.rites: Születési és keresztelő rítusok
+ethnicity.comingofage.rites: Felnőtté válási rítusok
+ethnicity.funerary.memorial.Customs: Temetési és megemlékezési rítusok
+ethnicity.common.taboos: Általános tabuk
+ethnicity.common.myths.legends: Általános mítoszok és legendák
+ethnicity.historical.figures: Történelmi személyek
+ethnicity.ideals: Ideák
+ethnicity.beauty.ideals: Szépségideák
+ethnicity.gender.ideals: Nemi ideák
+ethnicity.courtship.ideals: Udvarlási szokások
+ethnicity.relationship.ideals: Kapcsolati szokások
+ethnicity.major.organizations: Nagyobb szervezetek
+formation.manpower: Népesség
+formation.equipment: Felszerelés
+formation.weaponry: Fegyverzet
+formation.vehicles: Járművek
+formation.structure: Felépítés
+formation.tactics: Taktikák
+formation.training: Kiképzés
+formation.logistics: Logisztika
+formation.logistical.support: Logisztikai Támogatás
+formation.auxilia: Segédcsapatok
+formation.upkeep: Fenntartás
+formation.recruitment: Toborzás
+formation.history: Történelem
+formation.historical.loyalties: Történelmi lojalitások
+formation.sidebar.type: Típus
+formation.sidebar.founding: Alapítás
+formation.sidebar.dissolution: Felbomlás
+formation.sidebar.overall.training.level: Általános képzettség
+formation.sidebar.assumed.veterancy: Feltételezett Tapasztalat
+formation.sidebar.parent.formation: Társformáció
+formation.sidebar.usedby: 'Használó:'
+formation.sidebar.ranks.titles: Rangok és Titulusok
+item.inner.workings: ' Általános és belső működés'
+item.manufacturing.process: Gyártási eljárás
+item.significance: Jelentőség
+item.rpg.datasheet: RPG Adatlap
+item.sidebar.itemtype: Tárgytípus
+item.sidebar.subtype.model: Altípus/ Modell
+item.sidebar.usedby: 'Használja:'
+item.sidebar.manufacturer: Gyártó
+item.sidebar.related.technologies: Kapcsolódó Technológiák
+item.sidebar.related.ethnicities: Kapcsolódó etnikumok
+item.sidebar.owning.organization: Birtokló Szervezet
+item.sidebar.related.condition: Kapcsolódó Állapot
+item.sidebar.rarity: Ritkaság
+item.sidebar.weight: Súly
+item.sidebar.dimensions: Dimenziók
+item.sidebar.base.price: Alapár
+item.sidebar.rawmaterials.components: Nyersanyagok és alkotórészek
+item.sidebar.tools: Eszközök
+item.sidebar.related.myths: Kapcsolódó mítoszok
+language.alphabet: Ábécé
+language.geographical.distribution: Földrajzi eloszlás
+language.phonology: Kiejtéstan
+language.morphology: Alaktan
+language.syntax: Mondattan
+language.vocabulary: Szótár
+language.phonetics: Kiejtések
+language.sidebar.common.phrases: Gyakori kifejezések
+language.sidebar.common.female.names: Gyakori női nevek
+language.sidebar.common.male.names: Gyakori férfi nevek
+language.sidebar.common.unisex.names: Gyakori uniszex nevek
+law.manifestation: Manifesztáció
+law.localization: Lokalizáció
