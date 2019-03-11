@@ -137,8 +137,8 @@ map.marker.drag: Me arraste para determinar as coordenadas do novo Marcador
 map.marker.fill: Legal! Agora preencha o formulário abaixo!
 guild.access: Todos os itens em contas gratuitas são públicos. Junte-se à <a class="m-t-10
   text-pink" href="{{ path('app_membership')}}">Guilda dos Worldbuilders</a> para
-  dar permissões apenas a grupos de inscritos específicos acessarem o conteúdo que
-  quiser e ajude no desenvolvimento do World Anvil.
+  dar permissões para grupos de inscritos específicos acessarem o conteúdo que quiser
+  e ajude no desenvolvimento do World Anvil.
 guild.subscriber.groups: '"Grupos de Inscritos" permitem à <a class="m-t-10 text-pink"
   href="{{ path(''app_membership'')}}">Guilda dos Worldbuilders</a> dar acesso de
   leitura a artigos privados para membros de cada grupo.'
@@ -340,14 +340,14 @@ access.subscribers.add: Adicionar Inscritos ao Grupo
 access.rights.management: Gerenciar Direitos de Acesso
 access.subscribers.management: Gerenciar Inscritos
 access.group.edit: Editar Grupo de Inscritos
-create.code: Criar código
+create.code: Criar Código
 create.new.era: Criar uma nova Era
 view.world: Ver Mundo
 deete.code: Apagar Código
 access.rights.notice: A funcionalidade de Grupos e Inscritos só está disponível para
   membros da Guilda!
 access.rights.codes: Códigos de Acesso para Inscritos
-access.authors.coowner.description: Acesso para tudo incluindo configuração do Mundo,
+access.authors.coowner.description: Acesso a tudo, incluindo configurações do Mundo,
   CSS e Gerenciamento de Permissões.
 access.authors.editor.description: Permissão para criar, visualizar e editar todo
   e qualquer conteúdo.
