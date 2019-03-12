@@ -168,3 +168,42 @@ material.items: Zugehörige Gegenstände
 material.technologies: Zugehörige Technologien
 follow.action.unfollow.world: Welt abbestellen
 campaign.generic: Weitere NPCs
+document.purpose: Zweck
+document.structure: Struktur des Dokuments
+document.references: Referenzen
+document.background: Hintergrund
+document.history: Geschichte
+document.modal.read.document: Dokument lesen
+document.modal.close: Schließen
+document.article.medium: Medium
+document.article.myth: Mythos
+document.article.authors: Autoren
+document.article.signatoriescharacters: Unterzeichner (Charaktere)
+document.article.signatoriesorganizations: Unterzeichner (Organisationen)
+ethnicity.feminine.names: Weibliche Namen
+ethnicity.masculine.names: Männliche Namen
+ethnicity.unisex.names: Geschlechtsneutrale Namen
+ethnicity.family.names: Familiennamen
+ethnicity.other.names: Andere Namen
+ethnicity.culture: Kultur
+ethnicity.major.lang.groups.dialects: Hauptsprachengruppen und Dialekte
+ethnicity.culture.cultural.heritage: Kultur und kulturelles Erbe
+ethnicity.shared.customary.codes.values: Gemeinsame Verhaltensweisen und Werte
+ethnicity.Average.technological.level: Durschnittlicher technologischer Stand
+ethnicity.common.etiquette.rules: Übliche Etiquette
+ethnicity.common.dress.code: Übliche Bekleidung
+ethnicity.art.architecture: Kunst & Architektur
+ethnicity.common.customs.traditions.rituals: Übliche Gebräuche, Traditionen und Rituale
+ethnicity.birth.baptismal.rites: Geburts- & Taufriten
+ethnicity.funerary.memorial.Customs: Begräbnis- und Gedenkensgebräuche
+ethnicity.common.taboos: Verbreitete Tabus
+ethnicity.common.myths.legends: Verbreitete Mythen und Legenden
+ethnicity.historical.figures: Historische Figuren
+ethnicity.ideals: Ideale
+ethnicity.beauty.ideals: Schönheitsideale
+ethnicity.gender.ideals: Geschlechterideale
+ethnicity.relationship.ideals: Beziehungsideale
+formation.equipment: Ausrüstung
+formation.weaponry: Bewaffnung
+formation.structure: Struktur
+formation.tactics: Taktik
