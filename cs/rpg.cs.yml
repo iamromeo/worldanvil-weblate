@@ -6,3 +6,6 @@ rpg.world.systems: RPG systém(y) tvého světa
 rpg.systems.list: Seznam RPG systémů
 rpg.add.to.world: Přidat RPG systém do tvého světa
 rpg.statblock.copy: Zkopírovat RPG materiál
+rpg.resources.welcome.intro2: Každý RPG materiál má svůj BBkód, který můžeš vložit
+  a využívat ve svém světě nebo i přímo při hře. Veškeré zdroje jsou buď chráněny
+  autorským právem nebo sdíleny autory pro volné použití.
