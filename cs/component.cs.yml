@@ -296,3 +296,6 @@ map.marker.lineDash.description: Toto je pokrkočilá funkce. Používá se k p�
   délek.
 map.marker.linePoints.check: Zaklikni toto pole a umísti novou značku abys vytvořil
   čáru.
+create.block.template: Vytvořit šablonu pro RPG materiál
+create.group: Vytvořit skupinu
+create.new.era: Vytvořit novou Éru.
