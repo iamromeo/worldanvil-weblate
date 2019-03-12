@@ -298,4 +298,5 @@ map.marker.linePoints.check: Zaklikni toto pole a umísti novou značku abys vyt
   čáru.
 create.block.template: Vytvořit šablonu pro RPG materiál
 create.group: Vytvořit skupinu
-create.new.era: Vytvořit novou Éru.
+create.new.era: Vytvořit novou éru
+access.rights.notice: Funkce Skupin a Odběratelů jsou dostupné jen pro členy Cechu!
