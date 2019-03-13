@@ -51,3 +51,6 @@ todo.status.one: Článek byl vytvořen, nebyl zveřejněn a je stále ve vývoj
 moderation: Moderace
 author.notes: Autorovy poznámky
 access.multipass: Multipass?
+username: Uživatelské jméno
+state: Stát
+access.activate.code: Vlož aktivační klíč
