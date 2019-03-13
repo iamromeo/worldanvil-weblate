@@ -132,3 +132,33 @@ material.species: Související živočišné druhy
 material.items: Související předměty
 material.technologies: Související technologie
 material.professions: Související povolání
+writers.team: Tým spisovatelů
+follow.action.unfollow.world: Přestaň sledovat tento svět
+campaign.world: Ve světě %world_name%
+campaign.storytellers: Tento příběh je vyprávěn
+campaign.watchlive: Sleduj kampaň živě na Twitchi
+campaign.full: Plno
+campaign.support.patreon: Podpoř tuto kampaň na Patreonu
+campaign.sessions: Seznam sezení
+campaign.sessions.past: Minulé sezení
+campaign.session.live: ŽIVĚ
+campaign.allies: Spojenci
+campaign.neutral: Neutrální strany
+campaign.explore.world: Prozkoumej svět %world_name%
+campaign.journal.world: Svět
+campaign.journal.campaign: Kampaň
+campaign.journal.player: Hráč
+campaign.journal.character: Postava
+campaign.journal.session.report: Zpráva ze sezení
+campaign.protagonists: Protagonisté
+campaign.lfp: Hledám hráče
+campaign.sessions.scheduled: Plánovaná sezení
+campaign.timelines: Časové osy
+campaign.maps: Mapy
+document.history: Historie
+document.article.authors: Autoři
+formation.history: Historie
+formation.sidebar.type: Typ
+item.sidebar.related.technologies: Související technologie
+item.sidebar.rarity: Vzácnost
+language.alphabet: Abeceda
