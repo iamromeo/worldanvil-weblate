@@ -190,6 +190,4 @@ document.article.expirationdate: Data de Expiração
 document.article.myth: Mito
 document.article.location: Localização
 document.article.authors: Autores
-document.article.signatoriescharacters: 'Signatários (Personagens)
-
-  ~literal~'
+document.article.signatoriescharacters: Signatários (Personagens)
