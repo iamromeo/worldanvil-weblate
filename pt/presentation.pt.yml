@@ -221,3 +221,17 @@ ethnicity.major.organizations: Principais organizações
 formation.manpower: Recursos humanos
 formation.equipment: Equipamento
 formation.weaponry: Arsenal
+formation.vehicles: Veículos
+formation.structure: Estrutura
+formation.tactics: Táticas
+formation.training: Treinamento
+formation.logistics: Logística
+formation.logistical.support: Apoio Logístico
+formation.upkeep: Manutenção
+formation.recruitment: Recrutamento
+formation.history: História
+formation.historical.loyalties: Filiações históricas
+formation.sidebar.type: Tipo
+formation.sidebar.founding: Fundação
+formation.sidebar.dissolution: Dissolução
+formation.sidebar.overall.training.level: Média de nível de treinamento
