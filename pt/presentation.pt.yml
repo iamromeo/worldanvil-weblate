@@ -186,3 +186,10 @@ document.history: História
 document.modal.close: Fechar
 document.article.authoringdate: Data de Criação
 document.article.ratificationdate: Data de Ratificação
+document.article.expirationdate: Data de Expiração
+document.article.myth: Mito
+document.article.location: Localização
+document.article.authors: Autores
+document.article.signatoriescharacters: 'Signatários (Personagens)
+
+  ~literal~'
