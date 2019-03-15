@@ -241,3 +241,16 @@ item.inner.workings: ' Mecânica e funcionamento interno'
 item.manufacturing.process: Processo de manufatura
 item.significance: Significado e importância
 item.rpg.datasheet: Ficha de RPG
+item.sidebar.itemtype: Tipo de objeto
+item.sidebar.subtype.model: Subtipo / Modelo
+item.sidebar.usedby: Usado(a) por
+item.sidebar.manufacturer: Fabricante
+item.sidebar.related.technologies: Tecnologias relacionadas
+item.sidebar.related.ethnicities: Etnias relacionadas
+item.sidebar.owning.organization: Organização proprietária
+item.sidebar.related.condition: Condição relacionada
+item.sidebar.rarity: Raridade
+item.sidebar.weight: Peso
+item.sidebar.dimensions: Dimensões
+item.sidebar.base.price: Preço base
+item.sidebar.rawmaterials.components: Matéria-prima e componentes
