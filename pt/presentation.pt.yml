@@ -192,3 +192,10 @@ document.article.location: Localização
 document.article.authors: Autores
 document.article.signatoriescharacters: Signatários (Personagens)
 ethnicity.naming.traditions: Tradições de Nomeação
+ethnicity.feminine.names: Nomes femininos
+ethnicity.masculine.names: Nomes masculinos
+ethnicity.unisex.names: Nomes unisex
+ethnicity.family.names: Nomes de família
+ethnicity.other.names: Outros nomes
+ethnicity.culture: Cultura
+ethnicity.major.lang.groups.dialects: Grupos linguísticos e dialetos importantes
