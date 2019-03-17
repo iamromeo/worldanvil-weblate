@@ -241,3 +241,16 @@ document.historical.details: Historische Details
 document.public.reaction: Öffentliche Reaktion
 document.legacy: Vermächtnis
 document.article.ratificationdate: Ratifizierungs-Datum
+document.term: Laufzeit
+document.article.authoringdate: Erstellungsdatum
+document.article.location: Ort
+ethnicity.naming.traditions: Traditionelle Namensgebung
+ethnicity.major.organizations: Wichtige Organisationen
+formation.training: Ausbildung
+formation.logistical.support: Logistische Unterstützung
+formation.auxilia: Hilfstruppen
+formation.upkeep: Unterhalt
+formation.recruitment: Rekrutierung
+item.sidebar.related.technologies: Zugehörige Technologien
+item.sidebar.owning.organization: Besitzende Organisation
+item.sidebar.rarity: Seltenheit
