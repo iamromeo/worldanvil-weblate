@@ -209,3 +209,29 @@ formation.structure: Struktur
 formation.tactics: Taktiken
 formation.logistics: Logistiken
 formation.history: Geschichte
+document.clauses: Gliederung
+document.article.expirationdate: Auslaufdatum
+ethnicity.comingofage.rites: Reifeprüfung
+formation.manpower: Personalstärke
+formation.vehicles: Fortbewegungsmittel
+formation.sidebar.type: Art
+formation.sidebar.founding: Gründung
+formation.sidebar.dissolution: Auflösung
+formation.sidebar.overall.training.level: Allgemeiner Ausbildungsstand
+formation.sidebar.assumed.veterancy: Geschätzte Kampferfahrung
+formation.sidebar.parent.formation: Übergeordnete Formation
+formation.sidebar.usedby: Eingesetzt von
+formation.sidebar.ranks.titles: Ränge & Titel
+item.manufacturing.process: Herstellung
+item.significance: Bedeutung
+item.rpg.datasheet: RPG Datenblatt
+item.sidebar.itemtype: Gegenstandsart
+item.sidebar.subtype.model: Unterart / Modell
+item.sidebar.usedby: Eingesetzt von
+item.sidebar.manufacturer: Hersteller
+item.sidebar.weight: Gewicht
+item.sidebar.dimensions: Maße
+item.sidebar.base.price: Grundpreis
+item.sidebar.rawmaterials.components: Rohmaterialien & Komponenten
+item.sidebar.tools: Werkzeuge
+item.sidebar.related.myths: Assoziierter Mythos
