@@ -236,10 +236,10 @@ formation.sidebar.founding: Fundação
 formation.sidebar.dissolution: Dissolução
 formation.sidebar.overall.training.level: Nível médio de treinamento
 formation.sidebar.usedby: Usado(a) por
-formation.sidebar.ranks.titles: Ranks e títulos
+formation.sidebar.ranks.titles: Patentes e Títulos
 item.inner.workings: ' Mecânica e funcionamento interno'
 item.manufacturing.process: Processo de manufatura
-item.significance: Significado e importância
+item.significance: Significado e Importância
 item.rpg.datasheet: Ficha de RPG
 item.sidebar.itemtype: Tipo de objeto
 item.sidebar.subtype.model: Subtipo / Modelo
@@ -253,7 +253,7 @@ item.sidebar.rarity: Raridade
 item.sidebar.weight: Peso
 item.sidebar.dimensions: Dimensões
 item.sidebar.base.price: Preço base
-item.sidebar.rawmaterials.components: Matérias-primas e componentes
+item.sidebar.rawmaterials.components: Matérias-primas e Componentes
 item.sidebar.tools: Ferramentas
 item.sidebar.related.myths: Mitos relacionados
 language.alphabet: Alfabeto
