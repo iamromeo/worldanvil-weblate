@@ -1,1 +1,20 @@
-{}
+article.generic: Straipsnis, ėprastas
+character: Veikėjas
+condition: Būsena
+document: Dokumentas
+ethnicity: Tautybė
+formation.military: Karinė rikiuotė
+language: Kalba
+material: Medžiaga
+myth.legend: Mitas / Legenda
+military.conflict: Karinis konfliktas
+location.building: Vieta, Pastatas
+building: Pastatas
+location.geographic: Vieta, Geografinė
+geography: Geografija
+location.settlement: Vietovė, Gyvenvietė
+settlement: Gyvenvietė
+law: Dėsnis (Meta/Fizinė)
+organization: Organizacija
+prose: Proza
+profession: Profesija
