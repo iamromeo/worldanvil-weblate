@@ -175,12 +175,12 @@ document.clauses: Cláusulas
 document.references: Referências
 document.publication.status: Status de Publicação
 document.historical.details: Detalhes Históricos
-document.background: História
+document.background: Contexto
 document.public.reaction: Reação do Público
 document.legacy: Legado
 document.term: Termo
 document.modal.read.document: Ler Documento
-document.caveats: Advertências
+document.caveats: Ressalvas
 document.legal.status: Status Legal
 document.history: História
 document.modal.close: Fechar
@@ -266,7 +266,7 @@ language.phonetics: Fonética
 language.sidebar.common.phrases: Frases comuns
 document.article.medium: Mídia
 document.article.signatoriesorganizations: Signatários (Organizações)
-formation.auxilia: Unidades de Apoio
+formation.auxilia: Tropas de Reforço
 formation.sidebar.assumed.veterancy: Experiência Presumida
 formation.sidebar.parent.formation: Formação Mãe
 language.sidebar.common.female.names: Nomes femininos comuns
