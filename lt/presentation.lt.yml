@@ -1,1 +1,25 @@
-{}
+account.create: Kurti paskyrą
+created.by: Sukurė
+timeline: Laiko juosta
+timelines: Laiko juostos
+toc: Turinys
+followers.all: Peržiūrėti visus sekėjus
+secrets: Paslaptys
+maps: Žemėlapiai
+articles: Straipsniai
+recent.articles: Paskiausi straipsniai
+uncategorized.articles: Nerūšiuoti straipsniai
+tweets.by: Twitter'io žinutės nuo
+twitch.live: Stebėti per Twitch
+support.patreon: Paremti projektą Patreon'e
+support.patreon.user: Paremti %username% Patreon'e
+support.kofi.user: Tegul %username% gauna kavą dovanų iš manęs!
+join.discord.world: Prisijungti prie %worldname% Discord'o serverio!
+material.color: Spalva
+material.density: Tankis
+material.commonState: Įprasta būsena
+material.locations: Susijusios vietos
+material.species: Susijusios rūšys
+material.items: Susiję daiktai
+material.technologies: Susijusios technologijos
+material.professions: Susijusios profesijos
