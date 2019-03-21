@@ -1,1 +1,4 @@
-{}
+rpg.world.systems: Tavo pasaulio sistema(-os)
+rpg.systems.list: RPG sistemų sąrašas
+rpg.add.to.world: Pridėti šią sistemą į pasaulį
+rpg.statblock.copy: Kopijuoti šį duomenų bloką
