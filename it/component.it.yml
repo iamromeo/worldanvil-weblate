@@ -73,3 +73,8 @@ edit.group: Modifica Gruppo
 delete.author.profile: Elimina Profilo
 delete.block: Elimina Blocco
 delete.block.template: Elimina Modello Blocco
+delete.campaign: Elimina Campagna
+delete.category: Elimina Categoria
+delete.historical.entry: Elimina Evento Storico
+delete.image: Elimina Immagine
+line: Linea
