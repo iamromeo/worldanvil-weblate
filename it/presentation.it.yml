@@ -122,21 +122,21 @@ landmark.organization: Organizzazione Proprietaria
 landmark.charactersinlocation: Personaggi in Loco
 landmark.connectedrooms: Stanze Collegate
 landmark.professions: Professioni Connesse
-landmark.materials: Materiali Correlati
-landmark.contenders: Contestato da
+landmark.materials: Materiali collegati
+landmark.contenders: Contrastato da
 material.properties: Proprietà
 material.characteristics: Caratteristiche Fisiche
-material.compounds: Composti
+material.compounds: Miscela
 material.geo: Geologia e Geografia
 material.origin: Origine e Fonte
-material.halflife: Vita e Scadenza
-material.useCommon: Uso quotidiano
+material.halflife: Vita & Durata
+material.useCommon: Uso comune
 material.discovery: Scoperta
 material.useCultural: Significato Culturale e Usanze
 material.useIndustrial: Uso Industriale
 material.refinement: Raffinazione
 material.manufacturing: Manifattura e Prodotti
-material.products: Sottoprodotti e Scarti
+material.products: Sottoprodotti
 material.hazards: Pericoli
 material.environment: Impatto Ambientale
 material.reusability: Riutilizzo e Riciclaggio
