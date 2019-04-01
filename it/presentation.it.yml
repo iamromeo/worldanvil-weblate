@@ -122,21 +122,21 @@ landmark.organization: Organizzazione Proprietaria
 landmark.charactersinlocation: Personaggi in Loco
 landmark.connectedrooms: Stanze Collegate
 landmark.professions: Professioni Connesse
-landmark.materials: Materiali collegati
-landmark.contenders: Contrastato da
+landmark.materials: Materiali Correlati
+landmark.contenders: Contestato da
 material.properties: Proprietà
 material.characteristics: Caratteristiche Fisiche
-material.compounds: Miscela
+material.compounds: Composti
 material.geo: Geologia e Geografia
 material.origin: Origine e Fonte
-material.halflife: Vita & Durata
-material.useCommon: Uso comune
+material.halflife: Vita e Scadenza
+material.useCommon: Uso quotidiano
 material.discovery: Scoperta
 material.useCultural: Significato Culturale e Usanze
 material.useIndustrial: Uso Industriale
 material.refinement: Raffinazione
 material.manufacturing: Manifattura e Prodotti
-material.products: Sottoprodotti
+material.products: Sottoprodotti e Scarti
 material.hazards: Pericoli
 material.environment: Impatto Ambientale
 material.reusability: Riutilizzo e Riciclaggio
@@ -162,12 +162,12 @@ landmark.parent: Località
 landmark.reportprimarylocations: Rapporto Connesso (Luoghi Primari)
 landmark.reportsecondarylocations: Rapporti Correlati (Luoghi Secondari)
 material.locations: Luoghi Correlati
-material.species: Specie Connesse
+material.species: Specie Correlate
 material.items: Oggetti Correlati
-material.technologies: Tecnologie Connesse
-material.professions: Professioni Connesse
+material.technologies: Tecnologie Correlate
+material.professions: Professioni Correlate
 campaign.generic: Altri NPC
 document.purpose: Scopo
 document.structure: Struttura del documento
 document.clauses: Clausole
-document.caveats: Avvertimenti
+document.caveats: Ammonimenti
