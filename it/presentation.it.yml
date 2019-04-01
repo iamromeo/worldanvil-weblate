@@ -18,7 +18,7 @@ image.gallery: Galleria Immagini
 articles: Articoli
 recent.articles: Articoli Recenti
 featured.articles: Articoli in Evidenza
-uncategorized.articles: Articoli senza Categoria
+uncategorized.articles: Articoli Non Categorizzati
 support.kofi.user: Compra un caffè a %username%!
 tweets.by: Tweets di
 twitch.live: Guarda live su Twitch
@@ -33,7 +33,7 @@ follow.action.add: SEGUI
 follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
   dagli autori di questo mondo!
 like.action.remove: RIMUOVI LIKE
-like.action.add: LIKE
+like.action.add: MI PIACE
 like.action.add.description: Fai sapere all'autore che ti piace il suo lavoro. Questo
   articolo NON sarà aggiunto alla tua lista "leggi in seguito"
 reading.action.remove: RIMUOVI DALLA LISTA DI LETTURA
@@ -166,3 +166,6 @@ material.species: Specie Connesse
 material.items: Oggetti Correlati
 material.technologies: Tecnologie Connesse
 material.professions: Professioni Connesse
+campaign.generic: Altri NPC
+document.purpose: Scopo
+document.structure: Struttura del documento
