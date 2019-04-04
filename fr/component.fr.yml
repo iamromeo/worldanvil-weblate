@@ -210,9 +210,8 @@ map.center.y: Point central intial (Axe Y)
 map.center.x: Point central initial (Axe X)
 map.marker.label: Texte du label
 map.marker.polygonPoints: Points du polygones
-map.marker.colorOutline.description: 'La couleur de la bordure pour le cercle ou le
-  polygone. Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow,
-  #FFFFFF).'
+map.marker.colorOutline.description: 'La couleur du contour pour le cercle ou le polygone.
+  Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF)'
 map.marker.colorFill: Couleur du fond
 map.marker.colorFill.description: 'La couleur du fond pour le cercle ou le polygone.
   Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
