@@ -272,7 +272,7 @@ map.marker.group.description: Les groupes de marqueurs permettent d'organiser vo
   marqueurs et filtres en catégories que vous pouvez activer ou désactiver et dont
   vous pouvez gérer la visibilité (si vous êtes membre de guilde). Concernant les
   filtres, ils peuvent être utilisés pour afficher ou cacher différentes informations
-  ou groupes de marqueurs à vos lecteurs comme vous le souhaitez.
+  ou groupes de marqueurs à vos lecteurs si vous le souhaitez.
 map.marker.link.description: Si vous spécifiez le marqueur comme lien direct, un clic
   dessus mènera directement l'utilisateur sur la page cible.
 map.marker.link.relation.description: Choisissez un des éléments ci-dessous comme
