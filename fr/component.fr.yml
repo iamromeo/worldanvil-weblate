@@ -173,7 +173,7 @@ map.zoom.initial: Zoom initial
 map.zoom.initial.description: Définit le zoom par défaut lors du premier chargement
   de la carte (0 par défaut).
 map.zoom.min: Zoom minimum autorisé
-map.zoom.min.description: Définis le zoom arrière maximum. Ce multiplicateur est négatif,
+map.zoom.min.description: Définit le zoom arrière maximum. Ce multiplicateur est négatif,
   plus le nombre est petit et plus le zoom arrière autorisera un champ large (-2 par
   défaut).
 map.zoom.max: Zoom maximum
@@ -225,11 +225,11 @@ map.marker.opacityFill.description: Le pourcentage d'opacité pour le fond du ce
 create.article: Créer Article
 edit.article: Editer l'Article
 line: Ligne
-related.article: Articles associés
-related.history: Évènements Historiques associés
-map.zoom.max.description: Définis le zoom avant maximum. Ce multiplicateur est positif,
-  plus le nombre est grand et plus le zoom avant autorisera un champ restreint (0
-  par défaut). Au dessus de 0, l'image deviendra flou.
+related.article: Article associé
+related.history: Élément historique associé
+map.zoom.max.description: Valeur du zoom. 0 signifie taille réelle de l'image. Une
+  valeur positive signifie un grossissement, donc une image qui commence à devenir
+  floue. (0 par défaut)
 map.marker.lineColor: Couleur de la ligne
 map.layers.max: Vous avez atteint le nombre maximum de calques que vous pouvez avoir
   avec votre compte. Si vous souhaitez utiliser plus de calques pour vos cartes, vous
@@ -274,3 +274,8 @@ map.marker.group.description: Les groupes de marqueurs permettent d'organiser vo
   vous pouvez gérer la visibilité (si vous êtes membre de guilde). Concernant les
   filtres, ils peuvent être utilisés pour afficher ou cacher différentes informations
   ou groupes de marqueurs à vos lecteurs comme vous le souhaitez.
+map.marker.link.description: Si vous spécifiez le marqueur comme lien direct, un clic
+  dessus mènera directement l'utilisateur sur la page cible.
+map.marker.link.relation.description: Choisissez un des éléments ci-dessous comme
+  cible directe du lien. Si vous en choisissez plusieurs, seul le premier sera pris
+  en compte.
