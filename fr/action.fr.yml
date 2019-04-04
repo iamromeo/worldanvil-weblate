@@ -13,7 +13,7 @@ logout: Déconnexion
 register: Créer votre compte
 create a new...: Créer...
 show: Afficher
-save.changes: Sauvegarder les modifications
+save.changes: Enregistrer les modifications
 delete.map: Supprimer Carte
 view.map: Afficher Carte
 replace: Remplacer
@@ -22,4 +22,7 @@ edit.map: Modifier Carte
 edit.profile: Modifier Profil
 view.profile: Afficher Profil
 manage: Gérer
-save: Sauvegarder
+save: Enregistrer
+update: Mettre à jour
+copy: Copier
+dismiss: Annuler
