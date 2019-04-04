@@ -257,3 +257,20 @@ create.group: Créer Groupe
 create.code: Créer Code
 create.new.block.template: Créer un nouveau Bloc Modèle
 create.new.era: Créer une nouvelle Ère
+edit.block.template: Modifier Bloc Modèle
+edit.group: Modifier Groupe
+delete.block.template: Supprimer Bloc Modèle
+view.world: Voir Monde
+delete.group: Supprimer Groupe
+deete.code: Supprimer Code
+block.template: Bloc Modèle
+subscriber: Abonné
+block.templates: Blocs Modèles
+groups: Groupes
+list.block.templates: Liste des Blocs Modèles
+list.subscribers: Abonnés
+map.marker.group.description: Les groupes de marqueurs permettent d'organiser vos
+  marqueurs et filtres en catégories que vous pouvez activer ou désactiver et dont
+  vous pouvez gérer la visibilité (si vous êtes membre de guilde). Concernant les
+  filtres, ils peuvent être utilisés pour afficher ou cacher différentes informations
+  ou groupes de marqueurs à vos lecteurs comme vous le souhaitez.
