@@ -253,3 +253,6 @@ spell: Sort
 class: Classe
 race: Race
 create.block.template: Créer Bloc Modèle
+create.group: Créer Groupe
+create.code: Créer Code
+create.new.block.template: Créer un nouveau bloc modèle
