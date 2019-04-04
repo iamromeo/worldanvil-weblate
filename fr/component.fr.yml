@@ -231,8 +231,9 @@ map.zoom.max.description: Valeur du zoom. 0 signifie taille réelle de l'image. 
   floue. (0 par défaut)
 map.marker.lineColor: Couleur de la ligne
 map.layers.max: Vous avez atteint le nombre maximum de calques autorisé pour votre
-  abonnement. Si vous souhaitez en créer plus, il vous faut passer au niveau d'abonnement
-  supérieur.
+  abonnement! Si vous voulez plus de calques sur vos cartes, vous pouvez toujours
+  passer à un abonnement supérieur ! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
+  des Forgemondes</a>
 map.marker.linePoints: Coordonnées de lignes
 map.marker.lineColor.description: 'La couleur de la ligne. Une couleur CSS ou un hexcode
   peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
