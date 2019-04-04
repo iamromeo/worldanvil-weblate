@@ -280,4 +280,4 @@ map.marker.link.relation.description: Choisissez un des éléments ci-dessous co
   en compte.
 map.marker.group.onload: Visibilité initiale du Groupe
 map.marker.group.onload.description: Rendre ce groupe visible durant le chargement
-  de la carte.
+  de la carte
