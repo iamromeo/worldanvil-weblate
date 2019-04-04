@@ -223,7 +223,7 @@ map.marker.opacityFill: Opacité du fond
 map.marker.opacityFill.description: Le pourcentage d'opacité pour le fond du cercle
   ou du polygone. Choisir une valeur numérique entre 0 et 100.
 create.article: Créer Article
-edit.article: Editer l'article
+edit.article: Editer l'Article
 line: Ligne
 related.article: Articles associés
 related.history: Évènements Historiques associés
