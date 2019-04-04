@@ -278,3 +278,6 @@ map.marker.link.description: Si vous spécifiez le marqueur comme lien direct, u
 map.marker.link.relation.description: Choisissez un des éléments ci-dessous comme
   cible directe du lien. Si vous en choisissez plusieurs, seul le premier sera pris
   en compte.
+map.marker.group.onload: Visibilité initiale du Groupe
+map.marker.group.onload.description: Rendre ce groupe visible durant le chargement
+  de la carte.
