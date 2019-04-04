@@ -286,3 +286,6 @@ map.marker.linePoints.description: Longitude et Latitude de chaque point, sous f
   par un espace. Par exemple 20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge
   "nouveau point" pour obtenir les lon/lat .
 pin.pinImage: Image de l'Épingle
+map.marker.lineDash: Tableau traitillé
+map.marker.linePoints.check: Cochez cette case et glissez-déposez la nouvelle épingle
+  marqueur pour créer une ligne.
