@@ -240,8 +240,8 @@ map.marker.lineColor.description: 'La couleur de la ligne. Une couleur CSS ou un
 map.marker.lineWeight: Épaisseur de la ligne
 map.marker.lineWeight.description: L'épaisseur de la ligne, en pixels relatifs.
 map.marker.lineOpacity: Opacité de la ligne
-map.marker.lineOpacity.description: Le % d'opacité de la ligne, de 0 à 100% (c.a.d.
-  50)
+map.marker.lineOpacity.description: 'Le % d''opacité de la ligne, de 0 à 100% (ex:
+  50)'
 functionality: Fonctionnalité
 appearance: Apparence
 character: Personnage
@@ -285,3 +285,4 @@ map.marker.linePoints.description: Longitude et Latitude de chaque point, sous f
   de paires séparées par une virgule, les deux éléments de la paire étant séparés
   par un espace. Par exemple 20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge
   "nouveau point" pour obtenir les lon/lat .
+pin.pinImage: Image de l'Épingle
