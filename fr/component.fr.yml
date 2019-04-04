@@ -281,3 +281,7 @@ map.marker.link.relation.description: Choisissez un des éléments ci-dessous co
 map.marker.group.onload: Visibilité initiale du Groupe
 map.marker.group.onload.description: Rendre ce groupe visible durant le chargement
   de la carte
+map.marker.linePoints.description: Longitude et Latitude de chaque point, sous forme
+  de paires séparées par une virgule, les deux léments de la paire étant séparés par
+  un espace. Par exemple 20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge "nouveau
+  point" pour obtenir les lon./lat. .
