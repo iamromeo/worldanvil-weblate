@@ -238,7 +238,7 @@ map.marker.linePoints: Coordonnées de lignes
 map.marker.lineColor.description: 'La couleur de la ligne. Une couleur CSS ou un hexcode
   peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
 map.marker.lineWeight: Épaisseur de la ligne
-map.marker.lineWeight.description: La taille de la ligne, en pixels relatifs.
+map.marker.lineWeight.description: L'épaisseur de la ligne, en pixels relatifs.
 map.marker.lineOpacity: Opacité de la ligne
 map.marker.lineOpacity.description: Le pourcentage d'opacité de la ligne. Choisir
   une valeur numérique entre 0 et 100.
