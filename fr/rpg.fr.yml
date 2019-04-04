@@ -1,5 +1,13 @@
 rpg.resources: Ressources JDR
 rpg.resources.welcome.header: Bienvenue sur la page Ressources JDR de World Anvil
 rpg.resources.welcome.intro1: C'est ici que toutes les ressources créées par la Communauté
-  de World Anvil et n'importe quel contenu des DRS (Documents de Référence du Système)
-  peuvent être trouvés!
+  de World Anvil ainsi que le contenu des DRS (Documents de Référence du Système)
+  peuvent être trouvés !
+rpg.resources.welcome.intro2: Chaque "Bloc" (bloc de statistiques) hébergé ici a un
+  code BBcode, que vous pouvez copier et utiliser dans votre univers ou lorsque vous
+  jouez. Toutes les ressources hébergées ici sont soit sous licence, soit partagées
+  volontairement par leurs auteurs.
+rpg.world.systems: Le(s) Système(s) de votre Univers
+rpg.systems.list: Liste de Systèmes de JdR
+rpg.add.to.world: Ajouter ce système à votre Univers
+rpg.statblock.copy: Créer une copie de ce Bloc de Stats
