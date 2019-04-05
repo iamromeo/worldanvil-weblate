@@ -324,3 +324,7 @@ master.feature: Ceci est une fonctionnalité de niveau Maître ou plus. Rejoigne
 access.rights.notice: La fonctionnalité Groupes et Abonnés est disponible uniquement
   aux membres de la Guilde !
 access.rights.management: Gestion des Droits d'Accès
+access.rights.subscribers: Abonnés
+access.rights.groups: Groupes
+access.rights.authors: Auteurs
+access.rights.codes: Codes d'accès abonnés
