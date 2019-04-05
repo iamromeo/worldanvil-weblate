@@ -42,3 +42,5 @@ username: Nom d'utilisateur
 state: État
 studio.pins: 'Forge du Créateur : Épingles'
 studio.sheets: 'Forge du créateur : Fiches'
+guild.required.master: Cette fonctionnalité est accessible uniquement aux Maîtres
+  ou rangs supérieurs de la Guilde des Forgemondes !
