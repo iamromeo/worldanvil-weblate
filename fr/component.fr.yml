@@ -310,4 +310,7 @@ pin.template.header: Modèle standard d'Épingles
 pin.template.description: Utilisez les fichiers du fichier zip pour créer des épingles
   similaires à ceux fournis par World Anvil.
 pin.value.notzero: Cette valeur ne doit pas être vide ou égale à 0.
-organization.and.access: Organisation et accès
+organization.and.access: Organisation et Accès
+grandmaster.feature: Ceci est une fonctionnalité de niveau Grand Maître ou plus. Rejoignez
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
+  Forgemondes</a> pour y avoir accès et aider World Anvil.
