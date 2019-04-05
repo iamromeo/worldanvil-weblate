@@ -307,5 +307,5 @@ pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage o
 pin.popupAnchorX: X du point de popup (en pixels)
 pin.popupAnchorY: Y du point de popup (en pixels)
 pin.template.header: Modèle standard d'Épingles
-pin.template.description: Utilisez les fichiers du fichier zip pour créer des symboles
+pin.template.description: Utilisez les fichiers du fichier zip pour créer des épingles
   similaires à ceux fournis par World Anvil.
