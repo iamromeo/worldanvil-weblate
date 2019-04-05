@@ -343,3 +343,4 @@ access.authors.writer.description: Accès pour créer des articles en tant que B
 access.authors.slots: Emplacements d'Auteur Utilisés
 access.subscribers.slots: Emplacements d'Abonnés Utilisés
 access.subscribers.purge: Purger la liste de tous les Abonnés actuels avant importation
+access.subscribers.emails: Emails abonnés
