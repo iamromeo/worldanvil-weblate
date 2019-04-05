@@ -337,6 +337,6 @@ access.authors.editor.description: Accès pour créer, voir et éditer tout et n
   quel contenu.
 access.authors.editor: Éditeur
 access.authors.writer: Écrivain
-access.authors.writer.description: Accès à la création d'articles en tant que Brouillons.
+access.authors.writer.description: Accès pour créer des articles en tant que Brouillons.
   Les éditeurs et niveaux supérieurs peuvent ensuite gérer, organiser et publier ces
   articles.
