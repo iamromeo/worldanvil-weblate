@@ -315,3 +315,11 @@ grandmaster.feature: Ceci est une fonctionnalité de niveau Grand Maître ou plu
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
   Forgemondes</a> pour y avoir accès et aider World Anvil.
 feat: Exploit
+guild.feature: Ceci est une fonctionnalité réservée aux membres de guildes. Rejoignez
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
+  Forgemondes</a> pour y avoir accès et aider World Anvil.
+master.feature: Ceci est une fonctionnalité de niveau Maître ou plus. Rejoignez <a
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des Forgemondes</a>
+  pour y avoir accès et aider World Anvil.
+access.rights.notice: La fonctionnalité Groupes et Abonnés est disponible uniquement
+  aux membres de la Guilde
