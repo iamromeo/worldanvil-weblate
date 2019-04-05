@@ -335,3 +335,8 @@ access.authors.coowner.description: Accès à tout y compris la configuration du
   le CSS et les Droits d'Accès.
 access.authors.editor.description: Accès pour créer, voir et éditer tout et n'importe
   quel contenu.
+access.authors.editor: Éditeur
+access.authors.writer: Écrivain
+access.authors.writer.description: Accès à la création d'articles en tant que Brouillons.
+  Les éditeurs et niveaux supérieurs peuvent ensuite gérer, organiser et publier ces
+  articles.
