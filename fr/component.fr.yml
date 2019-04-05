@@ -293,3 +293,6 @@ map.marker.lineDash.description: C'est une fonctionnalité avancée qui permet d
   l'apparence de la ligne. Par exemple 8 8 signifie des tirets de 8 pixels espacés
   de 8 pixels. Mais vous pouvez indiquer simplement 8, ou 1 2 3 4 pour obtenir des
   tirets et espacements variés.
+pin.shadow: Image de l'Ombre de l'Épingle
+pin.shadow.description: L'image de l'ombre du symbole. Cette image est optionnelle.
+  Elle doit être plus grande que l'image du symbole, et dépassera sur sa droite.
