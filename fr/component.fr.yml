@@ -357,3 +357,9 @@ access.group.description.description: (optionnel) Pour vous rappeler qui et pour
   les membres de ce groupe y sont.
 access.group.position.description: (optionnel) Juste pour que vous puissiez organiser
   vos groupes si vous en avez besoin.
+access.code.management: Gestion des Codes Abonnés
+access.code.code: Code
+access.code.group: Groupe d'Abonnés
+access.code.maxUses: Nombre Maximum d'Usages
+access.code.expiryDate: Date d'Expiration
+access.code.edit: Modifier Codes Abonnés
