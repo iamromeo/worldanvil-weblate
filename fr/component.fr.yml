@@ -330,3 +330,6 @@ access.rights.authors: Auteurs
 access.rights.codes: Codes d'Accès Abonnés
 access.authors.management: Gestion des Auteurs
 access.authors.revoke: Révoquer l'Accès
+access.authors.coowner: Co-Propriétaire
+access.authors.coowner.description: Accès à tout y compris la configuration du monde,
+  le CSS et les droits d'accès.
