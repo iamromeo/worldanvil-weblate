@@ -344,3 +344,8 @@ access.authors.slots: Emplacements d'Auteur Utilisés
 access.subscribers.slots: Emplacements d'Abonnés Utilisés
 access.subscribers.purge: Purger la liste de tous les Abonnés actuels avant importation
 access.subscribers.emails: Emails Abonnés
+access.authors.add: Ajouter nouvel Auteur
+access.authors.username: Nom d'utilisateur
+access.authors.rank: Rang
+access.authors.groups: Groupes
+access.subscriber.add: Ajouter abonné à un/des groupe/s
