@@ -349,3 +349,11 @@ access.authors.username: Nom d'utilisateur
 access.authors.rank: Rang
 access.authors.groups: Groupes
 access.subscriber.add: Ajouter Abonné à un/des Groupe/s
+access.subscribers.add: Ajouter Abonnés à un Groupe
+access.subscribers.management: Gestion des Abonnés
+access.group.management: Gestion des Groupes d'Abonnés
+access.group.edit: Modifier Groupe d'Abonnés
+access.group.description.description: (optionnel) Pour vous rappeler qui et pourquoi
+  les membres de ce groupe y sont.
+access.group.position.description: (optionnel) Juste pour que vous puissiez organiser
+  vos groupes si vous en avez besoin.
