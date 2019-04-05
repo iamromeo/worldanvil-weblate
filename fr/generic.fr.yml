@@ -39,3 +39,4 @@ access.description: Vous n'avez pas accès à cette page. Cet article est certai
   privé et vous n'avez pas les droits nécessaires pour le voir.
 access.return: Retourner d'où je viens.
 username: Nom d'utilisateur
+state: État
