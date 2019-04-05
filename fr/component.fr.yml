@@ -296,3 +296,11 @@ map.marker.lineDash.description: C'est une fonctionnalité avancée qui permet d
 pin.shadow: Image de l'Ombre de l'Épingle
 pin.shadow.description: L'image de l'ombre de l'épingle. Cette image est optionnelle.
   Elle doit être plus grande que l'image du symbole, et dépassera sur sa droite.
+pin.iconAnchor.description: Le point d'ancrage est le pixel unique sur lequel le repère
+  pointe sur la carte. Normalement c'est le point situé en X 0 et à la moitié de la
+  largeur Y du symbole.
+pin.iconAnchorX: X du point d'ancrage (en pixels)
+pin.iconAnchorY: Y du point d'ancrage (en pixels)
+pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage ou
+  le triangle popup apparaitra. Contrairement au point d'ancragedu symbole, il est
+  situé en haut du symbole ou plus haut.
