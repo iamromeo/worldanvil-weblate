@@ -304,3 +304,6 @@ pin.iconAnchorY: Y du point d'ancrage (en pixels)
 pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage où
   le triangle popup apparaîtra. Contrairement au point d'ancrage de l'épingle, il
   est situé en haut de l'épingle ou plus haut.
+pin.popupAnchorX: X du point de popup (en pixels)
+pin.popupAnchorY: Y du point de popup (en pixels)
+pin.template.header: Modèle standard de symboles
