@@ -237,7 +237,7 @@ map.layers.max: Vous avez atteint le nombre maximum de calques autorisé pour vo
 map.marker.linePoints: Coordonnées de lignes
 map.marker.lineColor.description: Couleur de la ligne. Vous pouvez utiliser les code
   couleurs CSS comme blue, red, yellow etc., OU le code hexadécimal de la couleur,
-  avec le dièse au début.
+  avec le dièse au début
 map.marker.lineWeight: Épaisseur de la ligne
 map.marker.lineWeight.description: L'épaisseur de la ligne, en pixels relatifs.
 map.marker.lineOpacity: Opacité de la ligne
@@ -364,3 +364,4 @@ access.code.group: Groupe d'Abonnés
 access.code.maxUses: Nombre Maximum d'Usages
 access.code.expiryDate: Date d'Expiration
 access.code.edit: Modifier Codes Abonnés
+access.group.assets: Ressources de Groupe
