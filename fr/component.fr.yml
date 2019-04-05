@@ -171,7 +171,7 @@ map.compass: Image de Rose des vents
 map.thumbnail: Vignette
 map.zoom.initial: Zoom initial
 map.zoom.initial.description: Définit le zoom par défaut lors du premier chargement
-  de la carte (0 par défaut).
+  de la carte (0 par défaut)
 map.zoom.min: Zoom minimum autorisé
 map.zoom.min.description: Définit le zoom arrière maximum. Ce multiplicateur est négatif,
   plus le nombre est petit et plus le zoom arrière autorisera un champ large (-2 par
@@ -298,12 +298,12 @@ pin.shadow.description: L'image de l'ombre de l'épingle. Cette image est option
   Elle doit être plus grande que l'image du symbole, et dépassera sur sa droite.
 pin.iconAnchor.description: Le point d'ancrage est le pixel unique sur lequel le repère
   pointe sur la carte. Normalement c'est le point situé en X 0 et à la moitié de la
-  largeur Y du symbole.
+  largeur Y du symbole
 pin.iconAnchorX: X du point d'ancrage (en pixels)
 pin.iconAnchorY: Y du point d'ancrage (en pixels)
 pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage où
   le triangle popup apparaîtra. Contrairement au point d'ancrage de l'épingle, il
-  est situé en haut de l'épingle ou plus haut.
+  est situé en haut de l'épingle ou plus haut
 pin.popupAnchorX: X du point de popup (en pixels)
 pin.popupAnchorY: Y du point de popup (en pixels)
 pin.template.header: Modèle standard d'Épingles
