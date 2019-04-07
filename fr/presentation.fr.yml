@@ -224,3 +224,16 @@ landmark.connectedrooms: Salles reliées
 landmark.professions: Professions associées
 landmark.materials: Matériaux associés
 landmark.contenders: Revendiqué par
+landmark.reportprimarylocations: Rapports liés (Lieux Principaux)
+landmark.reportsecondarylocations: Rapports liés (Lieux Secondaires)
+language.alphabet: Alphabet
+language.geographical.distribution: Distribution Géographique
+language.phonology: Phonologie
+language.morphology: Morphologie
+language.syntax: Syntaxe
+language.vocabulary: Vocabulaire
+language.phonetics: Phonétique
+language.sidebar.common.phrases: Phrases Communes
+language.sidebar.common.female.names: Noms Féminins Communs
+language.sidebar.common.male.names: Noms Masculins Communs
+language.sidebar.common.unisex.names: Noms unisexes Communs
