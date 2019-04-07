@@ -116,3 +116,7 @@ document.clauses: Clauses
 document.caveats: Avertissements
 document.references: Références
 document.publication.status: État de la publication
+document.legal.status: Statut légal
+document.historical.details: Détails Historiques
+document.history: Historique
+document.public.reaction: Réaction du publique
