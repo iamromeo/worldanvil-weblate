@@ -3,7 +3,7 @@ toc: Table des matières
 secrets: Secrets
 maps: Cartes
 articles: Articles
-history: ''
+history: Historique
 recent.articles: Articles récents
 uncategorized.articles: Articles non catégorisés
 following: Abonné à %name%
@@ -89,3 +89,16 @@ campaign.explore.world: Explorer le monde de %world_name%
 campaign.vtt: Plateau Virtuel
 campaign.journal.session.report: Rapport de Session
 condition.hosts: Hôtes et Porteurs
+authors: Auteurs
+author.page: Page de l'Auteur
+author.movies: Films préférés
+author.tv: Séries TV préférées
+author.books: Livres préférés
+author.writers: Auteurs préférés
+author.games: Jeux préférés
+alternativenames: Noms alternatifs
+condition.transmission: Transmission et Vecteurs
+condition.sequela: Séquelle
+condition.affectedgroups: Groupes affectés
+condition.epidimiology: Épidémiologie
+condition.reception: Ressenti culturel
