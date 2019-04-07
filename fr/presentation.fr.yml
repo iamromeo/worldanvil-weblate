@@ -109,4 +109,10 @@ author.characters: Personnages
 type: Type
 condition.prognosis: Pronostic
 condition.prevention: Prévention
-condition.species: Espèces affectées
+condition.species: Espèces Affectées
+document.purpose: Objectif
+document.structure: Structure de Document
+document.clauses: Clauses
+document.caveats: Avertissements
+document.references: Références
+document.publication.status: État de la publication
