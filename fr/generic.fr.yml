@@ -55,6 +55,9 @@ public: Public
 open: Ouvert
 views: Vues
 wip: Travail en cours
-access.multipass: Multipass?
+access.multipass: Multipass ?
 access.homepage: Aller à la Page d'Accueil
-access.passcode: Mot de passe requis
+access.passcode: Mot de passe Requis
+access.passcode.description: Cette page est protégée par un mot de passe ! Si vous
+  l'avez, entrez le dessous pour accéder au contenu.
+access.activate: Activation d'Abonnement
