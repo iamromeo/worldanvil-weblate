@@ -48,3 +48,9 @@ guild.required.grandmaster: Cette fonctionnalité requiert un abonnement Grand M
   ou supérieur de la Guilde des Forgemondes.
 todo.status.one: L'article est créé, Non Publié et toujours Inachevé
 todo.status.two: L'article est Publié mais toujours Inachevé
+moderation: Modération
+metadata: Métadonnées
+visibility: Visibilité
+public: Public
+open: Ouvert
+views: Vues
