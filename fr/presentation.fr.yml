@@ -172,3 +172,36 @@ formation.logistics: Logistique
 formation.auxilia: Auxiliaire
 formation.sidebar.assumed.veterancy: Expérience pré-supposée
 landmark.sensory: Aspect Sensoriel et Apparence
+formation.logistical.support: Support Logistique
+formation.upkeep: Maintenance
+formation.recruitment: Recrutement
+formation.history: Historique
+formation.historical.loyalties: 'Loyautés Historiques '
+formation.sidebar.type: Type
+formation.sidebar.founding: Fondation
+formation.sidebar.dissolution: Dissolution
+formation.sidebar.overall.training.level: Niveau d'entrainement moyen
+formation.sidebar.parent.formation: Formation Mère
+formation.sidebar.usedby: Utilisée par
+formation.sidebar.ranks.titles: Rangs et Titres
+item.inner.workings: Mécaniques et Fonctionnements Internes
+item.manufacturing.process: Processus de fabrication
+item.significance: Importance
+item.rpg.datasheet: Fiche de données JdR
+item.sidebar.itemtype: Type d'Objet
+item.sidebar.subtype.model: Sous-type / Modèle
+item.sidebar.usedby: Utilisé par
+item.sidebar.manufacturer: Fabricant
+item.sidebar.related.technologies: Technologies apparentées
+item.sidebar.related.ethnicities: Ethnies apparentées
+item.sidebar.owning.organization: Organisation Propriétaire
+item.sidebar.related.condition: Maladie Apparentée
+item.sidebar.rarity: Rareté
+item.sidebar.weight: Poids
+item.sidebar.dimensions: Dimensions
+item.sidebar.base.price: Prix de Base
+item.sidebar.rawmaterials.components: Matières Premières et Composants
+item.sidebar.tools: Outils
+item.sidebar.related.myths: Mythes Apparentés
+landmark.purpose: But / Fonction
+landmark.contents: Contenus et Fournitures
