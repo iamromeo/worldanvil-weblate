@@ -35,9 +35,9 @@ private: Privé
 favorites: Favoris
 comments: Commentaires
 author.notes: Notes de l'auteur
-access.description: Vous n'avez pas accès à cette page. Cet article est certainement
+access.description: Vous n'avez pas accès à cette page. Cet article est probablement
   privé et vous n'avez pas les droits nécessaires pour le voir.
-access.return: Retournez d'où vous venez!
+access.return: Retournez d'où vous venez !
 username: Nom d'utilisateur
 state: État
 studio.pins: 'Forge du Créateur : Épingles'
@@ -62,7 +62,7 @@ access.passcode.description: Cette page est protégée par un mot de passe ! Si 
   l'avez, entrez le dessous pour accéder au contenu.
 access.activate: Activation d'Abonnement
 access.activate.description: Saisissez votre code d'Abonnement ci-dessous pour accéder
-  au contenu. C'est aussi simple que ça!
+  au contenu. C'est aussi simple que ça !
 access.activate.subscription: Activer Abonnement
 access.activate.code: Entrer Code d'Activation
-access.activate.login: Vous devez être connecté pour activer votre abonnement!
+access.activate.login: Vous devez être connecté pour activer votre abonnement !
