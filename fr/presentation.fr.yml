@@ -25,7 +25,7 @@ support.patreon.user: Soutenir %username% sur Patreon
 support.kofi.user: Offrir un café à %username% !
 join.discord.world: Rejoindre %worldname% sur Discord !
 like.action.add.description: Faites savoir à l'auteur que vous aimez son travail.
-  Cet article ne sera PAS ajouté dans votre collection "à lire plus tard".
+  Cet article ne sera PAS ajouté dans votre collection "à lire plus tard"
 article.love: Personnes qui aiment votre article
 account.create: Créer votre compte
 in: dans
@@ -131,3 +131,5 @@ document.article.expirationdate: Date d'expiration
 document.article.myth: Mythe
 document.article.location: Lieu
 document.article.authors: Auteurs
+document.background: Contexte
+ethnicity.naming.traditions: Traditions de noms
