@@ -64,6 +64,6 @@ follow.action.unfollow.world: Ne plus suivre ce Monde
 like.action.remove: JE N'AIME PLUS
 reading.action.remove: RETIRER DE LA LISTE DE LECTURE
 reading.action.add: AJOUTER A LA LISTE DE LECTURE
-goto.homepage: Aller à la page d'accueil de %name%
+goto.homepage: Aller à la Page d'Accueil de %name%
 reading.action.add.description: Ajouter cet article à votre liste d'articles sauvegardés
   / à lire plus tard. L'auteur ne recevra PAS de notification.
