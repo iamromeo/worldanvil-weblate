@@ -266,3 +266,4 @@ material.boiling: Point d'Ébulition / Condensation
 material.melting: Point de Fusion / Solidification
 material.density: Densité
 material.commonState: État Courant
+material.locations: Lieux associés
