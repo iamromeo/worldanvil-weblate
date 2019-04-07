@@ -71,4 +71,21 @@ article.love.return: Allez donner de l'amour en retour !
 article.visibility: Cet article est visible par les groupes d'abonnés suivants
 article.likes.number: Ce message est aimé par %number% forgemondes
 players.looking: Recherche des joueurs
-players.full: La Campagne est complète
+players.full: La Campagne est Complète
+author.comments: Commentaires et Remarques
+campaign.system: Un jeu de %system_name%
+campaign.world: Dans le monde de %world_name%
+campaign.watchlive: Regarder la campagne en direct sur Twitch
+campaign.support.patreon: Soutenir cette Campagne sur Patreon
+campaign.sessions: Liste de Sessions
+campaign.sessions.scheduled: Sessions Programmées
+campaign.sessions.past: Session Précédente
+campaign.session.live: EN DIRECT
+campaign.supporting.cast: Personnages Secondaires
+campaign.neutral: Factions Neutres
+campaign.generic: Autres PNJs
+campaign.setting: Le Contexte
+campaign.explore.world: Explorer le monde de %world_name%
+campaign.vtt: Plateau Virtuel
+campaign.journal.session.report: Rapport de Session
+condition.hosts: Hôtes et Porteurs
