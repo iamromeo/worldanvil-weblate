@@ -176,7 +176,7 @@ formation.logistical.support: Support Logistique
 formation.upkeep: Maintenance
 formation.recruitment: Recrutement
 formation.history: Historique
-formation.historical.loyalties: 'Loyautés Historiques '
+formation.historical.loyalties: Loyautés Historiques
 formation.sidebar.type: Type
 formation.sidebar.founding: Fondation
 formation.sidebar.dissolution: Dissolution
@@ -184,7 +184,7 @@ formation.sidebar.overall.training.level: Niveau d'entrainement moyen
 formation.sidebar.parent.formation: Formation Mère
 formation.sidebar.usedby: Utilisée par
 formation.sidebar.ranks.titles: Rangs et Titres
-item.inner.workings: Mécaniques et Fonctionnements Internes
+item.inner.workings: ' Mécaniques et Fonctionnements Internes'
 item.manufacturing.process: Processus de fabrication
 item.significance: Importance
 item.rpg.datasheet: Fiche de données JdR
@@ -209,3 +209,4 @@ landmark.design: Apparence
 landmark.entries: Accès
 landmark.denizens: Habitants
 landmark.valuables: Richesses
+landmark.ruined: STRUCTURE EN RUINE
