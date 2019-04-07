@@ -65,3 +65,4 @@ access.activate.description: Saisissez votre code d'Abonnement ci-dessous pour a
   au contenu. C'est aussi simple que ça!
 access.activate.subscription: Activer Abonnement
 access.activate.code: Entrer Code d'Activation
+access.activate.login: Vous devez être connecté pour activer votre abonnement!
