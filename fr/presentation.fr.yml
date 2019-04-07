@@ -267,3 +267,4 @@ material.melting: Point de Fusion / Solidification
 material.density: Densité
 material.commonState: État Courant
 material.locations: Lieux Associés
+material.species: Espèces associées
