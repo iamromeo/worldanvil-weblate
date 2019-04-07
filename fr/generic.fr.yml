@@ -63,3 +63,5 @@ access.passcode.description: Cette page est protégée par un mot de passe ! Si 
 access.activate: Activation d'Abonnement
 access.activate.description: Saisissez votre code d'Abonnement ci-dessous pour accéder
   au contenu. C'est aussi simple que ça!
+access.activate.subscription: Activer Abonnement
+access.activate.code: Entrer Code d'Activation
