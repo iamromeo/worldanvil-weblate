@@ -122,3 +122,12 @@ document.history: Historique
 document.public.reaction: Réaction du public
 document.term: Durée
 document.modal.close: Fermer
+document.legacy: Héritage
+document.modal.read.document: Lire le Document
+document.article.medium: Média
+document.article.authoringdate: Date d'autorisation
+document.article.ratificationdate: Date de ratification
+document.article.expirationdate: Date d'expiration
+document.article.myth: Mythe
+document.article.location: Lieu
+document.article.authors: Auteurs
