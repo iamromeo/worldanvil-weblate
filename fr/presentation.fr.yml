@@ -210,3 +210,17 @@ landmark.entries: Accès
 landmark.denizens: Habitants
 landmark.valuables: Richesses
 landmark.ruined: STRUCTURE EN RUINE
+landmark.hazards: Pièges et dangers
+landmark.properties: Propriétés spéciales
+landmark.effects: Effets sur l'environnement
+landmark.alterations: Transformations
+landmark.architecture: Architecture
+landmark.parent: Lieu parent
+landmark.children: Lieux inclus
+landmark.owner: Propriétaire
+landmark.organization: Organisation propriétaire
+landmark.charactersinlocation: Personnages présents
+landmark.connectedrooms: Salles reliées
+landmark.professions: Professions associées
+landmark.materials: Matériaux associés
+landmark.contenders: Revendiqué par
