@@ -62,3 +62,6 @@ featured.articles: Articles en Vedette
 tweets.by: Tweets de
 follow.action.unfollow.world: Ne plus suivre ce Monde
 like.action.remove: JE N'AIME PLUS
+reading.action.remove: RETIRER DE LA LISTE DE LECTURE
+reading.action.add: AJOUTER A LA LISTE DE LECTURE
+goto.homepage: Aller à la page d'accueil de %name%
