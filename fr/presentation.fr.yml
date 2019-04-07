@@ -243,3 +243,6 @@ material.compounds: Composants
 material.geo: Géologie et Géographie
 material.origin: Origine et Source
 material.halflife: Vie et Péremption
+material.discovery: Découverte
+material.useCommon: Utilisation habituelle
+material.useCultural: Usage et signification culturelle
