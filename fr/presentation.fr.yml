@@ -8,7 +8,7 @@ recent.articles: Articles récents
 uncategorized.articles: Articles non classés
 following: Abonné à %name%
 follow: S'abonner à %name%
-follow.action.remove: Se désabonner
+follow.action.remove: NE PLUS SUIVRE
 follow.action.add: S'abonner
 follow.action.add.description: S'abonner pour recevoir dans votre fil d'actualité
   les nouveautés de ce monde.
