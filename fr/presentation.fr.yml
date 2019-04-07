@@ -133,3 +133,12 @@ document.article.location: Lieu
 document.article.authors: Auteurs
 document.background: Contexte
 ethnicity.naming.traditions: Traditions de noms
+document.article.signatoriescharacters: Signataires (Personnages)
+document.article.signatoriesorganizations: Signataires (Organisations)
+ethnicity.feminine.names: Noms féminins
+ethnicity.masculine.names: Noms masculins
+ethnicity.unisex.names: Noms unisexes
+ethnicity.family.names: Noms de familles
+ethnicity.other.names: Noms autres
+ethnicity.culture: Culture
+ethnicity.major.lang.groups.dialects: Groupes majeurs de langues et dialectes
