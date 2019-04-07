@@ -265,4 +265,4 @@ material.color: Couleur
 material.boiling: Point d'Ébulition / Condensation
 material.melting: Point de Fusion / Solidification
 material.density: Densité
-material.commonState: Etat courant
+material.commonState: État Courant
