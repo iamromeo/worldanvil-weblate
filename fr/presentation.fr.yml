@@ -169,3 +169,6 @@ formation.structure: Structure
 formation.tactics: Tactiques
 formation.training: Entraînement
 formation.logistics: Logistique
+formation.auxilia: Auxiliaire
+formation.sidebar.assumed.veterancy: Expérience pré-supposée
+landmark.sensory: Aspect Sensoriel et Apparence
