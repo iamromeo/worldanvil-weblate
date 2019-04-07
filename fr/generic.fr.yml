@@ -30,11 +30,11 @@ world: Monde
 category: Catégorie
 author: Auteur
 creation.date: Date de Création
-update.date: Date de dernière mise à jour
+update.date: Dernière mise à jour
 private: Privé
 favorites: Favoris
 comments: Commentaires
-author.notes: Notes de l'auteur
+author.notes: Notes d'auteur
 access.description: Vous n'avez pas accès à cette page. Cet article est probablement
   privé et vous n'avez pas les droits nécessaires pour le voir.
 access.return: Retournez d'où vous venez !
