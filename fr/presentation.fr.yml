@@ -68,7 +68,6 @@ goto.homepage: Aller à la Page d'Accueil de %name%
 reading.action.add.description: Ajouter cet article à votre liste d'articles sauvegardés
   / à lire plus tard. L'auteur ne recevra PAS de notification.
 article.love.return: Allez donner de l'amour en retour !
-article.visibility: 'Cet article est visible par les groupes d''abonnés suivants
-
-  '
+article.visibility: Cet article est visible par les groupes d'abonnés suivants
 article.likes.number: Ce message est aimé par %number% forgemondes
+players.looking: Recherche des joueurs
