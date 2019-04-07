@@ -27,7 +27,7 @@ join.discord.world: Rejoindre %worldname% sur Discord !
 like.action.add.description: Faites savoir à l'auteur que vous aimez son travail.
   Cet article ne sera PAS ajouté dans votre collection "à lire plus tard"
 article.love: Personnes qui aiment votre article
-account.create: Créer votre compte
+account.create: Créez votre compte
 in: dans
 author.notes: Notes d'auteur
 editorial.team: Les éditeurs
@@ -138,7 +138,7 @@ document.article.signatoriesorganizations: Signataires (Organisations)
 ethnicity.feminine.names: Noms féminins
 ethnicity.masculine.names: Noms masculins
 ethnicity.unisex.names: Noms unisexes
-ethnicity.family.names: Noms de familles
+ethnicity.family.names: Noms de famille
 ethnicity.other.names: Noms autres
 ethnicity.culture: Culture
 ethnicity.major.lang.groups.dialects: Groupes de langues et dialectes majeurs
@@ -188,7 +188,7 @@ item.inner.workings: ' Mécaniques et Fonctionnements Internes'
 item.manufacturing.process: Processus de fabrication
 item.significance: Importance
 item.rpg.datasheet: Fiche de données JdR
-item.sidebar.itemtype: Type d'Objet
+item.sidebar.itemtype: Type d'objet
 item.sidebar.subtype.model: Sous-type / Modèle
 item.sidebar.usedby: Utilisé par
 item.sidebar.manufacturer: Fabricant
@@ -211,21 +211,21 @@ landmark.denizens: Habitants
 landmark.valuables: Richesses
 landmark.ruined: STRUCTURE EN RUINE
 landmark.hazards: Pièges et dangers
-landmark.properties: Propriétés spéciales
-landmark.effects: Effets sur l'environnement
+landmark.properties: Propriétés Spéciales
+landmark.effects: Effets sur l'Environnement
 landmark.alterations: Transformations
 landmark.architecture: Architecture
-landmark.parent: Lieu parent
-landmark.children: Lieux inclus
+landmark.parent: Lieu Parent
+landmark.children: Lieux Inclus
 landmark.owner: Propriétaire
-landmark.organization: Organisation propriétaire
-landmark.charactersinlocation: Personnages présents
-landmark.connectedrooms: Salles reliées
-landmark.professions: Professions associées
-landmark.materials: Matériaux associés
+landmark.organization: Organisation Propriétaire
+landmark.charactersinlocation: Personnages Présents
+landmark.connectedrooms: Pièces Reliées
+landmark.professions: Professions Associées
+landmark.materials: Matériaux Associés
 landmark.contenders: Revendiqué par
-landmark.reportprimarylocations: Rapports liés (Lieux Principaux)
-landmark.reportsecondarylocations: Rapports liés (Lieux Secondaires)
+landmark.reportprimarylocations: Rapports Liés (Lieux Principaux)
+landmark.reportsecondarylocations: Rapports Liés (Lieux Secondaires)
 language.alphabet: Alphabet
 language.geographical.distribution: Distribution Géographique
 language.phonology: Phonologie
@@ -238,7 +238,7 @@ language.sidebar.common.female.names: Noms Féminins Communs
 language.sidebar.common.male.names: Noms Masculins Communs
 language.sidebar.common.unisex.names: Noms Unisexes Communs
 material.properties: Propriétés
-material.characteristics: Caractéristiques physiques
+material.characteristics: Caractéristiques Physiques
 material.compounds: Composants
 material.geo: Géologie et Géographie
 material.origin: Origine et Source
