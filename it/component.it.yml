@@ -79,3 +79,5 @@ delete.historical.entry: Elimina Evento Storico
 delete.image: Elimina Immagine
 line: Linea
 delete.player.character: Elimina Personaggio Giocatore
+delete.timeline: Elimina Timeline
+delete.layer: Elimina Layer
