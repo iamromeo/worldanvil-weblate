@@ -99,3 +99,5 @@ image: Immagine
 label: Etichetta
 link: Link Diretto
 map: Mappa
+marker: Marcatore
+marker.group: Gruppo Marcatori
