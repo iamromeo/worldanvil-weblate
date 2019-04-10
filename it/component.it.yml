@@ -2,7 +2,7 @@ create.author.profile: Crea Profilo
 create.block: Crea Blocco
 create.campaign: Crea Campagna
 create.category: Crea Categoria
-create.historical.entry: Crea --- Storica
+create.historical.entry: Crea Evento Storico
 create.image: Crea Immagine
 create.player.character: Crea Personaggio Giocatore
 create.timeline: Crea Timeline
@@ -78,3 +78,4 @@ delete.category: Elimina Categoria
 delete.historical.entry: Elimina Evento Storico
 delete.image: Elimina Immagine
 line: Linea
+delete.player.character: Elimina Personaggio Giocante
