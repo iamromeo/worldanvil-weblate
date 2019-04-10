@@ -85,7 +85,7 @@ delete.marker: Elimina Marcatore
 delete.marker.group: Elimina Gruppo Marcatori
 delete.pin: Elimina Pin Mappa
 view.world: Guarda Mondo
-historical.entry: Evento Storico
+historical.entry: Voce Storica
 player.character: Personaggio Giocatore
 delete.note: Elimina Nota
 delete.secret: Elimina Segreto
@@ -100,5 +100,50 @@ label: Etichetta
 link: Link Diretto
 map: Mappa
 marker: Marcatore
-marker.group: Gruppo Marcatori
+marker.group: Gruppo Marcatore
 note: Nota
+layer: Livello
+polygon: Polygon ( contesto?? )
+popup: Popup
+pin: Pin Mappa
+secret: Segreto
+tag: Tag
+group: Gruppo
+subscriber: Iscritto
+blocks: Blocchi
+categories: Categorie
+historical.entries: Voci Storiche
+images: Immagini
+player.characters: Personaggi Giocatore
+layers: Livelli
+markers: Marcatori
+marker.groups: Gruppi Marcatore
+worlds: Mondi
+groups: Gruppi
+subscribers: Iscritti
+list.articles: Lista Articoli
+list.blocks: Lista Blocchi
+list.campaigns: Lista Campagne
+list.categories: Lista Categorie
+list.historical.entries: Lista - Voci Storiche
+list.images: Lista Immagini
+list.player.characters: Lista - Personaggi Giocatore
+list.maps: Lista Mappe
+list.markers: Lista Marcatori
+list.marker.groups: Lista Gruppi Marcatore
+list.layers: Lista Livelli
+list.timelines: Lista Timeline
+list.notes: Lista Note
+list.pins: Lista Pin Mappa
+list.secrets: Lista Segreti
+list.worlds: Lista Mondi
+access: Accesso
+list.subscribers: Iscritti
+related.category: Categoria Correlata
+related.location: Luogo Correlato
+related.map: Mappa Correlata
+related.organization: Organizzazione Correlata
+related.article: Articolo Correlato
+related.history: Voce Storica Correlata
+BETA: BETA
+position: Posizione/Peso
