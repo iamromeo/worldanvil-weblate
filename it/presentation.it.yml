@@ -156,7 +156,7 @@ material.commonState: Stato Naturale
 world.anvil.header: La Piattaforma Strumenti per la Creazione di Mondi e la Community
   di World Anvil
 powered.by: Alimentato da
-condition.affectedgroups: Gruppi Colpiti
+condition.affectedgroups: Gruppi A Rischio
 condition.reception: Prospettiva Culturale
 landmark.parent: Località
 landmark.reportprimarylocations: Rapporto Connesso (Luoghi Primari)
@@ -171,3 +171,39 @@ document.purpose: Scopo
 document.structure: Struttura del documento
 document.clauses: Clausole
 document.caveats: Ammonimenti
+document.references: Riferimenti
+document.publication.status: Stato di Pubblicazione
+document.legal.status: Stato Legale
+document.historical.details: Dettagli Storici
+document.background: Background
+document.history: Storia
+document.public.reaction: Reazione Pubblica
+document.legacy: Eredità
+document.term: Termine
+document.modal.read.document: Leggi il Documento
+document.modal.close: Chiudi
+document.article.medium: Medium o Medio ( Contesto??? )
+document.article.authoringdate: Data di Scrittura
+document.article.ratificationdate: Data di Ratifica
+document.article.expirationdate: Data di Scadenza
+document.article.myth: Mito
+document.article.location: Luogo
+document.article.authors: Autori
+document.article.signatoriescharacters: Firmatari (Personaggi)
+document.article.signatoriesorganizations: Firmatari (Organizzazioni)
+ethnicity.naming.traditions: Tradizioni di Nomenclatura
+ethnicity.feminine.names: Nomi Femminili
+ethnicity.masculine.names: Nomi Maschili
+ethnicity.unisex.names: Nomi Neutri
+ethnicity.family.names: Nomi di Famiglia
+ethnicity.other.names: Altri nomi
+ethnicity.culture: Cultura
+ethnicity.major.lang.groups.dialects: Principali gruppi linguistici e dialetti
+ethnicity.culture.cultural.heritage: Cultura e eredità culturale
+ethnicity.shared.customary.codes.values: Usanze e valori condivisi
+ethnicity.Average.technological.level: Livello tecnologico medio
+ethnicity.common.etiquette.rules: Regole Comuni di Etichetta
+ethnicity.common.dress.code: Codice di Abbigliamento Comune
+ethnicity.art.architecture: Arte e Architettura
+ethnicity.common.customs.traditions.rituals: Costumi, tradizioni e rituali Comuni
+ethnicity.birth.baptismal.rites: Riti di Nascita e Battesimali
