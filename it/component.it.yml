@@ -148,5 +148,4 @@ related.history: Voce Storica Correlata
 BETA: BETA
 position: Posizione/Peso
 position.description: Il peso è un numero che definisce in che ordine un oggetto apparirà
-  in una lista di questi oggetti. Più alto è il numero, più alta sarà la posizione
-  in cui apparirà.
+  in una lista di questi oggetti. Più alto è il numero più in alto apparirà l'oggetto.
