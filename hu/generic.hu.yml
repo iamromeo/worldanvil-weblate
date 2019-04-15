@@ -60,7 +60,7 @@ access.passcode: Jelszó Szükséges
 access.passcode.description: Ez az oldal jelszóval védett! Ha rendelkezel a jelszóval,
   add meg alul, hogy hozzáférj a tartalomhoz.
 username: Felhasználónév
-state: Állapot
+state: Állam
 access.activate: Feliratkozó Aktiváció
 access.activate.description: Írd be alulra a Feliratkozó kódod, hogy hozzáférj a tartalomhoz.
   Ennyire egyszerű!
