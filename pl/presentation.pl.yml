@@ -149,7 +149,7 @@ campaign.world: W świecie %world_name%
 campaign.storytellers: Historia opowiadana przez
 campaign.watchlive: Oglądaj kampanię na żywo na Twitch.tv
 campaign.protagonists: Protagoniści
-campaign.playedby: Grane przez
+campaign.playedby: Rozgrywane przez
 campaign.full: Pełna
 campaign.support.patreon: Wspieraj tę Kampanię na Patreonie
 campaign.sessions: Lista Sesji
@@ -164,3 +164,10 @@ campaign.vtt: Wirtualny Stół
 material.origin: Źródło i pochodzenie
 campaign.allies: Sojusznicy
 campaign.journal.session.report: Raport z Sesji
+document.historical.details: Szczególy historyczne
+ethnicity.feminine.names: Imiona żeńskie
+ethnicity.masculine.names: Imiona męskie
+ethnicity.unisex.names: Imiona bezpłciowe
+ethnicity.family.names: Nazwiska rodowe
+ethnicity.major.lang.groups.dialects: Główne grupy językowe i dialekty
+ethnicity.shared.customary.codes.values: Współdzielone wartości i kody zwyczajowe
