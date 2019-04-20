@@ -54,3 +54,10 @@ favorites: Ulubione
 comments: Komentarze
 wip: Praca w toku
 author.notes: Notatki autora
+username: Nazwa Użytkownika
+state: Stan
+studio.pins: 'Studio Twórców: Pinezki'
+studio.sheets: 'Studio Twórców: Karty'
+access.passcode: Wymagane Hasło
+access.passcode.description: Ta strona jest zabezpieczona hasłem! Wpisz je poniżej,
+  aby uzyskać dostęp to treści.
