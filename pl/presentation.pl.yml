@@ -149,7 +149,7 @@ campaign.world: W świecie %world_name%
 campaign.storytellers: Historia opowiadana przez
 campaign.watchlive: Oglądaj kampanię na żywo na Twitch.tv
 campaign.protagonists: Protagoniści
-campaign.playedby: Grane przez
+campaign.playedby: Rozgrywane przez
 campaign.full: Pełna
 campaign.support.patreon: Wspieraj tę Kampanię na Patreonie
 campaign.sessions: Lista Sesji
@@ -164,3 +164,39 @@ campaign.vtt: Wirtualny Stół
 material.origin: Źródło i pochodzenie
 campaign.allies: Sojusznicy
 campaign.journal.session.report: Raport z Sesji
+document.historical.details: Szczególy historyczne
+ethnicity.feminine.names: Imiona żeńskie
+ethnicity.masculine.names: Imiona męskie
+ethnicity.unisex.names: Imiona bezpłciowe
+ethnicity.family.names: Nazwiska rodowe
+ethnicity.major.lang.groups.dialects: Główne grupy językowe i dialekty
+ethnicity.shared.customary.codes.values: Współdzielone wartości i kody zwyczajowe
+campaign.generic: Inni BN
+document.purpose: Cel
+document.structure: Struktura Dokumentu
+document.clauses: Paragrafy
+document.caveats: Zastrzeżenia
+document.references: Odniesienia
+document.publication.status: Status publikacji
+document.legal.status: Status prawny
+document.background: Tło historyczne
+document.history: Historia
+document.public.reaction: Reakcja publiki
+document.legacy: Dziedzictwo
+document.term: Czas trwania
+document.modal.read.document: Przeczytaj Dokument
+document.modal.close: Zamknij
+document.article.medium: Medium
+document.article.expirationdate: Data wygaśnięcia
+document.article.myth: Mit
+document.article.location: Miejsce
+document.article.authors: Autorzy
+document.article.signatoriescharacters: Podpisujący (Postacie)
+document.article.signatoriesorganizations: Podpisujący (Organizacje)
+ethnicity.naming.traditions: Tradycje Nazewnictwa
+ethnicity.other.names: Inne nazwy
+ethnicity.culture: Kultura
+ethnicity.culture.cultural.heritage: Kultura i dziedzictwo kulturowe
+ethnicity.Average.technological.level: Średni poziom technologiczny
+ethnicity.common.etiquette.rules: Powszechne zasady etykiety
+campaign.setting: Tło Kampanii
