@@ -61,3 +61,4 @@ studio.sheets: 'Studio Twórców: Karty'
 access.passcode: Wymagane Hasło
 access.passcode.description: Ta strona jest zabezpieczona hasłem! Wpisz je poniżej,
   aby uzyskać dostęp to treści.
+access.activate: Aktywacja Subskrypcji
