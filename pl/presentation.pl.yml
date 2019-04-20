@@ -200,3 +200,48 @@ ethnicity.culture.cultural.heritage: Kultura i dziedzictwo kulturowe
 ethnicity.Average.technological.level: Średni poziom technologiczny
 ethnicity.common.etiquette.rules: Powszechne zasady etykiety
 campaign.setting: Tło Kampanii
+ethnicity.art.architecture: Sztuka i Architektura
+ethnicity.common.customs.traditions.rituals: Powszechne zwyczaje, tradycje i obrzędy
+ethnicity.birth.baptismal.rites: Obrzędy porodowe i chrzcielne
+ethnicity.comingofage.rites: Obrzędy dojrzewania
+ethnicity.funerary.memorial.Customs: Obrzędy pogrzebowe i upamiętniające
+ethnicity.common.taboos: Powszechne tabu
+ethnicity.common.myths.legends: Powszechne mity i legendy
+ethnicity.historical.figures: Postacie historyczne
+ethnicity.ideals: Ideały
+ethnicity.beauty.ideals: Ideały piękna
+ethnicity.gender.ideals: Ideały płci
+ethnicity.courtship.ideals: Ideały konkurów
+ethnicity.relationship.ideals: Ideały związków
+ethnicity.major.organizations: Główne organizacje
+formation.manpower: Zasoby ludzkie
+formation.equipment: Ekwipunek
+formation.weaponry: Uzbrojenie
+formation.vehicles: Pojazdy
+formation.structure: Struktura
+formation.tactics: Taktyki
+formation.logistics: Logistyka
+formation.logistical.support: Wsparcie logistyczne
+formation.upkeep: Utrzymanie
+formation.recruitment: Rekrutacja
+formation.history: Historia
+formation.sidebar.type: Typ
+formation.sidebar.dissolution: Rozwiązanie
+formation.sidebar.overall.training.level: Ogólny poziom wyszkolenia
+formation.sidebar.assumed.veterancy: Zakładane doświadczenie
+formation.sidebar.parent.formation: Formacja macierzysta
+formation.sidebar.usedby: Używana przez
+formation.sidebar.ranks.titles: Stopnie i Tytuły
+item.manufacturing.process: Proces produkcji
+item.significance: Znaczenie
+item.rpg.datasheet: Karta statyskyk RPG
+item.sidebar.itemtype: Typ przedmiotu
+item.sidebar.subtype.model: Podtyp / Model
+item.sidebar.usedby: Używany przez
+item.sidebar.manufacturer: Twórca
+item.sidebar.related.technologies: Powiązane Technologie
+item.sidebar.related.ethnicities: Powiązane etniczności
+item.sidebar.weight: Waga
+item.sidebar.dimensions: Wymiary
+item.sidebar.base.price: Cena bazowa
+item.sidebar.rawmaterials.components: Surowce i składniki
