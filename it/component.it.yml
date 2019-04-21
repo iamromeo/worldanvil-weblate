@@ -157,3 +157,4 @@ access.description: Rendi il tuo post pubblico in modo che tutti possano vederlo
 subscriber.groups: Gruppi Iscritti
 subscriber.groups.description: Seleziona uno o più gruppi a cui vuoi permettere l'accesso
   a questo articolo. Questo influenza solo gli articoli privati.
+display: Mostra
