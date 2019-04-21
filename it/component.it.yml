@@ -170,3 +170,6 @@ map.edit.details: Modifica Dettagli Mappa
 map.image.details: Le dimensione del file previste sono
 map.legend: Legenda
 map.compass: Immagine Rosa dei Venti
+map.compass.description: Seleziona un'immagine per essere mostrata come la Rosa dei
+  Venti della tua mappa in fondo a destra della mappa. Usare un'immagine con la trasparenza
+  avrà un effetto visivo migliore
