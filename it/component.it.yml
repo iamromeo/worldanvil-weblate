@@ -155,3 +155,5 @@ status.description: Rendi questo oggetto pubblico in modo che tutti possano vede
 access.description: Rendi il tuo post pubblico in modo che tutti possano vederlo.
   I post privati sono visibili soltanto da te e dai co-autori del tuo mondo
 subscriber.groups: Gruppi Iscritti
+subscriber.groups.description: Seleziona uno o più gruppi a cui vuoi permettere l'accesso
+  a questo articolo. Questo influenza solo gli articoli privati
