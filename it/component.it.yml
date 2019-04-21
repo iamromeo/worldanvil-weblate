@@ -163,4 +163,10 @@ tags.description: Use le virgole per separare i tuoi tag. Aggiungere tag ad ogni
   di contenuto ti aiuterà a cercarlo utilizzando uno qualsiasi dei tuoi tag.
 tag.description: Usa le virgole per separare i tuoi tag. Aggiungere tag ad ogni pezzo
   di contenuto ti aiuterà a cercarlo usando uno qualsiasi di quei tag.
-map.image: Immagine Primaria della Mappa
+map.image: Immagine Primaria Mappa
+map.image.secondary: Livello Immagine
+map.update.image: Aggiorna Immagine Primaria Mappa
+map.edit.details: Modifica Dettagli Mappa
+map.image.details: Le dimensione del file previste sono
+map.legend: Legenda
+map.compass: Immagine Rosa dei Venti
