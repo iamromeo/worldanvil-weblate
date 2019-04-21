@@ -170,6 +170,85 @@ map.edit.details: Modifica Dettagli Mappa
 map.image.details: Le dimensione del file previste sono
 map.legend: Legenda
 map.compass: Immagine Rosa dei Venti
-map.compass.description: Seleziona un'immagine per essere mostrata come la Rosa dei
-  Venti della tua mappa in fondo a destra della mappa. Usare un'immagine con la trasparenza
-  avrà un effetto visivo migliore
+map.compass.description: Seleziona un'immagine per essere mostrata come Rosa dei Venti
+  della tua mappa in basso a destra della mappa. Usare un'immagine con trasparenza
+  avrà risultati visivamente migliori.
+map.thumbnail: Immagine di Miniatura
+map.zoom.initial: Livello Zoom Iniziale
+map.zoom.initial.description: Imposta quanto sarà zumata la mappa quando è appena
+  caricata. (0 di Default)
+map.zoom.min: Minimo Zoom Permesso
+map.zoom.max: Massimo Zoom Permesso
+map.center.y: Punto d'Origine Iniziale (Asse Y)
+map.center.x: Punto d'Origine Iniziale (Asse X)
+map.marker.style: Stile
+map.marker.color: Colore
+map.marker.longitude: Longitudine
+map.marker.latitude: Latitudine
+map.marker.lng: Lng
+map.marker.lat: Lat
+map.marker.height: Altitudine
+map.marker.new: Nuovo Marcatore Posizione
+map.marker.drag: Trascinami per impostare le coordinate del nuovo Marcatore
+map.marker.fill: Ottimo! Riempi il modulo sottostante ora!
+map.marker.label: Testo Etichetta
+map.marker.label.description: Questo è il testo che apparirà sulla tua mappa attraverso
+  questa Etichetta.
+map.display.homepage: Mostra questa mappa nella homepage del Mondo.
+map.marker.choice: Scegli e riempi solo una delle seguenti opzioni.
+map.marker.radius: Raggio del Cerchio
+map.marker.radius.description: Raggio del Cerchio in pixel. Riempi solo questo se
+  vuoi creare un cerchio e non un poligono.
+map.marker.link.description: Se contrassegni il marcatore come un marcatore a link
+  diretto, trasferirà l'utente direttamente alla pagina interessata.
+map.marker.link.relation.description: Scegli una delle relazioni sottostanti per collegarle
+  al link diretto. Se ne scegli più di una, solo la prima avrà effetto.
+map.marker.polygonPoints: Punti Poligono
+map.marker.polygonPoints.description: Longitudine e Latitudine di ogni punto come
+  una coppia separata da una virgola e separate tra loro con uno spazio. Per esempio
+  20,20 30,30 50,45. Consiglio! Usa il pin rosso "nuovo punto" per ottenere lon/lat.
+map.marker.colorOutline: Colore Contorno
+map.marker.colorOutline.description: Il colore del contorno di un cerchio o un poligono.
+  Puoi usare colori CSS come blu, rosso, giallo etc, OPPURE l'hexcode del colore includendo
+  l'hashtag di fronte alla stringa
+map.marker.colorFill: Riempi Colore
+map.marker.colorFill.description: il colore dell'area che riempie il cerchio o il
+  poligono. Puoi usare colori CSS come blu, rosso, giallo etc, OPPURE l'hexcode del
+  colore incluso l'hashtag di fronte alla stringa
+map.marker.opacityOutline: Opacità Contorno
+map.marker.opacityOutline.description: L'opacità % del contorno. Da 0 a 100% (i.e.
+  50)
+map.marker.opacityFill: Riempi Opacità
+map.marker.opacityFill.description: L'opacità % dell'are che riempie il cerchio o
+  il poligono. Da 0 a 100% (i.e. 50)
+map.marker.group.onload: Visibilità Gruppo Iniziale
+map.marker.group.onload.description: Rendi questo gruppo visibile durante il caricamento
+  iniziale della mappa
+map.layers.max: 'Hai raggiunto il numero massimo di livelli che puoi sul tuo account!
+  Se vuoi più livelli sulle tue mappe, per favore considera un miglioramento! <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">
+
+  Worldbuilders Guild</a>'
+map.marker.linePoints: Punti Linea
+map.marker.linePoints.description: Longitudine e Latitudine di ogni punto come una
+  coppia separata da una virgola e separate tra loro con uno spazio. Per esempio 20,20
+  30,30 50,45. Consiglio! Usa il pin rosso "nuovo punto" per ottenere lon/lat.
+map.marker.lineColor: Colore Linea
+map.marker.lineColor.description: Il colore della Linea. Puoi usare colori CSS come
+  blu, rosso, giallo etc, OPPURE l'hexcode del colore incluso l'hashtag di fronte
+  alla stringa
+map.marker.lineWeight: Peso Linea
+map.marker.lineWeight.description: Il peso in pixel relative alla linea.
+map.marker.lineOpacity: Opacità Linea
+map.marker.lineOpacity.description: L'opacità % della Linea. Da 0 a 100% (i.e. 50)
+map.marker.lineDash: Array Tratteggio Linea
+map.marker.lineDash.description: Questa è una funzione avanzata. Usa tratteggio linea
+  per definire il pattern di tratteggio della tua linea. Per esempio 8 8 significa
+  8 pixel di linea e 8 pixel di spazio. Ma tu puoi anche usare semplicemente 8 o 1
+  2 3 4 per avere tratteggio linea variabile.
+map.marker.linePoints.check: Dai un'occhiata a questo e trascina e rilascia il nuovo
+  marcatore pin per creare una linea.
+pin.pinImage: Immagine Pin
+pin.shadow: Ombreggiatura Immagine Pin
+pin.shadow.description: L'immagine dell'ombreggiatura del pin. Questa immagine è opzionale.
+  Se fornita dev'essere più larga dell'immagine pin e estesa verso il suo lato destro.
