@@ -158,3 +158,4 @@ subscriber.groups: Gruppi Iscritti
 subscriber.groups.description: Seleziona uno o più gruppi a cui vuoi permettere l'accesso
   a questo articolo. Questo influenza solo gli articoli privati.
 display: Mostra
+display.homepage: Mostra questa mappa sulla pagina principale del Mondo
