@@ -151,7 +151,7 @@ position.description: Il peso è un numero che definisce in che ordine un oggett
   in una lista di questi oggetti. Più alto è il numero più in alto apparirà l'oggetto.
 status.description: Rendi questo oggetto pubblico in modo che tutti possano vederlo.
   Gli oggetti privati sono soltanto visibili da te e dai co-autori e iscritti con
-  gli appositi permessi del tuo mondo.
+  gli appositi permessi del tuo mondo
 access.description: Rendi il tuo post pubblico in modo che tutti possano vederlo.
   I post privati sono visibili soltanto da te e dai co-autori del tuo mondo
 subscriber.groups: Gruppi Iscritti
