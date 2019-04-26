@@ -65,3 +65,5 @@ access.activate.description: Scrivi qui sotto il tuo codice di Abbonamento per a
 access.activate.subscription: Attiva Abbonamento
 access.activate.code: Inserisci Codice di Attivazione
 access.activate.login: Devi aver eseguito l'accesso per attivare il tuo abbonamento!
+state: Stato
+access.multipass: Multipass?
