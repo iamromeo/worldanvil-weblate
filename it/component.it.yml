@@ -272,3 +272,6 @@ map.marker.group.description: I gruppi di marcatori ti permettono di organizzare
   e gestire la loro visibilità (se sei un membro della gilda). Come con i livelli
   questi possono essere usati per mostrare diverse informazioni o nascondere un gruppo
   di marcatori dai tuoi lettori se lo desideri.
+pin.iconAnchor.description: Il Punto di Ancoraggio è l'unico pixel dove il tuo angolo/punto
+  di contatto con il tuo pin è sulla mappa. Normalmente sarebbe sul cartesiano 0X
+  e Y pari alla metà della larghezza del pin.
