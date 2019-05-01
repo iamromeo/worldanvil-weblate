@@ -285,3 +285,4 @@ pin.popupAnchorY: Punto Popup Y (in pixel)
 pin.template.header: Template Pin Standard
 pin.template.description: Usa i file in questo file zip per creare pin simili a quelli
   forniti da World Anvil.
+pin.value.notzero: Cortesemente, assicurati che questo valore non sia vuoto o 0.
