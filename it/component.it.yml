@@ -328,5 +328,9 @@ access.rights.codes: Codici di Accesso Iscritti
 access.authors.management: Gestione Autori
 access.authors.revoke: Revoca Accesso
 access.authors.coowner: Comproprietario
-access.authors.coowner.description: Accesso a tutti inclusi la configurazione del
-  Mondo, CSS e Gestione dei Permessi
+access.authors.coowner.description: Accesso a ogni cosa inclusi la configurazione
+  Mondo, CSS e Gestione Permessi.
+access.authors.editor: Modificatore
+access.authors.editor.description: Accedi per creare, vedere e modificare qualsiasi
+  contenuto.
+access.authors.writer: Scrittore
