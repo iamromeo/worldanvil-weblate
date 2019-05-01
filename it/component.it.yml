@@ -334,3 +334,5 @@ access.authors.editor: Modificatore
 access.authors.editor.description: Accedi per creare, vedere e modificare qualsiasi
   contenuto.
 access.authors.writer: Scrittore
+access.authors.writer.description: Permesso per creare articoli come Bozze. Gli Editori
+  e superiori possono poi gestire, organizzare e pubblicare questi articoli.
