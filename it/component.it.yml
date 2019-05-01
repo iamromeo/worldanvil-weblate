@@ -255,3 +255,6 @@ pin.shadow.description: L'immagine dell'ombreggiatura del pin. Questa immagine �
 block.template: Blocco Template
 block.templates: Blocco Template
 list.block.templates: Lista Blocchi Template
+map.zoom.min.description: 'Quanto lotano puoi allontanarti con la visuale. Questo
+  è un moltiplicatore negativo: più è piccolo il numero, più potrai allontanarti con
+  la visuale (-2 di default).'
