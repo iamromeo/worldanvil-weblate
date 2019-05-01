@@ -334,5 +334,20 @@ access.authors.editor: Modificatore
 access.authors.editor.description: Accedi per creare, vedere e modificare qualsiasi
   contenuto.
 access.authors.writer: Scrittore
-access.authors.writer.description: Permesso per creare articoli come Bozze. Gli Editori
-  e superiori possono poi gestire, organizzare e pubblicare questi articoli.
+access.authors.writer.description: Accesso per creare articoli impostati come Bozze.
+  Gli Editori e superiori possono poi gestire, organizzare e pubblicare questi articoli.
+access.authors.slots: Slot Autore Usati
+access.subscribers.slots: Slot Iscritto Usato
+access.subscribers.purge: Rimuovi tutti gli attuali Iscritti dalla lista prima di
+  importare
+access.subscribers.emails: E-Mail Iscritti
+access.authors.add: Aggiungi nuovo Autore
+access.authors.username: Nome Utente
+access.authors.rank: Rango
+access.authors.groups: Gruppi
+access.subscriber.add: Aggiungi Iscritto a Gruppo/i
+access.subscribers.add: Aggiungi Iscritto a Gruppo
+access.subscribers.management: Gestione Iscritti
+access.group.management: Gestione Gruppi Iscritti
+access.group.edit: Modifica Gruppo Iscritti
+access.group.assets: Vanti Gruppo
