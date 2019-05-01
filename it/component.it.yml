@@ -283,5 +283,5 @@ pin.popupAnchor.description: Il punto di ancoraggio del Popup è il punto dove i
 pin.popupAnchorX: Punto Popup X (in pixel)
 pin.popupAnchorY: Punto Popup Y (in pixel)
 pin.template.header: Template Pin Standard
-pin.template.description: Usa i file contenuti in questo file zip per creare pin simili
-  a quelli forniti da World Anvil.
+pin.template.description: Usa i file in questo file zip per creare pin simili a quelli
+  forniti da World Anvil.
