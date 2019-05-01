@@ -314,7 +314,7 @@ master.feature: Questa è una funzione esclusiva Maestro+. Unisciti alla <a clas
 grandmaster.feature: Questa è una funzione esclusiva Gran Maestro+. Unisciti alla
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda dei Worldbuilder</a>
   per avere accesso a questa funzione e aiutare lo sviluppo di World Anvil.
-guild.access.map: Tutte le mappe su un account gratuito sono mostrate sulla pagina
-  principale del mondo. Unisciti alla <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda
-  dei Worldbuilder</a> per mettere le tue mappe, articoli e mondi come privati e aiutare
-  lo sviluppo di World Anvil.
+guild.access.map: Tutte le mappe su account gratuiti sono mostrate sulla homepage
+  del mondo. Unisciti alla <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda
+  dei Worldbuilder</a> per rendere privati la tua mappa, i tuoi articoli e i tuoi
+  mondi e aiutare lo sviluppo di World Anvil.
