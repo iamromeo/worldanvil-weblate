@@ -298,3 +298,6 @@ guild.access: Tutti gli oggetti su account gratuiti sono pubblici. Unisciti alla
   class="m-t-10 text-pink" href="/worldbuilders-guild-membership"> Gilda dei Worldbuilders
   </a> per donare i permessi di accedere al contenuto che vuoi a specifici gruppi
   di iscritti e aiutare lo sviluppo di World Anvil.
+guild.subscriber.groups: I gruppi di iscritti permettono permettono ai membri della
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership"> Gilda del Worldbuilder</a>
+  di fornire accesso alla lettura di articoli privati ai membri di quel gruppo.
