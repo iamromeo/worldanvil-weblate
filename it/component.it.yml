@@ -261,3 +261,6 @@ map.zoom.min.description: Quanto lontano puoi ridurre/allontanare la visuale. Qu
 map.zoom.max.description: Quanto in profondità puoi allargare/ingrandire la visuale.
   0 significa una scala 1:1 delle dimensioni della mappa. Qualsiasi valore sopra lo
   0 indicherà che l'immagine inizierà a diventare sfocata. (0 di Default)
+map.center.description: Le iniziali coordinate del centro della mappa quando viene
+  caricata per la prima volta. Normalmente, queste sono calcolate per essere al centro
+  della tua mappa. Lo spigolo in basso a sinistra della tua mappa è il punto 0:0.
