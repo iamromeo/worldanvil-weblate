@@ -351,3 +351,5 @@ access.subscribers.management: Gestione Iscritti
 access.group.management: Gestione Gruppi Iscritti
 access.group.edit: Modifica Gruppo Iscritti
 access.group.assets: Vanti Gruppo
+access.group.description.description: (opzionale) Per ricordarti chi c'è e perché
+  è in questo gruppo.
