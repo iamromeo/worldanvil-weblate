@@ -286,3 +286,4 @@ pin.template.header: Template Pin Standard
 pin.template.description: Usa i file in questo file zip per creare pin simili a quelli
   forniti da World Anvil.
 pin.value.notzero: Per favore assicurati che questo valore non sia vuoto o 0.
+organization.and.access: Organizzazione e Accesso
