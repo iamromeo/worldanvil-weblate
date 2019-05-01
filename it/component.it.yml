@@ -277,6 +277,9 @@ pin.iconAnchor.description: Il Punto di Ancoraggio è l'unico punto pixel dove i
   0X e a metà della larghezza del pin Y
 pin.iconAnchorX: Punto di Ancoraggio X (in pixel)
 pin.iconAnchorY: Punto di Ancoraggio Y (in pixel)
-pin.popupAnchor.description: Il punto di ancoraggio del popup è il punto in cui il
-  triangolo di popul sarà centrato. A differenza dell'ancoraggio del pin, questò sarà
-  localizzato in cima all'icona se non più in alto.
+pin.popupAnchor.description: Il punto di ancoraggio del Popup è il punto dove il triangolo
+  di popup sarà centrato. A differenza dell'ancoraggio del pin esso sarà individuato
+  in cima all'icona se non più in alto
+pin.popupAnchorX: Punto Popup X (in pixel)
+pin.popupAnchorY: Punto Popup Y (in pixel)
+pin.template.header: Template Pin Standard
