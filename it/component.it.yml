@@ -264,3 +264,6 @@ map.zoom.max.description: Quanto in profondità puoi allargare/ingrandire la vis
 map.center.description: Le coordinate iniziali del centro della mappa appena viene
   caricata. Normalmente queste sono calcolate per essere al centro della tua mappa.
   Il vertice in basso a sinistra della tua mappa è il punto 0:0.
+map.legend.description: Questo apparirà in basso a sinistra della tua mappa. Usalo
+  per creare una legenda per i tuoi marcatori, scrivere una breve descrizione o fornire
+  qualunque altro contesto.
