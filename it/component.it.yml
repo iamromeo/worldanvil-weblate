@@ -252,3 +252,6 @@ pin.pinImage: Immagine Pin
 pin.shadow: Ombreggiatura Immagine Pin
 pin.shadow.description: L'immagine dell'ombreggiatura del pin. Questa immagine è opzionale.
   Se fornita dev'essere più larga dell'immagine pin e estesa verso il suo lato destro.
+block.template: Blocco Template
+block.templates: Blocco Template
+list.block.templates: Lista Blocchi Template
