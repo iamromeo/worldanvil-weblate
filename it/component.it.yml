@@ -258,3 +258,6 @@ list.block.templates: Lista Blocchi Template
 map.zoom.min.description: 'Quanto lotano puoi allontanarti con la visuale. Questo
   è un moltiplicatore negativo: più è piccolo il numero, più potrai allontanarti con
   la visuale (-2 di default).'
+map.zoom.max.description: Quanto puoi avvicinare la visuale. 0 significa un rapporto
+  di 1:1 tra le dimensioni della mappa. Qualunque valore sopra lo zero indicherà che
+  l'immagine inizierà a diventare sfocata. (0 di Default)
