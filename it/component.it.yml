@@ -294,3 +294,7 @@ monster: Mostro
 npc: PNG
 class: Classe
 race: Razza
+guild.access: Tutti gli oggetti su un account gratuito sono pubblici. Unisciti alla
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership"> Gilda dei Worldbuilders
+  </a> per fornire permessi a gruppi specifici di iscritti per accedere al contenuto
+  che desideri e aiutare lo sviluppo di World Anvil.
