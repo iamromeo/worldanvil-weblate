@@ -353,3 +353,5 @@ access.group.edit: Modifica Gruppo Iscritti
 access.group.assets: Vanti Gruppo
 access.group.description.description: (opzionale) Per ricordarti chi c'è e perché
   è in questo gruppo.
+access.group.position.description: (opzionale) Nel caso volessi organizzare i gruppi
+  se hai bisogno.
