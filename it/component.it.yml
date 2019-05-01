@@ -268,7 +268,7 @@ map.legend.description: Questo apparirà in basso a sinistra della tua mappa. Us
   per creare una legenda per i tuoi marcatori, scrivere una breve descrizione o fornire
   qualunque altro contesto.
 map.marker.group.description: I gruppi di marcatori ti permettono di organizzare i
-  tuoi marcatori e i tuoi livelli di mappa in categorie che tu puoi attivare/disattivare
-  e gestire la loro visibilità (se sei un membro di gilda). Come con i livelli, questi
-  possono essere utilizzare per rappresentare diverse informazioni o nascondere un
-  gruppo di marcatori dai tuoi lettori se lo desideri.
+  tuoi marcatori e i tuoi livelli di mappa in categorie che puoi attivare e disattivare
+  e gestire la loro visibilità (se sei un membro della gilda). Come con i livelli
+  questi possono essere usati per mostrare diverse informazioni o nascondere un gruppo
+  di marcatori dai tuoi lettori se lo desideri.
