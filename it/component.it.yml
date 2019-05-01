@@ -311,7 +311,6 @@ guild.feature: Questa è una funzione esclusiva della Gilda. Unisciti alla <a cl
 master.feature: Questa è una funzione esclusiva Maestro+. Unisciti alla <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Gilda dei Worldbuilder</a> per
   avere accesso a questa funzione e aiutare lo sviluppo di World Anvil.
-grandmaster.feature: Questa è una funzione esclusiva per i Gran Maestri+. Unisciti
-  alla <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda dei
-  Worldbuilder</a> per avere accesso a questa funzione e aiutare lo sviluppo di World
-  Anvil.
+grandmaster.feature: Questa è una funzione esclusiva Gran Maestro+. Unisciti alla
+  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda dei Worldbuilder</a>
+  per avere accesso a questa funzione e aiutare lo sviluppo di World Anvil.
