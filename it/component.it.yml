@@ -318,5 +318,13 @@ guild.access.map: Tutte le mappe su account gratuiti sono mostrate sulla homepag
   del mondo. Unisciti alla <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Gilda
   dei Worldbuilder</a> per rendere privati la tua mappa, i tuoi articoli e i tuoi
   mondi e aiutare lo sviluppo di World Anvil.
-access.rights.notice: La funzione "Gruppi & Iscritti" è disponibile solo ai membri
-  della Gilda!
+access.rights.notice: La funzione Gruppi & Iscritti è disponibile solo ai membri della
+  Gilda!
+access.rights.management: Gestione Diritti di Accesso
+access.rights.subscribers: Iscritti
+access.rights.groups: Gruppi
+access.rights.authors: Autori
+access.rights.codes: Codici di Accesso Iscritti
+access.authors.management: Gestione Autori
+access.authors.revoke: Revoca Accesso
+access.authors.coowner: Comproprietario
