@@ -353,5 +353,11 @@ access.group.edit: Modifica Gruppo Iscritti
 access.group.assets: Vanti Gruppo
 access.group.description.description: (opzionale) Per ricordarti chi c'è e perché
   è in questo gruppo.
-access.group.position.description: (opzionale) Nel caso volessi organizzare i gruppi
+access.group.position.description: (opzionale) Così puoi organizzare i tuoi gruppi
   se hai bisogno.
+access.code.management: Gestione Codici Iscritto
+access.code.code: Codice
+access.code.group: Gruppo Iscritti
+access.code.maxUses: Massimo Numero di Utilizzi
+access.code.expiryDate: Data di Scadenza
+access.code.edit: Modifica Codice Iscritti
