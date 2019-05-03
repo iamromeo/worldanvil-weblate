@@ -18,7 +18,7 @@ articles: Artikkelit
 recent.articles: Viimeaikaiset artikkelit
 featured.articles: Artikkelit valokeilassa
 uncategorized.articles: Luokittelemattomat artikkelit
-tweets.by: Twiitit
+tweets.by: Twiittaaja
 twitch.live: Katso suorana Twitchissä
 support.patreon: Tue hanketta Patreonissa
 support.patreon.user: '%username% toivoo tukeasi Patreonissa'
@@ -166,3 +166,66 @@ campaign.journal.player: Pelaaja
 campaign.journal.character: Hahmo
 campaign.journal.session.report: Istuntoraportti
 follow.action.unfollow.world: Lakkaa seuraamasta maailmaa
+campaign.generic: Muut sivuhahmot
+document.purpose: Tarkoitus
+document.structure: Dokumentin rakenne
+document.clauses: Pykälät
+document.caveats: Varoitukset
+document.references: Viittaukset
+document.publication.status: Julkaisutila
+document.legal.status: Juridinen status
+document.historical.details: Historiatiedot
+document.background: Tausta
+document.history: Historia
+document.public.reaction: yleisön reaktio
+document.term: Termi
+document.modal.read.document: Lue dokumentti
+document.modal.close: Sulje
+document.article.authoringdate: Luontipäivä
+document.article.expirationdate: Päättymispäivä
+document.article.myth: Myytti
+document.article.location: Paikka
+document.article.authors: Tekijät
+document.article.signatoriescharacters: Allekirjoittajat (hahmot)
+document.article.signatoriesorganizations: Allekirjoittajat (organisaatiot)
+ethnicity.naming.traditions: Nimeämiskäytännöt
+ethnicity.feminine.names: Naisten nimet
+ethnicity.masculine.names: Miesten nimet
+ethnicity.unisex.names: Sukupuolettomat nimet
+ethnicity.family.names: Sukunimet
+ethnicity.other.names: Muut nimet
+ethnicity.culture: Kulttuuri
+ethnicity.major.lang.groups.dialects: Merkittävät kieliperheet ja murteet
+ethnicity.culture.cultural.heritage: Kulttuuri ja kulttuuriperimä
+ethnicity.shared.customary.codes.values: Yhteiset käytännöt ja arvot
+ethnicity.Average.technological.level: Keskimääräinen teknologian taso
+ethnicity.common.etiquette.rules: Yleiset etikettisäännöt
+ethnicity.common.dress.code: Yleinen pukukoodi
+ethnicity.art.architecture: Taide & arkkitehtuuri
+ethnicity.common.customs.traditions.rituals: Yleiset tavat, perinteet ja rituaalit
+ethnicity.birth.baptismal.rites: Syntymä- ja kasteriitit
+ethnicity.comingofage.rites: Aikuistumisriitit
+ethnicity.funerary.memorial.Customs: Hautaus- ja muistamistavat
+ethnicity.common.taboos: Yleiset tabut
+ethnicity.common.myths.legends: Yleiset myytit ja legendat
+ethnicity.historical.figures: Historialliset henkilöt
+ethnicity.ideals: Ihanteet
+ethnicity.beauty.ideals: Kauneusihanteet
+ethnicity.gender.ideals: Sukupuoli-ihanteet
+ethnicity.courtship.ideals: Seurusteluihanteet
+ethnicity.relationship.ideals: Suhdeihanteet
+ethnicity.major.organizations: Merkittävät organisaatiot
+formation.equipment: Varusteet
+formation.weaponry: Aseistus
+formation.vehicles: Kulkuneuvot
+formation.tactics: Taktiikka
+formation.logistics: Logistiikka
+formation.upkeep: Ylläpito
+formation.recruitment: Värväys
+formation.history: Historia
+formation.sidebar.founding: Perustaminen
+formation.sidebar.dissolution: Hajoaminen
+formation.sidebar.ranks.titles: Arvot ja tittelit
+item.inner.workings: ' Mekaniikka ja sisäiset toiminnot'
+item.manufacturing.process: Valmistusprosessi
+law.localization: Lokalisointi
