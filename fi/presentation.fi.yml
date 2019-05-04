@@ -229,3 +229,46 @@ formation.sidebar.ranks.titles: Arvot ja tittelit
 item.inner.workings: ' Mekaniikka ja sisäiset toiminnot'
 item.manufacturing.process: Valmistusprosessi
 law.localization: Lokalisointi
+document.legacy: Perintö
+document.article.medium: Viestintäkanava
+document.article.ratificationdate: Vahvistuspäivä
+formation.manpower: Henkilöstö
+formation.structure: Rakenne
+formation.training: Valmennus
+formation.logistical.support: Logistinen tuki
+formation.auxilia: Auxilia-joukot
+formation.historical.loyalties: Historialliset liittolaisuudet
+formation.sidebar.type: Luokka
+formation.sidebar.overall.training.level: Yleinen valmennuksen taso
+formation.sidebar.assumed.veterancy: Oletettu veteraanius
+formation.sidebar.parent.formation: Emomuodostelma
+formation.sidebar.usedby: Käyttäjät
+item.significance: Tärkeys
+item.rpg.datasheet: RPG-datalehti
+item.sidebar.itemtype: Esineen luokka
+item.sidebar.subtype.model: Alaluokka / Malli
+item.sidebar.usedby: Käyttäjät
+item.sidebar.manufacturer: Valmistaja
+item.sidebar.related.technologies: Aiheeseen liittyvä teknologia
+item.sidebar.related.ethnicities: Aiheeseen liittyvät etnisyydet
+item.sidebar.owning.organization: Omistava organisaatio
+item.sidebar.related.condition: Aiheeseen liittyvä tila
+item.sidebar.rarity: Harvinaisuus
+item.sidebar.weight: Paino
+item.sidebar.dimensions: Mitat
+item.sidebar.base.price: Lähtöhinta
+item.sidebar.rawmaterials.components: Raaka-aineet ja osat
+item.sidebar.tools: Työkalut
+item.sidebar.related.myths: Aiheeseen liittyvät myytitre
+language.alphabet: Aakkoset
+language.geographical.distribution: Maantieteellinen jakauma
+language.phonology: Fonologia
+language.morphology: Morfologia
+language.syntax: Syntaksi
+language.vocabulary: Sanasto
+language.phonetics: Fonetiikka
+language.sidebar.common.phrases: Yleiset ilmaukset
+language.sidebar.common.female.names: Yleiset naisten nimet
+language.sidebar.common.male.names: Yleiset miesten nimet
+language.sidebar.common.unisex.names: Yleiset sukupuolettomat nimet
+law.manifestation: Ilmentymä
