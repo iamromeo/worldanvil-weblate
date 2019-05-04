@@ -215,4 +215,61 @@ ethnicity.historical.figures: Personaggi storici
 ethnicity.ideals: Ideali
 ethnicity.beauty.ideals: Ideali di Bellezza
 ethnicity.gender.ideals: Ideali di Genere
-ethnicity.courtship.ideals: Ideali di Corteggiamento
+ethnicity.courtship.ideals: Ideali per il Corteggiamento
+ethnicity.relationship.ideals: Ideali di Relazione
+ethnicity.major.organizations: Organizzazioni Principali
+formation.manpower: Forza Lavoro
+formation.equipment: Equipaggiamento
+formation.weaponry: Armamentario
+formation.vehicles: Veicoli
+formation.structure: Struttura
+formation.tactics: Tattiche
+formation.training: Addestramento
+formation.logistics: Logistiche
+formation.logistical.support: Supporto Logistico
+formation.auxilia: Ausiliari
+formation.upkeep: Sostentamento
+formation.recruitment: Reclutamento
+formation.history: Storia
+formation.historical.loyalties: Fedeltà storiche
+formation.sidebar.type: Tipo
+formation.sidebar.founding: Finanziamenti
+formation.sidebar.dissolution: Dissoluzione
+formation.sidebar.overall.training.level: Livello di addestramento complessivo
+formation.sidebar.assumed.veterancy: Presunta Esperienza
+formation.sidebar.parent.formation: Formazione d'Origine
+formation.sidebar.usedby: Usata da
+formation.sidebar.ranks.titles: Ranghi e Titoli
+item.inner.workings: ' Meccanica e Funzionamento Interno'
+item.manufacturing.process: Processi di produzione
+item.significance: Importanza
+item.rpg.datasheet: Scheda GDR
+item.sidebar.itemtype: Tipologia oggetto
+item.sidebar.subtype.model: Sottotipo / Modello
+item.sidebar.usedby: Usato da
+item.sidebar.manufacturer: Fabbricante
+item.sidebar.related.technologies: Tecnologie Correlate
+item.sidebar.related.ethnicities: Etnie Correlate
+item.sidebar.owning.organization: Organizzazione Proprietaria
+item.sidebar.related.condition: Condizione Correlata
+item.sidebar.rarity: Rarità
+item.sidebar.weight: Peso
+item.sidebar.dimensions: Dimensioni
+item.sidebar.base.price: Prezzo Base
+item.sidebar.rawmaterials.components: Materiali grezzi ed Elementi
+item.sidebar.tools: Attrezzi
+item.sidebar.related.myths: Miti Correlati
+landmark.entries: Voci
+language.alphabet: Alfabeto
+language.geographical.distribution: Distribuzione Geografica
+language.phonology: Fonologia
+language.morphology: Morfologia
+language.syntax: Sintassi
+language.vocabulary: Vocabolario
+language.phonetics: Fonetica
+language.sidebar.common.phrases: Frasi Comuni
+language.sidebar.common.female.names: Nomi Femminili Comuni
+language.sidebar.common.male.names: Nomi Maschili Comuni
+language.sidebar.common.unisex.names: Nomi Unisex Comuni
+law.manifestation: Manifestazione
+law.localization: Luogo
