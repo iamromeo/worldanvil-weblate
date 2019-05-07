@@ -25,8 +25,8 @@ maps: Mappe
 timelines: Timeline
 secrets: Segreti
 followers: Followers
-create.block.template: Crea un Block Template
-create.layer: Crea Strato
+create.block.template: Crea un Blocco Template
+create.layer: Crea Livello
 create.marker: Crea Marcatore
 create.marker.group: Crea Gruppo Marcatori
 create.pin: Crea Pin Mappa
@@ -36,7 +36,7 @@ create.article: Crea Articolo
 create.group: Crea Gruppo
 create.code: Crea Codice
 create.new.block: Crea un nuovo Blocco
-create.new.block.template: Crea un Nuovo Modello Blocco
+create.new.block.template: Crea un Nuovo Blocco Template
 create.new.campaign: Crea una nuova Campagna
 create.new.category: Crea una nuova Categoria
 create.new.timeline: Crea una nuova Timeline
@@ -55,7 +55,7 @@ create.new.world: Crea un nuovo Mondo
 edit.article: Modifica Articolo
 edit.author.profile: Modifica Profilo
 edit.block: Modifica Blocco
-edit.block.template: Modifica Modello Blocco
+edit.block.template: Modifica Blocco Template
 edit.campaign: Modifica Campagna
 edit.category: Modifica Categoria
 edit.historical.entry: Modifica Evento Storico
@@ -72,7 +72,7 @@ edit.world: Modifica Mondo
 edit.group: Modifica Gruppo
 delete.author.profile: Elimina Profilo
 delete.block: Elimina Blocco
-delete.block.template: Elimina Modello Blocco
+delete.block.template: Elimina Blocco Template
 delete.campaign: Elimina Campagna
 delete.category: Elimina Categoria
 delete.historical.entry: Elimina Evento Storico
@@ -80,7 +80,7 @@ delete.image: Elimina Immagine
 line: Linea
 delete.player.character: Elimina Personaggio Giocatore
 delete.timeline: Elimina Timeline
-delete.layer: Elimina Layer
+delete.layer: Elimina Livello
 delete.marker: Elimina Marcatore
 delete.marker.group: Elimina Gruppo Marcatori
 delete.pin: Elimina Pin Mappa
@@ -103,7 +103,7 @@ marker: Marcatore
 marker.group: Gruppo Marcatore
 note: Nota
 layer: Livello
-polygon: Polygon ( contesto?? )
+polygon: Poligono
 popup: Popup
 pin: Pin Mappa
 secret: Segreto
@@ -205,8 +205,8 @@ map.marker.link.relation.description: Scegli una delle relazioni sottostanti per
   al link diretto. Se ne scegli più di una, solo la prima avrà effetto.
 map.marker.polygonPoints: Punti Poligono
 map.marker.polygonPoints.description: Longitudine e Latitudine di ogni punto come
-  una coppia separata da una virgola e separate tra loro con uno spazio. Per esempio
-  20,20 30,30 50,45. Consiglio! Usa il pin rosso "nuovo punto" per ottenere lon/lat.
+  coppie separate da una virgola e separate tra loro con uno spazio. Per esempio 20,20
+  30,30 50,45. Consiglio! Usa il pin rosso "nuovo punto" per ottenere la lon/lat.
 map.marker.colorOutline: Colore Contorno
 map.marker.colorOutline.description: Il colore del contorno di un cerchio o un poligono.
   Puoi usare colori CSS come blu, rosso, giallo etc, OPPURE l'hexcode del colore includendo
@@ -253,7 +253,7 @@ pin.shadow: Ombreggiatura Immagine Pin
 pin.shadow.description: L'immagine dell'ombreggiatura del pin. Questa immagine è opzionale.
   Se fornita dev'essere più larga dell'immagine pin e estesa verso il suo lato destro.
 block.template: Blocco Template
-block.templates: Blocco Template
+block.templates: Blocchi Template
 list.block.templates: Lista Blocchi Template
 map.zoom.min.description: Quanto lontano puoi ridurre/allontanare la visuale. Questo
   è un moltiplicatore negativo. più piccolo il numero più sarai in grado di allontanare
