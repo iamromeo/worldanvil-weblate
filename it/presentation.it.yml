@@ -1,7 +1,7 @@
 author.notes: Note dell'Autore
-world.anvil.description: World Anvil è una piattaforma con strumenti per la creazione
+world.anvil.description: World Anvil è una piattaforma strumenti per la creazione
   di mondi e una community per scrittori, narratori di GDR e amanti del worldbuilding
-account.create: Crea il tuo account
+account.create: Crea il tuo Account
 created.by: Creato da
 editorial.team: Team Editoriale
 writers.team: Team di Scrittori
@@ -20,14 +20,14 @@ recent.articles: Articoli Recenti
 featured.articles: Articoli in Evidenza
 uncategorized.articles: Articoli Non Categorizzati
 support.kofi.user: Compra un caffè a %username%!
-tweets.by: Tweets di
+tweets.by: Tweet di
 twitch.live: Guarda live su Twitch
 support.patreon: Supporta il progetto su Patreon
 support.patreon.user: Supporta %username% su Patreon
 join.discord.world: Unisciti a %worldname% su Discord!
 following: Stai seguendo %name%
 follow: Segui %name%
-follow.action.remove: SMETTI DI SEGUIRE
+follow.action.remove: NON SEGUIRE
 follow.action.unfollow.world: Smetti di seguire Mondo
 follow.action.add: SEGUI
 follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
@@ -39,7 +39,7 @@ like.action.add.description: Fai sapere all'autore che ti piace il suo lavoro. Q
 reading.action.remove: RIMUOVI DALLA LISTA DI LETTURA
 reading.action.add: AGGIUNGI ALLA LISTA DI LETTURA
 reading.action.add.description: Aggiungi questo articolo alla tua lista "leggi in
-  seguito"/ "articoli salvati". L'autore NON riceverà una notifica.
+  seguito / articoli salvati". L'autore NON riceverà una notifica.
 goto.homepage: Vai alla Homepage di %name%
 article.love: Persone a cui è piaciuto il tuo articolo
 article.love.return: Resituisci un po' di amore!
@@ -83,7 +83,7 @@ campaign.allies: Alleati
 campaign.competitors: Concorrenti
 campaign.setting: L'ambientazione
 campaign.timelines: Timeline
-campaign.explore.world: Esplora il mondo di % world_name%
+campaign.explore.world: Esplora il mondo di %world_name%
 campaign.maps: Mappe
 campaign.vtt: Tavolo Virtuale
 campaign.journal.world: Mondo
@@ -108,7 +108,7 @@ landmark.sensory: Aspetto Sensoriale e Forma
 landmark.purpose: Scopo / Funzione
 landmark.design: Progettazione
 landmark.denizens: Abitanti
-landmark.contents: Contenuti & Mobilia
+landmark.contents: Contenuti e Mobilia
 landmark.valuables: Oggetti Preziosi
 landmark.hazards: Trappole e Pericoli
 landmark.properties: Proprietà Particolari
@@ -116,7 +116,7 @@ landmark.effects: Effetti Ambientali
 landmark.alterations: Alterazioni
 landmark.architecture: Architettura
 landmark.ruined: STRUTTURA IN ROVINA
-landmark.children: Luoghi Contenuti
+landmark.children: Luoghi Interni
 landmark.owner: Proprietario
 landmark.organization: Organizzazione Proprietaria
 landmark.charactersinlocation: Personaggi in Loco
@@ -155,11 +155,11 @@ material.density: Densità
 material.commonState: Stato Naturale
 world.anvil.header: La Piattaforma Strumenti per la Creazione di Mondi e la Community
   di World Anvil
-powered.by: Alimentato da
+powered.by: Presentato da
 condition.affectedgroups: Gruppi A Rischio
 condition.reception: Prospettiva Culturale
-landmark.parent: Località
-landmark.reportprimarylocations: Rapporto Connesso (Luoghi Primari)
+landmark.parent: Luogo d'Origine
+landmark.reportprimarylocations: Rapporto Correlato (Luoghi Primari)
 landmark.reportsecondarylocations: Rapporti Correlati (Luoghi Secondari)
 material.locations: Luoghi Correlati
 material.species: Specie Correlate
@@ -202,7 +202,7 @@ ethnicity.major.lang.groups.dialects: Principali gruppi linguistici e dialetti
 ethnicity.culture.cultural.heritage: Cultura e eredità culturale
 ethnicity.shared.customary.codes.values: Usanze e valori condivisi
 ethnicity.Average.technological.level: Livello tecnologico medio
-ethnicity.common.etiquette.rules: Regole Comuni di Etichetta
+ethnicity.common.etiquette.rules: Regole di Etichetta Comuni
 ethnicity.common.dress.code: Codice di Abbigliamento Comune
 ethnicity.art.architecture: Arte e Architettura
 ethnicity.common.customs.traditions.rituals: Costumi, tradizioni e rituali Comuni
