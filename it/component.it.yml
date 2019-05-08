@@ -330,7 +330,7 @@ access.authors.revoke: Revoca Accesso
 access.authors.coowner: Comproprietario
 access.authors.coowner.description: Accesso a ogni cosa inclusi la configurazione
   Mondo, CSS e Gestione Permessi.
-access.authors.editor: Modificatore
+access.authors.editor: Editore
 access.authors.editor.description: Accedi per creare, vedere e modificare qualsiasi
   contenuto.
 access.authors.writer: Scrittore
@@ -350,7 +350,7 @@ access.subscribers.add: Aggiungi Iscritto a Gruppo
 access.subscribers.management: Gestione Iscritti
 access.group.management: Gestione Gruppi Iscritti
 access.group.edit: Modifica Gruppo Iscritti
-access.group.assets: Vanti Gruppo
+access.group.assets: Risorse Gruppo
 access.group.description.description: (opzionale) Per ricordarti chi c'è e perché
   è in questo gruppo.
 access.group.position.description: (opzionale) Così puoi organizzare i tuoi gruppi
