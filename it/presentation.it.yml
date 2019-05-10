@@ -27,7 +27,7 @@ support.patreon.user: Supporta %username% su Patreon
 join.discord.world: Unisciti a %worldname% su Discord!
 following: Stai seguendo %name%
 follow: Segui %name%
-follow.action.remove: NON SEGUIRE
+follow.action.remove: NON SEGUIRE PIÙ
 follow.action.unfollow.world: Smetti di seguire Mondo
 follow.action.add: SEGUI
 follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
@@ -157,7 +157,7 @@ world.anvil.header: La Piattaforma Strumenti per la Creazione di Mondi e la Comm
   di World Anvil
 powered.by: Presentato da
 condition.affectedgroups: Gruppi A Rischio
-condition.reception: Prospettiva Culturale
+condition.reception: Ricezione Culturale
 landmark.parent: Luogo d'Origine
 landmark.reportprimarylocations: Rapporto Correlato (Luoghi Primari)
 landmark.reportsecondarylocations: Rapporti Correlati (Luoghi Secondari)
@@ -182,7 +182,7 @@ document.legacy: Eredità
 document.term: Termine
 document.modal.read.document: Leggi il Documento
 document.modal.close: Chiudi
-document.article.medium: Medium o Medio ( Contesto??? )
+document.article.medium: Materiale
 document.article.authoringdate: Data di Scrittura
 document.article.ratificationdate: Data di Ratifica
 document.article.expirationdate: Data di Scadenza
