@@ -70,7 +70,7 @@ description.prose: Haiku's, gedichten, korte verhalen en hoofdstukken van uw boe
 description.rank: Koning van Endor, eerste Burger van de Federatie, Admiraal Michiel
   de Ruyter van de Nederlandse Marine, Schoolhoofd Albus Perkamentus van Zweinstein,
   enzvoorts.
-description.settlement: Alles van de kleinste dorpen tot de meest bedrijvigste ruimtestations.
+description.settlement: Alles van de kleinste dorpen tot de meest bedrijvigste ruimtestations
 description.spell: Magische bezweringen, rituelen, psionics, superkrachten!
 description.technology: Wetenschap en technologieën. Van de uitvinding van landbouw
   tot stoommachines en laserblasters
@@ -82,7 +82,7 @@ description.category: Categorieën helpen je bij het organiseren en segmenteren 
   jouw inhoud. Zoals hoofdstukken in een boek.
 description.image: Ze zeggen dat een foto evenveel zegt als duizend woorden.
 description.map: Kaarten kunnen worden gebruikt om de geografie van jouw werelden
-  weer te geven, maar ook als een alternatieve navigatiemethode.
+  weer te geven, maar ook als een alternatieve navigatiemethode
 description.report: RPG Spelsessie-rapporten, opmerkingen bijhouden over wat er tijdens
   je sessie gebeurde, het hebben van een houvast wanneer je een nieuwe sessie plant.
 description.plot: Verhaalplots zijn je overkoepelende plots, acts, scènes, beats of
@@ -94,3 +94,5 @@ description.historical.entry: Historische inzendingen of evenementen zijn deze u
   momenten en tijden in de ontwikkeling van uw wereld die de huidige vorm hebben gevormd.
 description.secret: De verborgen waarheden, de fluisteringen in de achterste steegjes,
   de gevreesde werkelijkheid die nog geopenbaard moet worden
+country: Land
+religion: Geloof
