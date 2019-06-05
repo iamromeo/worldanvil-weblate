@@ -40,7 +40,7 @@ reading.action.add: AFEGEIX A LA LLISTA DE LECTURA
 reading.action.add.description: Afegiu aquest article a la vostre llista de lectura
   / articles guardats. L'autor NO serà notificat.
 goto.homepage: Ves a la pàgina principal de %name%
-article.love: Gent a qui encanta el vostre article
+article.love: Gent a qui li agrada el vostre article
 article.love.return: Retorneu-los una mica d'amor!
 article.likes.number: Aquest article agrada a %number% worldbuilders
 article.visibility: Aquest article és visible per als següents grups de subscriptors
