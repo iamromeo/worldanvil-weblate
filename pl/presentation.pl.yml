@@ -143,7 +143,7 @@ campaign.journal.campaign: Kampania
 campaign.journal.player: Gracz
 campaign.journal.character: Postać
 editorial.team: Zespół Redakcyjny
-writers.team: Zespół Autorów
+writers.team: Zespół Pisarzy
 campaign.system: Gra %system_name%
 campaign.world: W świecie %world_name%
 campaign.storytellers: Historia opowiadana przez
@@ -164,13 +164,13 @@ campaign.vtt: Wirtualny Stół
 material.origin: Źródło i pochodzenie
 campaign.allies: Sojusznicy
 campaign.journal.session.report: Raport z Sesji
-document.historical.details: Szczególy historyczne
+document.historical.details: Historyczne szczegóły
 ethnicity.feminine.names: Imiona żeńskie
 ethnicity.masculine.names: Imiona męskie
 ethnicity.unisex.names: Imiona bezpłciowe
 ethnicity.family.names: Nazwiska rodowe
 ethnicity.major.lang.groups.dialects: Główne grupy językowe i dialekty
-ethnicity.shared.customary.codes.values: ''
+ethnicity.shared.customary.codes.values: Współdzielone wartości i zasady
 campaign.generic: Inni BN
 document.purpose: Cel
 document.structure: Struktura Dokumentu
@@ -194,7 +194,7 @@ document.article.authors: Autorzy
 document.article.signatoriescharacters: Podpisujący (Postacie)
 document.article.signatoriesorganizations: Podpisujący (Organizacje)
 ethnicity.naming.traditions: Tradycje Nazewnictwa
-ethnicity.other.names: Inne nazwy
+ethnicity.other.names: Inne imiona
 ethnicity.culture: Kultura
 ethnicity.culture.cultural.heritage: Kultura i dziedzictwo kulturowe
 ethnicity.Average.technological.level: Średni poziom technologiczny
@@ -246,3 +246,6 @@ item.sidebar.dimensions: Wymiary
 item.sidebar.base.price: Cena bazowa
 item.sidebar.rawmaterials.components: Surowce i składniki
 formation.historical.loyalties: Przynależność historyczna
+follow.action.unfollow.world: Przestań Obserwować
+campaign.supporting.cast: Obsada Wspierająca
+ethnicity.common.dress.code: Powszechne zasady ubioru
