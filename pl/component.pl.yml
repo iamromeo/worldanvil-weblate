@@ -323,3 +323,25 @@ access.rights.codes: Kody dostępu Subskrybentów
 access.authors.management: Zarządzanie Autorami
 access.authors.coowner.description: Dostęp do wszystkiego, włącznie z konfiguracją
   świata, CSS i zarządzania dostępem.
+access.authors.revoke: Odmów Dostępu
+access.authors.editor: Edytor
+access.authors.writer: Pisarz
+access.authors.writer.description: Dostęp do tworzenia artykułów ustawionych jako
+  Wersja robocza. Edytorzy i wyżej mogą wtedy zarządzać, organizować i publikować
+  te artykuły
+access.authors.slots: Użyte sloty Autorów
+access.subscribers.slots: Użyte sloty Subskrybentów
+access.subscribers.purge: Wyczyść wszystkich aktualnych Subskrybentów z listy przed
+  importowaniem
+access.subscribers.emails: Emaile Subskrybentów
+access.authors.add: Dodaj nowego Autora
+access.authors.username: Nazwa Użytkownika
+access.authors.rank: Ranga
+access.authors.groups: Grupy
+access.subscriber.add: Dodaj Subskrybenta do Grup(y)
+access.subscribers.add: Dodaj Subskrybentów do Grupy
+access.subscribers.management: Zarządzanie Subskrybentami
+access.group.management: Zarządzanie Grupami Subskrybentów
+access.group.assets: Zasoby Grupy
+access.group.description.description: (opcjonalne) Aby przypomnieć Ci kto i dlaczego
+  jest w tej grupie.
