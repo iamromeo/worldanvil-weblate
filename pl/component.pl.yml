@@ -345,3 +345,6 @@ access.group.management: Zarządzanie Grupami Subskrybentów
 access.group.assets: Zasoby Grupy
 access.group.description.description: (opcjonalne) Aby przypomnieć Ci kto i dlaczego
   jest w tej grupie.
+access.authors.editor.description: Dostęp do tworzenia, przeglądania i edytowania
+  wszelkich treści.
+access.group.edit: Edytuj Grupę Subskrybentów
