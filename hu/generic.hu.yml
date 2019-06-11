@@ -20,12 +20,11 @@ studio.description.text: Az Alkotók Stúdiója nyújt otthont a World Anvil min
   Karakterlapok, Widgetek, Egyedi Térkép Jelzők, és miegymás létrehozására, és megosztására,
   ahogy növekszünk.
 guild.required: Ehhez a funkcióhoz Céhtagnak kell lenned!
-guild.required.master: Ehhez a funkcióhoz Mester rangú vagy fölötti Céhtagnak kell
-  lenned.
-guild.required.grandmaster: Ehhez a funkcióhoz Nagymester rangú vagy fölötti Céhtagnak
+guild.required.master: Ehhez a funkcióhoz legalább Mester rangú Céhtagnak kell lenned.
+guild.required.grandmaster: Ehhez a funkcióhoz legalább Nagymester rangú Céhtagnak
   kell lenned.
-todo.your.list: Feladatlista
-todo.status.zero: Kattints a címre hogy Létrehozz egy Cikket!
+todo.your.list: Teendők
+todo.status.zero: Kattints a címre hogy Létrehozd a Cikket!
 todo.status.one: A cikk létrehozva, Publikálatlan, és még mindig Átdolgozás Alatt
   áll
 todo.status.two: A cikk publikálva, és még mindig Átdolgozás Alatt áll
@@ -61,9 +60,9 @@ access.passcode.description: Ez az oldal jelszóval védett! Ha rendelkezel a je
   add meg alul, hogy hozzáférj a tartalomhoz.
 username: Felhasználónév
 state: Állam
-access.activate: Feliratkozó Aktiváció
-access.activate.description: Írd be alulra a Feliratkozó kódod, hogy hozzáférj a tartalomhoz.
-  Ennyire egyszerű!
+access.activate: Feliratkozás Aktiválása
+access.activate.description: Írd be alulra a Feliratkozási kódod, hogy hozzáférj a
+  tartalomhoz. Ennyire egyszerű!
 access.activate.subscription: Feliratkozás Aktiválása
 access.activate.code: Aktivációs Kód Megadása
 access.activate.login: Be kell jelentkezned a Feliratkozásod aktiválásához!
