@@ -214,9 +214,9 @@ map.marker.colorFill.description: Kolor wypełnienia koła lub wielokąta. Może
 map.marker.opacityOutline: Nieprzezroczystość Konturu
 map.marker.opacityOutline.description: Procentowa przezroczystość konturu. Od 0 do
   100% (np. 50)
-map.marker.opacityFill: Nieprzezroczystość Wypełnienia
-map.marker.opacityFill.description: Procentowa nieprzezroczystość wypełnienia koła
-  lub wielokąta. Od 0 do 100% (np. 50)
+map.marker.opacityFill: Przezroczystość Wypełnienia
+map.marker.opacityFill.description: Procentowa przezroczystość wypełnienia koła lub
+  wielokąta. Od 0 do 100% (np. 50)
 pin.pinImage: Obraz Pinezki
 pin.shadow: Obraz Cienia Pinezki
 pin.shadow.description: Opcjonalny obraz cienia pinezki. Musi być szerszy niż obraz
