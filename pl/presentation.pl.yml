@@ -85,11 +85,11 @@ landmark.properties: Specjalne właściwości
 landmark.effects: Warunki Środowiskowe
 landmark.architecture: Architektura
 landmark.ruined: RUINA
-landmark.owner: Posiadane przez
+landmark.owner: Właściciel
 material.rarity: Częstość występowania
 alternativenames: Inne nazwy
 landmark.professions: Powiązane profesje
-landmark.materials: Powiązane materiały
+landmark.materials: Materiały Powiązane
 material.useCommon: Zastosowanie w życiu codziennym
 material.useCultural: Zastosowanie i znaczenie kulturowe
 material.useIndustrial: Zastosowanie w przemyśle
@@ -123,12 +123,12 @@ material.density: Gęstość
 landmark.sensory: Wygląd i odczucia zmysłowe
 landmark.parent: Znajduje się w
 landmark.children: Zawiera
-landmark.organization: Posiadane przez organizację
+landmark.organization: Organizacja nadrzędna
 landmark.entries: Wejścia
 landmark.contents: Zawartość i umeblowanie
-landmark.connectedrooms: Połączone pokoje
-landmark.reportprimarylocations: Powiązany raport (miejsca główne)
-landmark.reportsecondarylocations: Powiązany raport (miejsca drugorzędne)
+landmark.connectedrooms: Sąsiednie pomieszczenia
+landmark.reportprimarylocations: Powiązany Raport (miejsca główne)
+landmark.reportsecondarylocations: Powiązany Raport (miejsca drugorzędne)
 material.characteristics: Cechy fizyczne
 material.compounds: Związki i połączenia
 material.commonState: Powszechny stan skupienia
@@ -255,7 +255,21 @@ formation.training: Trening
 formation.auxilia: Wsparcie
 formation.sidebar.founding: Założenie
 item.sidebar.related.condition: Powiązany Stan
-item.sidebar.rarity: 'Rzadkość
-
-  '
+item.sidebar.rarity: Rzadkość
 item.sidebar.owning.organization: Organizacja nadrzędna
+item.inner.workings: ' Mechaniki i wewnętrzne funkcjonowanie'
+item.sidebar.tools: Narzędzia
+item.sidebar.related.myths: Powiązane mity
+language.alphabet: Alfabet
+language.phonology: Fonologia
+language.morphology: Morfologia
+language.syntax: Składnia
+language.vocabulary: Słownictwo
+language.phonetics: Fonetyka
+language.sidebar.common.phrases: Powszechne powiedzenia
+law.manifestation: Manifestacja
+language.geographical.distribution: Dystrybucja geograficzna
+language.sidebar.common.female.names: Powszechne imiona żeńskie
+language.sidebar.common.male.names: Powszechne imiona męskie
+language.sidebar.common.unisex.names: Powszechne imiona bezpłciowe
+law.localization: Lokalizacja
