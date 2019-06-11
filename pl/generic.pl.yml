@@ -43,7 +43,7 @@ private: Prywatne
 open: Otwórz
 views: Wyświetlenia
 notes: Notatki
-moderation: Moderacja
+moderation: Zmiana
 tags: Tagi
 access.multipass: Multipass?
 access.description: Niestety nie masz dostępu do tej strony. Prawdopodobnie artykuł
@@ -62,3 +62,8 @@ access.passcode: Wymagane Hasło
 access.passcode.description: Ta strona jest zabezpieczona hasłem! Wpisz je poniżej,
   aby uzyskać dostęp to treści.
 access.activate: Aktywacja Subskrypcji
+access.activate.description: Poniżej podaj swój kod Subskrypcji, aby uzyskać dostęp
+  do zawartości. To takie proste!
+access.activate.subscription: Aktywuj Subskrypcję
+access.activate.code: Wpisz kod aktywacyjny
+access.activate.login: Musisz być zalogowany, aby aktywować subskrypcję!
