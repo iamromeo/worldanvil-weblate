@@ -212,8 +212,8 @@ map.marker.colorFill.description: Kolor wypełnienia koła lub wielokąta. Może
   z kolorów zdefiniowanych w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego
   koloru włącznie ze znakiem hash na początku kodu.
 map.marker.opacityOutline: Nieprzezroczystość Konturu
-map.marker.opacityOutline.description: Procentowa nieprzezroczystość konturu. Od 0
-  do 100% (np. 50)
+map.marker.opacityOutline.description: Procentowa Przezroczystość konturu. Od 0 do
+  100% (np. 50)
 map.marker.opacityFill: Nieprzezroczystość Wypełnienia
 map.marker.opacityFill.description: Procentowa nieprzezroczystość wypełnienia koła
   lub wielokąta. Od 0 do 100% (np. 50)
@@ -306,3 +306,13 @@ access.rights.subscribers: Subskrybenci
 access.rights.groups: Grupy
 access.rights.authors: Autorzy
 access.authors.coowner: Współwłaściciel
+create.block.template: Stwórz Szablon Bloku
+create.code: Stwórz Kod
+create.new.block.template: Stwórz nowy Schemat Bloku
+create.new.era: Stwórz nową Erę
+edit.block.template: Edytuj Schemat Bloku
+delete.block.template: Usuń Schemat Bloku
+deete.code: Usuń Kod
+block.template: Schemat Bloku
+block.templates: Schematy Bloków
+list.block.templates: Lista Schematów Bloków
