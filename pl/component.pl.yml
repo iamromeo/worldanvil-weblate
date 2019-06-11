@@ -306,3 +306,13 @@ access.rights.subscribers: Subskrybenci
 access.rights.groups: Grupy
 access.rights.authors: Autorzy
 access.authors.coowner: Współwłaściciel
+create.block.template: Stwórz Szablon Bloku
+create.code: Stwórz Kod
+create.new.block.template: Stwórz nowy Schemat Bloku
+create.new.era: Stwórz nową Erę
+edit.block.template: Edytuj Schemat Bloku
+delete.block.template: Usuń Schemat Bloku
+deete.code: Usuń Kod
+block.template: Schemat Bloku
+block.templates: Schematy Bloków
+list.block.templates: Lista Schematów Bloków
