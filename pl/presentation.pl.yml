@@ -126,7 +126,7 @@ landmark.children: Zawiera
 landmark.organization: Organizacja nadrzędna
 landmark.entries: Wejścia
 landmark.contents: Zawartość i umeblowanie
-landmark.connectedrooms: Połączone pokoje
+landmark.connectedrooms: Sąsiednie pomieszczenia
 landmark.reportprimarylocations: Powiązany Raport (miejsca główne)
 landmark.reportsecondarylocations: Powiązany Raport (miejsca drugorzędne)
 material.characteristics: Cechy fizyczne
@@ -268,3 +268,8 @@ language.vocabulary: Słownictwo
 language.phonetics: Fonetyka
 language.sidebar.common.phrases: Powszechne powiedzenia
 law.manifestation: Manifestacja
+language.geographical.distribution: Dystrybucja geograficzna
+language.sidebar.common.female.names: Powszechne imiona żeńskie
+language.sidebar.common.male.names: Powszechne imiona męskie
+language.sidebar.common.unisex.names: Powszechne imiona bezpłciowe
+law.localization: Lokalizacja
