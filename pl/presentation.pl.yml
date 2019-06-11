@@ -85,7 +85,7 @@ landmark.properties: Specjalne właściwości
 landmark.effects: Warunki Środowiskowe
 landmark.architecture: Architektura
 landmark.ruined: RUINA
-landmark.owner: Posiadane przez
+landmark.owner: Właściciel
 material.rarity: Częstość występowania
 alternativenames: Inne nazwy
 landmark.professions: Powiązane profesje
@@ -123,12 +123,12 @@ material.density: Gęstość
 landmark.sensory: Wygląd i odczucia zmysłowe
 landmark.parent: Znajduje się w
 landmark.children: Zawiera
-landmark.organization: Posiadane przez organizację
+landmark.organization: Organizacja nadrzędna
 landmark.entries: Wejścia
 landmark.contents: Zawartość i umeblowanie
 landmark.connectedrooms: Połączone pokoje
-landmark.reportprimarylocations: Powiązany raport (miejsca główne)
-landmark.reportsecondarylocations: Powiązany raport (miejsca drugorzędne)
+landmark.reportprimarylocations: Powiązany Raport (miejsca główne)
+landmark.reportsecondarylocations: Powiązany Raport (miejsca drugorzędne)
 material.characteristics: Cechy fizyczne
 material.compounds: Związki i połączenia
 material.commonState: Powszechny stan skupienia
@@ -255,7 +255,6 @@ formation.training: Trening
 formation.auxilia: Wsparcie
 formation.sidebar.founding: Założenie
 item.sidebar.related.condition: Powiązany Stan
-item.sidebar.rarity: 'Rzadkość
-
-  '
+item.sidebar.rarity: Rzadkość
 item.sidebar.owning.organization: Organizacja nadrzędna
+item.inner.workings: ' Mechaniki i wewnętrzne funkcjonowanie'
