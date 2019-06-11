@@ -350,3 +350,9 @@ access.authors.editor.description: Dostęp do tworzenia, przeglądania i edytowa
 access.group.edit: Edytuj Grupę Subskrybentów
 access.group.position.description: (opcjonalnie) Jeśli chciałbyś zorganizować swoje
   grupy.
+access.code.management: Zarządzanie Kodami Subskrybentów
+access.code.code: Kod
+access.code.group: Grupa Subskrybentów
+access.code.maxUses: Maksymalna Liczba Użytkowników
+access.code.expiryDate: Data wygaśnięcia
+access.code.edit: Edytuj Kod Subskrybentów
