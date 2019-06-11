@@ -64,5 +64,5 @@ access.activate: Feliratkozás Aktiválása
 access.activate.description: Írd be alulra a Feliratkozási kódod, hogy hozzáférj a
   tartalomhoz. Ennyire egyszerű!
 access.activate.subscription: Feliratkozás Aktiválása
-access.activate.code: Aktivációs Kód Megadása
+access.activate.code: Aktiváló Kód Megadása
 access.activate.login: Be kell jelentkezned a Feliratkozásod aktiválásához!
