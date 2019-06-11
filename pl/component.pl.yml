@@ -212,7 +212,7 @@ map.marker.colorFill.description: Kolor wypełnienia koła lub wielokąta. Może
   z kolorów zdefiniowanych w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego
   koloru włącznie ze znakiem hash na początku kodu.
 map.marker.opacityOutline: Nieprzezroczystość Konturu
-map.marker.opacityOutline.description: Procentowa Przezroczystość konturu. Od 0 do
+map.marker.opacityOutline.description: Procentowa przezroczystość konturu. Od 0 do
   100% (np. 50)
 map.marker.opacityFill: Nieprzezroczystość Wypełnienia
 map.marker.opacityFill.description: Procentowa nieprzezroczystość wypełnienia koła
@@ -316,3 +316,10 @@ deete.code: Usuń Kod
 block.template: Schemat Bloku
 block.templates: Schematy Bloków
 list.block.templates: Lista Schematów Bloków
+access.rights.notice: Funkcje Grup i Subskrybentów dostępne są tylko dla członków
+  Gildii!
+access.rights.management: Zarządzanie prawami dostępu
+access.rights.codes: Kody dostępu Subskrybentów
+access.authors.management: Zarządzanie Autorami
+access.authors.coowner.description: Dostęp do wszystkiego, włącznie z konfiguracją
+  świata, CSS i zarządzania dostępem.
