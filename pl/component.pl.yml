@@ -328,7 +328,7 @@ access.authors.editor: Edytor
 access.authors.writer: Pisarz
 access.authors.writer.description: Dostęp do tworzenia artykułów ustawionych jako
   Wersja robocza. Edytorzy i wyżej mogą wtedy zarządzać, organizować i publikować
-  te artykuły
+  te artykuły.
 access.authors.slots: Użyte sloty Autorów
 access.subscribers.slots: Użyte sloty Subskrybentów
 access.subscribers.purge: Wyczyść wszystkich aktualnych Subskrybentów z listy przed
@@ -343,8 +343,16 @@ access.subscribers.add: Dodaj Subskrybentów do Grupy
 access.subscribers.management: Zarządzanie Subskrybentami
 access.group.management: Zarządzanie Grupami Subskrybentów
 access.group.assets: Zasoby Grupy
-access.group.description.description: (opcjonalne) Aby przypomnieć Ci kto i dlaczego
+access.group.description.description: (opcjonalnie) Aby przypomnieć Ci kto i dlaczego
   jest w tej grupie.
 access.authors.editor.description: Dostęp do tworzenia, przeglądania i edytowania
   wszelkich treści.
 access.group.edit: Edytuj Grupę Subskrybentów
+access.group.position.description: (opcjonalnie) Jeśli chciałbyś zorganizować swoje
+  grupy.
+access.code.management: Zarządzanie Kodami Subskrybentów
+access.code.code: Kod
+access.code.group: Grupa Subskrybentów
+access.code.maxUses: Maksymalna Liczba Użytkowników
+access.code.expiryDate: Data wygaśnięcia
+access.code.edit: Edytuj Kod Subskrybentów
