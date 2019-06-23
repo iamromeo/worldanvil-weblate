@@ -1,5 +1,5 @@
 world.anvil.description: World Anvil er et værktøj til at bygge verdener og et fælleskab
-  for forfattere, rollespil historiefortællere og folk der elsker at opbygge verdener
+  for forfattere, rollespilshistoriefortællere og folk der elsker at skabe verdener
 account.create: Opret din konto
 created.by: Lavet af
 in: i
@@ -11,14 +11,14 @@ followers.all: Se alle følgere
 campaigns: Kampagner
 secrets: Hemmeligheder
 maps: Kort
-image.gallery: Billede Galleri
+image.gallery: Billedgalleri
 articles: Artikler
-recent.articles: Seneste Artikler
-featured.articles: Fremhævede Artikler
-uncategorized.articles: Ikke Kategoriserede Artikler
-twitch.live: Se direkte på Twitch
+recent.articles: Seneste artikler
+featured.articles: Fremhævede artikler
+uncategorized.articles: Ikke kategoriserede artikler
+twitch.live: Se live på Twitch
 support.patreon: Støt projektet på Patreon
-support.patreon.user: Support %username% på Patreon
+support.patreon.user: Støt %username% på Patreon
 support.kofi.user: Køb %username% en kop kaffe!
 follow: Følg %name%
 follow.action.remove: STOP MED AT FØLGE
@@ -31,18 +31,18 @@ reading.action.remove: FJERN FRA LÆSELISTE
 reading.action.add: TILFØJ TIL LÆSELISTE
 reading.action.add.description: Tilføj denne artikel til din læs senere/gemte artikler
   liste. Forfatteren vil ikke kunne se det.
-article.love: Folk som elsker din artikel
+article.love: Folk som kunne lide din artikel
 article.love.return: Giv noget kærlighed tilbage!
-author.notes: Forfatterens Notater
+author.notes: Forfatterens notater
 authors: Forfattere
 author.page: Forfatterens side
-author.since: Medlem Siden
+author.since: Medlem siden
 author.interests: Interesser & Hobbyer
-author.movies: Yndlings Film
+author.movies: Yndlings film
 author.tv: Yndlings TV-serier
-author.books: Yndlings Bøger
-author.writers: Yndlings Forfattere
-author.games: Yndlings Spil
+author.books: Yndlings bøger
+author.writers: Yndlings forfattere
+author.games: Yndlings spil
 author.comments: Kommentarer & Feedback
 author.worlds: Verdener
 author.characters: Karakterer
@@ -56,7 +56,8 @@ condition.epidimiology: Epidemiologi
 condition.origin: Oprindelse
 condition.cycle: Cyklus
 condition.species: Påvirkede Arter
-world.anvil.header: World Anvil, værktøjs platform og Fællesskab til at skabe verdener
+world.anvil.header: World Anvil, en værktøjsplatform til at skabe verdener og tage
+  del i fællesskabet med
 powered.by: Drevet af
 tweets.by: Tweets af
 join.discord.world: Tilslut dig %worldname% Discord!
@@ -66,8 +67,8 @@ goto.homepage: 'Gå til %name% startside '
 article.likes.number: Dette indlæg har %number% verdenskabere syntes godt om
 article.visibility: Denne artikel er synlig for de følgende abonnent grupper
 players.looking: Leder efter spillere
-players.full: Kampagne er fuld
-author.badges: Mærker & medaljer
+players.full: Kampagnen er fuld
+author.badges: Mærker & Medaljer
 history: Historie
 condition.affectedgroups: Påvirkede grupper
 condition.hosts: Værter & bærere
@@ -98,3 +99,24 @@ material.refinement: Forfinelse
 material.manufacturing: Produktion og produkter
 material.hazards: Farer
 material.distribution: Fordeling
+writers.team: Forfatterteam
+follow.action.unfollow.world: Stop med at følge verden
+campaign.system: Et %system_name% spil
+campaign.storytellers: Denne historie fortælles af
+campaign.watchlive: Se kampagnen live på Twitch
+campaign.protagonists: Hovedpersonerne
+campaign.playedby: Spillet af
+campaign.lfp: Leder efter spillere
+campaign.full: Fuld
+campaign.support.patreon: Støt denne kampagne på Patreon
+campaign.sessions: Liste af sessions
+campaign.sessions.scheduled: Planlagte sessions
+campaign.sessions.past: Sidste session
+campaign.session.live: LIVE
+campaign.adversaries: Modstandere
+campaign.allies: Allierede
+campaign.competitors: Konkurrenter
+campaign.neutral: Neutrale parter
+campaign.generic: Andre NPCer
+campaign.setting: Settingen
+editorial.team: Redigeringsteam
