@@ -229,3 +229,23 @@ landmark.effects: Условия окружения
 landmark.denizens: Обитатели
 landmark.ruined: РАЗРУШЕНОЕ СТРОЕНИЕ
 landmark.professions: Связанные профессии
+landmark.organization: Владеющая организация
+language.alphabet: Алфавит
+language.geographical.distribution: Географическая распространённость
+language.phonology: Фонология
+language.morphology: Морфология
+language.syntax: Синтаксис
+language.vocabulary: Словарный запас
+language.phonetics: Фонетика
+language.sidebar.common.phrases: Распространённые фразы
+language.sidebar.common.female.names: Распространённые женские имена
+language.sidebar.common.male.names: Распространённые мужские имена
+language.sidebar.common.unisex.names: Распространённые универсальные имена
+material.halflife: Длительность жизни
+material.regulations: Законы и регуляция
+material.locations: Связанные места
+material.species: Связанные виды
+material.items: Связанные предметы
+material.technologies: Связанные технологии
+material.professions: Связанные профессии
+law.manifestation: Проявление
