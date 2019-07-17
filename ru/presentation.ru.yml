@@ -249,3 +249,6 @@ material.items: Связанные предметы
 material.technologies: Связанные технологии
 material.professions: Связанные профессии
 law.manifestation: Проявление
+landmark.connectedrooms: Смежные комнаты
+landmark.materials: Связанные материалы
+material.manufacturing: Производство и Товары
