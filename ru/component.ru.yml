@@ -350,4 +350,4 @@ access.authors.writer.description: Доступ к созданию статей
 access.subscribers.purge: Очистить список Подписчиков перед импортом
 access.authors.username: Имя пользователя
 access.group.management: Управление Группами подписчиков
-access.group.edit: Редактировать группу подписчиков
+access.group.edit: Редактировать Группу подписчиков
