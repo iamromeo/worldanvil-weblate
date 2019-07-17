@@ -338,3 +338,5 @@ access.subscribers.add: Добавить Подписчиков в группу
 access.code.code: Пароль
 access.subscribers.management: Управление Подписчиками
 access.code.group: Группа Подписчиков
+feat: Черта
+access.rights.notice: Функционал Групп и Подписчиков доступен только для членов Гильдии!
