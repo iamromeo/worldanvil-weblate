@@ -356,3 +356,6 @@ access.group.description.description: (опционально) Для напом
 access.group.position.description: (опционально) Просто чтобы вы могли организовать
   ваши группы, если захотите.
 access.code.management: Управление кодами доступа Подписчиков
+access.code.maxUses: Максимальное число использований
+access.code.expiryDate: Срок годности
+access.code.edit: Редактировать коды подписчиков
