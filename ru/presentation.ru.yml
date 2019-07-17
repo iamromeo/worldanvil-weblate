@@ -203,7 +203,7 @@ formation.sidebar.overall.training.level: Общий уровень подгот
 formation.sidebar.assumed.veterancy: Предполагаемый боевой опыт
 formation.sidebar.usedby: Кем используется
 formation.sidebar.ranks.titles: Ранги и звания
-item.inner.workings: Механика и внутреннее устройство
+item.inner.workings: ' Механика и внутреннее устройство'
 item.manufacturing.process: Процесс производства
 item.significance: Значимость
 item.sidebar.itemtype: Вид предмета
@@ -227,4 +227,5 @@ landmark.sensory: Сенсорный и внешний вид
 landmark.contents: Наполнение и обстановка
 landmark.effects: Условия окружения
 landmark.denizens: Обитатели
-landmark.ruined: Разрушенное строение
+landmark.ruined: РАЗРУШЕНОЕ СТРОЕНИЕ
+landmark.professions: Связанные профессии
