@@ -335,7 +335,7 @@ access.authors.rank: Ранг
 access.authors.groups: Группы
 access.subscriber.add: Добавить Подписчика в группу(ы)
 access.subscribers.add: Добавить Подписчиков в группу
-access.code.code: Пароль
+access.code.code: Код доступа
 access.subscribers.management: Управление Подписчиками
 access.code.group: Группа Подписчиков
 feat: Черта
@@ -355,4 +355,4 @@ access.group.description.description: (опционально) Для напом
   находится в этой группе.
 access.group.position.description: (опционально) Просто чтобы вы могли организовать
   ваши группы, если захотите.
-access.code.management: Управление кодами подписчиков
+access.code.management: Управление кодами доступа Подписчиков
