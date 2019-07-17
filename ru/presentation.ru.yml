@@ -29,7 +29,7 @@ author.games: Любимые игры
 author.comments: Комментарии, отзывы и предложения
 author.worlds: Миры
 author.characters: Персонажи
-author.badges: значки и медали
+author.badges: Значки и Медали
 history: История
 condition.causes: Причины
 condition.symptoms: Симптомы
@@ -134,3 +134,21 @@ material.boiling: Температура кипения / испарения
 material.melting: Температура плавления / затвердевания
 material.density: Плотность
 material.commonState: Обычное состояние
+editorial.team: Редакция
+writers.team: Писатели
+campaign.sessions: Список сессий
+campaign.vtt: Виртуальный стол
+follow.action.unfollow.world: Отписаться от Мира
+alternativenames: Альтернативные имена
+campaign.sessions.past: Предыдущая сессия
+document.purpose: Цель
+document.structure: Структура документа
+document.clauses: Содержание
+document.caveats: Условия
+document.references: Ссылки
+document.legal.status: Легальность
+document.historical.details: Исторические детали
+document.background: Контекст
+document.history: История
+document.public.reaction: Реакция публики
+campaign.generic: Другие NPC
