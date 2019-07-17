@@ -152,3 +152,77 @@ document.background: Контекст
 document.history: История
 document.public.reaction: Общественная реакция
 campaign.generic: Другие NPC
+document.modal.read.document: Прочесть документ
+document.modal.close: Закрыть
+document.article.medium: Материал
+document.article.ratificationdate: Дата ратификации
+document.article.expirationdate: Срок годности
+document.article.myth: Миф
+document.article.location: Место
+document.article.authors: Авторы
+ethnicity.naming.traditions: Традиции именования
+ethnicity.feminine.names: Женские имена
+ethnicity.masculine.names: Мужские имена
+ethnicity.unisex.names: Универсальные имена
+ethnicity.family.names: Фамилии
+ethnicity.other.names: Другие имена
+ethnicity.culture: Культура
+ethnicity.culture.cultural.heritage: Культура и культурное наследие
+ethnicity.shared.customary.codes.values: Распространённые принципы и ценности
+ethnicity.Average.technological.level: Средний уровень технологий
+ethnicity.common.etiquette.rules: Распространённые правила этикета
+ethnicity.common.dress.code: Распространённые одежды
+ethnicity.art.architecture: Искусство и архитектура
+ethnicity.common.customs.traditions.rituals: Распространённые обычаи, традиции и ритуалы
+ethnicity.birth.baptismal.rites: Обряды рождения и крещения
+ethnicity.comingofage.rites: Обряды cовершеннолетия
+ethnicity.funerary.memorial.Customs: Погребальные и траурные обычаи
+ethnicity.common.taboos: Распространённые табу
+ethnicity.common.myths.legends: Распространённые мифы и легенды
+ethnicity.historical.figures: Исторические личности
+ethnicity.ideals: Идеалы
+ethnicity.beauty.ideals: Идеалы красоты
+ethnicity.gender.ideals: Гендерные идеалы
+ethnicity.courtship.ideals: Идеалы ухаживания
+ethnicity.relationship.ideals: Идеалы отношений
+formation.manpower: Людские ресурсы
+formation.equipment: Снаряжение
+formation.weaponry: Вооружение
+formation.vehicles: Транспортные средства
+formation.structure: Структура
+formation.tactics: Тактики
+formation.training: Подготовка
+formation.logistics: Логистика
+formation.logistical.support: Логистическая поддержка
+formation.auxilia: Вспомогательные части
+formation.recruitment: Вербовка
+formation.history: История
+formation.historical.loyalties: Историческая верность
+formation.sidebar.type: Вид
+formation.sidebar.overall.training.level: Общий уровень подготовки
+formation.sidebar.assumed.veterancy: Предполагаемый боевой опыт
+formation.sidebar.usedby: Кем используется
+formation.sidebar.ranks.titles: Ранги и звания
+item.inner.workings: Механика и внутреннее устройство
+item.manufacturing.process: Процесс производства
+item.significance: Значимость
+item.sidebar.itemtype: Вид предмета
+item.sidebar.subtype.model: Подтип / модель
+item.sidebar.usedby: Кем используется
+item.sidebar.manufacturer: Производитель
+item.sidebar.related.technologies: Связанные технологии
+item.sidebar.related.ethnicities: Связанные этносы
+item.sidebar.owning.organization: Владеющая организация
+item.sidebar.related.condition: Связанные состояния
+item.sidebar.rarity: Редкость
+item.sidebar.weight: Вес
+item.sidebar.dimensions: Размеры
+item.sidebar.base.price: Базовая цена
+item.sidebar.rawmaterials.components: Исходные материалы и компоненты
+item.sidebar.tools: Инструменты
+item.sidebar.related.myths: Связанные мифы
+landmark.design: Дизайн
+landmark.entries: Входы/выходы
+landmark.sensory: Сенсорный и внешний вид
+landmark.contents: Наполнение и обстановка
+landmark.effects: Условия окружения
