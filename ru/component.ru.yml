@@ -340,3 +340,7 @@ access.subscribers.management: Управление Подписчиками
 access.code.group: Группа Подписчиков
 feat: Черта
 access.rights.notice: Функционал Групп и Подписчиков доступен только для членов Гильдии!
+master.feature: Это эксклюзивная функция уровня Мастер +. Присоединитесь к <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild </a>, чтобы
+  получить доступ к этой функции и помочь развитию World Anvil.
+access.rights.codes: Коды доступа подписчика
