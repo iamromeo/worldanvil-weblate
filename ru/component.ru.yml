@@ -344,3 +344,6 @@ master.feature: Это эксклюзивная функция уровня Ма
   text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild </a>, чтобы
   получить доступ к этой функции и помочь развитию World Anvil.
 access.rights.codes: Коды доступа Подписчиков
+access.authors.writer.description: Доступ к созданию статей с пометкой Черновик. В
+  дальнейшем пользователи от Редактора и выше могут управлять, упорядочивать и опубликовывать
+  эти статьи.
