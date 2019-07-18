@@ -203,7 +203,7 @@ formation.sidebar.overall.training.level: Общий уровень подгот
 formation.sidebar.assumed.veterancy: Предполагаемый боевой опыт
 formation.sidebar.usedby: Кем используется
 formation.sidebar.ranks.titles: Ранги и звания
-item.inner.workings: Механика и внутреннее устройство
+item.inner.workings: ' Механика и внутреннее устройство'
 item.manufacturing.process: Процесс производства
 item.significance: Значимость
 item.sidebar.itemtype: Вид предмета
@@ -227,4 +227,28 @@ landmark.sensory: Сенсорный и внешний вид
 landmark.contents: Наполнение и обстановка
 landmark.effects: Условия окружения
 landmark.denizens: Обитатели
-landmark.ruined: Разрушенное строение
+landmark.ruined: РАЗРУШЕНОЕ СТРОЕНИЕ
+landmark.professions: Связанные профессии
+landmark.organization: Владеющая организация
+language.alphabet: Алфавит
+language.geographical.distribution: Географическая распространённость
+language.phonology: Фонология
+language.morphology: Морфология
+language.syntax: Синтаксис
+language.vocabulary: Словарный запас
+language.phonetics: Фонетика
+language.sidebar.common.phrases: Распространённые фразы
+language.sidebar.common.female.names: Распространённые женские имена
+language.sidebar.common.male.names: Распространённые мужские имена
+language.sidebar.common.unisex.names: Распространённые универсальные имена
+material.halflife: Длительность жизни
+material.regulations: Законы и регуляция
+material.locations: Связанные места
+material.species: Связанные виды
+material.items: Связанные предметы
+material.technologies: Связанные технологии
+material.professions: Связанные профессии
+law.manifestation: Проявление
+landmark.connectedrooms: Смежные комнаты
+landmark.materials: Связанные материалы
+material.manufacturing: Производство и Товары
