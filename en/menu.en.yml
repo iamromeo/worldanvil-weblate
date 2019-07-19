@@ -1,6 +1,7 @@
 toggle: 'Toggle Menu'
 dashboard: 'Dashboard'
 campaigns: 'Campaigns'
+characters: 'Characters'
 notebook: 'Notebook'
 studio: 'Studio'
 todo.list: 'TODO List'
@@ -13,6 +14,8 @@ shop: 'Shop'
 guild.hall: 'Guild Hall'
 join.guild: JOIN THE GUILD!
 join.guild.description: GET ALL THE FEATURES! Help us keep World Anvil worldbuilding toolset alive and growing!
+join.discord: Get inspired, Get ALL the help!
+join.codex: World Anvil Documentation Codex
 world: 'World'
 profile: 'Profile'
 
@@ -42,7 +45,7 @@ campaign.corkboard: 'Corkboard'
 home: 'Home'
 pricing: 'Pricing'
 need.help: 'Need help?'
-feature.suggest: 'Suggest a Feature'
+feature.suggest: 'Got an idea?'
 faq: 'FAQ'
 accessibility: Accessibility
 privacy: 'Privacy'

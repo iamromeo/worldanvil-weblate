@@ -5,7 +5,7 @@ description: Description
 state: State
 status: Status
 weight: Weight 
-help: Help
+help: Do you need Help?
 home: Home
 class: CSS Class
 class.name: CSS Class Name

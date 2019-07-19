@@ -109,6 +109,7 @@ group: Group
 subscriber: Subscriber
 
 
+world.summary: Summary
 articles: 'Articles'
 blocks: 'Blocks'
 block.templates: 'Block Templates'
@@ -132,6 +133,7 @@ subscribers: Subscribers
 
 list.articles: 'Articles List'
 list.blocks: 'Blocks List'
+list.characters: 'Characters List'
 list.block.templates: 'Block Templates List'
 list.campaigns: 'Campaigns List'
 list.categories: 'Categories List'
@@ -149,6 +151,7 @@ list.secrets: 'Secrets List'
 list.worlds: 'Worlds List'
 access: 'Access Rights'
 subscribers: 'Subscribers'
+characters: 'Characters'
 followers: 'Followers'
 list.subscribers: Subscribers
 

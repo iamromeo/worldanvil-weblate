@@ -1,128 +1,137 @@
-world.anvil.header: World Anvil Worldbuilding Tools Platform & Community
-world.anvil.description: World Anvil is a worldbuilding tools platform and community for writers, RPG storytellers and worldbuilding lovers
-account.create: Create your Account
+# ------------------------------------------------------------------------------------------- #
+# - Notes -                                                                                   #
+# ---------                                                                                   #
+# Use "." to seperate sections in the template for each translattion & "_" to conect words    #
+# and group items by kind and or section                                                      #
+#                                                                                             # 
+# ------------------------------------------------------------------------------------------- #
 
-created.by: Created by
-editorial.team: Editorial Team 
-writers.team: Writers Team
-powered.by: Powered by
+world.anvil.header: "World Anvil Worldbuilding Tools Platform & Community"
+world.anvil.description: "World Anvil is a worldbuilding tools platform and community for writers, RPG storytellers and worldbuilding lovers"
+account.create: "Create your Account"
+
+created.by: "Created by"
+editorial.team: "Editorial Team" 
+writers.team: "Writers Team"
+powered.by: "Powered by"
 in: in # name/link of category or world
 
 timeline: Timeline
 timelines: Timelines 
-toc: Table of Contents
+toc: "Table of Contents"
 followers: Followers 
-followers.all: See all followers
+followers.all: "See all followers"
 campaigns: Campaigns
+heroes: Heroes
 secrets: Secrets
 maps: Maps
-image.gallery: Image Gallery
+image.gallery: "Image Gallery"
 
+articles: "Articles"
+recent.articles: "Recent Articles" 
+featured.articles: "Featured Articles"
+uncategorized.articles: "Uncategorized Articles" 
 
-articles: Articles
-recent.articles: Recent Articles 
-featured.articles: Featured Articles
-uncategorized.articles: Uncategorized Articles 
-
-tweets.by: Tweets by
-twitch.live: Watch live on Twitch
-support.patreon: Support the project on Patreon
-support.patreon.user:  Support %username% on Patreon
+tweets.by: "Tweets by"
+twitch.live: "Watch live on Twitch"
+support.patreon: "Support the project on Patreon"
+support.patreon.user: Support %username% on Patreon
 support.kofi.user: Buy %username% a coffee!
-join.discord.world:  Join %worldname% Discord!
+join.discord.world: Join %worldname% Discord!
 
 following: Following %name%
 follow: Follow %name%
 follow.action.remove: UNFOLLOW
-follow.action.unfollow.world: Unfollow World
+follow.action.unfollow.world: "Unfollow World"
 follow.action.add: FOLLOW
-follow.action.add.description: Follow to get in your stream all the articles written by its authors in this world!
-like.action.remove: REMOVE LIKE
+follow.action.add.description: "Follow to get in your stream all the articles written by its authors in this world!"
+like.action.remove: "REMOVE LIKE"
 like.action.add: LIKE
-like.action.add.description: Let the author know that you liked their work. This article will NOT be added to your read-later collection
-reading.action.remove: REMOVE FROM READING LIST
-reading.action.add: ADD TO READING LIST
-reading.action.add.description: Add this article to your read-later/saved articles list. The author will NOT be notified.
+like.action.add.description: "Let the author know that you liked their work. This article will NOT be added to your read-later collection"
+reading.action.remove: "REMOVE FROM READING LIST"
+reading.action.add: "ADD TO READING LIST"
+reading.action.add.description: "Add this article to your read-later/saved articles list. The author will NOT be notified."
 
+alternativenames: "Alternative Names"
+
+article.love: "People who loved your article"
+article.love.return: "Go give some love in return!"
+article.likes.number: this post is liked by %number% worldbuilders
+article.visibility: "This article is visible to the following subscriber groups"
+author.notes: "Author's Notes"
 
 goto.homepage: Go to %name% Homepage
+history: History 
+players.looking: "Looking for Players" 
+players.full: "The Campaign is Full"
+type: Type
 
-
-article.love: People who loved your article
-article.love.return: Go give some love in return!
-article.likes.number: This post is liked by %number% worldbuilders
-article.visibility: This article is visible to the following subscriber groups
-author.notes: Author's Notes
-
-players.looking: Looking for Players 
-players.full: The Campaign is Full
-
+# Author
 authors: Authors 
-author.page: Author's page
-author.since: Member Since
-author.interests: Interests & Hobbies
-author.movies: Favorite Movies 
-author.tv: Favorite TV Series 
-author.books: Favorite Books 
-author.writers: Favorite Writers 
-author.games: Favorite Games 
-author.comments: Comments & Feedback
+author.page: "Author's page"
+author.since: "Member Since"
+author.interests: "Interests & Hobbies"
+author.movies: "Favorite Movies" 
+author.tv: "Favorite TV Series"
+author.books: "Favorite Books" 
+author.writers: "Favorite Writers" 
+author.games: "Favorite Games" 
+author.comments: "Comments & Feedback"
 author.worlds: Worlds 
 author.characters: Characters
-author.badges: Badges & Medals
-
-history: History 
-type: Type
-alternativenames: Alternative Names
-
+author.badges: "Badges & Medals"
 
 # Campaign Page
 campaign.system: A %system_name% game 
 campaign.world: In the world of %world_name%
-campaign.storytellers: This story is told by
-campaign.watchlive: Watch the campaign live on Twitch
-campaign.protagonists: The Protagonists
-campaign.playedby: Played by
-campaign.lfp: Looking for Players
+campaign.storytellers: "This story is told by"
+campaign.watchlive: "Watch the campaign live on Twitch"
+campaign.protagonists: "The Protagonists"
+campaign.playedby: "Played by"
+campaign.lfp: "Looking for Players"
 campaign.full: Full
-campaign.support.patreon: Support this Campaign on Patreon
-campaign.sessions: Sessions List
-campaign.sessions.scheduled: Scheduled Sessions
-campaign.sessions.past: Past Session
+campaign.support.patreon: "Support this Campaign on Patreon"
+campaign.sessions: "Sessions List"
+campaign.sessions_archive: "Sessions Archive"
+campaign.sessions.scheduled: "Scheduled Sessions"
+campaign.sessions.past: "Past Session"
 campaign.session.live: LIVE
-campaign.supporting.cast: Supporting Cast
+campaign.supporting.cast: "Supporting Cast"
 campaign.adversaries: Adversaries 
 campaign.allies: Allies 
 campaign.competitors: Competitors 
-campaign.neutral: Neutral Parties 
-campaign.generic: Other NPCs
+campaign.neutral: "Neutral Parties" 
+campaign.generic: "Other NPCs"
 campaign.setting: The Setting
 campaign.explore.world: Explore the world of %world_name%
 campaign.timelines: Timelines 
 campaign.maps: Maps
-campaign.vtt: Virtual Tabletop 
+campaign.vtt: "Virtual Tabletop" 
 campaign.journal.world: World
 campaign.journal.campaign: Campaign
 campaign.journal.player: Player 
 campaign.journal.character: Character
-campaign.journal.session.report: Session Report
+campaign.journal.session.report: "Session Report"
+campaign.lore: Lore
+campaign.lore_and_cast: Lore & Supporting Cast
+campaign.maps_and_timelines: Maps & Timelines
 
 # Templates
-condition.transmission: Transmission & Vectors
+condition.transmission: "Transmission & Vectors"
 condition.causes: Causes 
 condition.symptoms: Symptoms 
 condition.treatment: Treatment 
 condition.prognosis: Prognosis 
 condition.sequela: Sequela 
-condition.affectedgroups: Affected Groups 
-condition.hosts: Hosts & Carriers 
+condition.affectedgroups: "Affected Groups" 
+condition.hosts: "Hosts & Carriers" 
 condition.prevention: Prevention 
 condition.epidimiology: Epidemiology
-condition.reception: Cultural Reception 
+condition.reception: "Cultural Reception"
 condition.origin: Origin 
 condition.cycle: Cycle 
 condition.rarity: Rarity 
-condition.species: Affected Species 
+condition.species: "Affected Species" 
 
 # Document
 document.purpose: Purpose
@@ -150,14 +159,43 @@ document.article.authors: Authors
 document.article.signatoriescharacters: "Signatories (Characters)"
 document.article.signatoriesorganizations: "Signatories (Organizations)"
 
-#Ethnicity
+#DSTS to change completelly
+# dsts.title: "Title(s)"
+# dsts.reason_for_following: "Reason for Following"
+# dsts.type: "Type"
+# dsts.job: "Job"
+# dsts.use: "Use"
+# dsts.goal: "Goal"
+# dsts.what_makes_him_cool: "What makes him cool?"
+# dsts.aditional_goals: "Additional Goal(s)"
+# dsts.competence: "Competence"
+# dsts.likeability: "Likeability"
+# dsts.proactivity: "Proactivity"
+# dsts.quirk: Quirk
+# dsts.equipment: "Equipment"
+# dsts.desire: "Desire"
+# dsts.fear: "Fear"
+# dsts.facial_characteristics: "Facial Characteristics"
+# dsts.speech_patterns: "Speech Patterns"
+# dsts.body_type: "Body type"
+# dsts.sight: "Sight"
+# dsts.sound: "Sound"
+# dsts.smell: "Smell"
+# dsts.touch: "Touch"
+# dsts.emotional_state: "Emotional State"
+# dsts.happy: "Happy"
+# dsts.sad: "Sad"
+# dsts.angry: "Angry"
+# dsts.biography: "Biography"
+
+# Ethnicity
 ethnicity.naming.traditions: "Naming Traditions"
 ethnicity.feminine.names: "Feminine names"
 ethnicity.masculine.names: "Masculine names"
 ethnicity.unisex.names: "Unisex names"
 ethnicity.family.names: "Family names"
 ethnicity.other.names: "Other names"
-ethnicity.culture: "Culture"
+ethnicity.culture: Culture
 ethnicity.major.lang.groups.dialects: "Major language groups and dialects"
 ethnicity.culture.cultural.heritage: "Culture and cultural heritage"
 ethnicity.shared.customary.codes.values: "Shared customary codes and values"
@@ -179,7 +217,7 @@ ethnicity.courtship.ideals: "Courtship Ideals"
 ethnicity.relationship.ideals: "Relationship Ideals"
 ethnicity.major.organizations: "Major organizations"
 
-#Formation
+# Formation
 formation.manpower: Manpower
 formation.equipment: Equipment
 formation.weaponry: Weaponry
@@ -203,7 +241,7 @@ formation.sidebar.parent.formation: "Parent Formation"
 formation.sidebar.usedby: "Used by"
 formation.sidebar.ranks.titles: "Ranks & Titles"
 
-#Item
+# Item
 item.inner.workings: " Mechanics & Inner Workings"
 item.manufacturing.process: "Manufacturing process"
 item.significance: Significance
@@ -224,32 +262,33 @@ item.sidebar.rawmaterials.components: "Raw materials & Components"
 item.sidebar.tools: Tools
 item.sidebar.related.myths: "Related Myths"
 
-landmark.purpose: Purpose / Function
+# Landmark
+landmark.purpose: "Purpose / Function"
 landmark.design: Design 
 landmark.entries: Entries 
-landmark.sensory: Sensory & Appearance 
+landmark.sensory: "Sensory & Appearance" 
 landmark.denizens: Denizens 
-landmark.contents: Contents & Furnishings 
+landmark.contents: "Contents & Furnishings" 
 landmark.valuables: Valuables 
-landmark.hazards: Hazards & Traps 
-landmark.properties: Special Properties 
-landmark.effects: Environmental Effects 
+landmark.hazards: "Hazards & Traps" 
+landmark.properties: "Special Properties" 
+landmark.effects: "Environmental Effects" 
 landmark.alterations: Alterations 
 landmark.architecture: Architecture 
-landmark.ruined: RUINED STRUCTURE 
-landmark.parent: Parent Location 
-landmark.children: Included Locations
+landmark.ruined: "RUINED STRUCTURE" 
+landmark.parent: "Parent Location" 
+landmark.children: "Included Locations"
 landmark.owner: Owner
-landmark.organization: Owning Organization 
-landmark.charactersinlocation: Characters in Location 
-landmark.connectedrooms: Connected Rooms
-landmark.professions: Related Professions
-landmark.materials: Related Materials 
-landmark.contenders: Contested By
-landmark.reportprimarylocations: Related Report (Primary Locations)
-landmark.reportsecondarylocations: Related Report (Secondary Locations)
+landmark.organization: "Owning Organization" 
+landmark.charactersinlocation: "Characters in Location" 
+landmark.connectedrooms: "Connected Rooms"
+landmark.professions: "Related Professions"
+landmark.materials: "Related Materials"
+landmark.contenders: "Contested By"
+landmark.reportprimarylocations: "Related Report (Primary Locations)"
+landmark.reportsecondarylocations: "Related Report (Secondary Locations)"
 
-#Language
+# Language
 language.alphabet: Alphabet
 language.geographical.distribution: "Geographical Distribution"
 language.phonology: Phonology
@@ -262,40 +301,495 @@ language.sidebar.common.female.names: "Common Female Names"
 language.sidebar.common.male.names: "Common Male Names"
 language.sidebar.common.unisex.names: "Common Unisex Names"
 
+# Law
+law.type: Type
+law.manifestation: Manifestation
+law.localization: Localization
+
+# Location 
+location.geography: Geography
+location.flora: Flora
+location.fauna: Fauna
+location.natural_resources: "Natural Resources"
+# Location - Sidepanel -
+location.aternative_names: "Alternative Name(s)"
+location.type: Type
+# use gen type for Location - type
+location.location_under: "Location under"
+location.included_locations: "Included Locations"
+location.included_organizations: "Included Organizations"
+location.owner_ruler: "Owner/Ruler"
+location.owning_organization: "Owning Organization"
+location.characters_in_location: "Characters in Location"
+location.related_reports_primary: "Related Reports (Primary)"
+location.related_reports_secondary: "Related Reports (Secondary)"
+location.related_myths: "Related Myths"
+
+
+# Material
 material.properties: Properties 
-material.characteristics: Physical Characteristics
+material.characteristics: "Physical Characteristics"
 material.compounds: Compounds 
-material.geo: Geology & Geography
-material.origin: Origin & Source 
-material.halflife: Life & Expiration
+material.geo: "Geology & Geography"
+material.origin: "Origin & Source" 
+material.halflife: "Life & Expiration"
 material.discovery: Discovery 
-material.useCommon: Everyday use 
-material.useCultural: Cultural Significance and Usage 
-material.useIndustrial: Industrial Use 
+material.useCommon: "Everyday use" 
+material.useCultural: "Cultural Significance and Usage" 
+material.useIndustrial: "Industrial Use" 
 material.refinement: Refinement 
-material.manufacturing: Manufacturing & Products 
-material.products: Byproducts & Sideproducts 
+material.manufacturing: "Manufacturing & Products" 
+material.products: "Byproducts & Sideproducts" 
 material.hazards: Hazards 
-material.environment: Enviromental Impact 
-material.reusability: Reusability & Recycling 
+material.environment: "Enviromental Impact" 
+material.reusability: "Reusability & Recycling" 
 material.distribution: Distribution
-material.market: Trade & Market 
+material.market: "Trade & Market" 
 material.storage: Storage 
-material.regulations: Law & Regulation 
+material.regulations: "Law & Regulation"
 material.value: Value 
 material.rarity: Rarity 
 material.odor: Odor 
 material.taste: Taste 
 material.color: Color 
-material.boiling: Boiling / Condensation Point
-material.melting: Melting / Freezing Point
+material.boiling: "Boiling / Condensation Point"
+material.melting: "Melting / Freezing Point"
 material.density: Density 
-material.commonState: Common State 
-material.locations: Related Locations 
-material.species: Related Species 
-material.items: Related Items 
-material.technologies: Related Technologies 
-material.professions: Related Professions 
+material.commonState: "Common State" 
+material.locations: "Related Locations"
+material.species: "Related Species" 
+material.items: "Related Items"
+material.technologies: "Related Technologies" 
+material.professions: "Related Professions" 
+material.history_usage: "History & Usage"
 
-law.manifestation: Manifestation
-law.localization: Localization
+# Military Conflict
+military_conf.the_conflict: "The Conflict"
+military_conf.prelude: Prelude
+military_conf.deployment: Deployment
+military_conf.battlefield: Battlefield
+military_conf.conditions: Conditions
+military_conf.the_engagement: "The Engagement"
+military_conf.outcome: Outcome
+military_conf.aftermath: Aftermath
+military_conf.historical_significance: "Historical Significance"
+military_conf.legacy: Legacy
+military_conf.in_literature: "In Literature"
+military_conf.techological_advancement: "Technological Advancement"
+# Military Conflict - Side Bar
+military_conf.conflict_type: "Conflict Type"
+military_conf.battlefield_type: "Battlefield Type"
+military_conf.starting_date: "Start Date"
+military_conf.ending_date: "Ending Date"
+military_conf.conflict_result: "Conflict Result"
+military_conf.location: Location
+military_conf.belligerents: Belligerents
+military_conf.led_by: "Led by"
+military_conf.strength: Strength
+military_conf.casualties: Casualties
+military_conf.objectives: Objectives
+
+# Myth
+myth.summary: Summary
+myth.historical_basis: "Historical Basis"
+myth.spread: Spread
+myth.variations_mutation: "Variations & Mutation"
+myth.cultural_reception: "Cultural Reception"
+myth.in_literature: "In Literature"
+myth.in_art: "In Art"
+myth.date_of_first_recording: "Date of First Recording"
+myth.date_of_setting: "Date of Setting"
+myth.telling_prose: "Telling / Prose"
+myth.related_ethnicities: "Related Ethnicities"
+myth.related_species: "Related Species"
+myth.related_locations: "Related Locations"
+myth.related_people: "Related People"
+myth.related_organizations: "Related Organizations"
+myth.related_items: "Related Items"
+myth.related_vehicles: "Related Vehicles"
+
+# Organisation
+organisation.structure: "Structure"
+organisation.public_agenda: "Public Agenda"
+organisation.assets: "Assets"
+organisation.history: "History"
+organisation.disbandment: "Disbandment"
+organisation.demography_and_population: "Demography and Population"
+organisation.territories: "Territories"
+organisation.military: "Military"
+organisation.technological_level: "Technological Level"
+organisation.religion: "Religion"
+organisation.foreign_relations: "Foreign Relations"
+organisation.agriculture_industry: "Agriculture & Industry"
+organisation.trade_transport: "Trade & Transport"
+organisation.education: "Education"
+organisation.infrastructure: "Infrastructure"
+organisation.mythology_lore: "Mythology & Lore"
+organisation.divine_origins: "Divine Origins"
+organisation.cosmological_views: "Cosmological Views"
+organisation.tenets_of_faith: "Tenets of Faith"
+organisation.ethics: "Ethics"
+organisation.worship: "Worship"
+organisation.priesthood: "Priesthood"
+organisation.granted_divine_powers: "Granted Divine Powers"
+organisation.political_influence_intrigue: "Political Influence & Intrigue"
+organisation.sects: "Sects"
+organisation.disbanded_dissolved: "DISBANDED/DISSOLVED"
+organisation.founding_date: "Founding Date"
+organisation.dissolution_date: "Dissolution Date"
+organisation.type: "Type"
+organisation.capital: "Capital"
+organisation.alternative_names: "Alternative Names"
+organisation.formation_type: "Formation Type"
+organisation.training_level: "Training Level"
+organisation.veterancy_level: "Veterancy Level"
+organisation.demonym: "Demonym"
+organisation.leader: "Leader"
+organisation.head_of_state: "Head of State"
+organisation.head_of_government: "Head of Government"
+organisation.government_system: "Government System"
+organisation.power_structure: "Power Structure"
+organisation.economic_system: "Economic System"
+organisation.currency: "Currency"
+organisation.major_exports: "Major Exports"
+organisation.major_imports: "Major Imports"
+organisation.legislative_body: "Legislative Body"
+organisation.judicial_body: "Judicial Body"
+organisation.parent_organization: "Parent Organization"
+organisation.subsidiary_organizations: "Subsidiary Organizations"
+organisation.permeated_organizations: "Permeated Organizations"
+organisation.divines: "Divines"
+organisation.location: "Location"
+organisation.official_languages: "Official Languages"
+organisation.related_ranks_titles: "Related Ranks & Titles"
+organisation.controlled_territories: "Controlled Territories"
+organisation.neighboring_nations: "Neighboring Nations"
+organisation.manufactured_items: "Manufactured Items"
+organisation.related_items: "Related Items"
+organisation.organization_vehicles: "Organization Vehicles"
+organisation.notable_members: "Notable Members"
+organisation.related_ethnicities: "Related Ethnicities"
+organisation.related_myths: "Related Myths"
+
+# Person - Divine
+person.divine_domains: "Divine Domains"
+person.holy_books_codes: "Holy Books & Codes"
+person.divine_symbols_sigils: "Divine Symbols & Sigils"
+person.tenets_faith: "Tenets of Faith"
+person.holidays: "Holidays"
+person.divine_goals_aspirations: "Divine Goals & Aspirations"
+# Person - Physical
+person.physical_description: "Physical Description"
+person.general_condition: "General Physical Condition"
+person.body_features: "Body Features"
+person.facial_features: "Facial Features"
+person.identifying_characteristics: "Identifying Characteristics"
+person.physical_quirks: "Physical quirks"
+person.sensory_perception: "Sensory & Perception"
+person.special_abilities: "Special abilities"
+person.clothing_apparel_accessories: "Apparel & Accessories"
+person.items_specialized_equipment: "Specialized Equipment"
+# Person - Mental
+person.mental_characteristics: "Mental characteristics"
+person.personal_history: "Personal history"
+person.education: Education
+person.employment: Employment
+person.accomplishments_achievements: "Accomplishments & Achievements"
+person.failures_embarrassments: "Failures & Embarrassments"
+person.mental_trauma:  "Mental Trauma"
+person.intellectual_characteristics: "Intellectual Characteristics"
+person.morality_philosophy: "Morality & Philosophy"
+person.taboos: Taboos
+# Person - Personality
+person.personality_characteristics: "Personality Characteristics"
+person.motivation: Motivation
+person.savvies_ineptitudes: "Savvies & Ineptitudes"
+person.likes_dislikes: "Likes & Dislikes"
+person.virtues_personality_perks: "Virtues & Personality perks"
+person.vices_personality_flaws: "Vices & Personality flaws"
+person.personality_quirks: "Personality Quirks"
+person.hygiene: Hygiene
+# Person - Social
+person.social: Social
+person.contacts_relations: "Contacts & Relations"
+person.family_ties: "Family Ties"
+person.religious_views: "Religious Views"
+person.social_aptitude: "Social Aptitude"
+person.mannerisms: Mannerisms
+person.hobbies_pets: "Hobbies & Pets"
+person.speech: Speech
+person.wealth_financial_state: "Wealth & Financial state"
+# Person - Datasheet
+person.rpg_character_sheet: "RPG Character sheet"
+person.divine_classification: "Divine Classification"
+person.alignment: Alignment
+person.current_location: "Current Location"
+person.species: Species
+person.conditions: Conditions
+person.ethnicity: Ethnicity
+person.realm: Realm
+person.church_cult: "Church/Cult"
+person.honorary_occupational_titles: "Honorary & Occupational Titles"
+person.currently_held_titles: "Currently Held Titles"
+person.previously_held_ranks_titles: "Previously Held Ranks & Titles"
+person.life: Life
+person.year_of_birth: "Year of Birth"
+person.circumstances_of_birth: "Circumstances of Birth"
+person.circumstances_of_death: "Circumstances of Death"
+person.birthplace: Birthplace
+person.current_residence: "Current Residence"
+person.biological_sex: "Biological Sex"
+person.sexuality: Sexuality
+person.gender_identity: "Gender Identity"
+person.eyes: Eyes
+person.skin: Skin Tone
+person.hair: Hair
+person.height: Height
+person.weight: Weight
+person.quotes_catchphrases: "Quotes & Catchphrases"
+person.aligned_organization: "Aligned Organization"
+person.other_affiliations: "Other Affiliations"
+person.related_myths: "Related Myths"
+person.known_languages: "Known Languages"
+person.appears_in: "Appears in..."
+person.character_prototype: "Character Prototype"
+
+# Plot
+plot.summary: Summary
+plot.plot_points_scenes: "Plot points/Scenes"
+plot.themes: Themes
+plot.structure: Structure
+plot.exposition: Exposition
+plot.conflict: Conflict
+plot.rising_action: "Rising Action"
+plot.climax: Climax
+plot.falling_action: "Falling Action"
+plot.resolution: Resolution
+plot.components: Components
+plot.goals: Goals
+plot.hooks: Hooks
+plot.stakes: Stakes
+plot.moral_quandaries: "Moral Quandaries"
+plot.cruel_tricks: "Cruel Tricks"
+plot.red_herrings: "Red Herrings"
+plot.relations: Relations
+plot.protagonists: Protagonists
+plot.allies: Allies
+plot.neutrals_bystanders: "Neutrals/Bystanders"
+plot.competitors: Competitors
+plot.adversaries: Adversaries
+plot.backdrops: Backdrops
+plot.locations: Locations
+plot.threats: Threats
+plot.encounters: Encounters
+plot.past_events: "Past Events"
+#Plot - Sidebar
+plot.type: "Plot type"
+plot.parent: "Parent Plot"
+plot.subplots: Subplots
+plot.related_characters: "Related Characters"
+plot.related_locations: "Related Locations"
+plot.related_organizations: Related Organizations
+
+# Profession
+profession.career: "Career"
+profession.qualifications: "Qualifications"
+profession.career_progression: "Career Progression"
+profession.payment_&_reimbursement: "Payment & Reimbursement"
+profession.other_benefits: "Other Benefits"
+profession.perception: "Perception"
+profession.purpose: "Purpose"
+profession.social_status: "Social Status"
+profession.demographics: "Demographics"
+profession.history: "History"
+profession.operations: "Operations"
+profession.tools: "Tools"
+profession.materials: "Materials"
+profession.workplace: "Workplace"
+profession.provided_services: "Provided Services"
+profession.dangers_&_hazards: "Dangers & Hazards"
+profession.alternative_names: "Alternative Names"
+profession.type: "Type"
+profession.demand: "Demand"
+profession.legality: "Legality"
+
+# Rank
+rank.qualifications: "Qualifications"
+rank.requirements: "Requirements"
+rank.appointment: "Appointment"
+rank.duties: "Duties"
+rank.responsibilities: "Responsibilities"
+rank.benefits: "Benefits"
+rank.accoutrements_&_equipment: "Accoutrements & Equipment"
+rank.grounds_for_removal_dismissal: "Grounds for Removal/Dismissal"
+rank.history: "History"
+rank.cultural_significance: "Cultural Significance"
+rank.notable_holders: "Notable Holders"
+rank.type: "Type"
+rank.status: "Status"
+rank.creation: "Creation"
+rank.alternative_naming: "Alternative Naming"
+rank.equates_to: "Equates to"
+rank.source_of_authority: "Source of Authority"
+rank.length_of_term: "Length of Term"
+rank.first_holder: "First Holder"
+rank.reports_directly_to: "Reports directly to"
+
+# Report
+report.general_summary: "General Summary"
+report.rewards_granted: "Rewards Granted"
+report.missions_quests_completed: "Missions/Quests Completed"
+report.characters_interacted_with: "Character(s) interacted with"
+report.created_content: "Created Content"
+report.related_reports: "Related Reports"
+report.notes: Notes
+# Report - Side Bar
+report.campaign: Campaign
+report.protagonists: Protagonists
+report.player_journals: "Player Journals"
+report.report_date: "Report Date"
+report.primary_location: "Primary Location"
+report.secondary_location: "Secondary Location"
+
+# Ritual
+ritual.history: "History"
+ritual.execution: "Execution"
+ritual.components_and_tools: "Components and tools"
+ritual.participants: "Participants"
+ritual.observance: "Observance"
+ritual.related_location: "Related Location"
+ritual.related_ethnicities: "Related Ethnicities"
+
+# Settlement
+settlement.demographics: "Demographics"
+settlement.government: "Government"
+settlement.defences: "Defences"
+settlement.industry: "Industry"
+settlement.infrastructure: "Infrastructure"
+settlement.assets: "Assets"
+settlement.guilds_and_factions: "Guilds and Factions"
+settlement.history: "History"
+settlement.architecture: "Architecture"
+settlement.geography: "Geography"
+settlement.natural_resources: "Natural Resources"
+settlement.ruined_settlement: "RUINED SETTLEMENT"
+settlement.alternative_names: "Alternative Name(s)"
+settlement.type: "Type"
+settlement.population: "Population"
+settlement.inhabitant_demonym: "Inhabitant Demonym"
+settlement.location_under: "Location under"
+settlement.included_locations: "Included Locations"
+settlement.owner_ruler: "Owner/Ruler"
+settlement.owning_organization: "Owning Organization"
+settlement.characters_in_location: "Characters in Location"
+settlement.related_reports_primary: "Related Reports (Primary)"
+settlement.related_reports_secondary: "Related Reports (Secondary)"
+
+# Species
+species.Basic Information: "Basic Information"
+species.anatomy: "Anatomy"
+species.morphology: "Morphology"
+species.biological_traits: "Biological Traits"
+species.genetics_and_reproduction: "Genetics and Reproduction"
+species.growth_rate_stages: "Growth Rate & Stages"
+species.ecology_and_habitats: "Ecology and Habitats"
+species.dietary_needs_and_habits: "Dietary Needs and Habits"
+species.biological_cycle: "Biological Cycle"
+species.additional_information: "Additional Information"
+species.social_structure: "Social Structure"
+species.domestication: "Domestication"
+species.uses_products_exploitation: "Uses, Products & Exploitation"
+species.facial_characteristics: "Facial characteristics"
+species.geographic_origin_and_distribution: "Geographic Origin and Distribution"
+species.average_intelligence: "Average Intelligence"
+species.perception_and_sensory_capabilities: "Perception and Sensory Capabilities"
+species.symbiotic_and_parasitic_organisms: "Symbiotic and Parasitic organisms"
+species.civilization_and_culture: "Civilization and Culture"
+species.naming_traditions: "Naming Traditions"
+species.major_organizations: "Major Organizations"
+species.beauty_ideals: "Beauty Ideals"
+species.gender_ideals: "Gender Ideals"
+species.courtship_ideals: "Courtship Ideals"
+species.relationship_ideals: "Relationship Ideals"
+species.average_technological_level: "Average Technological Level"
+species.major_language_groups_dialects: "Major Language Groups and Dialects"
+species.common_etiquette_rules: "Common Etiquette Rules"
+species.common_dress_code: "Common Dress Code"
+species.culture_and_cultural_heritage: "Culture and Cultural Heritage"
+species.common_customs_traditions_rituals: "Common Customs, Traditions and Rituals"
+species.common_taboos: "Common Taboos"
+species.history: "History"
+species.historical_figures: "Historical Figures"
+species.common_myths_and_legends: "Common Myths and Legends"
+species.interspecies_relations_assumptions: "Interspecies Relations and Assumptions"
+species.rpg_datasheet: "RPG Datasheet"
+species.extinct: "EXTINCT"
+species.genetic_ancestor_s: "Genetic Ancestor(s)"
+species.genetic_descendants: "Genetic Descendants"
+species.scientific_name: "Scientific Name"
+species.origin_ancestry: "Origin/Ancestry"
+species.lifespan: "Lifespan"
+species.conservation_status: "Conservation Status"
+species.average_height: "Average Height"
+species.average_weight: "Average Weight"
+species.average_length: "Average Length"
+species.average_physique: "Average Physique"
+species.body_tint_colouring_marking: "Body Tint, Colouring and Marking"
+species.related_ethnicities: "Related Ethnicities"
+species.related_myths: "Related Myths"
+
+
+# Spell
+spell.effect: Effect
+spell.effect_side_secondary: "Side/Secondary Effects"
+spell.manifestation: Manifestation
+spell.source: Source
+spell.discovery: Discovery
+spell.related_deity_power: "Related Deity/Higher Power"
+spell.related_organizations: "Related Organizations"
+spell.material_components: "Material Components"
+spell.gestures_ritual: "Gestures & Ritual"
+spell.related_discipline: "Related Discipline"
+spell.related_school: "Related School"
+spell.related_element: "Related Element"
+spell.effect_duration: "Effect Duration"
+spell.effect_casting_time: "Effect Casting Time"
+spell.range: Range
+spell.level: Level
+spell.restriction_applied: "Applied Restriction"
+
+# Technology
+technology.utility: "Utility"
+technology.manufacturing: "Manufacturing"
+technology.parent_technologies: "Parent Technologies"
+technology.children_technologies: "Children Technologies"
+technology.inventor_s: "Inventor(s)"
+technology.access_availability: "Access & Availability"
+technology.complexity: "Complexity"
+technology.discovery: "Discovery"
+technology.related_items: "Related Items"
+
+# Vehicle
+vehicle.power_generation: "Power Generation"
+vehicle.propulsion: "Propulsion"
+vehicle.weapons_armament: "Weapons & Armament"
+vehicle.armor_and_defense: "Armor and defense"
+vehicle.communication_tools_systems: "Communication Tools & Systems"
+vehicle.sensors: "Sensors"
+vehicle.additional_auxiliary_systems: "Additional & auxiliary systems"
+vehicle.hangars_docked_vessels: "Hangars & docked vessels"
+vehicle.rpg_datasheet: "RPG Datasheet"
+vehicle.class: "Class"
+vehicle.nickname: "Nickname"
+vehicle.motto: "Motto"
+vehicle.owner: "Owner"
+vehicle.owning_organization: "Owning Organization"
+vehicle.price: "Price"
+vehicle.rarity: "Rarity"
+vehicle.length: "Length"
+vehicle.beam: "Beam"
+vehicle.height: "Height"
+vehicle.weight: "Weight"
+vehicle.speed: "Speed"
+vehicle.complement: "Complement"
+vehicle.cargo_passengers_capacity: "Cargo & Passengers Capacity"
