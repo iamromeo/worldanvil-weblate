@@ -296,3 +296,6 @@ access.code.group: 登録者グループ
 access.code.maxUses: 最大使用可能の回数
 access.code.expiryDate: 有効期限
 access.code.edit: 登録者のコードを編集
+world.summary: 要約
+list.characters: キャラクター一覧
+characters: キャラクター
