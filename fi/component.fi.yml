@@ -352,3 +352,5 @@ access.code.group: Tilaajaryhmä
 access.code.maxUses: Käyttökertojen enimmäismäärä
 access.code.expiryDate: Erääntymispäivä
 access.code.edit: Muokkaa tilaajakoodia
+characters: Hahmot
+list.characters: Hahmolista
