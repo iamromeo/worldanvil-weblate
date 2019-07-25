@@ -146,7 +146,7 @@ campaign.playedby: pelaajana
 campaign.lfp: Pelaajia haetaan
 campaign.full: Täynnä
 campaign.support.patreon: Tue tätä kampanjaa Patreonissa
-campaign.sessions: Istuntojen luettelo
+campaign.sessions: Pelikerrat
 campaign.sessions.scheduled: Suunnitellut istunnot
 campaign.sessions.past: Aiemmat istunnot
 campaign.session.live: SUORA
@@ -272,3 +272,5 @@ language.sidebar.common.female.names: Yleiset naisten nimet
 language.sidebar.common.male.names: Yleiset miesten nimet
 language.sidebar.common.unisex.names: Yleiset sukupuolettomat nimet
 law.manifestation: Ilmentymä
+heroes: Sankarit
+campaign.sessions_archive: Pelikerta-arkisto
