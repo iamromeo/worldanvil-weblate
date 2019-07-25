@@ -278,3 +278,6 @@ campaign.lore: Taustatarina
 campaign.lore_and_cast: Taustatarina & sivuhahmot
 campaign.maps_and_timelines: Kartat & Aikajanat
 law.type: Tyyppi
+location.geography: Maantiede
+location.included_locations: Sisältyvät paikat
+location.characters_in_location: Läsnä olevat hahmot
