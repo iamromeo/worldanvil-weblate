@@ -294,3 +294,14 @@ location.related_reports_primary: Aiheeseen liittyvät raportit (ensisijaiset)
 location.related_reports_secondary: Aiheeseen liittyvät raportit (toissijaiset)
 location.related_myths: Aiheeseen liittyvät myytit
 material.history_usage: Historia & käyttö
+military_conf.the_conflict: Selkkaus
+military_conf.prelude: Alustus
+military_conf.deployment: Sijoitus
+military_conf.battlefield: Taistelukenttä
+military_conf.conditions: Olosuhteet
+military_conf.the_engagement: Viholliskosketus
+military_conf.outcome: Lopputulos
+military_conf.aftermath: Jälkiseuraamukset
+military_conf.historical_significance: Historiallinen merkittävyys
+military_conf.legacy: Perintö
+military_conf.in_literature: Kirjallisuudessa
