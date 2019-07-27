@@ -315,3 +315,44 @@ military_conf.starting_date: Data Inicial
 military_conf.ending_date: Data Final
 military_conf.conflict_result: Resultado do Conflito
 military_conf.location: Local
+military_conf.led_by: Liderado por
+military_conf.strength: Força
+military_conf.objectives: Objetivos
+myth.summary: Resumo
+myth.historical_basis: Base Histórica
+myth.spread: Disseminação
+myth.variations_mutation: Variações e Mutações
+myth.cultural_reception: Recepção Cultural
+myth.in_literature: Na Literatura
+myth.in_art: Na Arte
+myth.date_of_first_recording: Data do Primeiro Registro
+myth.telling_prose: Conto / Prosa
+myth.related_ethnicities: Etnias Relacionadas
+myth.related_species: Espécies Relacionadas
+myth.related_locations: Locais Relacionados
+myth.related_people: Pessoas Relacionadas
+myth.related_organizations: Organizações Relacionadas
+myth.related_items: Itens Relacionados
+myth.related_vehicles: Veículos Relacionados
+organisation.structure: Estrutura
+organisation.public_agenda: Agenda Pública
+organisation.history: História
+organisation.disbandment: Dissolução
+organisation.demography_and_population: Demografia e População
+organisation.territories: Territórios
+organisation.military: Exército
+organisation.technological_level: Nível Tecnológico
+organisation.religion: Religião
+organisation.foreign_relations: Relações Exteriores
+organisation.agriculture_industry: Agricultura e Indústria
+organisation.trade_transport: Comércio & Transporte
+organisation.education: Educação
+organisation.infrastructure: Infraestrutura
+organisation.mythology_lore: Mitologia e Folclore
+organisation.divine_origins: Origens Divinas
+organisation.cosmological_views: Visões Cosmológicas
+organisation.tenets_of_faith: Princípios da Fé
+organisation.ethics: Ética
+organisation.worship: Adoração
+organisation.granted_divine_powers: Poderes Divinos Concedidos
+organisation.political_influence_intrigue: Influência Política e Intriga
