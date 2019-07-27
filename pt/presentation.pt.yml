@@ -302,7 +302,7 @@ military_conf.battlefield: Campo de Batalha
 military_conf.conditions: Condições
 military_conf.the_engagement: O Confronto
 military_conf.outcome: Resultado
-military_conf.deployment: Mobilização
+military_conf.deployment: Desdobramento
 military_conf.aftermath: Resultado
 military_conf.historical_significance: Importância Histórica
 military_conf.belligerents: Beligerantes
@@ -421,5 +421,5 @@ person.likes_dislikes: Gostos e Aversões
 person.virtues_personality_perks: Virtudes e Qualidades de Caráter
 person.personal_history: História Pessoal
 person.savvies_ineptitudes: Capacidades e Inaptidões
-person.vices_personality_flaws: 'Vícios e Falhas de Caráter '
+person.vices_personality_flaws: Vícios e Falhas de Caráter
 person.personality_quirks: Peculiaridades da Personalidade
