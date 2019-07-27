@@ -279,3 +279,11 @@ campaign.sessions_archive: Arquivo das Sessões
 campaign.lore: Folclore
 campaign.maps_and_timelines: Mapas e Linhas do Tempo
 campaign.lore_and_cast: Folclore e Elenco de Apoio
+law.type: Tipo
+location.geography: Geografia
+location.flora: Flora
+location.fauna: Fauna
+location.natural_resources: Recursos Naturais
+location.aternative_names: Nome(s) Alternativo(s)
+location.type: Tipo
+location.location_under: Localização sob
