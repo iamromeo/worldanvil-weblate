@@ -287,3 +287,18 @@ location.natural_resources: Recursos Naturais
 location.aternative_names: Nome(s) Alternativo(s)
 location.type: Tipo
 location.location_under: Localizado(a) sob
+location.included_locations: Locais Inclusos
+location.included_organizations: Organizações Inclusas
+location.owner_ruler: Dono/Governante
+location.owning_organization: Organização Proprietária
+location.characters_in_location: Personagens no Local
+location.related_reports_primary: Relatórios Relacionados (Primário)
+location.related_reports_secondary: Relatórios Relacionados (Secundário)
+location.related_myths: Mitos Relacionados
+material.history_usage: História e Uso
+military_conf.the_conflict: O Conflito
+military_conf.prelude: Prelúdio
+military_conf.battlefield: Campo de Batalha
+military_conf.conditions: Condições
+military_conf.the_engagement: O Confronto
+military_conf.outcome: Resultado
