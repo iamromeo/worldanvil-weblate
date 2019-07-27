@@ -357,3 +357,22 @@ organisation.worship: Adoração
 organisation.granted_divine_powers: Poderes Divinos Concedidos
 organisation.political_influence_intrigue: Influência Política e Intrigas
 military_conf.casualties: Baixas
+organisation.sects: Seitas
+organisation.disbanded_dissolved: DISPERSADO/DISSOLVIDO
+organisation.founding_date: Data de Fundação
+organisation.dissolution_date: Data de Dissolução
+organisation.type: Tipo
+organisation.capital: Capital
+organisation.alternative_names: Nomes Alternativos
+organisation.formation_type: Tipo de Formação
+organisation.training_level: Nível de Treinamento
+organisation.leader: Líder
+organisation.government_system: Sistema de Governo
+organisation.power_structure: Estrutura de Poder
+organisation.economic_system: Sistema Econômico
+organisation.currency: Moeda
+organisation.major_exports: Principais Exportações
+organisation.major_imports: Principais Importações
+organisation.legislative_body: Corpo Legislativo
+organisation.judicial_body: Corpo Judicial
+organisation.subsidiary_organizations: Organização Subsidiaria
