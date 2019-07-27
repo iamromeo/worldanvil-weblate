@@ -402,3 +402,20 @@ person.general_condition: Condição Física Geral
 person.body_features: Traços Corporais
 person.facial_features: Traços Faciais
 person.identifying_characteristics: Traços Únicos
+person.physical_quirks: Peculiaridades Físicas
+person.special_abilities: Habilidades Especiais
+person.clothing_apparel_accessories: Equipamento e Acessórios
+person.items_specialized_equipment: Equipamento Especializado
+person.mental_characteristics: Características Mentais
+person.education: Estudo
+person.employment: Emprego
+person.accomplishments_achievements: Conquistas e Realizações
+person.failures_embarrassments: Fracassos e Vergonhas
+person.mental_trauma: Traumas Mentais
+person.intellectual_characteristics: Características Intelectuais
+person.morality_philosophy: Moral e Filosofia
+person.taboos: Tabus
+person.personality_characteristics: Características da Personalidade
+person.motivation: Motivação
+person.likes_dislikes: Gostos e Aversões
+person.virtues_personality_perks: Virtudes e Traços de Personalidade
