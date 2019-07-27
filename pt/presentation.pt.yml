@@ -379,3 +379,7 @@ organisation.subsidiary_organizations: Organizações Subsidiárias
 organisation.demonym: Gentílico
 organisation.head_of_state: Chefe de Estado
 organisation.head_of_government: Chefe de Governo
+organisation.permeated_organizations: Organizações Permeadas
+organisation.location: Local
+organisation.controlled_territories: Territórios Controlados
+organisation.neighboring_nations: 'Nações Vizinhas '
