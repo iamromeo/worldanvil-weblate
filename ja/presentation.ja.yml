@@ -286,3 +286,16 @@ location.owner_ruler: 所有者・支配者
 location.owning_organization: 所有団体
 location.characters_in_location: 所在地にいるキャラクター
 location.related_myths: 関連の神話
+location.included_organizations: 存在する団体
+location.related_reports_primary: 関連の報告（主要）
+location.related_reports_secondary: 関連の報告（補助）
+material.history_usage: 歴史及び使用法
+military_conf.the_conflict: 当紛争
+military_conf.prelude: 前触れ
+military_conf.deployment: 配備
+military_conf.battlefield: 戦場
+military_conf.conditions: 状況
+military_conf.the_engagement: 当戦闘
+military_conf.outcome: 結果
+military_conf.aftermath: 後遺症
+military_conf.historical_significance: 歴史的意義
