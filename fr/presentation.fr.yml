@@ -297,3 +297,5 @@ location.characters_in_location: Personnes dans ce Lieu
 material.history_usage: Histoire et Usages
 military_conf.the_conflict: Le Conflit
 military_conf.battlefield: Champ de Bataille
+military_conf.prelude: Prélude
+military_conf.deployment: Déploiement
