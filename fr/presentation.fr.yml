@@ -278,3 +278,10 @@ campaign.sessions_archive: Archive des Sessions
 campaign.lore: Histoire
 campaign.lore_and_cast: Histoire & Seconds Rôles
 campaign.maps_and_timelines: Cartes et Frises Chronologiques
+law.type: Type
+location.geography: Géographie
+location.flora: Flore
+location.fauna: Faune
+location.type: Type
+location.location_under: Sous-localisation
+location.included_organizations: Organisations incluses
