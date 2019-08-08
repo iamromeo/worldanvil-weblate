@@ -288,3 +288,8 @@ location.included_organizations: Organisations Incluses
 location.natural_resources: Ressources Naturelles
 location.aternative_names: Autre(s) Nom(s)
 location.included_locations: Lieux inclus
+location.owner_ruler: Propriétaire/Dirigeant
+location.owning_organization: Organisation Dirigeante
+location.related_reports_primary: Rapports en relations (Principaux)
+location.related_reports_secondary: Rapports associés (Secondaires)
+location.related_myths: Mythes associés
