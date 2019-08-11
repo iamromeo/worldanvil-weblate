@@ -481,8 +481,8 @@ plot.moral_quandaries: Dilemas Morais
 plot.relations: Relações
 plot.protagonists: Protagonistas
 plot.allies: Aliados
-plot.neutrals_bystanders: Neutros / Espectadores
-plot.competitors: Competidores
+plot.neutrals_bystanders: Neutros/Espectadores
+plot.competitors: Concorrentes
 plot.adversaries: Adversários
 plot.backdrops: Pano de Fundo
 plot.locations: Localizações
@@ -522,7 +522,7 @@ rank.benefits: Benefícios
 rank.accoutrements_&_equipment: Acessórios e Equipamento
 rank.grounds_for_removal_dismissal: Motivos para Remoção/Dispensa
 rank.history: História
-rank.cultural_significance: Significância Cultural
+rank.cultural_significance: Significado Cultural
 rank.notable_holders: Detentores Notáveis
 rank.type: Tipo
 rank.creation: Criação
@@ -535,7 +535,7 @@ rank.reports_directly_to: Responde diretamente a
 report.general_summary: Resumo Geral
 report.rewards_granted: Recompensas Concedidas
 report.missions_quests_completed: Missões/Objetivos Completados
-report.characters_interacted_with: Personagem(ns) interagiram com
+report.characters_interacted_with: Personagem(ns) interagido(s)
 report.created_content: Conteúdo Criado
 report.related_reports: Relatórios Relacionados
 report.notes: Notas
@@ -566,7 +566,7 @@ settlement.ruined_settlement: ASSENTAMENTO ARRUINADO
 settlement.alternative_names: Nome(s) Alternativo(s)
 settlement.type: Tipo
 settlement.population: População
-settlement.location_under: Local sob
+settlement.location_under: Localizado(a) sob
 settlement.included_locations: Locais Inclusos
 settlement.owner_ruler: Dono/Governante
 settlement.owning_organization: Organização Proprietária
