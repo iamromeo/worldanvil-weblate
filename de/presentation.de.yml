@@ -304,3 +304,4 @@ military_conf.conflict_type: Art des Konflikts
 military_conf.battlefield_type: Schlachtfeldart
 military_conf.starting_date: Anfangsdatum
 military_conf.ending_date: Enddatum
+military_conf.conflict_result: Ergebnis
