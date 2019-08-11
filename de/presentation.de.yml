@@ -285,3 +285,4 @@ location.type: Art
 location.location_under: Übergeordneter Ort
 location.included_locations: Beinhaltete Orte
 location.included_organizations: Involvierte Gruppen
+location.owning_organization: Besitzende Organisation
