@@ -669,3 +669,4 @@ vehicle.complement: Complemento
 vehicle.cargo_passengers_capacity: Capacidade de Carga e Passageiros
 organisation.assets: Ativos
 organisation.priesthood: Sacerdócio
+organisation.parent_organization: Organização Pai
