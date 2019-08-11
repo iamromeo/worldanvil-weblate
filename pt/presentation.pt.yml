@@ -658,3 +658,4 @@ vehicle.class: Classe
 vehicle.nickname: Apelido
 vehicle.motto: Lema
 vehicle.owner: Proprietário(a)
+vehicle.owning_organization: Organização Proprietária
