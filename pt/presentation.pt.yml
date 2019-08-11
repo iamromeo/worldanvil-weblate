@@ -654,3 +654,4 @@ vehicle.sensors: Sensores
 vehicle.additional_auxiliary_systems: Sistemas Adicionais e Auxiliares
 vehicle.hangars_docked_vessels: Hangares e Veículos Atracados
 vehicle.rpg_datasheet: Ficha de RPG
+vehicle.class: Classe
