@@ -666,3 +666,4 @@ vehicle.height: Altura
 vehicle.weight: Peso
 vehicle.speed: Velocidade
 vehicle.complement: Complemento
+vehicle.cargo_passengers_capacity: Capacidade de Carga e Passageiros
