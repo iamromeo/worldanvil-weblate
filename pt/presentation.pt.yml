@@ -669,4 +669,22 @@ vehicle.complement: Complemento
 vehicle.cargo_passengers_capacity: Capacidade de Carga e Passageiros
 organisation.assets: Ativos
 organisation.priesthood: Sacerdócio
-organisation.parent_organization: Organização Pai
+organisation.parent_organization: Organização Mãe
+myth.date_of_setting: Data do Episódio
+organisation.veterancy_level: Nível de Experiência
+organisation.divines: Divindades
+person.sensory_perception: Sentidos e Percepção
+plot.rising_action: Ação Crescente
+plot.falling_action: Ação Decrescente
+plot.cruel_tricks: Truques Cruéis
+plot.red_herrings: Distrações
+plot.parent: Trama Mãe
+rank.status: Status
+ritual.observance: Observância
+settlement.assets: Ativos
+settlement.inhabitant_demonym: Gentílico dos Habitantes
+species.naming_traditions: Tradições de Nomes
+species.interspecies_relations_assumptions: Relações e Presunções Interespecíficas
+species.average_physique: Físico Médio
+technology.parent_technologies: Tecnologias Mães
+technology.children_technologies: Tecnologias Filhas
