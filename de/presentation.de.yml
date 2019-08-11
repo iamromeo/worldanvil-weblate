@@ -302,3 +302,4 @@ military_conf.in_literature: In der Literatur
 military_conf.techological_advancement: Technologische Entwicklung
 military_conf.conflict_type: Art des Konflikts
 military_conf.battlefield_type: Schlachtfeldart
+military_conf.starting_date: Anfangsdatum
