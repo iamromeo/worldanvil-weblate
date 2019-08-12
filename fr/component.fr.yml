@@ -103,7 +103,7 @@ list.marker.groups: Liste des Groupes de Repères
 related.category: Catégorie associée
 related.location: Lieu associé
 related.map: Carte Associée
-related.organization: Organisations associées
+related.organization: Organisation Associée
 position: Position/Poids
 position.description: Le Poids est un nombre définissant l'ordre dans lequel les éléments
   seront listés. Plus le nombre est grand et plus l'élément est prioritaire dans la
