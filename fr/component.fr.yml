@@ -100,9 +100,9 @@ marker.groups: Groupes de Repères
 tags: Mots-clés
 list.markers: Liste des Repères
 list.marker.groups: Liste des Groupes de Repères
-related.category: Catégories associées
-related.location: Lieux associés
-related.map: Cartes associées
+related.category: Catégorie associée
+related.location: Lieu associé
+related.map: Carte Associée
 related.organization: Organisations associées
 position: Position/Poids
 position.description: Le Poids est un nombre définissant l'ordre dans lequel les éléments
