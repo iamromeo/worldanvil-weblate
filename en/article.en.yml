@@ -1,26 +1,26 @@
-article.generic: 'Article, Generic'
+article.generic: 'Generic Article'
 character: 'Character'
 condition: 'Condition'
 document: 'Document'
 ethnicity: 'Ethnicity'
-formation.military: 'Formation (Military)'
+formation.military: 'Military Unit'
 item: 'Item'
 language: 'Language'
 material: 'Material'
 myth.legend: 'Myth / Legend'
-military.conflict: 'Military Conflict'
+military.conflict: 'Conflict'
 location.building: 'Location, Building'
 building: Building
 location.geographic: 'Location, Geographic'
 geography: Geography
 location.settlement: 'Location, Settlement'
 settlement: Settlement
-law: 'Law (Meta/Physical)'
+law: 'Natural Law'
 organization: 'Organization'
 prose: 'Prose'
 profession: 'Profession'
 plot: 'Plot'
-rank.title: 'Rank / Title'
+rank.title: 'Title'
 species: 'Species'
 spell: 'Spell'
 technology.science: 'Technology / Science'
@@ -28,8 +28,8 @@ technology: Technology
 tradition.ritual: 'Tradition / Ritual'
 tradition: Tradition
 vehicle: 'Vehicle'
-rpg.session.report: 'RPG Session Report'
-rpg.report: RPG Report
+rpg.session.report: 'Session Report'
+rpg.report: Session Report
 
 description.building: ... or Landmark. Wonders, natural and built, ruins, dungeons, temples, great trees, Smithy, Inn, Castle. Anything that you can point to and people consider significant enough to name.
 description.character: From Kings and Queens to heroes, peasants and Gods. 

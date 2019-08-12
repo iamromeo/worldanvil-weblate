@@ -94,14 +94,14 @@ player.character: 'Player Character'
 timeline: 'Timeline'
 layer: Layer
 label: Label 
-link: Direct Link 
+link: Opens a New Page
 map: 'Map'
 marker: Marker
 marker.group: Marker Group
 note: 'Note'
 polygon: Polygon 
-popup: Popup 
-pin: Map Pin
+popup: Opens a Popup 
+pin: Pin
 secret: 'Secret'
 tag: Tag
 world: 'World'
@@ -110,6 +110,7 @@ subscriber: Subscriber
 
 
 world.summary: Summary
+world.explore: Explore
 articles: 'Articles'
 blocks: 'Blocks'
 block.templates: 'Block Templates'
@@ -123,6 +124,8 @@ maps: 'Maps'
 markers: Markers
 marker.groups: Marker Groups
 timelines: 'Timelines'
+events: "Historical Events"
+calendars: "Calendars"
 notes: 'Notes'
 pin: Map Pins
 secrets: 'Secrets'
@@ -179,6 +182,8 @@ group: Group
 tag.description: Use commas to separate your tags. Adding tags to any piece of content will help you search for it using any of the tags.
 
 # Specific Component: Map
+map.presentation: Open Presentation Mode
+map.settings: Map Settings
 map.image: Map Primary Image
 map.image.secondary: Layer Image
 map.update.image: Update Map Primary Image
@@ -242,6 +247,9 @@ map.marker.lineOpacity.description: The opacity % of the Line. From 0 to 100% (i
 map.marker.lineDash: Line Dash Array
 map.marker.lineDash.description: This is an advanced feature. Use line dash to define the dashing pattern of your line. For example 8 8 means 8 pixels of line 8 pixels of gap. But you can also use simply 8 or 1 2 3 4 to have variable line dashing.
 map.marker.linePoints.check:  Check this and drag and drop the new marker pin to create a line.
+
+map.marker.choice.type: What kind of Marker is it?
+map.marker.choice.functionality: What does it do?
 
 # Specific Component: Pin
 pin.pinImage: Pin Image
