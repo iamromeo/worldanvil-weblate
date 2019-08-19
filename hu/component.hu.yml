@@ -166,13 +166,13 @@ guild.access.map: Minden ingyenes felhasználók által készített térkép meg
   továbbá segítsd a World Anvil fejlesztését.
 circle: Kör
 label: Címke
-link: Közvetlen Link
+link: Megnyit egy Új Ablakot
 create.pin: Térkép Jelzés Létrehozása
 create.new.pin: Új Térkép Jelzés Létrehozása
 edit.pin: Térkép Jelzés Szerkesztése
 delete.pin: Térkép Jelzés Törlése
 polygon: Poligon
-popup: Felugró Ablak
+popup: Megnyit egy Felugró Ablakot
 pin: Térkép Jelzések
 list.pins: Térkép Jelzéslista
 map.compass: Iránytű Képe
@@ -360,3 +360,10 @@ access.code.edit: Feliratkozó Kód Szerkesztése
 world.summary: Összegzés
 list.characters: Karakter Lista
 characters: Karakterek
+world.explore: Felfedezés
+events: Történelmi Események
+calendars: Naptárak
+map.presentation: Prezentáció Mód Megnyitása
+map.settings: Térkép Beállítások
+map.marker.choice.type: Milyen fajta jelölés ez?
+map.marker.choice.functionality: Mit csinál?
