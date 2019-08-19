@@ -1,26 +1,26 @@
-article.generic: Cikk, Általános
+article.generic: Általános Cikk
 character: Karakter
 condition: Állapot
 document: Dokumentum
 ethnicity: Etnikum
-formation.military: Alakzat (Katonai)
+formation.military: Katonai Egység
 item: Tárgy
 language: Nyelv
 material: Anyag
 myth.legend: Mítosz/ Legenda
-military.conflict: Katonai Konfliktus
+military.conflict: Konfliktus
 location.building: Hely, Épület
 building: Épület
 location.geographic: Hely, Földrajzi
 geography: Földrajz
 location.settlement: Hely, Település
 settlement: Település
-law: Törvény (Meta/ Fizikai)
+law: Természeti Törvény
 organization: Szervezet
 prose: Próza
 profession: Foglalkozás
 plot: Cselekmény
-rank.title: Rang/ Titulus
+rank.title: Titulus
 species: Faj
 spell: Varázslat
 technology.science: Technológia/ Tudomány
@@ -28,8 +28,8 @@ technology: Technológia
 tradition.ritual: Hagyomány/ Rituálé
 tradition: Hagyomány
 vehicle: Jármű
-rpg.session.report: RPG Játék Jelentés
-rpg.report: RPG Jelentés
+rpg.session.report: Játék Jelentés
+rpg.report: Játék Jelentés
 description.building: '... vagy Látványosság. Csodák, természetes vagy ember keze
   által épített, romok, dungeonök, templomok, nagy fák, Kovácsműhely, Fogadó, Kastély.
   Bármi, amit az emberek elég fontosnak tartanak ahhoz, hogy elnevezzék.'
