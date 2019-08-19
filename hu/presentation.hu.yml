@@ -285,3 +285,215 @@ location.fauna: Fauna
 location.natural_resources: Természetes Nyersanyagok
 location.aternative_names: Alternatív Név(nevek)
 location.type: Típus
+location.location_under: 'Hely itt:'
+location.included_locations: Tartalmazott Helyek
+location.included_organizations: Tartalmazott Szervezetek
+location.owner_ruler: Birtokos/ Uralkodó
+location.owning_organization: Birtokló Szervezet
+location.characters_in_location: Karakterek a Területen
+location.related_reports_primary: Kapcsolódó Jelentések (Elsődleges)
+location.related_reports_secondary: Kapcsolódó Jelentések (Másodlagos)
+location.related_myths: Kapcsolódó mítoszok
+material.history_usage: Háttér & Használat
+military_conf.the_conflict: A Konfliktus
+military_conf.prelude: Bevezetés
+military_conf.deployment: Csatarend
+military_conf.battlefield: Csatatér
+military_conf.conditions: Feltételek
+military_conf.the_engagement: Az Ütközet
+military_conf.outcome: Végkifejlet
+military_conf.aftermath: Következmények
+military_conf.historical_significance: Történelmi Jelentőség
+military_conf.legacy: Hagyaték
+military_conf.in_literature: Irodalomban
+military_conf.techological_advancement: Technológiai Fejlettség
+military_conf.conflict_type: Konfliktus Típusa
+military_conf.battlefield_type: Csatatér Típusa
+military_conf.starting_date: Kezdődátum
+military_conf.ending_date: Végdátum
+military_conf.conflict_result: Konfliktus Eredménye
+military_conf.location: Hely
+military_conf.belligerents: Hadviselő Felek
+military_conf.led_by: Vezette
+military_conf.strength: Erő
+military_conf.casualties: Veszteségek
+military_conf.objectives: Célok
+myth.summary: Összegzés
+myth.historical_basis: Történelmi Alap
+myth.spread: Terjedés
+myth.variations_mutation: Variációk & Mutációk
+myth.cultural_reception: Kulturális Reakció
+myth.in_literature: Irodalomban
+myth.in_art: Művészetben
+myth.date_of_first_recording: Első Feljegyzés Dátuma
+myth.date_of_setting: Környezet Dátuma
+myth.telling_prose: Szólás/ Próza
+myth.related_ethnicities: Kapcsolódó Etnikumok
+myth.related_species: Kapcsolódó Fajok
+myth.related_locations: Kapcsolódó Területek
+myth.related_people: Kapcsolódó Népesség
+myth.related_organizations: Kapcsolódó Szervezetek
+myth.related_items: Kapcsolódó Tárgyak
+myth.related_vehicles: Kapcsolódó Járművek
+organisation.structure: Felépítés
+organisation.public_agenda: Nyilvános Hozzáállás
+organisation.assets: Eszközök
+organisation.history: Történelem
+organisation.disbandment: Feloszlás
+organisation.demography_and_population: Néprajz és Népesség
+organisation.territories: Területek
+organisation.military: Katonaság
+organisation.technological_level: Technológiai Szint
+organisation.religion: Vallás
+organisation.foreign_relations: Külföldi Kapcsolatok
+organisation.agriculture_industry: Földművelés & Ipar
+organisation.trade_transport: Kereskedelem & Szállítás
+organisation.education: Oktatás
+organisation.infrastructure: Infrastruktúra
+organisation.mythology_lore: Mitológia & Tanok
+organisation.divine_origins: Isteni Származtatás
+organisation.cosmological_views: Kozmológiai Nézőpontok
+organisation.tenets_of_faith: Hittanok
+organisation.ethics: Etika
+organisation.worship: Istentisztelet
+organisation.priesthood: Papság
+organisation.granted_divine_powers: Megadatott Isteni Erők
+organisation.political_influence_intrigue: Politikai Befolyás & Intrika
+organisation.sects: Szekták
+organisation.disbanded_dissolved: FELOSZL(AT)OTT
+organisation.founding_date: Alapítás Dátuma
+organisation.dissolution_date: Feloszlás Dátuma
+organisation.type: Típus
+organisation.capital: Főváros
+organisation.alternative_names: Alternatív Megnevezések
+organisation.formation_type: Formáció Típusa
+organisation.training_level: Kiképzés Szintje
+organisation.veterancy_level: Tapasztaltság Szintje
+organisation.demonym: Jelzők
+organisation.leader: Vezető
+organisation.head_of_state: Államfő
+organisation.head_of_government: Kormányfő
+organisation.government_system: Kormányzati Rendszer
+organisation.power_structure: Hatalmi Struktúra
+organisation.economic_system: Gazdasági Rendszer
+organisation.currency: Pénznem
+organisation.major_exports: Főbb Kivitel
+organisation.major_imports: Főbb Behozatal
+organisation.legislative_body: Törvényhozó Testület
+organisation.judicial_body: Bírói Testület
+organisation.parent_organization: Anyaszervezet
+organisation.subsidiary_organizations: Leányszervezetek
+organisation.permeated_organizations: Beszűrődő Szervezetek
+organisation.divines: Isteni Személyiségek
+organisation.location: Elhelyezkedés
+organisation.official_languages: Hivatalos Nyelvek
+organisation.related_ranks_titles: Kapcsolódó Rangok/ Titulusok
+organisation.controlled_territories: Ellenőrzött Területek
+organisation.neighboring_nations: Környező Nemzetek
+organisation.manufactured_items: Gyártott Termékek
+organisation.related_items: Kapcsolódó Tárgyak
+organisation.organization_vehicles: Szervezeti Járművek
+organisation.notable_members: Jelentős Tagok
+organisation.related_ethnicities: Kapcsolódó Etnikumok
+organisation.related_myths: Kapcsolódó mítoszok
+person.divine_domains: Isteni Uradalmak
+person.holy_books_codes: Szent Könyvek & Szabályok
+person.divine_symbols_sigils: Isteni Jelképek & Pecsétek
+person.tenets_faith: Hittanok
+person.holidays: Ünnepnapok
+person.divine_goals_aspirations: Isteni Célok & Törekvések
+person.physical_description: Testi Jellemzés
+person.general_condition: Általános Testi Állapot
+person.body_features: Test Jellemvonásai
+person.facial_features: Arc Jellemvonásai
+person.identifying_characteristics: Azonosító Jelek
+person.physical_quirks: Furcsa Testi Tulajdonságok
+person.sensory_perception: Érzékelés & Észlelés
+person.special_abilities: Speciális képességek
+person.clothing_apparel_accessories: Megjelenés & Kiegészítők
+person.items_specialized_equipment: Specializált Felszerelés
+person.mental_characteristics: Mentális Jellemzők
+person.personal_history: Személyes Háttér
+person.education: Oktatás
+person.employment: Hivatás
+person.accomplishments_achievements: Teljesítmények & Eredmények
+person.failures_embarrassments: Bukások & Szégyenek
+person.mental_trauma: Mentális Trauma
+person.intellectual_characteristics: Intellektuális Jellemzők
+person.morality_philosophy: Moralitás & Filozófia
+person.taboos: Tabuk
+person.personality_characteristics: Személyiségi Jellemzők
+person.motivation: Motiváció
+person.savvies_ineptitudes: Jártasságok & Alkalmatlanságok
+person.likes_dislikes: Kedvelések & Nem kedvelések
+person.virtues_personality_perks: Erények & Érdekességek
+person.vices_personality_flaws: Bűnök & Hibák
+person.personality_quirks: Személyiségi Furcsaságok
+person.hygiene: Higiénia
+person.social: Szociális
+person.contacts_relations: Kapcsolatok
+person.family_ties: Családi Kötelékek
+person.religious_views: Vallási Nézetek
+person.social_aptitude: Szociális Hozzáállás
+person.mannerisms: Viselkedésmód
+person.hobbies_pets: Hobbik & Háziállatok
+person.speech: Beszédkészség
+person.wealth_financial_state: Vagyon & Anyagi Állapot
+person.rpg_character_sheet: RPG Karakterlap
+person.divine_classification: Isteni Osztályozés
+person.alignment: Beállítottság
+person.current_location: Jelenlegi Tartózkodási Hely
+person.species: Faj
+person.conditions: Feltételek
+person.ethnicity: Etnikum
+person.realm: Birodalom
+person.church_cult: Egyház/ Kultusz
+person.honorary_occupational_titles: Tiszteletbeli/ Foglalkozásbéli Titulusok
+person.currently_held_titles: Jelenleg Birtokolt Titulusok
+person.previously_held_ranks_titles: Korábban Birtokolt Rangok & Titulusok
+person.life: Életvitel
+person.year_of_birth: Születési Év
+person.circumstances_of_birth: Születés Körülményei
+person.circumstances_of_death: Halál Körülményei
+person.birthplace: Születési Hely
+person.current_residence: Jelenlegi Lakóhely
+person.biological_sex: Biológiai Nem
+person.sexuality: Szexualitás
+person.gender_identity: Nemi Identitás
+person.eyes: Szemek
+person.skin: Bőrszín
+person.hair: Haj
+person.height: Magasság
+person.weight: Súly
+person.quotes_catchphrases: Idézetek & Jelmondatok
+person.aligned_organization: Szervezeti Kötelékek
+person.other_affiliations: Egyéb Kötöttségek
+person.related_myths: Kapcsolódó mítoszok
+person.known_languages: Ismert Nyelvek
+person.appears_in: 'Megjelenik itt:'
+person.character_prototype: Karakter Prototípus
+plot.summary: Összegzés
+plot.plot_points_scenes: Cselekmény Pontjai/ Jelenetei
+plot.themes: Témák
+plot.structure: Felépítés
+plot.exposition: Kifejtés
+plot.conflict: Konfliktus
+plot.rising_action: Emelkedő Akció
+plot.climax: Tetőpont
+plot.falling_action: Ereszkedő Akció
+plot.resolution: Befejezés
+plot.components: Alkotóelemek
+plot.goals: Célok
+plot.hooks: Kampók
+plot.stakes: Tétek
+plot.moral_quandaries: Morális Dilemmák
+plot.cruel_tricks: Piszkos Trükkök
+plot.red_herrings: Félrevezetések
+plot.relations: Kapcsolatok
+plot.protagonists: Főhős
+plot.allies: Szövetségesek
+plot.neutrals_bystanders: Pártatlanok/ Bámészkodók
+plot.competitors: Versenytársak
+plot.adversaries: Ellenségek
+plot.backdrops: Háttér
+plot.locations: Helyszínek
