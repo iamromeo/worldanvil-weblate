@@ -119,4 +119,6 @@ campaign.competitors: Konkurrenter
 campaign.neutral: Neutrale parter
 campaign.generic: Andre NPCer
 campaign.setting: Settingen
-editorial.team: Redigeringsteam
+editorial.team: Redigerings-team
+campaign.world: I verdenen %world_name%
+campaign.explore.world: Udforsk verdenen af %world_name%
