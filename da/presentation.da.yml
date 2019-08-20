@@ -121,3 +121,4 @@ campaign.generic: Andre NPCer
 campaign.setting: Settingen
 editorial.team: Redigerings-team
 campaign.world: I verdenen %world_name%
+campaign.explore.world: Udforsk verdenen af %world_name%
