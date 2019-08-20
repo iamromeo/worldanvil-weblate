@@ -232,7 +232,7 @@ formation.auxilia: Segédcsapatok
 formation.upkeep: Fenntartás
 formation.recruitment: Toborzás
 formation.history: Történelem
-formation.historical.loyalties: Történelmi lojalitások
+formation.historical.loyalties: Történelmi hűségek
 formation.sidebar.type: Típus
 formation.sidebar.founding: Alapítás
 formation.sidebar.dissolution: Felbomlás
@@ -481,8 +481,8 @@ plot.conflict: Konfliktus
 plot.rising_action: Emelkedő Akció
 plot.climax: Tetőpont
 plot.falling_action: Ereszkedő Akció
-plot.resolution: Befejezés
-plot.components: Alkotóelemek
+plot.resolution: Megoldás
+plot.components: Alkotórészek
 plot.goals: Célok
 plot.hooks: Kampók
 plot.stakes: Tétek
@@ -495,5 +495,197 @@ plot.allies: Szövetségesek
 plot.neutrals_bystanders: Pártatlanok/ Bámészkodók
 plot.competitors: Versenytársak
 plot.adversaries: Ellenségek
-plot.backdrops: Háttér
+plot.backdrops: Hátterek
 plot.locations: Helyszínek
+plot.threats: Veszélyek
+plot.encounters: Találkozások
+plot.past_events: Múltbéli Események
+plot.type: Cselekmény Típus
+plot.parent: Főcselekmény
+plot.subplots: Alcselekmény
+plot.related_characters: Kapcsolódó Karakterek
+plot.related_locations: Kapcsolódó Területek
+plot.related_organizations: Kapcsolódó Szervezetek
+profession.career: Karrier
+profession.qualifications: Képesítés
+profession.career_progression: Karrier Fejlődés
+profession.payment_&_reimbursement: Bér & Térítések
+profession.other_benefits: Egyéb Juttatások
+profession.perception: Kialakult Kép
+profession.purpose: Cél
+profession.social_status: Társadalmi Státusz
+profession.demographics: Néprajz
+profession.history: Történelem
+profession.operations: Műveletek
+profession.tools: Eszközök
+profession.materials: Anyagok
+profession.workplace: Munkahely
+profession.provided_services: Nyújtott Szolgáltatások
+profession.dangers_&_hazards: Veszélyek & Kockázatok
+profession.alternative_names: Alternatív Megnevezések
+profession.type: Típus
+profession.demand: Kereslet
+profession.legality: Legalitás
+rank.qualifications: Képesítés
+rank.requirements: Követelmények
+rank.appointment: Kinevezés
+rank.duties: Kötelezettségek
+rank.responsibilities: Felelősségek
+rank.benefits: Előnyök
+rank.accoutrements_&_equipment: Díszek & Felszerelés
+rank.grounds_for_removal_dismissal: Visszavonás Körülményei
+rank.history: Történelem
+rank.cultural_significance: Kulturális Jelentőség
+rank.notable_holders: Jelentős Viselők
+rank.type: Típus
+rank.status: Státusz
+rank.creation: Megalakulás
+rank.alternative_naming: Alternatív Megnevezések
+rank.equates_to: 'Egyenlősíti ezzel:'
+rank.source_of_authority: Tekintély Forrása
+rank.length_of_term: Szolgálati Idő Hossza
+rank.first_holder: Első Birtokos
+rank.reports_directly_to: 'Jelentéseket hozzá Intézik:'
+report.general_summary: Általános Összegzés
+report.rewards_granted: Biztosított Jutalmak
+report.missions_quests_completed: Küldetés Teljesítve
+report.characters_interacted_with: Interakcióba lépett Karakter(ek)
+report.created_content: Megalkotott Tartalom
+report.related_reports: Kapcsolódó Jelentések
+report.notes: Jegyzetek
+report.campaign: Kampány
+report.protagonists: Főhős
+report.player_journals: Játékosnaplók
+report.report_date: Jelentés Dátuma
+report.primary_location: Elsődleges Helyszín
+report.secondary_location: Másodlagos Helyszín
+ritual.history: Történelem
+ritual.execution: Végrehajtás
+ritual.components_and_tools: Alapanyagok és Eszközök
+ritual.participants: Résztvevők
+ritual.observance: Megfigyelés
+ritual.related_location: Kapcsolódó Helyszín
+ritual.related_ethnicities: Kapcsolódó Etnikumok
+settlement.demographics: Néprajz
+settlement.government: Kormányzás
+settlement.defences: Védművek
+settlement.industry: Ipar
+settlement.infrastructure: Infrastruktúra
+settlement.assets: Eszközök
+settlement.guilds_and_factions: Céhek & Frakciók
+settlement.history: Történelem
+settlement.architecture: Építészet
+settlement.geography: Földrajz
+settlement.natural_resources: Természetes Nyersanyagok
+settlement.ruined_settlement: LEROMBOLT TELEPÜLÉS
+settlement.alternative_names: Alternatív Név(nevek)
+settlement.type: Típus
+settlement.population: Népesség
+settlement.inhabitant_demonym: Lakosok Elnevezése
+settlement.location_under: Elhelyezkedés
+settlement.included_locations: Tartalmazott Területek
+settlement.owner_ruler: Birtokos/ Uralkodó
+settlement.owning_organization: Birtokló Szervezet
+settlement.characters_in_location: Karakterek a Területen
+settlement.related_reports_primary: Kapcsolódó Jelentések (Elsődleges)
+settlement.related_reports_secondary: Kapcsolódó Jelentések (Másodlagos)
+species.Basic Information: Általános Információ
+species.anatomy: Anatómia
+species.morphology: Alaktan
+species.biological_traits: Biológiai Jellemvonások
+species.genetics_and_reproduction: Genetika & Szaporodás
+species.growth_rate_stages: Növekedési Arány & Szakaszok
+species.ecology_and_habitats: Környezettan és Élőhelyek
+species.dietary_needs_and_habits: Táplálkozási Szükségletek és Szokások
+species.biological_cycle: Biológiai Ciklus
+species.additional_information: További Információ
+species.social_structure: Szociális Felépítés
+species.domestication: Háziasítás
+species.uses_products_exploitation: Alkalmazás, Termékek & Kihasználás
+species.facial_characteristics: Arc Jellemzői
+species.geographic_origin_and_distribution: Földrajzi Származás és Kiterjedés
+species.average_intelligence: Átlagos Intelligencia
+species.perception_and_sensory_capabilities: Észlelési és Érzékelési Képességek
+species.symbiotic_and_parasitic_organisms: Együttélő és Élősködő létformák
+species.civilization_and_culture: Civilizáció és Kultúra
+species.naming_traditions: Névadási Hagyományok
+species.major_organizations: Főbb Szervezetek
+species.beauty_ideals: Szépségideák
+species.gender_ideals: Nemi ideák
+species.courtship_ideals: Udvarlási szokások
+species.relationship_ideals: Kapcsolati szokások
+species.average_technological_level: Átlagos technológiai Szint
+species.major_language_groups_dialects: Főbb Nyelvcsoportok és Tájszólások
+species.common_etiquette_rules: Átlagos Viselkedési Szokások
+species.common_dress_code: Átlagos Öltözködési Szokások
+species.culture_and_cultural_heritage: Kultúra és Kulturális Hagyaték
+species.common_customs_traditions_rituals: Átlagos Szokások, Tradíciók és Rituálék
+species.common_taboos: Átlagos Tabuk
+species.history: Történelem
+species.historical_figures: Történelmi Személyiségek
+species.common_myths_and_legends: Általános mítoszok és legendák
+species.interspecies_relations_assumptions: Fajközi Kapcsolatok és Feltételezések
+species.rpg_datasheet: RPG Adatlap
+species.extinct: KIHALT
+species.genetic_ancestor_s: Genetikai Ős(ök)
+species.genetic_descendants: Genetikai Leszármazottak
+species.scientific_name: Tudományos Megnevezés
+species.origin_ancestry: Eredet/ Származtatás
+species.lifespan: Élethossz
+species.conservation_status: Védettségi Állapot
+species.average_height: Átlagos Magasság
+species.average_weight: Átlagos Súly
+species.average_length: Átlagos Hossz
+species.average_physique: Átlagos Fizikum
+species.body_tint_colouring_marking: Testárnyalatok/ -színeződés/ -mintázat
+species.related_ethnicities: Kapcsolódó Etnikumok
+species.related_myths: Kapcsolódó mítoszok
+spell.effect: Hatás
+spell.effect_side_secondary: Mellékhatások
+spell.manifestation: Manifesztáció
+spell.source: Forrás
+spell.discovery: Felfedezés
+spell.related_deity_power: Kapcsolódó Istenség/ Felsőbb Erő
+spell.related_organizations: Kapcsolódó Szervezetek
+spell.material_components: Anyagi Komponensek
+spell.gestures_ritual: Gesztikuláció & Rituálé
+spell.related_discipline: Kapcsolódó Tanítás
+spell.related_school: Kapcsolódó Iskola
+spell.related_element: Kapcsolódó Elem
+spell.effect_duration: Hatásidő
+spell.effect_casting_time: Varázslási Idő
+spell.range: Hatótáv
+spell.level: Szint
+spell.restriction_applied: Gyakorolt Korlátozás
+technology.utility: Hasznosítás
+technology.manufacturing: Gyártás
+technology.parent_technologies: Eredő Technológiák
+technology.children_technologies: Származtatott Technológiák
+technology.inventor_s: Feltaláló(k)
+technology.access_availability: Hozzáférés
+technology.complexity: Összetettség
+technology.discovery: Felfedezés
+technology.related_items: Kapcsolódó Tárgyak
+vehicle.power_generation: Energiatermelés
+vehicle.propulsion: Meghajtás
+vehicle.weapons_armament: Fegyverzet
+vehicle.armor_and_defense: Páncélzat és Védelem
+vehicle.communication_tools_systems: Kommunikációs Eszközök & Rendszerek
+vehicle.sensors: Szenzorok
+vehicle.additional_auxiliary_systems: További- & Mellékrendszerek
+vehicle.hangars_docked_vessels: Hangárok & Dokkolt Hajók
+vehicle.rpg_datasheet: RPG Adatlap
+vehicle.class: Osztály
+vehicle.nickname: Becenév
+vehicle.motto: Jelmondat
+vehicle.owner: Birtokos
+vehicle.owning_organization: Birtokló Szervezet
+vehicle.price: Ár
+vehicle.rarity: Ritkaság
+vehicle.length: Hossz
+vehicle.beam: Szélesség
+vehicle.height: Magasság
+vehicle.weight: Súly
+vehicle.speed: Sebesség
+vehicle.complement: Szükséges Legénység
+vehicle.cargo_passengers_capacity: Rakomány- & Utaskapacitás
