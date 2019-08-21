@@ -37,7 +37,7 @@ description.ethnicity: Ikke arter men folk der har fælles kulturel baggrund. Ik
   folket af et kongerige, men folk med samme tro og traditioner.
 description.geography: Verdener og universer. Galakser, solsystemer, planeter, bjergkæder,
   dale, store have, sumper og søer. Alle geografiske steder.
-description.item: Hverdagsbrug, mønter, værktøj, våben, rustning fra det mest almindelig
+description.item: Hverdagsbrug, mønter, værktøj, våben, rustninger. Fra det mest almindelig
   til det mest unikke
 description.law: Måske virker tyngdekraft anderledes i din verden, eller der er magi
   i luften, eller lys bevæger sig langsommere. Enhver af de normale eller overnaturlige
@@ -77,10 +77,10 @@ description.historical.entry: Historiske notater eller begivenheder er de fortæ
   af din verden der formede den til hvad den er nu.
 rpg.report: RPG Rapport
 description.formation: Prototyper for militære formationer. Hvordan dine Legioner,
-  Falankser, Sværdkæmpere, Spydmænd, Riddere ser ud. Hvilke udstyr og taktikker besidder
+  Falankser, Sværdkæmpere, Spydmænd, Riddere ser ud. Hvilke udstyr og taktikker bruger
   de?
-description.profession: Fra blikkenslageren til den ekstravagante hacker og sværd
-  til leje; professioner definerer hvilken stemning din verden samt dets folk har.
+description.profession: Fra blikkenslageren til den ekstravagante hacker og lejesoldat;
+  professioner definerer hvilken stemning din verden samt dets folk har.
 description.rank: Konge af Endor, Første statsborger i Forbundet, Admiral af Okabu
   Federationsflåden, Ærkemagiker af Loboutas osv.
 description.report: Sessionsrapporter over rollespil; hold styr på noter omkring,
