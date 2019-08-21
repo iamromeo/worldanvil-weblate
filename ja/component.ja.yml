@@ -299,3 +299,10 @@ access.code.edit: 登録者のコードを編集
 world.summary: 要約
 list.characters: キャラクター一覧
 characters: キャラクター
+world.explore: 探検
+events: 歴史上の出来事
+calendars: カレンダー
+map.presentation: 提示モードを開く
+map.settings: 地図設定
+map.marker.choice.type: マーカーの種類を示してください。
+map.marker.choice.functionality: マーカーの目的を設定してください。
