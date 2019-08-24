@@ -649,3 +649,10 @@ spell.gestures_ritual: 身ぶり手ぶり・儀式
 spell.related_discipline: 関連の分野
 spell.related_school: 関連の学校
 spell.related_element: 関連のエレメント
+spell.effect_duration: 効果持続時間
+spell.effect_casting_time: 呪文をかける時間
+spell.range: 距離
+spell.level: レベル
+spell.restriction_applied: 適用された制限
+technology.utility: 実用性
+technology.manufacturing: 製造
