@@ -36,7 +36,7 @@ reading.action.add.description: 「後で読む・保存済みの記事」リス
 goto.homepage: '%name%のホームページへ'
 article.love: あなたの記事が好きだった人
 article.love.return: お礼をあげてみて！
-article.likes.number: ワールドビルダーが%number%人この記事に「いいね！」をあげました。
+article.likes.number: ワールドビルダーが%number%人この記事に「いいね！」を与えました。
 article.visibility: この記事は下記の登録者グループに公開となっています。
 author.notes: 作者のメモ
 players.looking: プレイヤー募集中
