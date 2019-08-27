@@ -225,8 +225,8 @@ map.marker.lineDash.description: これは高度な機能で、破線の模様�
   2 3 4といった複雑な破線を設定したりしてでも可能です。
 map.marker.linePoints.check: チェックを付けて、線を作るために新規マーカーのピンをドラッグアンドドロップしてください。
 pin.template.header: 基本ピンのテンプレート
-pin.template.description: World Anvilに提供されているようなピンを作るために、この圧縮ファイルの中身を使ってください。
-pin.value.notzero: この値は空、又は0で設定されていないように確認してください。
+pin.template.description: ワールド・アンヴィルに提供されているようなピンを作るために、この圧縮ファイルの中身を使ってください。
+pin.value.notzero: この値は空、又は0で設定されていないことを確認してください。
 guild.feature: これはギルド専用の機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
   Anvilの開発を手伝えましょう。
 grandmaster.feature: これはグランドマスター+のレベルをもつアカウントの専用機能です。<a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">ワールドビルダーズ・ギルド</a>に加わり、この機能へのアクセス権限を得てWorld
