@@ -181,3 +181,4 @@ map.marker.lat: Breedtegraad
 map.marker.height: Hoogte
 map.marker.new: Nieuwe locatie markering
 map.marker.drag: Sleep mij om de coördinaten van de nieuwe Marker in te stellen
+line: Lijn
