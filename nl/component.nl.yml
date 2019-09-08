@@ -161,7 +161,7 @@ map.zoom.min: Minimaal toegestane zoom
 map.zoom.min.description: Hoe ver uit/weg je kunt uitzoomen. Dit is een negatieve
   vermenigvuldiger. hoe kleiner het getal hoe meer je kunt uitzoomen. (-2 standaard)
 map.zoom.max: Maximaal toegestane zoom
-map.zoom.max.description: Hoe ver je kunt inzoomen/ hoe diep je kan inzoomen. 0 betekent
+map.zoom.max.description: Hoe ver je kunt inzoomen/hoe diep je kan inzoomen. 0 betekent
   inzoomen op de 1:1 afmetingen van de kaart. Alles boven 0 betekent dat het beeld
   wazig wordt. (0 standaard)
 map.center.y: Eerste middelpunt (Y-as)
