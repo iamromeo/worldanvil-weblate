@@ -442,3 +442,73 @@ plot.subplots: Sous Intrigues
 profession.career: Carrière
 profession.qualifications: Qualifications
 profession.perception: Perception
+organisation.divine_origins: Origines Divines
+organisation.cosmological_views: Conceptions Cosmologiques
+organisation.tenets_of_faith: Fondements de la Foi
+organisation.worship: Dévotion
+organisation.granted_divine_powers: Pouvoirs Divins Octroyés
+organisation.political_influence_intrigue: Influence Politique et Intrigue
+organisation.disbanded_dissolved: DÉMANTELÉ/DISSOUS
+organisation.veterancy_level: Niveau d'Ancienneté
+organisation.demonym: Gentilé
+organisation.leader: Dirigeant
+organisation.head_of_state: Chef d'État
+organisation.head_of_government: Chef de Gouvernement
+organisation.economic_system: Système Économique
+organisation.judicial_body: Corps Judiciaire
+organisation.subsidiary_organizations: Organisations Filiales
+organisation.permeated_organizations: Organisations Infiltrées
+organisation.location: Lieu
+organisation.related_ranks_titles: Rangs et Titres Associés
+organisation.related_items: Objets Connexes
+organisation.related_ethnicities: Ethnies Apparentées
+organisation.related_myths: Mythes Associés
+person.divine_domains: Domaines Divins
+person.divine_symbols_sigils: Symboles et Sceaux Divins
+person.tenets_faith: Fondements de la Foi
+person.divine_goals_aspirations: Buts et Aspirations Divins
+person.sensory_perception: Perception Sensorielle
+person.items_specialized_equipment: Équipement Spécialisé
+person.education: Éducation
+person.failures_embarrassments: Échecs et Humiliations
+person.intellectual_characteristics: Caractéristiques Intellectuelles
+person.morality_philosophy: Morale et Philosophie
+person.personality_characteristics: Caractéristiques de Personnalité
+person.savvies_ineptitudes: Expertises et Incompétences
+person.likes_dislikes: Goûts et Aversions
+person.virtues_personality_perks: Vertus et Atouts Personnels
+person.personality_quirks: Manies Personnelles
+person.family_ties: Liens Familiaux
+person.religious_views: Conceptions Religieuses
+person.social_aptitude: Compétence Sociale
+person.mannerisms: Maniérismes
+person.hobbies_pets: Loisirs et Animaux Familiers
+person.speech: Élocution
+person.wealth_financial_state: Fortune et Situation financière
+person.rpg_character_sheet: Fiche de personnage JDR
+person.realm: Domaine
+person.honorary_occupational_titles: Titres Honorifiques et Professionnels
+person.previously_held_ranks_titles: Titres et Rangs Précédents
+person.circumstances_of_death: Circonstances du Décès
+person.current_residence: Résidence Actuelle
+person.quotes_catchphrases: Citations et Phrases d'Accroche
+person.related_myths: Mythes Associés
+person.appears_in: Apparaît dans...
+plot.plot_points_scenes: Étapes d'Intrigue/Scènes
+plot.hooks: Accroches
+plot.stakes: Enjeux
+plot.moral_quandaries: Dilemmes Moraux
+plot.cruel_tricks: Vilains Tours
+plot.protagonists: Protagonistes
+plot.competitors: Concurrents
+plot.backdrops: Toile de Fond
+plot.locations: Lieux
+plot.past_events: Événements Précédents
+plot.related_characters: Personnages Associés
+plot.related_locations: Lieux Associés
+plot.related_organizations: Organisations Associées
+profession.career_progression: Progression de Carrière
+profession.payment_&_reimbursement: Paiement et Remboursement
+profession.other_benefits: Autres Avantages
+profession.purpose: Rôle
+profession.social_status: Statut Social
