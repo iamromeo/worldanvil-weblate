@@ -8,7 +8,7 @@ category: Catégorie
 historical.entry: Événement Historique
 image: Image
 player.character: Personnage Joueur
-timeline: Frise Chronologique
+timeline: Chronologie
 map: Carte
 note: Note
 secret: Secret
@@ -19,22 +19,22 @@ historical.entries: Événements Historiques
 images: Images
 player.characters: Personnages Joueurs
 maps: Cartes
-timelines: Frises Chronologiques
+timelines: Chronologies
 notes: Notes
 secrets: Secrets
 worlds: Mondes
 list.articles: Liste des Articles
 list.blocks: Liste des Blocs
 list.campaigns: Liste des Campagnes
-list.categories: Listes des Catégories
+list.categories: Liste des Catégories
 list.historical.entries: Liste des Événements Historiques
 list.player.characters: Liste des Personnages Joueurs
 list.maps: Liste des Cartes
-list.timelines: Liste des Frises Chronologiques
+list.timelines: Liste des Chronologies
 list.notes: Liste des Notes
 list.secrets: Liste des Secrets
 list.worlds: Liste des Mondes
-subscribers: Membres
+subscribers: Abonnés
 followers: Abonnés
 BETA: BETA
 create.block: Créer Bloc
@@ -43,7 +43,7 @@ create.category: Créer Catégorie
 create.historical.entry: Créer Événement Historique
 create.image: Créer Image
 create.player.character: Créer Personnage Joueur
-create.timeline: Créer Frise Chronologique
+create.timeline: Créer Chronologie
 create.map: Créer Carte
 create.note: Créer Note
 create.secret: Créer Secret
@@ -55,7 +55,7 @@ edit.category: Modifier Catégorie
 edit.historical.entry: Modifier Événement Historique
 edit.image: Modifier Image
 edit.player.character: Modifier Personnage Joueur
-edit.timeline: Modifier Frise Chronologique
+edit.timeline: Modifier Chronologie
 edit.map: Modifier Carte
 edit.note: Modifier Note
 edit.secret: Modifier Secret
@@ -67,78 +67,79 @@ delete.category: Supprimer Catégorie
 delete.historical.entry: Supprimer Événement Historique
 delete.image: Supprimer Image
 delete.player.character: Supprimer Personnage Joueur
-delete.timeline: Supprimer Frise Chronologique
+delete.timeline: Supprimer Chronologie
 delete.map: Supprimer Carte
 delete.note: Supprimer Note
 delete.secret: Supprimer Secret
 delete.world: Supprimer Monde
 list.images: Liste des Images
-create.new.block: Créer un Bloc
-create.new.campaign: Créer une Campagne
-create.new.category: Créer une Catégorie
-create.new.historical.entry: Créer un Événement Historique
-create.new.image: Créer une Image
+create.new.block: Créer un nouveau Bloc
+create.new.campaign: Créer une nouvelle Campagne
+create.new.category: Créer une nouvelle Catégorie
+create.new.historical.entry: Créer un nouvel Événement Historique
+create.new.image: Créer une nouvelle Image
 create.marker: Créer Repère
 create.marker.group: Créer Groupe de Repères
-create.new.player.character: Créer un Personnage Joueur
-create.new.timeline: Créer une Frise Chronologique
-create.new.map: Créer une Carte
-create.new.marker: Créer un Repère
-create.new.marker.group: Créer un Groupe de Repères
-create.new.note: Créer une Note
-create.new.secret: Créer un Secret
-create.new.world: Créer un Monde
+create.new.player.character: Créer un nouveau Personnage Joueur
+create.new.timeline: Créer une nouvelle Chronologie
+create.new.map: Créer une nouvelle Carte
+create.new.marker: Créer un nouveau Repère
+create.new.marker.group: Créer un nouveau Groupe de Repères
+create.new.note: Créer une nouvelle Note
+create.new.secret: Créer un nouveau Secret
+create.new.world: Créer un nouveau Monde
 edit.marker: Modifier Repère
 edit.marker.group: Modifier Groupe de Repères
 delete.marker: Supprimer Repère
 delete.marker.group: Supprimer Groupe de Repères
 marker: Repère
 marker.group: Groupe de Repères
-tag: Mot-clé
+tag: Étiquette
 markers: Repères
 marker.groups: Groupes de Repères
-tags: Mots-clés
+tags: Étiquettes
 list.markers: Liste des Repères
 list.marker.groups: Liste des Groupes de Repères
-related.category: Catégorie associée
-related.location: Lieu associé
+related.category: Catégorie Associée
+related.location: Lieu Associé
 related.map: Carte Associée
 related.organization: Organisation Associée
 position: Position/Poids
 position.description: Le Poids est un nombre définissant l'ordre dans lequel les éléments
   seront listés. Plus le nombre est grand et plus l'élément est prioritaire dans la
   liste.
-status.description: Sélectionner Public rendra ce contenu visible pour tous les visiteurs.
-  Sélectionner Privé rendra ce contenu visible uniquement pour l'auteur du monde et
-  ces co-auteurs. Avec les permissions adéquates, les membres pourront eux aussi avoir
-  accès a ce contenu.
+status.description: Définissez cet élément comme public pour que tout le monde puisse
+  le voir. Les éléments privés ne sont visibles que pour vous et les co-auteurs. Avec
+  les permissions adéquates, les abonnés de votre monde ont aussi accès aux éléments
+  privés.
 access: Accès
-access.description: Sélectionner Public rendra ce contenu visible pour tout le monde.
-  Sélectionner Privé rendra ce contenu visible uniquement pour l'auteur du monde et
-  ces co-auteurs.
-subscriber.groups: Groupes de Membres
+access.description: Définissez votre message comme public pour que tout le monde puisse
+  le voir. Les messages privés ne sont visibles que pour vous et les co-auteurs de
+  votre monde.
+subscriber.groups: Groupes d'Abonnés
 display: Affichage
 display.homepage: Afficher cette carte sur la page d'accueil du Monde.
-tags.description: Les mots-clés doivent être séparés par des virgules. Ils servent
-  à classer le contenu afin de mieux pouvoir le retrouver par la suite.
+tags.description: Utilisez des virgules pour séparer vos étiquettes. L'ajout d'étiquettes
+  à n'importe quel élément de contenu vous aidera à le rechercher à l'aide de n'importe
+  laquelle de ces étiquettes.
 group: Groupe
-map.image: Image principale de la carte
-map.edit.details: Modifier Carte
+map.image: Image Principale de la Carte
+map.edit.details: Modifier les Détails de la Carte
 map.legend: Légende
-map.legend.description: Apparaît dans l'angle inférieur gauche de la carte. Utile
-  pour définir une légende pour les balises, écrire une courte description ou tout
-  autre chose permettant de mieux définir le contexte de cette carte.
+map.legend.description: Ceci apparaîtra en bas à gauche de votre carte. Utilisez-le
+  pour créer une légende pour vos repères, écrire une courte description ou donner
+  tout autre contexte.
 map.marker.style: Apparence
 map.marker.color: Couleur
 map.marker.longitude: Longitude
 map.marker.latitude: Latitude
 map.marker.height: Altitude
-map.marker.drag: Déplace moi pour déterminer les coordonnées de ce nouveau Repère
-map.marker.fill: Génial ! Rempli le formulaire ci-dessous maintenant !
-guild.access: Tous les éléments créés avec un compte gratuit sont public et donc visible
-  par tous. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
-  des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
-  au développement de World Anvil.
+map.marker.drag: Faites-moi glisser pour définir les coordonnées du nouveau Repère
+map.marker.fill: Génial ! Remplissez le formulaire ci-dessous maintenant !
+guild.access: Tous les éléments des comptes gratuits sont publics. Rejoignez la <a
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
+  pour autoriser des groupes d'abonnés spécifiques à accéder au contenu que vous souhaitez
+  et aider au développement de World Anvil.
 status: Statut
 guild.subscriber.groups: Les groupes de membres permettent à la<a class="m-t-10 text-pink"
   href="{{ path('app_membership')}}">Guilde des Forgemondes</a> de configurer la visibilité
@@ -151,98 +152,103 @@ guild.access.map: Avec un compte gratuit, toutes les cartes seront affichées su
   page d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
   des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
   au développement de World Anvil.
-subscriber.groups.description: Sélectionnez un ou plusieurs groupes auxquels vous
-  souhaitez autoriser l'accès à cet article. Cela n'affecte que les articles privés.
+subscriber.groups.description: Sélectionnez un ou plusieurs groupes pour lesquels
+  vous souhaitez autoriser l'accès à cet article. Ceci n'affecte que les articles
+  privés.
 create.layer: Créer Calque
-create.new.layer: Créer un Calque
+create.new.layer: Créer un nouveau Calque
 edit.layer: Modifier Calque
 delete.layer: Supprimer Calque
 layer: Calque
 layers: Calques
 list.layers: Liste des Calques
-map.image.secondary: Calque
-map.update.image: Modifier l'image principale de la carte
-map.image.details: La résolution attendue pour l'image est
+map.image.secondary: Image de Calque
+map.update.image: Modifier l'Image Principale de la Carte
+map.image.details: Les dimensions attendues du fichier sont
 map.marker.new: Nouveau Repère
 map.display.homepage: Afficher cette carte sur la page d'accueil du monde.
-tag.description: Les mots-clés doivent être séparés par des virgules. Ils servent
-  à classer le contenu afin de mieux pouvoir le retrouver par la suite.
-map.compass: Image de Rose des vents
+tag.description: Utilisez des virgules pour séparer vos étiquettes. L'ajout d'étiquettes
+  à n'importe quel élément de contenu vous aidera à le rechercher à l'aide de n'importe
+  laquelle de ces étiquettes.
+map.compass: Image de Rose des Vents
 map.thumbnail: Vignette
-map.zoom.initial: Zoom initial
+map.zoom.initial: Niveau de Zoom Initial
 map.zoom.initial.description: Définit le zoom par défaut lors du premier chargement
   de la carte (0 par défaut)
-map.zoom.min: Zoom minimum autorisé
+map.zoom.min: Zoom Minimum Autorisé
 map.zoom.min.description: Définit le zoom arrière maximum. Ce multiplicateur est négatif,
   plus le nombre est petit et plus le zoom arrière autorisera un champ large (-2 par
   défaut).
-map.zoom.max: Zoom maximum
-create.pin: Créer Icône de Repère de Carte
-create.new.pin: Créer une Icône de Repère de Carte
-edit.pin: Modifier Icône de Repère de Carte
-delete.pin: Supprimer Icône de Repère de Carte
+map.zoom.max: Zoom Maximum Autorisé
+create.pin: Créer Épingle de Carte
+create.new.pin: Créer une nouvelle Épingle de Carte
+edit.pin: Modifier Épingle de Carte
+delete.pin: Supprimer Épingle de Carte
 link: Lien Direct
 popup: Info-bulle
-map.compass.description: Apparaît dans l'angle inférieur droit de la carte. Une image
-  de rose des vents est utilisée pour indiquer les points cardinaux. Il est conseillé
-  d'utiliser une image avec transparence pour un meilleur rendu visuel.
-map.center.description: Les coordonnés initiales du centre de la carte utilisées lors
-  du première affichage de celle-ci. Par défaut, les coordonnés centrales de la carte
-  sont utilisées. Le point 0:0 représente l'angle en bas à gauche de la carte.
-map.marker.lng: Long
-map.marker.lat: Lat
-map.marker.label.description: Le texte qui apparaîtra sur la carte pour ce label.
-map.marker.choice: Choisis et remplis une seule des options suivantes.
-map.marker.radius: Rayon du cercle
-map.marker.radius.description: Rayon du cercle en pixels. Uniquement nécessaire pour
-  un repère de type cercle. Inutile pour un polygone.
-map.marker.polygonPoints.description: "Le formatage d'un point est le suivant: la\
-  \ longitude, suivi d'une virgule, suivi de la latitude. Chaque point doit être séparé\
-  \ du suivant par un espace. \nExemple: 20,20 25,30 42,42.\nAstuce: Utilisez le repère\
-  \ \"Nouveau point\" présent sur la carte ci-dessus pour obtenir les coordonnés voulues."
-map.marker.colorOutline: Couleur de la bordure
+map.compass.description: Sélectionnez une image à afficher en tant que Rose des Vents
+  de votre carte en bas à droite de la carte. L'utilisation d'une image avec transparence
+  donnera un résultat visuel bien meilleur.
+map.center.description: Les coordonnées initiales du centre de la carte lorsqu'elle
+  est chargée pour la première fois. Normalement, c'est le centre de votre carte.
+  Le coin inférieur gauche de votre carte est le point 0:0.
+map.marker.lng: Long.
+map.marker.lat: Lat.
+map.marker.label.description: C'est le texte qui apparaîtra sur votre carte pour ce
+  Libellé.
+map.marker.choice: Choisissez et remplissez une seule des options suivantes.
+map.marker.radius: Rayon du Cercle
+map.marker.radius.description: Rayon du Cercle en pixels. Ne le remplissez que si
+  vous voulez créer un cercle et non un polygone.
+map.marker.polygonPoints.description: La Longitude et la Latitude de chaque point,
+  en paire séparée par une virgule et séparée l'une de l'autre par un espace. Par
+  exemple 20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge "nouveau point" pour
+  obtenir la long./lat.
+map.marker.colorOutline: Couleur de Contour
 circle: Cercle
-label: Label
+label: Libellé
 polygon: Polygone
-pin: Icônes de Repères de Carte
-list.pins: Liste des Icônes de Repères de Cartes
-map.center.y: Point central intial (Axe Y)
-map.center.x: Point central initial (Axe X)
-map.marker.label: Texte du label
-map.marker.polygonPoints: Points du polygones
-map.marker.colorOutline.description: 'La couleur du contour pour le cercle ou le polygone.
-  Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF)'
-map.marker.colorFill: Couleur du fond
-map.marker.colorFill.description: 'La couleur du fond pour le cercle ou le polygone.
-  Une couleur CSS ou un hexcode peut être utilisé (ex: blue, red, yellow, #FFFFFF).'
-map.marker.opacityOutline: Opacité de la bordure
-map.marker.opacityOutline.description: Le pourcentage d'opacité de la bordure. Choisir
-  une valeur numérique entre 0 et 100.
-map.marker.opacityFill: Opacité du fond
-map.marker.opacityFill.description: Le pourcentage d'opacité pour le fond du cercle
-  ou du polygone. Choisir une valeur numérique entre 0 et 100.
+pin: Épingles de Carte
+list.pins: Liste des Épingles de Carte
+map.center.y: Point Central Intial (Axe Y)
+map.center.x: Point Central Initial (Axe X)
+map.marker.label: Texte du Libellé
+map.marker.polygonPoints: Points de Polygone
+map.marker.colorOutline.description: La couleur du contour d'un cercle ou d'un polygone.
+  Vous pouvez utiliser les couleurs CSS comme "blue", "red", "yellow", etc. OU le
+  code hexadécimal de la couleur, y compris le dièse devant la chaîne.
+map.marker.colorFill: Couleur de Remplissage
+map.marker.colorFill.description: La couleur de la zone remplissant le cercle ou le
+  polygone. Vous pouvez utiliser les couleurs CSS comme "blue", "red", "yellow", etc.
+  OU le code hexadécimal de la couleur, y compris le dièse devant la chaîne.
+map.marker.opacityOutline: Opacité de Contour
+map.marker.opacityOutline.description: Le pourcentage d'opacité du contour. De 0 à
+  100% (i.e. 50)
+map.marker.opacityFill: Opacité de Remplissage
+map.marker.opacityFill.description: Le pourcentage d'opacité de la zone remplissant
+  le cercle ou le polygone. De 0 à 100% (i.e. 50)
 create.article: Créer Article
-edit.article: Editer l'Article
+edit.article: Editer Article
 line: Ligne
-related.article: Article associé
-related.history: Élément historique associé
-map.zoom.max.description: Valeur du zoom. 0 signifie taille réelle de l'image. Une
-  valeur positive signifie un grossissement, donc une image qui commence à devenir
+related.article: Article Associé
+related.history: Événement Historique Associé
+map.zoom.max.description: Définit le zoom avant maximum. 0 signifie un zoom à la taille
+  réelle de l'image. Une valeur positive signifie que l'image commencera à devenir
   floue. (0 par défaut)
-map.marker.lineColor: Couleur de la ligne
+map.marker.lineColor: Couleur de Ligne
 map.layers.max: Vous avez atteint le nombre maximum de calques autorisé pour votre
   abonnement! Si vous voulez plus de calques sur vos cartes, vous pouvez toujours
   passer à un abonnement supérieur ! <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
   des Forgemondes</a>
-map.marker.linePoints: Coordonnées de lignes
-map.marker.lineColor.description: Couleur de la ligne. Vous pouvez utiliser les code
-  couleurs CSS comme blue, red, yellow etc., OU le code hexadécimal de la couleur,
-  avec le dièse au début
-map.marker.lineWeight: Épaisseur de la ligne
+map.marker.linePoints: Coordonnées de Ligne
+map.marker.lineColor.description: Couleur de Ligne. Vous pouvez utiliser les couleurs
+  CSS comme "blue", "red", "yellow", etc. OU le code hexadécimal de la couleur, y
+  compris le dièse devant la chaîne.
+map.marker.lineWeight: Épaisseur de Ligne
 map.marker.lineWeight.description: L'épaisseur de la ligne, en pixels relatifs.
-map.marker.lineOpacity: Opacité de la ligne
-map.marker.lineOpacity.description: 'Le % d''opacité de la ligne, de 0 à 100% (ex:
-  50)'
+map.marker.lineOpacity: Opacité de Ligne
+map.marker.lineOpacity.description: Le pourcentage d'opacité de la Ligne. De 0 à 100%
+  (i.e. 50)
 functionality: Fonctionnalité
 appearance: Apparence
 character: Personnage
@@ -252,65 +258,67 @@ item: Objet
 spell: Sort
 class: Classe
 race: Race
-create.block.template: Créer Bloc Modèle
+create.block.template: Créer Modèle de Bloc
 create.group: Créer Groupe
 create.code: Créer Code
-create.new.block.template: Créer un nouveau Bloc Modèle
+create.new.block.template: Créer un Nouveau Modèle de Bloc
 create.new.era: Créer une nouvelle Ère
-edit.block.template: Modifier Bloc Modèle
+edit.block.template: Modifier Modèle de Bloc
 edit.group: Modifier Groupe
-delete.block.template: Supprimer Bloc Modèle
+delete.block.template: Supprimer Modèle de Bloc
 view.world: Voir Monde
 delete.group: Supprimer Groupe
 deete.code: Supprimer Code
-block.template: Bloc Modèle
+block.template: Modèle de Bloc
 subscriber: Abonné
-block.templates: Blocs Modèles
+block.templates: Modèles de Bloc
 groups: Groupes
-list.block.templates: Liste des Blocs Modèles
+list.block.templates: Liste des Modèles de Bloc
 list.subscribers: Abonnés
-map.marker.group.description: Les groupes de marqueurs permettent d'organiser vos
-  marqueurs et filtres en catégories que vous pouvez activer ou désactiver et dont
-  vous pouvez gérer la visibilité (si vous êtes membre de guilde). Concernant les
-  filtres, ils peuvent être utilisés pour afficher ou cacher différentes informations
-  ou groupes de marqueurs à vos lecteurs si vous le souhaitez.
-map.marker.link.description: Si vous spécifiez le marqueur comme lien direct, un clic
-  dessus mènera directement l'utilisateur sur la page cible.
-map.marker.link.relation.description: Choisissez un des éléments ci-dessous comme
-  cible directe du lien. Si vous en choisissez plusieurs, seul le premier sera pris
+map.marker.group.description: Les groupes de repères vous permettent d'organiser vos
+  repères et vos calques de carte en catégories que vous pouvez activer et désactiver
+  et gérer leur visibilité (si vous êtes membre de la guilde). Comme pour les calques,
+  ils peuvent être utilisés pour afficher des informations différentes ou cacher un
+  ensemble/groupe de repères à vos lecteurs si vous le souhaitez.
+map.marker.link.description: Si vous spécifiez le repère comme repère de lien direct,
+  un clic dessus mènera directement l'utilisateur sur la page cible.
+map.marker.link.relation.description: Choisissez l'une des relations ci-dessous comme
+  cible directe du lien. Si vous en choisissez plusieurs, seule la première sera prise
   en compte.
-map.marker.group.onload: Visibilité initiale du Groupe
+map.marker.group.onload: Visibilité Initiale du Groupe
 map.marker.group.onload.description: Rendre ce groupe visible durant le chargement
-  de la carte
-map.marker.linePoints.description: Longitude et Latitude de chaque point, sous forme
-  de paires séparées par une virgule, les deux éléments de la paire étant séparés
-  par un espace. Par exemple 20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge
-  "nouveau point" pour obtenir les lon/lat .
+  initial de la carte
+map.marker.linePoints.description: La Longitude et la Latitude de chaque point, en
+  paire séparée par une virgule et séparée l'une de l'autre par un espace. Par exemple
+  20,20 30,30 50,45. Astuce ! Utilisez l'épingle rouge "nouveau point" pour obtenir
+  la long./lat.
 pin.pinImage: Image de l'Épingle
 map.marker.lineDash: Tableau traitillé
 map.marker.linePoints.check: Cochez cette case et glissez-déposez la nouvelle épingle
-  marqueur pour créer une ligne.
-map.marker.lineDash.description: C'est une fonctionnalité avancée qui permet de définir
-  l'apparence de la ligne. Par exemple 8 8 signifie des tirets de 8 pixels espacés
-  de 8 pixels. Mais vous pouvez indiquer simplement 8, ou 1 2 3 4 pour obtenir des
-  tirets et espacements variés.
+  repère pour créer une ligne.
+map.marker.lineDash.description: Il s'agit d'une fonctionnalité avancée. Utilisez
+  le tiret de ligne pour définir le motif en pointillés de votre ligne. Par exemple,
+  8 8 signifie 8 pixels de ligne 8 pixels d'espace. Mais vous pouvez aussi utiliser
+  simplement 8 ou 1 2 3 3 4 pour avoir un pointillé de ligne variable.
 pin.shadow: Image de l'Ombre de l'Épingle
-pin.shadow.description: L'image de l'ombre de l'épingle. Cette image est optionnelle.
-  Elle doit être plus grande que l'image du symbole, et dépassera sur sa droite.
-pin.iconAnchor.description: Le point d'ancrage est le pixel unique sur lequel le repère
-  pointe sur la carte. Normalement c'est le point situé en X 0 et à la moitié de la
-  largeur Y du symbole
-pin.iconAnchorX: X du point d'ancrage (en pixels)
-pin.iconAnchorY: Y du point d'ancrage (en pixels)
+pin.shadow.description: L'image de l'ombre de l'épingle. Cette image est facultative.
+  Si elle est fournie, elle doit être plus large que l'image de l'épingle et s'étendre
+  jusqu'à son côté droit.
+pin.iconAnchor.description: Le Point d'Ancrage est le pixel unique sur lequel votre
+  épingle est en contact avec la carte. Normalement c'est le point situé en X 0 et
+  à la moitié de la largeur Y de l'épingle.
+pin.iconAnchorX: X du Point d'Ancrage (en pixels)
+pin.iconAnchorY: Y du Point d'Ancrage (en pixels)
 pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage où
   le triangle popup apparaîtra. Contrairement au point d'ancrage de l'épingle, il
-  est situé en haut de l'épingle ou plus haut
-pin.popupAnchorX: X du point de popup (en pixels)
-pin.popupAnchorY: Y du point de popup (en pixels)
-pin.template.header: Modèle standard d'Épingles
+  est situé en haut de l'icone ou plus haut
+pin.popupAnchorX: X du Point de Popup (en pixels)
+pin.popupAnchorY: Y du Point de Popup (en pixels)
+pin.template.header: Modèle Standard d'Épingles
 pin.template.description: Utilisez les fichiers du fichier zip pour créer des épingles
-  similaires à ceux fournis par World Anvil.
-pin.value.notzero: Cette valeur ne doit pas être vide ou égale à 0.
+  similaires à celles fournies par World Anvil.
+pin.value.notzero: Veuillez vous assurer que cette valeur n'est pas vide ou égale
+  à 0.
 organization.and.access: Organisation et Accès
 grandmaster.feature: Ceci est une fonctionnalité de niveau Grand Maître ou plus. Rejoignez
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
