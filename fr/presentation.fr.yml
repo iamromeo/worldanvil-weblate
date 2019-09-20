@@ -299,3 +299,20 @@ military_conf.the_conflict: Le Conflit
 military_conf.battlefield: Champ de Bataille
 military_conf.prelude: Prélude
 military_conf.deployment: Déploiement
+military_conf.conditions: Conditions
+military_conf.the_engagement: L'Engagement
+military_conf.historical_significance: Portée Historique
+military_conf.legacy: Héritage
+military_conf.in_literature: Dans la Littérature
+military_conf.techological_advancement: Avancée Technologique
+myth.cultural_reception: Perception Culturelle
+myth.telling_prose: Récit / Prose
+myth.related_ethnicities: Ethnies Associées
+myth.related_species: Espèces Associées
+myth.related_locations: Lieux Associés
+myth.related_people: Personnes Associées
+myth.related_organizations: Organisations Associées
+myth.related_items: Objets Associés
+myth.related_vehicles: Véhicules Associés
+organisation.public_agenda: Projet Public
+organisation.assets: Ressources
