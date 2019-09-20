@@ -216,7 +216,7 @@ map.marker.label: Texte du Libellé
 map.marker.polygonPoints: Points de Polygone
 map.marker.colorOutline.description: La couleur du contour d'un cercle ou d'un polygone.
   Vous pouvez utiliser les couleurs CSS comme "blue", "red", "yellow", etc. OU le
-  code hexadécimal de la couleur, y compris le dièse devant la chaîne.
+  code hexadécimal de la couleur, y compris le dièse devant la chaîne
 map.marker.colorFill: Couleur de Remplissage
 map.marker.colorFill.description: La couleur de la zone remplissant le cercle ou le
   polygone. Vous pouvez utiliser les couleurs CSS comme "blue", "red", "yellow", etc.
@@ -376,7 +376,7 @@ access.group.assets: Ressources de Groupe
 characters: Personnages
 world.summary: Résumé
 world.explore: Explorer
-events: Evénements historiques
+events: Événements historiques
 calendars: Calendriers
 list.characters: Liste des Personnages
 map.presentation: Ouvrir le mode présentation
