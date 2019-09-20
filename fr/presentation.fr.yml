@@ -13,8 +13,8 @@ follow.action.add: SUIVRE
 follow.action.add.description: Suivez ce monde pour recevoir tous ses articles dans
   votre fil d'actualité !
 like.action.add: J'AIME
-timeline: Frise Chronologique
-timelines: Frises Chronologiques
+timeline: Chronologie
+timelines: Chronologies
 followers: Abonnés
 followers.all: Voir tous les abonnés
 campaigns: Campagnes
@@ -299,3 +299,54 @@ military_conf.the_conflict: Le Conflit
 military_conf.battlefield: Champ de Bataille
 military_conf.prelude: Prélude
 military_conf.deployment: Déploiement
+military_conf.conditions: Conditions
+military_conf.the_engagement: L'Engagement
+military_conf.historical_significance: Portée Historique
+military_conf.legacy: Héritage
+military_conf.in_literature: Dans la Littérature
+military_conf.techological_advancement: Avancée Technologique
+myth.cultural_reception: Perception Culturelle
+myth.telling_prose: Récit / Prose
+myth.related_ethnicities: Ethnies Associées
+myth.related_species: Espèces Associées
+myth.related_locations: Lieux Associés
+myth.related_people: Personnes Associées
+myth.related_organizations: Organisations Associées
+myth.related_items: Objets Associés
+myth.related_vehicles: Véhicules Associés
+organisation.public_agenda: Projet Public
+organisation.assets: Ressources
+military_conf.outcome: Issue
+organisation.foreign_relations: Relations Etrangères
+military_conf.aftermath: Conséquence
+military_conf.conflict_type: Type de Conflit
+military_conf.battlefield_type: Type de Champ de Bataille
+military_conf.starting_date: Date de Début
+military_conf.ending_date: Date de Fin
+military_conf.conflict_result: Résultat du Conflit
+military_conf.location: Localisation
+military_conf.belligerents: Belligérants
+military_conf.led_by: Dirigé par
+military_conf.strength: Force
+military_conf.casualties: Pertes
+military_conf.objectives: Objectifs
+myth.summary: Résumé
+myth.historical_basis: Base Historique
+myth.spread: Diffusion
+myth.in_literature: Dans la Littérature
+myth.in_art: Dans l'Art
+myth.date_of_first_recording: Date de la Première Version
+myth.date_of_setting: Date des Événements
+organisation.structure: Structure
+organisation.history: Histoire
+organisation.disbandment: Démantèlement
+organisation.demography_and_population: Démographie et Population
+organisation.territories: Territoires
+organisation.military: Militaire
+organisation.technological_level: Niveau Technologique
+organisation.religion: Religion
+organisation.agriculture_industry: Agriculture et Industrie
+organisation.trade_transport: Commerce et Transport
+organisation.education: Education
+organisation.infrastructure: Infrastructure
+myth.variations_mutation: Variantes et Mutations
