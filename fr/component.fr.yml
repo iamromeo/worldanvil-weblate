@@ -141,17 +141,17 @@ guild.access: Tous les éléments des comptes gratuits sont publics. Rejoignez l
   pour autoriser des groupes d'abonnés spécifiques à accéder au contenu que vous souhaitez
   et aider au développement de World Anvil.
 status: Statut
-guild.subscriber.groups: Les groupes de membres permettent à la<a class="m-t-10 text-pink"
-  href="{{ path('app_membership')}}">Guilde des Forgemondes</a> de configurer la visibilité
-  des articles privés pour chaque groupe.
-guild.access.status: Tous les éléments créés avec un compte gratuit sont public et
-  donc visible par tous. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
-  des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
-  au développement de World Anvil.
-guild.access.map: Avec un compte gratuit, toutes les cartes seront affichées sur la
-  page d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Guilde
-  des Forgemondes</a> pour pouvoir contrôler la visibilité de votre contenu et aider
-  au développement de World Anvil.
+guild.subscriber.groups: Les groupes d'abonnés permettent à la<a class="m-t-10 text-pink"
+  href="{{ path('app_membership')}}">Worldbuilders Guild</a> de donner aux membres
+  de ce groupe des accès en lecture aux articles privés.
+guild.access.status: Tous les éléments des comptes gratuits sont publics. Rejoignez
+  la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> pour pouvoir contrôler la visibilité de votre contenu et aider au développement
+  de World Anvil.
+guild.access.map: Toutes les cartes des comptes gratuits sont affichées sur la page
+  d'accueil du monde. Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> pour définir votre carte, vos articles et vos mondes comme étant privés,
+  et aider au développement de World Anvil.
 subscriber.groups.description: Sélectionnez un ou plusieurs groupes pour lesquels
   vous souhaitez autoriser l'accès à cet article. Ceci n'affecte que les articles
   privés.
@@ -320,16 +320,16 @@ pin.template.description: Utilisez les fichiers du fichier zip pour créer des �
 pin.value.notzero: Veuillez vous assurer que cette valeur n'est pas vide ou égale
   à 0.
 organization.and.access: Organisation et Accès
-grandmaster.feature: Ceci est une fonctionnalité de niveau Grand Maître ou plus. Rejoignez
-  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
-  Forgemondes</a> pour y avoir accès et aider World Anvil.
+grandmaster.feature: Ceci est une fonctionnalité de niveau Grandmaster ou supérieur.
+  Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guil</a> pour y avoir accès et aider au développement de World Anvil.
 feat: Exploit
-guild.feature: Ceci est une fonctionnalité réservée aux membres de guildes. Rejoignez
-  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des
-  Forgemondes</a> pour y avoir accès et aider World Anvil.
-master.feature: Ceci est une fonctionnalité de niveau Maître ou plus. Rejoignez <a
-  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">La Guilde des Forgemondes</a>
-  pour y avoir accès et aider World Anvil.
+guild.feature: Ceci est une fonctionnalité exclusive à la Guild. Rejoignez la <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> pour y
+  avoir accès et aider au développement de World Anvil.
+master.feature: Ceci est une fonctionnalité exclusive de niveau Master ou supérieur.
+  Rejoignez la <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> pour y avoir accès et aider au développement de World Anvil.
 access.rights.notice: La fonctionnalité Groupes et Abonnés est disponible uniquement
   aux membres de la Guilde !
 access.rights.management: Gestion des Droits d'Accès
@@ -340,25 +340,25 @@ access.rights.codes: Codes d'Accès Abonnés
 access.authors.management: Gestion des Auteurs
 access.authors.revoke: Révoquer l'Accès
 access.authors.coowner: Co-Propriétaire
-access.authors.coowner.description: Accès à tout y compris la configuration du Monde,
-  le CSS et les Droits d'Accès.
-access.authors.editor.description: Accès pour créer, voir et éditer tout et n'importe
+access.authors.coowner.description: Accès à tout, y compris la configuration du Monde,
+  le CSS et la Gestion d'Accès.
+access.authors.editor.description: Accès pour créer, visualiser et modifier n'importe
   quel contenu.
 access.authors.editor: Éditeur
 access.authors.writer: Écrivain
-access.authors.writer.description: Accès pour créer des articles en tant que Brouillons.
+access.authors.writer.description: Accès à la création d'articles en mode Brouillon.
   Les éditeurs et niveaux supérieurs peuvent ensuite gérer, organiser et publier ces
   articles.
 access.authors.slots: Emplacements d'Auteur Utilisés
 access.subscribers.slots: Emplacements d'Abonnés Utilisés
-access.subscribers.purge: Purger la liste de tous les Abonnés actuels avant importation
+access.subscribers.purge: Purger tous les abonnés actuels de la liste avant importation
 access.subscribers.emails: Emails Abonnés
 access.authors.add: Ajouter nouvel Auteur
 access.authors.username: Nom d'utilisateur
 access.authors.rank: Rang
 access.authors.groups: Groupes
-access.subscriber.add: Ajouter Abonné à un/des Groupe/s
-access.subscribers.add: Ajouter Abonnés à un Groupe
+access.subscriber.add: Ajouter Abonné au(x) Groupe(s)
+access.subscribers.add: Ajouter Abonnés au Groupe
 access.subscribers.management: Gestion des Abonnés
 access.group.management: Gestion des Groupes d'Abonnés
 access.group.edit: Modifier Groupe d'Abonnés
@@ -369,8 +369,8 @@ access.group.position.description: (optionnel) Juste pour que vous puissiez orga
 access.code.management: Gestion des Codes Abonnés
 access.code.code: Code
 access.code.group: Groupe d'Abonnés
-access.code.maxUses: Nombre Maximum d'Usages
+access.code.maxUses: Nombre Maximum d'Utilisations
 access.code.expiryDate: Date d'Expiration
-access.code.edit: Modifier Codes Abonnés
+access.code.edit: Modifier Code Abonnés
 access.group.assets: Ressources de Groupe
 characters: Personnages
