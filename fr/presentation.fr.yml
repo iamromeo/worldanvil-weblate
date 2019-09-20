@@ -318,3 +318,34 @@ organisation.public_agenda: Projet Public
 organisation.assets: Ressources
 military_conf.outcome: Issue
 organisation.foreign_relations: Relations Etrangères
+military_conf.aftermath: Conséquence
+military_conf.conflict_type: Type de Conflit
+military_conf.battlefield_type: Type de Champ de Bataille
+military_conf.starting_date: Date de Début
+military_conf.ending_date: Date de Fin
+military_conf.conflict_result: Résultat du Conflit
+military_conf.location: Localisation
+military_conf.belligerents: Belligérants
+military_conf.led_by: Dirigé par
+military_conf.strength: Force
+military_conf.casualties: Pertes
+military_conf.objectives: Objectifs
+myth.summary: Résumé
+myth.historical_basis: Base Historique
+myth.spread: Diffusion
+myth.in_literature: Dans la Littérature
+myth.in_art: Dans l'Art
+myth.date_of_first_recording: Date de la Première Version
+myth.date_of_setting: Date des Événements
+organisation.structure: Structure
+organisation.history: Histoire
+organisation.disbandment: Démantèlement
+organisation.demography_and_population: Démographie et Population
+organisation.territories: Territoires
+organisation.military: Militaire
+organisation.technological_level: Niveau Technologique
+organisation.religion: Religion
+organisation.agriculture_industry: Agriculture et Industrie
+organisation.trade_transport: Commerce et Transport
+organisation.education: Education
+organisation.infrastructure: Infrastructure
