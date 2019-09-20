@@ -350,3 +350,95 @@ organisation.trade_transport: Commerce et Transport
 organisation.education: Education
 organisation.infrastructure: Infrastructure
 myth.variations_mutation: Variantes et Mutations
+organisation.mythology_lore: Mythologies et Traditions
+organisation.ethics: Morale
+organisation.priesthood: Clergé
+organisation.sects: Sectes
+organisation.founding_date: Date de Fondation
+organisation.dissolution_date: Date de Dissolution
+organisation.type: Type
+organisation.capital: Capitale
+organisation.formation_type: Type de Formation
+organisation.training_level: Niveau d'Entrainement
+organisation.government_system: Système Gouvernemental
+organisation.power_structure: Structure de Pouvoir
+organisation.currency: Monnaie
+organisation.major_exports: Exportations Principales
+organisation.major_imports: Importations Principales
+organisation.legislative_body: Corps Législatif
+organisation.parent_organization: Organisation Mère
+organisation.divines: Divine
+organisation.official_languages: Langues Officielles
+organisation.controlled_territories: Territoires Contrôlés
+organisation.neighboring_nations: Nations Voisines
+organisation.manufactured_items: Produits Manufacturés
+organisation.organization_vehicles: Véhicules de l'Organisation
+organisation.notable_members: Membres Notoires
+person.holy_books_codes: Textes et Codes Sacrés
+person.holidays: Fêtes Religieuses
+person.physical_description: Description Physique
+person.body_features: Caractéristiques Physiques
+person.facial_features: Caractéristiques Faciales
+person.identifying_characteristics: Caractéristiques Identifiables
+person.physical_quirks: Particularités Physiques
+person.special_abilities: Capacités Spéciales
+person.clothing_apparel_accessories: Vêtements et Accessoires
+person.mental_characteristics: Caractéristiques Mentales
+person.personal_history: Histoire Personnelle
+person.employment: Carrière
+person.accomplishments_achievements: Réussites et Succès
+person.mental_trauma: Traumatismes Mentaux
+person.taboos: Tabous
+person.motivation: Motivations
+person.vices_personality_flaws: Vices et Défauts
+person.hygiene: Hygiène
+person.social: Social
+person.contacts_relations: Contacts et Relations
+person.divine_classification: Classification Divine
+person.alignment: Alignement
+person.current_location: Localisation Actuelle
+person.species: Espèce
+person.conditions: État
+person.ethnicity: Ethnie
+person.church_cult: Église/Culte
+person.currently_held_titles: Titres Actuels
+person.life: Vie
+person.year_of_birth: Année de Naissance
+person.circumstances_of_birth: Circonstances de Naissance
+person.birthplace: Lieu de Naissance
+person.biological_sex: Sexe Biologique
+person.sexuality: Sexualité
+person.gender_identity: Identité de Genre
+person.eyes: Yeux
+person.skin: Couleur de Peau
+person.hair: Cheveux
+person.height: Taille
+person.weight: Poids
+person.aligned_organization: Organisations Alliées
+person.other_affiliations: Autres Affiliations
+person.known_languages: Langages Connus
+person.character_prototype: Prototype du Personnage
+plot.summary: Résumé
+plot.themes: Thèmes
+plot.structure: Structure
+plot.exposition: Scène d'Exposition
+plot.conflict: Conflit
+plot.rising_action: Péripéties
+plot.climax: Point Culminant
+plot.falling_action: Dénouement
+plot.resolution: Résolution
+plot.components: Composants
+plot.goals: Objectifs
+plot.red_herrings: Fausses Pistes
+plot.relations: Relations
+plot.allies: Alliés
+plot.neutrals_bystanders: Personnes Neutres/ Témoins
+plot.adversaries: Adversaires
+plot.threats: Menaces
+plot.encounters: Rencontres
+plot.type: Type d'Intrigue
+plot.parent: Intrigue Mère
+plot.subplots: Sous Intrigues
+profession.career: Carrière
+profession.qualifications: Qualifications
+profession.perception: Perception
