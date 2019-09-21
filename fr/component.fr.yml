@@ -311,7 +311,7 @@ pin.iconAnchorX: X du Point d'Ancrage (en pixels)
 pin.iconAnchorY: Y du Point d'Ancrage (en pixels)
 pin.popupAnchor.description: Le point d'ancrage popup est le point de centrage où
   le triangle popup apparaîtra. Contrairement au point d'ancrage de l'épingle, il
-  est situé en haut de l'icone ou plus haut
+  est situé en haut de l'icône ou plus haut
 pin.popupAnchorX: X du Point de Popup (en pixels)
 pin.popupAnchorY: Y du Point de Popup (en pixels)
 pin.template.header: Modèle Standard d'Épingles
@@ -379,7 +379,7 @@ world.explore: Explorer
 events: Événements historiques
 calendars: Calendriers
 list.characters: Liste des Personnages
-map.presentation: Ouvrir le mode présentation
+map.presentation: Ouvrir le Mode Présentation
 map.settings: Réglages de la carte
 map.marker.choice.type: De quel type de marqueur s'agit il ?
-map.marker.choice.functionality: Qu'est ce que cela fait ?
+map.marker.choice.functionality: Qu'est-ce que cela fait ?
