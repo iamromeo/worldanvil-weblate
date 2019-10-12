@@ -358,3 +358,25 @@ organisation.ethics: Etiikka
 organisation.worship: Palvontamenot
 organisation.granted_divine_powers: Suodut jumalalliset voimat
 organisation.type: Luokka
+organisation.political_influence_intrigue: Poliittinen vaikutusvalta & juonittelu
+organisation.sects: Lahkot
+organisation.disbanded_dissolved: LAKKAUTETTU/HAJONNUT
+organisation.founding_date: Perustamispäivämäärä
+organisation.dissolution_date: Lakkautuspäivämäärä
+organisation.capital: Pääkaupunki
+organisation.alternative_names: Vaihtoehtoiset nimet
+organisation.formation_type: Osaston tyyppi
+organisation.training_level: Koulutuksen taso
+organisation.veterancy_level: Konkariusaste
+organisation.demonym: Demonyymi
+organisation.leader: Johtaja
+organisation.head_of_state: Valtionpäämies
+organisation.head_of_government: Hallinnon päämies
+organisation.government_system: Hallintojärjestelmä
+organisation.power_structure: Voimarakenteet
+organisation.economic_system: Talousjärjestelmä
+organisation.currency: Valuutta
+organisation.major_exports: Merkittävimmät vientituotteet
+organisation.major_imports: Merkittävimmät tuontituotteet
+organisation.legislative_body: Lainsäädäntöelin
+organisation.judicial_body: Tuomiojärjestelmä
