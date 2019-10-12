@@ -383,3 +383,21 @@ organisation.judicial_body: Oikeusjärjestelmä
 organisation.parent_organization: Emo-organisaatio
 profession.purpose: Tarkoitus
 organisation.subsidiary_organizations: Alaorganisaatiot
+organisation.location: Paikka
+organisation.official_languages: Viralliset kielet
+organisation.controlled_territories: Hallitut alueet
+organisation.neighboring_nations: Naapurivaltakunnat
+organisation.manufactured_items: Valmistetut tuotteet
+organisation.related_items: Aiheeseen liittyvät esineet
+organisation.organization_vehicles: Organisaation kulkuvälineet
+organisation.notable_members: Merkittävät jäsenet
+organisation.related_myths: Aiheeseen liittyvät myytit
+person.holy_books_codes: Pyhät tekstit ja säännöt
+person.divine_symbols_sigils: Jumalalliset symbolit ja merkit
+person.holidays: Pyhäpäivät
+person.facial_features: Kasvonpiirteet
+person.identifying_characteristics: Tuntomerkit
+person.special_abilities: Erityiskyvyt
+person.clothing_apparel_accessories: Vaatetus & tarvikkeet
+person.items_specialized_equipment: Erityisvarusteet
+person.mental_characteristics: Henkiset ominaisuudet
