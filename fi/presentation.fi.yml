@@ -136,13 +136,13 @@ material.professions: Aiheeseen liittyvät ammatit
 material.color: Väri
 material.commonState: Normaali olotila
 editorial.team: Toimitustyöryhmä
-writers.team: kirjoittajien työryhmä
+writers.team: Kirjoittajien työryhmä
 campaign.system: '%system_name% -peli'
 campaign.world: '%world_name% -maailmassa'
 campaign.storytellers: Tämän tarinan on kertonut
 campaign.watchlive: Katso kampanjaa suorana Twitchissä
 campaign.protagonists: Päähenkilöt
-campaign.playedby: pelaajana
+campaign.playedby: Pelaajana
 campaign.lfp: Pelaajia haetaan
 campaign.full: Täynnä
 campaign.support.patreon: Tue tätä kampanjaa Patreonissa
