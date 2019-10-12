@@ -356,3 +356,9 @@ characters: Hahmot
 list.characters: Hahmoluettelo
 world.summary: Yhteenveto
 world.explore: Tutki
+events: Historialliset tapahtumat
+calendars: Kalenterit
+map.presentation: Avaa esitystila
+map.settings: Kartan asetukset
+map.marker.choice.type: Millainen tunnus on kyseessä?
+map.marker.choice.functionality: Mitä se tekee?
