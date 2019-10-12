@@ -279,15 +279,15 @@ campaign.lore_and_cast: Taustatarina & sivuhahmot
 campaign.maps_and_timelines: Kartat & Aikajanat
 law.type: Tyyppi
 location.geography: Maantiede
-location.included_locations: Sisältyvät paikat
-location.characters_in_location: Läsnä olevat hahmot
+location.included_locations: Sisältää paikat
+location.characters_in_location: Paikalla olevat hahmot
 location.flora: Kasvisto
 location.fauna: Eläimistö
 location.natural_resources: Luonnonvarat
 location.aternative_names: Vaihtoehtoiset nimet
-location.type: Tyyppi
+location.type: Luokka
 location.location_under: Kuuluu paikkaan
-location.included_organizations: Sisältyvät organisaatiot
+location.included_organizations: Sisältää organisaatiot
 location.owner_ruler: Omistaja/Hallitsija
 location.owning_organization: Omistava organisaatio
 location.related_reports_primary: Aiheeseen liittyvät raportit (ensisijaiset)
