@@ -310,3 +310,5 @@ military_conf.conflict_type: Selkkauksen tyyppi
 military_conf.battlefield_type: Taistelukentän tyyppi
 military_conf.conflict_result: Selkkauksen lopputulos
 military_conf.location: Sijainti
+military_conf.starting_date: Alkamisajankohta
+military_conf.ending_date: Päättymisajankohta
