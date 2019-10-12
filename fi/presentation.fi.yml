@@ -307,7 +307,7 @@ military_conf.legacy: Perintö
 military_conf.in_literature: Kirjallisuudessa
 military_conf.techological_advancement: Teknologinen kehitys
 military_conf.conflict_type: Selkkauksen tyyppi
-military_conf.battlefield_type: Taistelukentän tyyppi
+military_conf.battlefield_type: Taistelukentän luokka
 military_conf.conflict_result: Selkkauksen lopputulos
 military_conf.location: Paikka
 military_conf.starting_date: Alkamisajankohta
@@ -321,10 +321,10 @@ myth.summary: Yhteenveto
 myth.spread: Leviäminen
 myth.variations_mutation: Variaatiot & muunnokset
 myth.in_literature: Kirjallisuudessa
-myth.in_art: Taiteessa
+myth.in_art: Kuvataiteessa
 myth.date_of_first_recording: Ensihavainnon päivämäärä
 myth.date_of_setting: Tapahtumapäivämäärä
-myth.telling_prose: Kerronta / Kirjallisuus
+myth.telling_prose: Kerronta / kirjallisuus
 myth.related_ethnicities: Aiheeseen liittyvät kansallisuudet
 myth.historical_basis: Historiallinen perusta
 myth.cultural_reception: Kulttuurinen reaktio
@@ -371,7 +371,7 @@ organisation.veterancy_level: Konkariusaste
 organisation.demonym: Demonyymi
 organisation.leader: Johtaja
 organisation.head_of_state: Valtionpäämies
-organisation.head_of_government: Hallinnon päämies
+organisation.head_of_government: Hallinnon johtaja
 organisation.government_system: Hallintojärjestelmä
 organisation.power_structure: Voimarakenteet
 organisation.economic_system: Talousjärjestelmä
@@ -379,4 +379,6 @@ organisation.currency: Valuutta
 organisation.major_exports: Merkittävimmät vientituotteet
 organisation.major_imports: Merkittävimmät tuontituotteet
 organisation.legislative_body: Lainsäädäntöelin
-organisation.judicial_body: Tuomiojärjestelmä
+organisation.judicial_body: Oikeusjärjestelmä
+organisation.parent_organization: Emo-organisaatio
+profession.purpose: Tarkoitus
