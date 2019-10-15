@@ -403,3 +403,5 @@ person.general_condition: Condición física general
 person.body_features: Características corporales
 person.facial_features: Características faciales
 person.identifying_characteristics: 'Rasgos identificativos '
+organisation.notable_members: Miembros destacados
+person.holy_books_codes: Libros sagrados y códices
