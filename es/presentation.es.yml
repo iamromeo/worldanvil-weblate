@@ -393,3 +393,13 @@ organisation.manufactured_items: Objetos manufacturados
 organisation.related_items: Objetos relacionados
 organisation.organization_vehicles: Vehículos de la organización
 person.divine_domains: Dominios divinos
+organisation.divines: Divinidades
+organisation.related_ethnicities: Etnias relacionadas
+organisation.related_myths: Mitos relacionados
+person.holidays: Festividades
+person.divine_goals_aspirations: Metas divinas y aspiraciones
+person.physical_description: Descripción física
+person.general_condition: Condición física general
+person.body_features: Características corporales
+person.facial_features: Características faciales
+person.identifying_characteristics: 'Rasgos identificativos '
