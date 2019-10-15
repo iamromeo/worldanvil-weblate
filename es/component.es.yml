@@ -362,3 +362,13 @@ access.code.group: Grupo de suscriptores
 access.code.maxUses: Número máximo de usos
 access.code.expiryDate: Fecha de expiración
 access.code.edit: Editar código de suscripción
+world.summary: Resumen
+world.explore: Explorar
+events: Acontecimientos históricos
+calendars: Calendarios
+list.characters: Lista de personajes
+characters: Personajes
+map.presentation: Modo de presentación
+map.settings: Ajustes del mapa
+map.marker.choice.type: ¿Qué clase de marcador es?
+map.marker.choice.functionality: ¿Qué hace?
