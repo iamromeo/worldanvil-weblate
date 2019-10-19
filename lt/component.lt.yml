@@ -6,3 +6,18 @@ articles: Straipsniai
 maps: Žemėlapiai
 timelines: Laiko juostos
 secrets: Paslaptys
+create.new.campaign: Kurti kampaniją
+create.new.category: Kurti kategoriją
+create.new.timeline: Kurti laiko juostą
+create.new.historical.entry: Kurti istorinį įrašą
+create.new.era: Kurti erą
+create.new.image: Kurti iliustraciją
+create.new.player.character: Kurti žaidėjo veikėją
+create.new.layer: Kurti sluoksnį
+create.new.map: Kurti žemėlapį
+create.new.marker: Kurti žymeklį
+create.new.marker.group: Kurti žymeklių grupę
+create.new.note: Kurti pastabą
+create.new.secret: Kurti paslaptį
+create.new.world: Kurti naują pasaulį
+edit.article: Taisyti straipsnį
