@@ -514,3 +514,42 @@ profession.purpose: Rôle
 profession.social_status: Statut Social
 organisation.alternative_names: Autres Noms
 person.general_condition: Condition Physique Générale
+profession.demographics: Démographie
+profession.history: Histoire
+profession.tools: Outils
+profession.materials: Matériaux
+profession.workplace: Lieu de travail
+profession.provided_services: Services Proposés
+profession.dangers_&_hazards: Dangers et Risques
+profession.alternative_names: Autres Noms
+profession.type: Type
+profession.demand: Demande
+profession.legality: Légalité
+rank.qualifications: Qualifications
+rank.duties: Devoirs
+rank.responsibilities: Responsabilités
+rank.accoutrements_&_equipment: Habits et Équipements
+rank.history: Histoire
+rank.cultural_significance: Signification Culturelle
+rank.type: Type
+rank.creation: Création
+rank.alternative_naming: Autres Noms
+rank.first_holder: Premier Détenteur
+report.general_summary: Résumé Général
+report.rewards_granted: Récompenses Accordées
+report.characters_interacted_with: Personnages Rencontrés
+report.notes: Notes
+profession.operations: Activités
+rank.requirements: Exigences
+rank.appointment: Nomination
+rank.benefits: Avantages
+rank.grounds_for_removal_dismissal: Motifs de Révocation/Renvoi
+rank.notable_holders: Détenteurs Notoires
+rank.status: Statut
+rank.equates_to: Équivalent à
+rank.source_of_authority: Source d'Autorité
+rank.reports_directly_to: Relève directement de
+report.missions_quests_completed: Missions/Quêtes Achevées
+report.created_content: Contenu Créé
+report.related_reports: Rapports Connexes
+rank.length_of_term: Durée du Mandat

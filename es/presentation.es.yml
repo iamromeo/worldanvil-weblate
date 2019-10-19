@@ -273,3 +273,137 @@ language.sidebar.common.male.names: Nombres masculinos comunes
 language.sidebar.common.unisex.names: Nombres unisex comunes
 law.manifestation: Manifestación
 law.localization: Localización
+heroes: Héroes
+campaign.sessions_archive: Registro de sesiones
+campaign.lore: Lore
+campaign.lore_and_cast: Lore y personajes de apoyo
+campaign.maps_and_timelines: Mapas y líneas del tiempo
+law.type: Tipo
+location.geography: Geografía
+location.flora: Flora
+location.fauna: Fauna
+location.natural_resources: Recursos naturales
+location.aternative_names: Nombre(s) alternativo(s)
+location.type: Tipo
+location.location_under: Se encuentra dentro de
+location.included_locations: Incluye
+location.included_organizations: Organizaciones incluidas
+location.owner_ruler: Dueño o gobernante
+location.owning_organization: Organización dueña o gobernante
+location.characters_in_location: Personajes en el lugar
+location.related_reports_primary: Informes relacionados (principales)
+location.related_reports_secondary: Informes relacionados (secundarios)
+location.related_myths: Mitos relacionados
+material.history_usage: Historia y uso
+military_conf.the_conflict: El conflicto
+military_conf.prelude: Contexto
+military_conf.deployment: Despliegue de tropas
+military_conf.battlefield: Campo de batalla
+military_conf.conditions: Condiciones
+military_conf.the_engagement: El combate
+military_conf.outcome: Resultado
+military_conf.aftermath: Consecuencias
+military_conf.historical_significance: Importancia histórica
+military_conf.legacy: Legado
+military_conf.in_literature: En la literatura
+military_conf.techological_advancement: Avances tecnológicos
+military_conf.conflict_type: Tipo de conflicto
+military_conf.battlefield_type: Tipo de campo de batalla
+military_conf.starting_date: Fecha de inicio
+military_conf.ending_date: Fecha de finalización
+military_conf.conflict_result: Resultados del conflicto
+military_conf.location: Localización
+military_conf.belligerents: Beligerantes
+military_conf.led_by: Liderados por
+military_conf.strength: Fuerzas
+military_conf.casualties: Bajas
+military_conf.objectives: Objetivos
+myth.summary: Resumen
+myth.historical_basis: Base histórica
+myth.spread: Alcance
+myth.variations_mutation: Variantes
+myth.cultural_reception: Recepción cultural
+myth.in_literature: En la literatura
+myth.in_art: En el arte
+myth.date_of_first_recording: Fecha de los primeros registros
+myth.date_of_setting: Fecha de los hechos
+myth.telling_prose: Historia/prosa
+myth.related_ethnicities: Etnias relacionadas
+myth.related_species: Especies relacionadas
+myth.related_locations: Localizaciones relacionadas
+myth.related_people: Personas relacionadas
+myth.related_organizations: Organizaciones relacionadas
+myth.related_items: Objetos relacionados
+myth.related_vehicles: Vehículos relacionados
+organisation.structure: Estructura
+organisation.public_agenda: Agenda pública
+organisation.assets: Bienes
+organisation.history: Historia
+organisation.disbandment: Disolución
+organisation.demography_and_population: Demografía
+organisation.territories: Territorios
+organisation.military: Ejército
+organisation.technological_level: Nivel tecnológico
+organisation.religion: Religión
+organisation.foreign_relations: Asuntos exteriores
+organisation.agriculture_industry: Agricultura e industria
+organisation.trade_transport: Comercio y transporte
+organisation.education: Educación
+organisation.infrastructure: Infraestructura
+organisation.mythology_lore: Mitología e historias
+organisation.divine_origins: Orígenes divinos
+organisation.cosmological_views: Cosmología
+organisation.tenets_of_faith: Principios de la fe
+organisation.ethics: Ética
+organisation.worship: Culto
+organisation.priesthood: Sacerdocio
+organisation.granted_divine_powers: Poderes divinos otorgados
+organisation.political_influence_intrigue: Influencia política e intrigas
+organisation.sects: Sectas
+organisation.disbanded_dissolved: DISUELTO
+organisation.founding_date: Fecha de fundación
+organisation.dissolution_date: Fecha de disolución
+organisation.type: Tipo
+organisation.capital: Capital
+organisation.alternative_names: Nombres alternativos
+organisation.formation_type: Tipo de formación
+organisation.training_level: Nivel de adiestramiento
+organisation.veterancy_level: Nivel de veteranía
+organisation.demonym: Gentilicio
+organisation.leader: Líder
+organisation.head_of_state: Jefe de Estado
+organisation.head_of_government: Jefe de Gobierno
+organisation.government_system: Sistema de Gobierno
+organisation.power_structure: Estructura de poder
+organisation.economic_system: Sistema económico
+organisation.currency: Moneda
+organisation.major_exports: Principales exportaciones
+organisation.major_imports: Principales importaciones
+organisation.legislative_body: Cuerpo legislativo
+organisation.judicial_body: Cuerpo judicial
+organisation.parent_organization: Organización a la que pertenece
+organisation.subsidiary_organizations: Organizaciones propias
+organisation.permeated_organizations: Organizaciones bajo su influencia
+organisation.location: Localización
+organisation.official_languages: Lenguas oficiales
+organisation.related_ranks_titles: Rangos y títulos relacionados
+organisation.controlled_territories: Territorios controlados
+organisation.neighboring_nations: Naciones vecinas
+organisation.manufactured_items: Objetos manufacturados
+organisation.related_items: Objetos relacionados
+organisation.organization_vehicles: Vehículos de la organización
+person.divine_domains: Dominios divinos
+organisation.divines: Divinidades
+organisation.related_ethnicities: Etnias relacionadas
+organisation.related_myths: Mitos relacionados
+person.holidays: Festividades
+person.divine_goals_aspirations: Metas divinas y aspiraciones
+person.physical_description: Descripción física
+person.general_condition: Condición física general
+person.body_features: Características corporales
+person.facial_features: Características faciales
+person.identifying_characteristics: 'Rasgos identificativos '
+organisation.notable_members: Miembros destacados
+person.holy_books_codes: Libros sagrados y códices
+person.divine_symbols_sigils: Símbolos y sellos divinos
+person.tenets_faith: Dogmas
