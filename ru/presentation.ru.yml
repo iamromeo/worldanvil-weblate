@@ -13,7 +13,7 @@ reading.action.add.description: Добавить эту статью в свой
 goto.homepage: Перейти на страницу %name%
 article.love: Люди, которым нравятся ваши статьи
 article.love.return: Давай отблагодарим их!
-article.likes.number: Этот пост лайкнуло %number% создателей миров
+article.likes.number: этот пост лайкнуло %number% создателей миров
 author.notes: Записи автора
 players.looking: Поиск игроков
 players.full: Кампания полна
