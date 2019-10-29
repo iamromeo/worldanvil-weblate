@@ -5,4 +5,4 @@ success.deletion: A kalapács parancsodra lesújtott.
 failure.deletion: Hoppá, itt valami nincs rendjén! Van rá esély, hogy amit törölni
   kívánsz még használatban van valahol?
 bbcode.embed: Másold ki és illeszd be az alább található BBCode-ot cikked bármely
-  részébe, mely engedélyezi a használatukat.
+  részébe, mely engedélyezi a használatukat!
