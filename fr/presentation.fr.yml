@@ -651,3 +651,4 @@ spell.material_components: Composants Matériels
 spell.gestures_ritual: Gestes et Rituels
 spell.related_discipline: Discipline Associée
 spell.related_school: École Associée
+spell.related_element: Élément Associé
