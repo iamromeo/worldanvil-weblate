@@ -659,3 +659,4 @@ spell.level: Niveau
 spell.restriction_applied: Restriction Appliquée
 technology.utility: Utilité
 technology.manufacturing: Fabrication
+technology.parent_technologies: Technologies Parentes
