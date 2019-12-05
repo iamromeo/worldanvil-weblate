@@ -679,3 +679,4 @@ vehicle.class: Classe
 vehicle.nickname: Surnom
 vehicle.motto: Devise
 vehicle.owner: Propriétaire
+vehicle.owning_organization: Organisation Propriétaire
