@@ -319,7 +319,7 @@ organisation.assets: Ressources
 military_conf.outcome: Issue
 organisation.foreign_relations: Relations Etrangères
 military_conf.aftermath: Conséquence
-military_conf.conflict_type: Type de Conflit
+military_conf.conflict_type: Type de conflit
 military_conf.battlefield_type: Type de Champ de Bataille
 military_conf.starting_date: Date de Début
 military_conf.ending_date: Date de Fin
