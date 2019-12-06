@@ -5,7 +5,7 @@ maps: Cartes
 articles: Articles
 history: Historique
 recent.articles: Articles récents
-uncategorized.articles: Articles non classés
+uncategorized.articles: Articles sans Catégorie
 following: Abonné à %name%
 follow: S'abonner à %name%
 follow.action.remove: NE PLUS SUIVRE
