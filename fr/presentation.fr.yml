@@ -583,10 +583,10 @@ settlement.type: Type
 settlement.population: Population
 settlement.inhabitant_demonym: Gentilé
 settlement.location_under: Lieu situé sous
-settlement.included_locations: Lieux Inclus
+settlement.included_locations: Lieux inclus
 settlement.owner_ruler: Propriétaire/Dirigeant
 settlement.owning_organization: Organisation Propriétaire
-settlement.characters_in_location: Personnages sur Site
+settlement.characters_in_location: Personnages sur site
 settlement.related_reports_primary: Rapports Associés (Principaux)
 settlement.related_reports_secondary: Rapports Associés (Secondaires)
 species.Basic Information: Information de Base
