@@ -581,7 +581,7 @@ settlement.ruined_settlement: Colonie en ruines
 settlement.alternative_names: Nom(s) Aternatif(s)
 settlement.type: Type
 settlement.population: Population
-settlement.inhabitant_demonym: Nom des Habitants
+settlement.inhabitant_demonym: Gentilé
 settlement.location_under: Lieu situé sous
 settlement.included_locations: Lieux Inclus
 settlement.owner_ruler: Propriétaire/Dirigeant
