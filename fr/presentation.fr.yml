@@ -323,7 +323,7 @@ military_conf.conflict_type: Type de conflit
 military_conf.battlefield_type: Type de champ de bataille
 military_conf.starting_date: Date de début
 military_conf.ending_date: Date de fin
-military_conf.conflict_result: Résultat du Conflit
+military_conf.conflict_result: Résultat du conflit
 military_conf.location: Localisation
 military_conf.belligerents: Belligérants
 military_conf.led_by: Dirigé par
