@@ -1,1 +1,65 @@
-{}
+username: Naudotojo vardas
+new: naujas
+title: Pavadinimas
+description: Aprašymas
+state: Būsena
+status: Būsena
+weight: Svarbumas
+help: Pagalba
+home: Pagrindinis
+class: CSS klasė
+class.name: CSS klasės pavadinimas
+allies: Sąjungininkai ir bendrininkai
+private.club: Privati ložė. Tik Gildijos nariams
+world.designer: Pasaulio kūrimo prietaisų skydelis
+meta.title.standard: Pasaulių kūrimo ir RPG kampanijų valdymas | World Anvil
+meta.description.standard: Pasaulių kūrimo ir RPG kampanijų valdymo įrankiai pasakotojams,
+  „požemių meistrams“ (DM) ir fantastikos rašytojams
+studio.homepage: Kūrėjų studijos pagrindinis puslapis
+studio.pins: 'Kūrybos studija: žemėlapio smeigtukas'
+studio.sheets: 'Kūrybos studija: lapai'
+studio.description.header: Kas yra Kūrybos studija?
+studio.description.text: Kūrybos studija yra visų pažangiausių pritaikymų namai. Gildijoje
+  turintys Didmeistrio (Grandmaster) ir aukštesnį laipsnį galės kurti ir dalintis
+  veikėjų aprašais, valdikliais (widgets), žemėlapių žymekliais ir dar daugiau.
+guild.required: Šiai funkcijai reikia Gildijos narystės!
+guild.required.master: Šiai funkcijai reikia Gildijos Meistro laipsnio.
+guild.required.grandmaster: Šiai funkcijai reikia Gildijos Didmeistrio laipsnio.
+todo.your.list: To-Do sąrašas
+todo.status.zero: Spragtelk ant pavadinimo, kad sukurtum straipsnį.
+todo.status.one: Straipsnis sukurtas, kol kas nepaviešintas ir vis dar taisomas (WIP)
+todo.status.two: Straipsnis paviešintas ir vis dar taisomas (WIP)
+todo.status.three: Straipsnis užbaigtas!
+notes: Užrašai
+moderation: Priežiūra ir moderavimas
+metadata: Metadata
+tags: Žymos
+article.template: Straipsnio ruošinys
+world: Pasaulis
+category: Kategorija
+author: 'Sukūrė:'
+creation.date: Sukūrimo data
+update.date: Paskutinio atnaujinimo data
+visibility: Matomumas
+public: Vieša
+private: Privatu
+open: Atvira
+views: Peržiūrų skaičius
+favorites: Mėgiamiausi
+comments: Komentarai
+wip: Darbas vyksta
+author.notes: Autorinės pastabos
+access.multipass: Multipass?
+access.description: Deja, bet neturi prieigos prie šio puslapio. Galbūt straipsnis
+  nėra paviešintas ir neturi leidimo peržiūrėti?
+access.return: Grįžk ten, iš kur atėjai!
+access.homepage: Į pagrindinį puslapį
+access.passcode: Reikalingas slaptažodis
+access.passcode.description: Šis puslapis yra apsaugotas slaptažodžiu. Jei žinai,
+  įvesk jį žemiau.
+access.activate: Prenumeratos aktyvavimas
+access.activate.description: Įveskite prenumeratos kodą žemiau, kad galėtum peržiūrėti
+  turinį. Paprasta!
+access.activate.subscription: Aktyvuoti prenumeratą
+access.activate.code: Įvesti aktyvavimo kodą
+access.activate.login: Prenumeratos aktyvavimui reiktų prisijungti!
