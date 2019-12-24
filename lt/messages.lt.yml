@@ -1,4 +1,8 @@
-failure.deletion: Ups! Kažkas ne taip... Galbūt tai, ką bandai ištrinti, yra vis dar
+failure.deletion: Oj! Kažkas ne taip... Galbūt tai, ką bandai ištrinti, yra vis dar
   naudojama kitur?
 bbcode.embed: Norėdamas įtraukti šį objektą, kopijuok ir įterpk šį BBCode kodą į bet
   kurią savo straipsnio dalį!
+Public: Vieša
+Private: Privatu
+success.generic: Jūsų prašymas nukaldintas sėkmingai
+success.deletion: Jūsų įsakymu sunaikinta!
