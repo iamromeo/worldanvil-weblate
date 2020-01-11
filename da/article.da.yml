@@ -1,5 +1,5 @@
 character: Karakter
-condition: Lidelse
+condition: Tilstand
 document: Dokument
 ethnicity: Etnicitet
 formation.military: Formation (Militær)
@@ -97,3 +97,5 @@ description.map: Kort kan bruges til at vise dine verdeners geografi, men også 
   en alternativ måde at navigere på
 description.secret: De skjulte sandheder, stille samtaler i de bagerste gyder, de
   rædselsfulde virkeligheder som skal afsløres
+country: Land
+religion: Religion
