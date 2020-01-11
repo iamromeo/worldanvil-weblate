@@ -9,7 +9,7 @@ search.in: Søg i
 world.create: Opret en ny verden
 world.view: Se verden
 check.out: Tjek det ud
-edit.and.play: Rediger & Spil
+edit.and.play: Rediger og Spil
 login: Log ind
 logout: Log ud
 register: Opret din konto
@@ -21,7 +21,7 @@ browse: Gennemse
 edit.map: Rediger Kort
 edit.profile: Rediger Profil
 view.profile: Se Profil
-download: Download
+download: Hent
 manage: Administrér
 save: Gem
 update: Opdater
