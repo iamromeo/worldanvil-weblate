@@ -15,7 +15,7 @@ logout: Log ud
 register: Opret din konto
 create a new...: Opret ny...
 view.map: Se kort
-delete.map: Slet Kort
+delete.map: Slet kort
 replace: Erstat
 browse: Gennemse
 edit.map: Rediger kort
