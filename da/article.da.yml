@@ -8,12 +8,12 @@ language: Sprog
 material: Materiale
 myth.legend: Myte / Legende
 military.conflict: Militær Konflikt
-location.building: Sted, Bygning
-location.geographic: Sted, Geografisk
-law: Lov (Meta/fysisk)
+location.building: Sted (Bygning)
+location.geographic: Sted (Geografisk)
+law: Naturlov
 organization: Organisation
 prose: Prosa
-profession: Profession/erhverv
+profession: Profession/Erhverv
 plot: Plot
 rank.title: Rang / Titel
 species: Arter
@@ -21,7 +21,7 @@ spell: Besværgelse
 technology.science: Teknologi / Videnskab
 tradition.ritual: Tradition / Ritual
 vehicle: Transportmiddel
-rpg.session.report: RPG session rapport
+rpg.session.report: Session Rapport
 building: Bygning
 geography: Geografi
 technology: Teknologi
@@ -48,7 +48,7 @@ description.image: De siger at et billede siger tusind ord, altså ikke for dit 
   af ord skrevet, men stadig.
 description.timeline: Tidslinjer hjælper dig med at fortælle historien i din verden
   og beskrive de begivenheder der formede den.
-location.settlement: Sted, Bosættelse
+location.settlement: Sted (Bosættelse)
 settlement: Bosættelse
 description.generic: Generelle artikler kan bruges til yderligere indhold, hjemmebryggede
   rollespilsregler, introduktioner til kapitler, historier, prosa osv.
@@ -75,7 +75,7 @@ description.category: Kategorier der hjælper dig med at organisere og opdele di
 description.historical.entry: Historiske notater eller begivenheder er de fortællinger
   som putter H'et i Historie. Det er de unikke øjeblikke og tidspunkter i udviklingen
   af din verden der formede den til hvad den er nu.
-rpg.report: RPG Rapport
+rpg.report: Session Rapport
 description.formation: Prototyper for militære formationer. Hvordan dine Legioner,
   Falankser, Sværdkæmpere, Spydmænd, Riddere ser ud. Hvilke udstyr og taktikker bruger
   de?
