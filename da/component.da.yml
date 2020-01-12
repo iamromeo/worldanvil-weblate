@@ -30,7 +30,7 @@ edit.historical.entry: Rediger Historisk Notat
 edit.image: Rediger Billede
 edit.player.character: Rediger spiller karakter
 edit.timeline: Rediger Tidslinje
-edit.map: Rediger Kort
+edit.map: Rediger kort
 edit.marker: Rediger Markør
 edit.marker.group: Rediger Markør Gruppe
 edit.note: Rediger Note
@@ -43,7 +43,7 @@ delete.historical.entry: Slet Historisk Notat
 delete.image: Slet Billede
 delete.player.character: Slet spiller karakter
 delete.timeline: Slet Tidslinje
-delete.map: Slet Kort
+delete.map: Slet kort
 delete.marker: Slet Markør
 delete.marker.group: Slet Markør Gruppe
 delete.note: Slet Note
@@ -217,3 +217,10 @@ delete.block.template: Slet Blok Skabelon
 block.template: Blok Skabelon
 block.templates: Blok Skabeloner
 list.block.templates: Blok Skabeloner Liste
+create.group: Ny gruppe
+create.code: Ny kode
+create.new.era: Opret en ny æra
+edit.group: Rediger gruppe
+character: Karakter
+item: Genstand
+spell: Besværgelse
