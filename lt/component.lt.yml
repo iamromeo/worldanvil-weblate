@@ -28,3 +28,21 @@ notes: Užrašai
 tags: Žymos
 characters: Veikėjai
 status: Būsena
+create.block: Sukurti bloką
+create.block.template: Sukurti bloko ruošinį
+create.campaign: Sukurti kampaniją
+create.category: Sukurti kategoriją
+create.historical.entry: Sukurti istorinį įvykį
+create.image: Nauja nuotrauka
+create.player.character: Kurti veikėją
+create.timeline: Kurti laiko juostą
+create.layer: Kurti sluoksnį
+create.map: Kurti žemėlapį
+create.marker: Kurti žymeklį
+create.marker.group: Kurti žymeklių grupę
+create.note: Kurti užrašą
+create.pin: Kurti žemėlapio „pin'ą“
+create.secret: Kurti paslaptį
+create.world: Kurti pasaulį
+create.article: Kurti straipsnį
+create.group: Kurti grupę
