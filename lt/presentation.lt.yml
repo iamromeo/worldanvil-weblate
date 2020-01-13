@@ -26,3 +26,55 @@ material.professions: Susijusios profesijos
 heroes: Heroes
 campaigns: Kampanijos ir operacijos
 author.notes: Autorinės pastabos
+author.characters: Veikėjai
+author.badges: Ženkleliai ir medaliai
+campaign.system: '%system_name% sistema paremtas žaidimas'
+campaign.world: Pasaulyje pavadintame %world_name%
+campaign.storytellers: Šią istoriją papasakojo
+campaign.watchlive: Žiūrėti kampaniją gyvai per Twitch
+campaign.protagonists: Protagonistai
+campaign.playedby: Žaidžiantieji
+campaign.lfp: Ieškoma žaidėjų
+campaign.full: Užpildyta
+campaign.support.patreon: Paremti šią kampaniją Patreon'e
+campaign.sessions: Sesijų sąrašas
+campaign.sessions_archive: Sesijų archyvas
+campaign.sessions.scheduled: Numatytos sesijos
+campaign.sessions.past: Praėjusios sesijos
+campaign.session.live: GYVAI
+campaign.supporting.cast: Pagalbinės rolės
+campaign.adversaries: Priešininkai
+campaign.allies: Sąjungininkai
+campaign.competitors: Konkurentai
+campaign.neutral: Neutralieji
+campaign.generic: Kiti NPC veikėjai
+campaign.setting: Vyksmo aplinka, vieta ir laikas
+campaign.explore.world: Tyrinėti %world_name%
+campaign.timelines: Laiko juostos
+campaign.maps: Žemėlapiai
+campaign.vtt: Virtualusis stalviršis
+campaign.journal.world: Pasaulis
+campaign.journal.campaign: Kampanija
+campaign.journal.player: Žaidėjas
+campaign.journal.character: Veikėjas
+campaign.journal.session.report: Sesijos ataskaita
+campaign.lore: Lore'as
+campaign.lore_and_cast: Lore'as ir
+campaign.maps_and_timelines: Žemėlapiai ir laiko juostos
+condition.causes: Priežastys
+condition.symptoms: Simptomai
+condition.treatment: Gydymas ir slauga
+condition.prognosis: Prognozė
+condition.sequela: Pasekmės
+condition.affectedgroups: Poveikio rizikos grupės
+condition.hosts: Nešiotojai
+condition.prevention: Prevencija
+condition.epidimiology: Epidemiologija
+condition.reception: Visuomenės požiūris
+condition.origin: Kilmė
+condition.cycle: Ciklas
+condition.rarity: Retumas
+condition.species: Paveikiamos rūšys
+document.purpose: Tikslas, paskirtis
+document.structure: Dokumento struktūra
+document.clauses: Struktūra
