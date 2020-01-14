@@ -5,7 +5,7 @@ description: Aprašymas
 state: Būsena
 status: Būsena
 weight: Svarbumas
-help: Pagalba
+help: Reikia pagalbos?
 home: Pagrindinis
 class: CSS klasė
 class.name: CSS klasės pavadinimas
@@ -18,7 +18,7 @@ meta.description.standard: Pasaulių kūrimo ir RPG kampanijų valdymo įrankiai
 studio.homepage: Kūrėjų studijos pagrindinis puslapis
 studio.pins: 'Kūrybos studija: žemėlapio smeigtukas'
 studio.sheets: 'Kūrybos studija: lapai'
-studio.description.header: Kas yra Kūrybos studija?
+studio.description.header: Kas yra Kūrybos studija
 studio.description.text: Kūrybos studija yra visų pažangiausių pritaikymų namai. Gildijoje
   turintys Didmeistrio (Grandmaster) ir aukštesnį laipsnį galės kurti ir dalintis
   veikėjų aprašais, valdikliais (widgets), žemėlapių žymekliais ir dar daugiau.
@@ -26,7 +26,7 @@ guild.required: Šiai funkcijai reikia Gildijos narystės!
 guild.required.master: Šiai funkcijai reikia Gildijos Meistro laipsnio.
 guild.required.grandmaster: Šiai funkcijai reikia Gildijos Didmeistrio laipsnio.
 todo.your.list: To-Do sąrašas
-todo.status.zero: Spragtelk ant pavadinimo, kad sukurtum straipsnį.
+todo.status.zero: Spragtelk ant pavadinimo, kad sukurtum straipsnį!
 todo.status.one: Straipsnis sukurtas, kol kas nepaviešintas ir vis dar taisomas (WIP)
 todo.status.two: Straipsnis paviešintas ir vis dar taisomas (WIP)
 todo.status.three: Straipsnis užbaigtas!
@@ -37,7 +37,7 @@ tags: Žymos
 article.template: Straipsnio ruošinys
 world: Pasaulis
 category: Kategorija
-author: 'Sukūrė:'
+author: Sukūrė
 creation.date: Sukūrimo data
 update.date: Paskutinio atnaujinimo data
 visibility: Matomumas
@@ -49,9 +49,9 @@ favorites: Mėgiamiausi
 comments: Komentarai
 wip: Darbas vyksta
 author.notes: Autorinės pastabos
-access.multipass: Multipass?
-access.description: Deja, bet neturi prieigos prie šio puslapio. Galbūt straipsnis
-  nėra paviešintas ir neturi leidimo peržiūrėti?
+access.multipass: Multi-pass?
+access.description: Deja, bet neturi prieigos prie šio puslapio. Gali būti, jog straipsnis
+  nėra paviešintas arba neturi leidimo jo peržiūrėti.
 access.return: Grįžk ten, iš kur atėjai!
 access.homepage: Į pagrindinį puslapį
 access.passcode: Reikalingas slaptažodis
