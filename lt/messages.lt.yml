@@ -4,5 +4,5 @@ bbcode.embed: Norėdamas įtraukti šį objektą, kopijuok ir įterpk šį BBCod
   kurią savo straipsnio dalį!
 Public: Vieša
 Private: Privatu
-success.generic: Jūsų prašymas nukaldintas sėkmingai
-success.deletion: Jūsų įsakymu sunaikinta!
+success.generic: Jūsų prašymas nukaldintas sėkmingai.
+success.deletion: Jūsų įsakymu sunaikinta.
