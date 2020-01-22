@@ -67,7 +67,7 @@ condition.treatment: Gydymas ir slauga
 condition.prognosis: Prognozė
 condition.sequela: Pasekmės
 condition.affectedgroups: Poveikio rizikos grupės
-condition.hosts: Nešiotojai
+condition.hosts: Nešiotojai ir perdavėjai
 condition.prevention: Prevencija
 condition.epidimiology: Epidemiologija
 condition.reception: Visuomenės požiūris
@@ -77,4 +77,47 @@ condition.rarity: Retumas
 condition.species: Paveikiamos rūšys
 document.purpose: Tikslas, paskirtis
 document.structure: Dokumento struktūra
-document.clauses: Struktūra
+document.clauses: Skirsniai, tezės
+condition.transmission: Sukelėjai ir perdavėjai
+document.caveats: Įspėjimai
+document.references: Nuorodos, aliuzijos
+document.publication.status: Leidinio būsena
+document.legal.status: Teisinis statusas
+document.historical.details: Istorinės detalės
+document.background: Kontekstas
+document.history: Istorija
+document.public.reaction: Visuomenės reakcija
+document.legacy: Paveldas, palikimas
+document.term: Terminas
+document.modal.read.document: Skaityti dokumentą
+document.modal.close: Uždaryti
+document.article.medium: Būdas, mediumas
+document.article.authoringdate: Sukūrimo data
+document.article.ratificationdate: Ratifikavimo data
+document.article.expirationdate: Galiojimo data
+document.article.myth: Mitas
+document.article.location: Vieta
+document.article.authors: Autoriai
+document.article.signatoriescharacters: Pasirašiusieji, signatarai
+document.article.signatoriesorganizations: Pasirašiusios organizacijos
+ethnicity.naming.traditions: Vardo suteikimo tradicijos
+ethnicity.feminine.names: Moteriški vardai
+ethnicity.masculine.names: Vyriški vardai
+ethnicity.unisex.names: Vardai tinkantys visoms lytims
+ethnicity.family.names: Pavardės
+ethnicity.other.names: Kiti vardai
+ethnicity.culture: Kultūra
+ethnicity.major.lang.groups.dialects: Didžiosios kalbų grupės ir dialektai
+ethnicity.culture.cultural.heritage: Kultūra ir kultūrinis palikimas
+ethnicity.shared.customary.codes.values: Visuotinai priimti paprotiniai principai
+  ir vertybės
+ethnicity.Average.technological.level: Vidutinis technologinis pažangumas
+ethnicity.common.etiquette.rules: Įprastos etiketo taisyklės
+ethnicity.common.dress.code: Įprasta apranga
+ethnicity.art.architecture: Menas ir architektūra
+ethnicity.common.customs.traditions.rituals: Įprasti papročiai, tradicijos ir ritualai
+ethnicity.birth.baptismal.rites: Gimimo ir krikšto apeigos
+ethnicity.comingofage.rites: Iniciacijos ritualai
+ethnicity.funerary.memorial.Customs: Laidojimo ir atminimo papročiai
+ethnicity.common.taboos: Dažnai pasitaikantys tabu
+ethnicity.common.myths.legends: Dažnos legendos ir mitai
