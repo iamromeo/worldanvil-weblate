@@ -1,1 +1,11 @@
-{}
+rpg.resources: RPG Ressurser
+rpg.resources.welcome.header: Velkommen til World Anvils RPG Ressursside
+rpg.resources.welcome.intro1: Det er her alle ressursene laget av World Anvil Samfunnet
+  og annet innhold fra SRDer (System Referanse Dokumenter) befinner seg!
+rpg.resources.welcome.intro2: Hver "blokk" (statistikk-blokk) har en BBcode som du
+  kan kopiere og bruke i din verden eller bruke mens du spiller. Alle vertsbaserte
+  ressurser her er enten under lisens eller frivillig delt av forfatterene.
+rpg.world.systems: Dine Verdens System(er)
+rpg.systems.list: RPG System Liste
+rpg.add.to.world: Legg til dette systemet i din Verden
+rpg.statblock.copy: Lag en kopi av denne Statistikk-Blokken
