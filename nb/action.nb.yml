@@ -10,8 +10,21 @@ login: Logg inn
 logout: Logg ut
 register: Opprett konto
 create a new...: Opprett ny...
-edit.map: Endre kart
+edit.map: Rediger Kart
 view.map: Vis kart
-delete.map: Slett kart
+delete.map: Slett Kart
 edit.profile: Endre profil
 view.profile: Vis profil
+manage: Administrer
+save: Lagre
+update: Oppdater
+view: Vis
+copy: Kopier
+dismiss: Avvis
+create: Opprett
+replace: Erstatt
+check.out: Utforsk
+edit.and.play: Rediger & Spill
+browse: Bla Gjennom
+download: Last ned
+copy.to.clipboard: Klikk for å kopiere til din utklippstavle
