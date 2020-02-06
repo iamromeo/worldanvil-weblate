@@ -1,3 +1,201 @@
 campaign.maps: Kart
 campaign.journal.player: Spiller
 campaign.journal.character: Karakter
+world.anvil.header: World Anvil Verktøyplattform og Samfunn for Verdensbygging
+world.anvil.description: World Anvil er en plattform og et samfunn for verdensbygging
+  for forfattere, RPG historiefortellere og de som bare elsker verdensbygging
+account.create: Opprett din Konto
+created.by: Opprettet av
+editorial.team: Redaksjons Team
+writers.team: Skribent Team
+powered.by: Drives av
+in: i
+timeline: Tidslinje
+timelines: Tidslinjer
+toc: Innholdsfortegnelse
+followers: Følgere
+followers.all: Se alle følgere
+campaigns: Kampanjer
+heroes: Helter
+secrets: Hemmeligheter
+maps: Kart
+image.gallery: Bildegalleri
+articles: Artikler
+recent.articles: Nylige Artikler
+featured.articles: Utvalgte Artikler
+uncategorized.articles: Ukategoriserte Artikler
+tweets.by: Tweets fra
+twitch.live: Se live på Twitch
+support.patreon: Støtt prosjektet på Patreon
+support.patreon.user: Støtt %username% på Patreon
+support.kofi.user: Kjøp %username% en kaffe!
+join.discord.world: Bli med i %worldname% sin Discord!
+following: Følger %name%
+follow: Følg %name%
+follow.action.remove: SLUTT Å FØLGE
+follow.action.unfollow.world: Slutt å følge Verden
+follow.action.add: FØLG
+follow.action.add.description: Følg for å få alle artiklene skrevet av forfatterene
+  i denne verdenen på streamen din!
+like.action.remove: FJERN LIKE
+like.action.add: LIK
+like.action.add.description: La forfatteren vite at du likte arbeidet deres. Denne
+  artikkelen blir IKKE lagt til i din se-senere liste
+reading.action.remove: FJERN FRA LESELISTE
+reading.action.add: LEGG TIL LESELISTE
+reading.action.add.description: Legg til denne artikkelen i din les-senere/lagrede
+  artikler liste. Forfatteren vil IKKE bli varslet.
+alternativenames: Alternative Navn
+article.love: Folk som liker artikkelen din
+article.love.return: Gi noe kjærlighet i retur!
+article.likes.number: dette innlegget er likt av %number% verdensbyggere
+article.visibility: Denne artikkelen er synlig for disse abonnentgruppene
+author.notes: Forfatterens Notater
+goto.homepage: Gå til %name% sin Hjemmeside
+history: Historie
+players.looking: Ser etter Spillere
+players.full: Denne Kampanjen er Full
+type: Type
+authors: Forfattere
+author.page: Siden til forfatteren
+author.since: Medlem Siden
+author.interests: Interesser & Hobbier
+author.movies: Favoritt Filmer
+author.tv: Favoritt TV Serier
+author.books: Favoritt Bøker
+author.writers: Favoritt Forfattere
+author.games: Favoritt Spill
+author.comments: Kommentarer & Tilbakemeldinger
+author.worlds: Verdener
+author.characters: Karakterer
+author.badges: Merker & Medaljer
+campaign.system: Et %system_name% spill
+campaign.world: I verdenen %world_name%
+campaign.storytellers: Denne historien er fortalt av
+campaign.watchlive: Se kampanjen live på Twitch
+campaign.protagonists: Hovedpersonene
+campaign.playedby: Spilt av
+campaign.lfp: Ser etter Spillere
+campaign.full: Full
+campaign.support.patreon: Støtt denne Kampanjen på Patreon
+campaign.sessions: Liste av Økter
+campaign.sessions_archive: Arkiv for Økter
+campaign.sessions.scheduled: Planlagte Økter
+campaign.sessions.past: Tidligere Økt
+campaign.session.live: LIVE
+campaign.supporting.cast: Øvrig Rollebesetning
+campaign.adversaries: Motstandere
+campaign.allies: Allierte
+campaign.competitors: Konkurrenter
+campaign.neutral: Nøytrale Parter
+campaign.generic: Andre NPCer
+campaign.setting: Settingen
+campaign.explore.world: Utforsk verdenen %world_name%
+campaign.timelines: Tidslinjer
+campaign.vtt: Virtuell Tabletop
+campaign.journal.world: Verden
+campaign.journal.campaign: Kampanje
+campaign.journal.session.report: Øktrapport
+campaign.lore: Kjennskap
+campaign.lore_and_cast: Kjennskap & Øvrig Rollebesetning
+campaign.maps_and_timelines: Kart & Tidslinjer
+condition.transmission: Overføring & Vektorer
+condition.causes: Årsaker
+condition.symptoms: Symptomer
+condition.treatment: Behandling
+condition.prognosis: Prognose
+condition.sequela: Sequela
+condition.affectedgroups: Berørte Grupper
+condition.hosts: Verter & Bærere
+condition.prevention: Forebygging
+condition.epidimiology: Epidemiologi
+condition.reception: Kulturelt Mottak
+condition.origin: Opprinnelse
+condition.cycle: Syklus
+condition.rarity: Sjeldenhet
+condition.species: Berørte Arter
+document.purpose: Formål
+document.structure: Dokumentstruktur
+document.clauses: Klausuler
+document.caveats: Advarsler
+document.references: Referanser
+document.publication.status: Publikasjonsstatus
+document.legal.status: Lovlig status
+document.historical.details: Historiske detaljer
+document.background: Bakgrunn
+document.history: Historie
+document.public.reaction: Offentlig Reaksjon
+document.legacy: Ettermæle
+document.term: Betingelse
+document.modal.read.document: Les Dokumentet
+document.modal.close: Lukk
+document.article.medium: Medium
+document.article.authoringdate: Forfatterdato
+document.article.ratificationdate: Ratifikasjonsdato
+document.article.expirationdate: Utløpsdato
+document.article.myth: Myte
+document.article.location: Sted
+document.article.authors: Forfattere
+document.article.signatoriescharacters: Signatører (Karakterer)
+document.article.signatoriesorganizations: Signatører (Organisasjoner)
+ethnicity.naming.traditions: Navnende Tradisjoner
+ethnicity.feminine.names: Feminine navn
+ethnicity.masculine.names: Maskuline navn
+ethnicity.unisex.names: Unisex navn
+ethnicity.family.names: Familie navn
+ethnicity.other.names: Andre navn
+ethnicity.culture: Kultur
+ethnicity.major.lang.groups.dialects: Større språkgrupper og dialekter
+ethnicity.culture.cultural.heritage: Kultur og kulturarv
+ethnicity.shared.customary.codes.values: Delte vanlige koder og verdier
+ethnicity.Average.technological.level: Gjennomsnittlig teknologisk nivå
+ethnicity.common.etiquette.rules: Vanlige Etikettregler
+ethnicity.common.dress.code: Vanlig Kleskode
+ethnicity.art.architecture: Kunst og Arkitektur
+ethnicity.common.customs.traditions.rituals: Vanlige Skikker, tradisjoner og ritualer
+ethnicity.birth.baptismal.rites: Fødsels- og Dåpsriter
+ethnicity.comingofage.rites: Myndighets Ritualer
+ethnicity.funerary.memorial.Customs: Skikker rundt Begravelser og Minnesmerking
+ethnicity.common.taboos: Vanlige tabuer
+ethnicity.common.myths.legends: Vanlige Myter og Legender
+ethnicity.historical.figures: Historiske figurer
+ethnicity.ideals: Idealer
+ethnicity.beauty.ideals: Skjønnhetsidealer
+ethnicity.gender.ideals: Kjønnsidealer
+ethnicity.courtship.ideals: Frieri Idealer
+ethnicity.relationship.ideals: Forholdsidealer
+ethnicity.major.organizations: Store organisasjoner
+formation.manpower: Styrke
+formation.equipment: Utstyr
+formation.weaponry: Våpen
+formation.vehicles: Kjøretøy
+formation.structure: Struktur
+formation.tactics: Taktikk
+formation.training: Trening
+formation.logistics: Logistikk
+formation.logistical.support: Logistisk Støtte
+formation.auxilia: Auxilia
+formation.upkeep: Vedlikehold
+formation.recruitment: Rekruttering
+formation.history: Historie
+formation.historical.loyalties: Historiske lojaliteter
+formation.sidebar.type: Type
+formation.sidebar.founding: Grunnleggelse
+formation.sidebar.dissolution: Oppløsning
+formation.sidebar.overall.training.level: Generelt treningsnivå
+formation.sidebar.assumed.veterancy: Antatt Veteranskap
+formation.sidebar.parent.formation: Øvrig Formasjon
+formation.sidebar.usedby: Brukt av
+formation.sidebar.ranks.titles: Rang & Titler
+item.inner.workings: ' Mekanikk & Hvordan det funker'
+item.manufacturing.process: Produksjonsprosess
+item.significance: Betydning
+item.rpg.datasheet: RPG Dataskjema
+item.sidebar.itemtype: Gjenstandstype
+item.sidebar.subtype.model: Subtype / Modell
+item.sidebar.usedby: Brukt av
+item.sidebar.manufacturer: Produsent
+item.sidebar.related.technologies: Relaterte Teknologier
+item.sidebar.related.ethnicities: Relaterte etnisiteter
+item.sidebar.owning.organization: Overordnet Organisasjon
+landmark.entries: Oppføringer
