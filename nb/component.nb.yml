@@ -4,4 +4,267 @@ create.block.template: Opprett Blokk Mal
 item: Gjenstand
 spell: Trylleformel
 create.author.profile: Opprett Profil
-create.campaign: Lag Kampanje
+create.campaign: Opprett Kampanje
+create.category: Opprett Kategori
+create.historical.entry: Opprett Historisk Oppføring
+create.image: Opprett Bilde
+create.player.character: Opprett Spillerkarakter
+create.timeline: Opprett Tidslinje
+create.layer: Opprett Lag
+create.map: Opprett Kart
+create.marker: Opprett Markør
+create.marker.group: Opprett Markørgruppe
+create.note: Opprett Notat
+create.pin: Opprett Kartnål
+create.secret: Opprett Hemmelighet
+create.world: Opprett Verden
+create.article: Opprett Artikkel
+create.group: Opprett Gruppe
+create.code: Opprett Kode
+create.new.block: Opprett en ny Blokk
+create.new.block.template: Opprett en nytt Blokk Mal
+create.new.campaign: Opprett en ny Kampanje
+create.new.category: Opprett en ny Kategori
+create.new.timeline: Opprett en ny Tidslinje
+create.new.historical.entry: Opprett et nytt Historisk Oppføring
+create.new.era: Opprett en ny Æra
+create.new.image: Opprett et nytt Bilde
+create.new.player.character: Opprett en ny Spillerkarakter
+create.new.layer: Opprett et nytt Lag
+create.new.map: Opprett et nytt Kart
+create.new.marker: Opprett en ny Markør
+create.new.marker.group: Opprett en ny Markørgruppe
+create.new.note: Opprett et nytt Notat
+create.new.pin: Opprett en ny Kartnål
+create.new.secret: Opprett en ny Hemmelighet
+create.new.world: Opprett en ny Verden
+edit.article: Rediger Artikkel
+edit.author.profile: Rediger Profil
+edit.block: Rediger Blokk
+edit.block.template: Rediger Blokk Mal
+edit.campaign: Rediger Kampanje
+edit.category: Rediger Kategori
+edit.historical.entry: Rediger Historisk Oppføring
+edit.image: Rediger Bilde
+edit.player.character: Rediger Spillerkarakter
+edit.timeline: Rediger Tidslinje
+edit.layer: Rediger Lag
+edit.map: Rediger Kart
+edit.marker: Rediger Markør
+edit.marker.group: Rediger Markørgruppe
+edit.note: Rediger Notat
+edit.pin: Rediger Kartnål
+edit.secret: Rediger Hemmelighet
+edit.world: Rediger Verden
+edit.group: Rediger Gruppe
+delete.author.profile: Slett Profil
+delete.block: Slett Blokk
+delete.block.template: Slett Blokkmal
+delete.campaign: Slett Kampanje
+delete.category: Slett Kategori
+delete.historical.entry: Slett Historisk Oppføring
+delete.image: Slett Bilde
+delete.player.character: Slett Spillerkarakter
+delete.timeline: Slett Tidslinje
+delete.layer: Slett Lag
+delete.map: Slett Kart
+delete.marker: Slett Markør
+delete.marker.group: Slett Markørgruppe
+delete.note: Slett Notat
+delete.pin: Slett Markørnål
+delete.secret: Slett Hemmelighet
+delete.world: Slett Verden
+view.world: Vis Verden
+delete.group: Slett Gruppe
+deete.code: Slett Kode
+author.profile: Profil
+block: Blokk
+block.template: Blokkmal
+campaign: Kampanje
+category: Kategori
+circle: Sirkel
+line: Linje
+historical.entry: Historisk Oppføring
+image: Bilde
+player.character: Spillkarakter
+timeline: Tidslinje
+layer: Lag
+label: Merkelapp
+link: Åpner en Ny Side
+map: Kart
+marker: Markør
+marker.group: Markørgruppe
+note: Notat
+polygon: Polygon
+popup: Åpner en Popup
+pin: Kartnåler
+secret: Hemmelighet
+tag: Etikett
+world: Verden
+group: Gruppe
+subscriber: Abonnent
+world.summary: Sammendrag
+world.explore: Utforsk
+articles: Artikler
+blocks: Blokker
+block.templates: Blokkmaler
+campaigns: Kampanjer
+categories: Kategorier
+historical.entries: Historiske Oppføringer
+images: Bilder
+player.characters: Spillerkarakterer
+layers: Lag
+maps: Kart
+markers: Markører
+marker.groups: Markørgrupper
+timelines: Tidslinjer
+events: Historiske Hendelser
+calendars: Kalendere
+notes: Notater
+secrets: Hemmeligheter
+tags: Tagger
+worlds: Verdener
+groups: Grupper
+subscribers: Abonnementer
+list.articles: Liste av Artikler
+list.blocks: Liste av Blokker
+list.characters: Liste av Karakterer
+list.block.templates: Liste av Blokkmaler
+list.campaigns: Liste av Kampanjer
+list.categories: Liste av Karegorier
+list.historical.entries: Liste av Historiske Oppføringer
+list.images: Liste av Bilder
+list.player.characters: Liste av Spillerkarakterer
+list.maps: Liste av Kart
+list.markers: Liste av Markører
+list.marker.groups: Liste av Markørgrupper
+list.layers: Liste av Lag
+list.timelines: Liste av Tidslinjer
+list.notes: Liste av Notater
+list.pins: Liste av Kartnåler
+list.secrets: Liste av Hemmeligheter
+list.worlds: Liste av Verdener
+access: Tilgang
+characters: Karakterer
+followers: Følgere
+list.subscribers: Abonnementer
+related.category: Relatert Kategori
+related.location: Relatert Sted
+related.map: Relatert Kart
+related.organization: Relatert Organisasjon
+related.article: Relatert Artikkel
+related.history: Relatert Historisk Oppføring
+BETA: BETA
+position: Posisjon/Vekt
+position.description: Vekt er et tall som definerer rekkefølgen som et objekt vil
+  vises i en liste av disse objektene. Jo høyere tallet er, jo høyere vil objektet
+  vises.
+status: Status
+status.description: Sett et objekt som offentlig slik at alle kan se den. Private
+  objekter er kun synlig for deg og medforfattere og abonnementer med riktig tillatelse
+  til verdenen din
+access.description: Sett innlegget ditt som offentlig slik at alle kan se den. Private
+  innlegg er kun synlig for deg og medforfattere av verdenen din
+subscriber.groups: Abonnementgrupper
+subscriber.groups.description: Velg en eller flere grupper som du vil gi tilgang til
+  denne artikkelen. Dette påvirker kun private artikler.
+display: Visning
+display.homepage: Vis dette kartet på Verdenens hjemmeside.
+tags.description: Bruk komma for å skille dine etiketter. Å legge til etiketter på
+  hvilken som helst del av innholdet vil hjelpe deg å søke etter det med å bruke en
+  av etikettene.
+tag.description: Bruk komma for å skille dine etiketter. Å legge til etiketter på
+  hvilken som helst del av innholdet vil hjelpe deg å søke etter det med å bruke en
+  av etikettene.
+map.presentation: Åpne Presentasjonsmodus
+map.settings: Kartinnstillinger
+map.image: Hovedbilde for Kart
+map.image.secondary: Bildelag
+map.update.image: Oppdater Hovedbilde for Kart
+map.edit.details: Rediger Kartdetaljer
+map.image.details: Forventede dimensjoner for filen er
+map.legend: Legende
+map.compass: Bilde av Kompassrose
+map.compass.description: Velg et bilde som skal vises som Kompassrosen på kartet ditt
+  nederst til høyre på kartet. Bruk et bilde med noe gjennomsiktighet vil gi mye bedre
+  visuelt resultat.
+map.thumbnail: Miniatyrbilde
+map.zoom.initial: Opprinnelig Zoomnivå
+map.zoom.initial.description: Sett hvor zoomet inn kartet skal være når det først
+  lastes. (0 er Standard)
+map.zoom.min: Minimum Tillatt Zoom
+map.zoom.min.description: Hvor langt du kan zoome ut. Dette er en negativ multiplikator.
+  Jo mindre tallet er jo lenger kan du zoome ut. (-2 er Standard)
+map.zoom.max: Maksimal Tillatt Zoom
+map.zoom.max.description: Hvor langt inn du kan zoome. 0 betyr zoome til 1:1 dimensjon
+  av kartet. Alt over 0 vil si at bildet vil begynne å bli uklart. (0 er Standard)
+map.center.y: Opprinnelig Midtpunkt (Y Akse)
+map.center.x: Opprinnelig Midtpunkt (X Akse)
+map.center.description: De opprinnelige koordinatene i midten av kartet når det først
+  lastes. Normalt regnes dette ut til sentrum av kartet. Nederst til venstre på kartet
+  ditt er punkt 0:0.
+map.legend.description: Dette vil dukke opp nederst til venstre på kartet. Bruk det
+  til å lage en tegnforklaring for markører, skriv en kort beskrivelse eller gi hvilken
+  som helst annen kontekst.
+map.marker.style: Stil
+map.marker.color: Farge
+map.marker.longitude: Lengdegrad
+map.marker.latitude: Breddegrad
+map.marker.lng: Lng
+map.marker.lat: Bre
+map.marker.height: Høyde
+map.marker.new: Ny Stedsmarkør
+map.marker.drag: Dra meg for å sette koordinatene til den nye Markøren
+map.marker.fill: Fantastisk! Fyll inn skjemaet nedenfor nå!
+map.marker.label: Etikett Tekst
+map.marker.label.description: Dette er teksten som vil dukke opp på kartet for denne
+  Etiketten.
+map.display.homepage: Vis dette kartet på Verdenens hjemmeside.
+map.marker.choice: Velg og fyll bare en av følgene alternativer.
+map.marker.radius: Sirkelradius
+map.marker.radius.description: Radius av sirkel i piksler. Fyll inn dette kun hvis
+  du vil lage en sirkel og ikke et polygon.
+map.marker.link.description: Hvis du gjør denne markøren til en markør for direktelenke,
+  når den klikkes på, vil den navigere brukeren direkte til målsiden.
+map.marker.link.relation.description: Velg en av relasjonene nedenfor som direktelenken
+  skal lenke til. Hvis du velger mer enn en, vil kun den første brukes.
+map.marker.polygonPoints: Polygon Punkter
+map.marker.polygonPoints.description: Lengdegrad og breddegrad for hvert punkt som
+  et par atskilt med komma og atskilt av hverandre med et mellomrom. For eksempel
+  20,20 30,30 50,45. Tips! Bruk den røde "nytt punkt"-nålen for å få Lng/Bre.
+map.marker.colorOutline: Konturfarge
+map.marker.colorOutline.description: Fargen på omrisset av en sirkel eller polygon.
+  Du kan bruke CSS-farger som blå, rød, gul osv. ELLER hex-koden til fargen inkludert
+  hash-tegnet foran strengen
+map.marker.colorFill: Fyll Farge
+map.marker.colorFill.description: Fargen på området som fyller sirkelen eller polygon.
+  Du kan bruke CSS-farger som blå, rød, gul osv. ELLER hex-koden til fargen inkludert
+  hash-tegnet foran strengen
+map.marker.opacityOutline: Kontur Opasitet
+map.marker.opacityOutline.description: Opasitets % av konturen. Fra 0 til 100% (f.eks.
+  50)
+map.marker.opacityFill: Fyll Opasitet
+map.marker.opacityFill.description: Opasitets % av området som fyller sirkelen eller
+  polygon. Fra 0 til 100% (f.eks. 50)
+map.marker.group.description: Markørgrupper lar deg organisere markørene og kartlagene
+  dine i kategorier som du kan skru av og på og administrere synligheten deres (hvis
+  du er et guild member). Som med lag så kan disse brukes til å vise forskjellig informasjon
+  eller hjemme et sett/gruppe av markører for leserene dine hvis du ønsker det.
+map.marker.group.onload: Opprinnelig Gruppesynlighet
+map.marker.group.onload.description: Gjør denne gruppen synlig i løpet av den initielle
+  lastingen av kartet
+map.layers.max: Du har nådd det maksimale antall lag du kan ha på kontoen din! Hvis
+  du vil ha flere lag på kartene dine, kan du vurdere å oppgradere! <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
+map.marker.linePoints: Linjepunkter
+map.marker.linePoints.description: Lengdegrad og breddegrad for hvert punkt som et
+  par atskilt med komma og atskilt av hverandre med et mellomrom. For eksempel 20,20
+  30,30 50,45. Tips! Bruk den røde "nytt punkt"-nålen for å få Lng/Bre.
+map.marker.lineColor: Linjefarge
+map.marker.lineColor.description: Fargelinjen. Du kan bruke CSS-farger som blå, rød,
+  gul osv. ELLER heksekoden til fargen inkludert hash-tegnet foran strengen
+map.marker.lineWeight: Linjevekt
+map.marker.lineWeight.description: Vekten i relative piksler på linja.
+map.marker.lineOpacity: Linje Opasitet
+map.marker.lineOpacity.description: Opasitets % av Linja. Fra 0 til 100% (f.eks. 50)
+map.marker.lineDash: Line Dash Array
