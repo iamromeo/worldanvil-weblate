@@ -2,13 +2,66 @@ new: nye
 title: Tittel
 description: Beskrivelse
 status: Status
-help: Hjelp
+help: Trenger du Hjelp?
 home: Hjem
 class: CSS-klasse
 class.name: CSS-klassenavn
 allies: Allierte & Partnere
 private.club: Privat klubb. Kun for Guild-medlemmer
-meta.title.standard: Verdensbygging og Rollespillkampanjestyring | World Anvil
-meta.description.standard: Verdensbyggings- og Rollespillkampanjestyringsverktøy for
-  alle Historiefortellere, Spilledere og Forfattere
+meta.title.standard: Verdensbygging og RPG Kampanjestyring | World Anvil
+meta.description.standard: Verdensbyggings- og RPG Kampanjestyringsverktøy for Historiefortellere,
+  Dungeon Mastere og Forfattere
 username: Brukernavn
+state: Tilstand
+world.designer: Verdensdesignpanel
+studio.homepage: Creator's Studio Hjemmeside
+studio.pins: 'Creator''s Studio: Nåler'
+studio.sheets: 'Creator''s Studio: Skjema'
+studio.description.header: Hva er Creator's Studio
+studio.description.text: Creator's Studio er hjemmet til alle avanserte egendefinering
+  i World Anvil. Grandmasters, og over, kan opprette og dele Karakterskjema, Widgets,
+  Egendefinerte Kartmarkører og mye mer etterhvert som vi vokser.
+guild.required: Denne funksjonaliteten krever et Guild Membership!
+guild.required.master: Denne funksjonaliteten krever et Guild Membership av Master
+  eller over.
+guild.required.grandmaster: Denne funksjonaliteten krever et Guild Membership av Grandmaster
+  eller over.
+todo.your.list: Gjøremålsliste
+todo.status.zero: Klikk på tittelen for å Opprette Artikkelen!
+todo.status.one: Artikkelen er opprettet, Upublisert og fortsatt Pågående Arbeid
+todo.status.two: Artikkelen er Publisert og fortsatt Pågående Arbeid
+todo.status.three: Artikkelen er Fullført!
+notes: Notater
+moderation: Moderering
+metadata: Metadata
+tags: Tagger
+article.template: Artikkelmal
+world: Verden
+category: Kategori
+author: Forfatter
+creation.date: Opprettelsesdato
+update.date: Siste Oppdateringsdato
+visibility: Synlighet
+public: Offentlig
+private: Privat
+open: Åpen
+views: Visninger
+favorites: Favoritter
+comments: Kommentarer
+wip: Pågående Arbeid
+author.notes: Forfatterens Notater
+access.multipass: Multipass?
+access.description: Beklager men du har ikke rettigheter til denne siden. Dette skyldes
+  at atrikkelen er privat og du har ikke de nødvendige rettighetene til å vise den.
+access.return: Gå tilbake dit du kom fra!
+access.homepage: Gå til Hjemmeside
+access.passcode: Passord Påkrevd
+access.passcode.description: Denne siden er passordbeskyttet! Dersom du har passordet,
+  skriv det inn under for å få tilgang til innholdet.
+access.activate: Aktivering av Abonnement
+access.activate.description: Skriv inn din Abonnementskode under for å få tilgang
+  til innholdet. Det er så enkelt!
+access.activate.subscription: Aktiver Abonnement
+access.activate.code: Fyll inn Aktiveringskode
+access.activate.login: Du må være innlogget for å aktivere ditt abonnement!
+weight: Vekt
