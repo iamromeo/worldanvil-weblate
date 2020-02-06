@@ -1,25 +1,25 @@
-article.generic: Artikkel, generell
+article.generic: Generell Artikkel
 condition: Tilstand
 document: Dokument
 ethnicity: Etnisitet
-formation.military: Formasjon (Militær)
+formation.military: Militær Enhet
 item: Gjenstand
 language: Språk
 material: Materiale
 myth.legend: Myte / Legende
-military.conflict: Militær Konflikt
+military.conflict: Konflikt
 location.building: Sted, Bygning
 building: Bygning
 location.geographic: Sted, Geografisk
 geography: Geografi
 location.settlement: Sted, Bosetning
 settlement: Bosetning
-law: Lov (Meta/Fysisk)
+law: Naturlov
 organization: Organisasjon
 prose: Prosa
 profession: Yrke
 plot: Plott
-rank.title: Rang / Tittel
+rank.title: Tittel
 species: Art
 technology.science: Teknologi / Vitenskap
 technology: Teknologi
@@ -40,3 +40,6 @@ description.formation: Prototyper for militære formasjoner. Hvordan ser dine le
 description.generic: Generelle artikler kan brukes til ytterligere innhold, hjemmelagde
   regler til rollespill, introduksjoner til kapitler, fortellinger, prosa osv.
 character: Karakter
+spell: Trylleformel
+rpg.session.report: Session Rapport
+rpg.report: Session Rapport
