@@ -54,3 +54,46 @@ description.language: Måtene som intelligente arter kommuniserer i din verden o
   ideer og tanker.
 description.material: Råvarer, Handelressurser, Kjemiske elementer. Alt fra Mythril
   og Adamantium til Uran og Unobtainium 2000.
+description.conflict: Kriger, Slag, Beleiringer og Trefninger. Vanligvis det som skjer
+  når to sider møter hverandre med spisse pinner.
+description.legend: Kjennskap i din verden. Tenk Kong Arthur, krokodiller i kloakkene
+  i New York eller Bigfoot.
+description.organization: Kongedømmer, Baronier, Gudskirker (organisert religion),
+  Hemmelige samfunn, Hærer av hensynsløse leiesoldater, Ridder og Magiske ordrer.
+  Territoriale og Ikke-territoriale.
+description.profession: Fra rørleggeren til den ekstravagante hackeren, eller sverd
+  for utleie definerer yrker, smaken av verden, og menneskene i den.
+description.prose: Haiku, dikt, noveller, kapitler i bøkene dine vist tydelig og med
+  fokus på lesbarhet.
+description.rank: Konge av Endor, Første borger i Føderasjonen, Admiral av Okabus
+  Føderale Flåte, Erkemagi av Loboutas etc.
+description.report: Rapporter for rollespill-session, før notater på hva som skjedde
+  under økten, ha et utgangspunkt når du organiserer neste sesjon.
+description.settlement: Alt fra de minste landsbyer til de travleste og de mest gigantiske
+  romstasjonene
+description.species: Dyr, Planter, Sansende eller Intelligente. Mennesker, Alver og
+  Romvesener inkludert
+description.spell: Magiske besvergelser, ritualer, Psykiske krefter, Superkrefter!
+description.plot: Historieplott er dine Overordnede Plott, Akter, Scener, Rytmer eller
+  hva enn du velger å kaller dine historiedeler. Bruk dem til prosa eller å skisse
+  din rollespillkampanje.
+description.technology: Vitenskap og Teknologi. Fra oppfinnelsen av landbruk, til
+  dampmotorer og laservåpen
+description.tradition: Skikker, Tradisjoner og Ritualer. Feiringer og minnedager,
+  hemmelige håndtrykk og hvor mange kyss på hvert kinn.
+description.vehicle: Tobente dinosaurlignende skapninger for ridning, seilskip, flyvende
+  sjørøverskip eller romskip. Navngitt eller Generisk
+description.category: Kategorier hjelper deg med å organisere og segmentere innholdet
+  ditt. Som kapitler i en bok.
+description.image: De sier et bilde er lik tusen ord, ikke for ordtellingen, men fortsatt.
+description.map: Kart kan brukes for å vise geografien over verdenen din men også
+  som et alternativ for navigasjon
+description.timeline: Tidslinjer hjelper deg å fortelle historier om verdenen din
+  og beskrive hendelser som formet den.
+description.historical.entry: Historiske Innlegg eller Hendelser er historiene som
+  setter H i Historie. Dette er de unike øyeblikkene og tidene i utviklingen av verdenen
+  din som formet den slik den er i dag.
+description.secret: De skjulte sannhetene, hviskene i bakgatene, de fryktede virkelighetene
+  som er klare for å bli avslørt
+country: Land
+religion: Religion
