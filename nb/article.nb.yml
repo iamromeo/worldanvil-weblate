@@ -45,3 +45,5 @@ rpg.session.report: Session Rapport
 rpg.report: Session Rapport
 description.geography: Verdener og Universer. Galakser, solsystemer, planeter, fjellkjeder,
   daler, store hav, myrer og innsjøer, Alle geografiske lokasjoner.
+description.item: Dagligbruk, mynter, verktøy, våpen, rustning fra de mest vanlige
+  til de unike
