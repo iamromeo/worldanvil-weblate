@@ -41,8 +41,8 @@ description.generic: Generelle artikler kan brukes til ytterligere innhold, hjem
   regler til rollespill, introduksjoner til kapitler, fortellinger, prosa osv.
 character: Karakter
 spell: Trylleformel
-rpg.session.report: Session Rapport
-rpg.report: Session Rapport
+rpg.session.report: Øktrapport
+rpg.report: Øktrapport
 description.geography: Verdener og Universer. Galakser, solsystemer, planeter, fjellkjeder,
   daler, store hav, myrer og innsjøer, Alle geografiske lokasjoner.
 description.item: Dagligbruk, mynter, verktøy, våpen, rustning fra de mest vanlige
@@ -67,8 +67,8 @@ description.prose: Haiku, dikt, noveller, kapitler i bøkene dine vist tydelig o
   fokus på lesbarhet.
 description.rank: Konge av Endor, Første borger i Føderasjonen, Admiral av Okabus
   Føderale Flåte, Erkemagi av Loboutas etc.
-description.report: Rapporter for rollespill-session, før notater på hva som skjedde
-  under økten, ha et utgangspunkt når du organiserer neste sesjon.
+description.report: Øktrapport for rollespill, før notater på hva som skjedde under
+  økten, ha et utgangspunkt når du organiserer neste økt.
 description.settlement: Alt fra de minste landsbyer til de travleste og de mest gigantiske
   romstasjonene
 description.species: Dyr, Planter, Sansende eller Intelligente. Mennesker, Alver og
@@ -90,9 +90,9 @@ description.map: Kart kan brukes for å vise geografien over verdenen din men og
   som et alternativ for navigasjon
 description.timeline: Tidslinjer hjelper deg å fortelle historier om verdenen din
   og beskrive hendelser som formet den.
-description.historical.entry: Historiske Innlegg eller Hendelser er historiene som
-  setter H i Historie. Dette er de unike øyeblikkene og tidene i utviklingen av verdenen
-  din som formet den slik den er i dag.
+description.historical.entry: Historiske Oppføringer eller Hendelser er historiene
+  som setter H i Historie. Dette er de unike øyeblikkene og tidene i utviklingen av
+  verdenen din som formet den slik den er i dag.
 description.secret: De skjulte sannhetene, hviskene i bakgatene, de fryktede virkelighetene
   som er klare for å bli avslørt
 country: Land
