@@ -14,7 +14,7 @@ edit.map: Rediger Kart
 view.map: Vis kart
 delete.map: Slett Kart
 edit.profile: Endre profil
-view.profile: Vis profil
+view.profile: Vis Profil
 manage: Administrer
 save: Lagre
 update: Oppdater
@@ -23,8 +23,8 @@ copy: Kopier
 dismiss: Avvis
 create: Opprett
 replace: Erstatt
-check.out: Utforsk
+check.out: Sjekk det ut
 edit.and.play: Rediger & Spill
-browse: Bla Gjennom
+browse: Surf
 download: Last ned
 copy.to.clipboard: Klikk for å kopiere til din utklippstavle
