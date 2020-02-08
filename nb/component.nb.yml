@@ -280,3 +280,4 @@ access.group.description.description: (valgfri) For å minne deg om hvem og hvor
   som er i denne gruppen.
 access.code.code: Kode
 access.code.group: Abonnentgruppe
+access.code.maxUses: Maks antall bruk
