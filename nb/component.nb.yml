@@ -162,14 +162,14 @@ position.description: Vekt er et tall som definerer rekkefølgen som et objekt v
 status: Status
 status.description: Sett et objekt som offentlig slik at alle kan se den. Private
   objekter er kun synlig for deg og medforfattere og abonnementer med riktig tillatelse
-  til verdenen din
+  til din verden
 access.description: Sett innlegget ditt som offentlig slik at alle kan se den. Private
-  innlegg er kun synlig for deg og medforfattere av verdenen din
+  innlegg er kun synlig for deg og medforfattere av din verdenen
 subscriber.groups: Abonnementgrupper
 subscriber.groups.description: Velg en eller flere grupper som du vil gi tilgang til
   denne artikkelen. Dette påvirker kun private artikler.
 display: Visning
-display.homepage: Vis dette kartet på Verdenens hjemmeside.
+display.homepage: Vis dette kartet på Verdens hjemmeside.
 tags.description: Bruk komma for å skille dine etiketter. Å legge til etiketter på
   hvilken som helst del av innholdet vil hjelpe deg å søke etter det med å bruke en
   av etikettene.
@@ -219,7 +219,7 @@ map.marker.fill: Fantastisk! Fyll inn skjemaet nedenfor nå!
 map.marker.label: Etikett Tekst
 map.marker.label.description: Dette er teksten som vil dukke opp på kartet for denne
   Etiketten.
-map.display.homepage: Vis dette kartet på Verdenens hjemmeside.
+map.display.homepage: Vis dette kartet på Verdens hjemmeside.
 map.marker.choice: Velg og fyll bare en av følgene alternativer.
 map.marker.radius: Sirkelradius
 map.marker.radius.description: Radius av sirkel i piksler. Fyll inn dette kun hvis
@@ -267,7 +267,7 @@ map.marker.lineWeight: Linjevekt
 map.marker.lineWeight.description: Vekten i relative piksler på linja.
 map.marker.lineOpacity: Linje Opasitet
 map.marker.lineOpacity.description: Opasitets % av Linja. Fra 0 til 100% (f.eks. 50)
-map.marker.lineDash: Line Dash Array
+map.marker.lineDash: Streklinje Matrise
 class: Klasse
 race: Rase
 access.authors.username: Brukernavn
@@ -280,4 +280,87 @@ access.group.description.description: (valgfri) For å minne deg om hvem og hvor
   som er i denne gruppen.
 access.code.code: Kode
 access.code.group: Abonnentgruppe
-access.code.maxUses: Maks antall bruk
+access.code.maxUses: Maksimalt Antall Bruk
+map.marker.lineDash.description: Dette er en avansert funksjon. Bruk linjestrek for
+  å definere streksmønsteret på linjen din. For eksempel 8 8 betyr 8 piksler på linje
+  med en avstand på 8 piksler. Men du kan også bruke 8 eller 1 2 3 4 for å få streker
+  med variabel linje.
+map.marker.linePoints.check: Sjekk dette og dra og slipp den nye markørpinnen for
+  å opprette en linje.
+map.marker.choice.type: Hva slags Markør er det?
+map.marker.choice.functionality: Hva gjør den?
+pin.pinImage: Fest Bilde
+pin.shadow: Fest Skyggebilde
+pin.shadow.description: Bildet av skyggen av pinnen. Dette bildet er valgfritt. Hvis
+  du har den med, må den være bredere fra pinnebildet og strekke seg til høyre side.
+pin.iconAnchor.description: Anker Punktet er det unike punktet på pikselen der kanten/kontaktpunktet
+  til pinnen din er med kartet. Normalt vil det være på kartesisk 0X og halve pinnens
+  bredde Y
+pin.iconAnchorX: Ankerpunkt X (i piksler)
+pin.iconAnchorY: Ankerpunkt Y (i piksler)
+pin.popupAnchor.description: Popup-ankerpunktet er punktet der popup-trekanten vil
+  være sentrert. Overfor pin-ankeret vil være øverst på ikonet hvis ikke høyere
+pin.popupAnchorX: Popup-Punkt X (i piksler)
+pin.popupAnchorY: Popup-Punkt Y (i piksler)
+pin.template.header: Standard Pin Mal
+pin.template.description: Bruk filene i denne zip-filen til å lage pinner som ligner
+  de som er levert av World Anvil.
+pin.value.notzero: Pass på at denne verdien ikke er tom eller 0.
+organization.and.access: Organisasjon og Tilgang
+functionality: Funksjonalitet
+appearance: Utseende
+feat: Bragd
+monster: Monster
+npc: NPC
+guild.access: Alle gjenstander på gratis kontoer er offentlig. Bli med i <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> for å
+  gi rettigheter til spesifikke abonnementgrupper for å gi dem tilgang til innhold
+  du ønsker og hjelpe til med utviklingen av World Anvil.
+guild.subscriber.groups: Abonnentgrupper lar  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> å gi lesetilgang til private artikler for medlemmer av den gruppen.
+guild.access.status: Alle gjenstander på gratis kontoer er offentlig. Bli med i <a
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>
+  for gjøre hva du vil privat og hjelpe utviklingen av World Anvil.
+guild.feature: Dette er en Guild-eksklusiv funksjon. Bli med i <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Worldbuilders Guild</a> for å få tilgang
+  til denne funksjonen og hjelpe utviklingen av World Anvil.
+master.feature: Dette er en eksklusiv funksjon for nivå Master+. Bli med i <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> for å
+  få tilgang til denne funksjonen og hjelpe utviklingen av World Anvil.
+grandmaster.feature: Dette er en eksklusiv funksjon for nivå Grandmaster+. Bli med
+  i <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> for å få tilgang til denne funksjonen og hjelpe utviklingen av World Anvil.
+guild.access.map: Alle kart på gratis kontoer vises på verdens hjemmeside. Bli med
+  i <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> for å sette kartene, artiklene og verdenene dine til privat, og hjelp
+  utviklingen av World Anvil.
+access.rights.notice: Funksjoner for Grupper & Abonnenter er kun tilgjengelig for
+  medlemmer av Guildet!
+access.rights.management: Administrering av Tilgangsrettigheter
+access.rights.subscribers: Abonnementer
+access.rights.groups: Grupper
+access.rights.authors: Forfattere
+access.rights.codes: Abonnent Tilgang Kode
+access.authors.management: Administering av Forfattere
+access.authors.revoke: Frata Tilgang
+access.authors.coowner: Medeier
+access.authors.coowner.description: Tilgang til alt inkludert World konfigurasjon,
+  CSS og Tilgangsstyring.
+access.authors.editor: Editor
+access.authors.editor.description: Tilgang til å lage, vise eller redigere alt innhold.
+access.authors.writer: Skriver
+access.authors.writer.description: Tilgang til å opprete artikler satt til Utkast.
+  Editorer og over kan da administrere, organisere og publisere de artiklene.
+access.authors.slots: Forfatter Spor Brukt
+access.subscribers.slots: Abonnent Spor Brukt
+access.subscribers.purge: Fjern alle nåværende Abonnenter fra listen før import
+access.subscribers.emails: Abonnentens e-post
+access.authors.add: Legg til ny Forfatter
+access.authors.rank: Rang
+access.group.edit: Rediger Abonnentgruppe
+access.group.assets: Gruppe Eiendeler
+access.group.position.description: (valgfri) Bare sånn at du kan organisere gruppene
+  dine hvis du trenger.
+access.code.management: Abonnentkodehåndtering
+access.code.expiryDate: Utløpsdato
+access.code.edit: Rediger Abonnentkode
