@@ -268,3 +268,8 @@ map.marker.lineWeight.description: Vekten i relative piksler på linja.
 map.marker.lineOpacity: Linje Opasitet
 map.marker.lineOpacity.description: Opasitets % av Linja. Fra 0 til 100% (f.eks. 50)
 map.marker.lineDash: Line Dash Array
+class: Klasse
+race: Rase
+access.authors.username: Brukernavn
+access.authors.groups: Grupper
+access.subscriber.add: Legg til abonnent til gruppen(e)
