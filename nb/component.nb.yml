@@ -276,5 +276,5 @@ access.subscriber.add: Legg til Abonnent til Gruppen(er)
 access.subscribers.add: Legg til Abonnenter til Gruppe
 access.subscribers.management: Administrering av Abonnenter
 access.group.management: Administrering av Abonnentgrupper
-access.group.description.description: (valgfri) For å minne deg om hvem som er i denne
-  gruppen, og hvorfor.
+access.group.description.description: (valgfri) For å minne deg om hvem og hvorfor
+  som er i denne gruppen.
