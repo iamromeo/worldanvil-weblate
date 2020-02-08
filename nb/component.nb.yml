@@ -278,3 +278,4 @@ access.subscribers.management: Administrering av Abonnenter
 access.group.management: Administrering av Abonnentgrupper
 access.group.description.description: (valgfri) For å minne deg om hvem og hvorfor
   som er i denne gruppen.
+access.code.code: Kode
