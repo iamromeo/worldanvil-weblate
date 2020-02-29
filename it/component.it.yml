@@ -370,3 +370,5 @@ calendars: Calendari
 list.characters: Lista Personaggi
 map.presentation: Apri Modalità Presentazione
 map.settings: Impostazioni Mappa
+map.marker.choice.type: Che tipo di Marcatore è questo?
+map.marker.choice.functionality: Qual è il suo scopo?
