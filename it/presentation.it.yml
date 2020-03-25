@@ -287,3 +287,86 @@ location.type: Tipo
 location.owner_ruler: Proprietario/Sovrano
 location.owning_organization: Organizzazione Proprietaria
 location.characters_in_location: Personaggi in Loco
+location.related_myths: Miti Correlati
+military_conf.the_conflict: Il Conflitto
+military_conf.prelude: Prefazione
+military_conf.deployment: Schieramento
+military_conf.battlefield: Campo di Battaglia
+military_conf.conditions: Condizioni
+military_conf.outcome: Esito
+military_conf.aftermath: Conseguenze
+military_conf.historical_significance: Importanza Storica
+military_conf.legacy: Eredità
+military_conf.in_literature: Nella Letteratura
+military_conf.techological_advancement: Progresso Tecnologico
+military_conf.conflict_type: Tipo Conflitto
+military_conf.battlefield_type: Tipo Campo di Battaglia
+military_conf.starting_date: Data Inizio
+military_conf.ending_date: Data Fine
+military_conf.conflict_result: Esito Conflitto
+military_conf.location: Luogo
+military_conf.led_by: Guidati da
+military_conf.strength: Forza
+military_conf.casualties: Perdite
+military_conf.objectives: Obbiettivi
+myth.historical_basis: Fonti Storiche
+myth.related_ethnicities: Etnie Correlate
+myth.related_species: Specie Correlate
+myth.related_locations: Luoghi Correlati
+myth.related_people: Popoli Correlati
+myth.related_organizations: Organizzazioni Correlate
+myth.related_items: Oggetti Correlati
+myth.related_vehicles: Veicoli Correlati
+organisation.structure: Struttura
+organisation.public_agenda: Agenda Pubblica
+organisation.history: Storia
+organisation.disbandment: Congedo
+organisation.demography_and_population: Demografia e Popolazione
+organisation.territories: Territori
+organisation.technological_level: Livello Tecnologico
+organisation.religion: Religione
+organisation.foreign_relations: Relazioni Estere
+organisation.agriculture_industry: Agricoltura e Industria
+organisation.trade_transport: Commercio e Trasporto
+organisation.infrastructure: Infrastruttura
+organisation.mythology_lore: Mitologia e Lore
+organisation.divine_origins: Origini Divine
+organisation.cosmological_views: Visioni Cosmologiche
+organisation.tenets_of_faith: Dogmi di Credo
+organisation.ethics: Etica
+organisation.priesthood: Sacerdozio
+organisation.political_influence_intrigue: Influenza Politica e Intrighi
+organisation.founding_date: Data di Fondazione
+organisation.type: Tipo
+organisation.capital: Capitale
+organisation.alternative_names: Nomi Alternativi
+organisation.formation_type: Tipo di Formazione
+organisation.training_level: Livello di Addestramento
+organisation.veterancy_level: Livello di Esperienza
+organisation.leader: Capo
+organisation.head_of_state: Capo di Stato
+organisation.head_of_government: Capo di Governo
+organisation.government_system: Sistema di Governo
+organisation.power_structure: Struttura di Potere
+organisation.economic_system: Sistema Economico
+organisation.currency: Moneta
+organisation.legislative_body: Organo Legislativo
+organisation.judicial_body: Organo Giudiziario
+organisation.divines: Teologi
+organisation.official_languages: Lingue Ufficiali
+organisation.related_ranks_titles: Ranghi e Titoli Correlati
+organisation.controlled_territories: Territori Controllati
+organisation.neighboring_nations: Nazioni Confinanti
+organisation.related_items: Oggetti Correlati
+organisation.organization_vehicles: Veicoli dell'Organizzazione
+organisation.notable_members: Membri degni di Noti
+organisation.related_ethnicities: Etnie Correlate
+organisation.related_myths: Miti Correlati
+person.holy_books_codes: Libri Sacri e Codici
+person.divine_symbols_sigils: Simboli Divini e Sigilli
+person.tenets_faith: Dogmi di Credo
+person.holidays: Festività
+person.physical_description: Descrizione Fisica
+person.general_condition: Condizioni Fisiche Generali
+person.physical_quirks: Bizzarrie Fisiche
+vehicle.cargo_passengers_capacity: Capacità Cargo e Passeggeri
