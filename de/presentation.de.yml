@@ -503,3 +503,4 @@ plot.past_events: Vergangene Events
 plot.type: Handlungsart
 plot.parent: Übergeordnete Handlung
 plot.subplots: Untergeordnete Handlung
+plot.related_characters: Zugehörige Charaktere
