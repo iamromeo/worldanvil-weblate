@@ -28,8 +28,8 @@ following: '%name% abonniert'
 follow: '%name% abonnieren'
 follow.action.remove: ABBESTELLEN
 follow.action.add: ABONNIEREN
-follow.action.add.description: Abonnieren, um in deinem Stream alle Artikel geschrieben
-  von den Autoren in dieser Welt angezeigt zu bekommen!
+follow.action.add.description: Abonniere, um in deinem Stream alle von den Autoren
+  geschrieben Artikel in dieser Welt angezeigt zu bekommen!
 like.action.remove: MAG ICH NICHT MEHR
 like.action.add: ICH MAG DAS
 like.action.add.description: Lass den Autor wissen, dass dir seine Arbeit gefällt.
