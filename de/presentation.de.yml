@@ -500,3 +500,4 @@ plot.locations: Orte
 plot.threats: Gefahren
 plot.encounters: Begegnungen
 plot.past_events: Vergangene Events
+plot.type: Handlungsart
