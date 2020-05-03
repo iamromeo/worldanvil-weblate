@@ -343,3 +343,4 @@ campaign.lore: Geschichte
 campaign.lore_and_cast: Geschichte & Nebenfiguren
 location.owner_ruler: Besitzer/Herrscher
 military_conf.deployment: Einsatz
+military_conf.conditions: Konditionen
