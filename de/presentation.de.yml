@@ -502,3 +502,4 @@ plot.encounters: Begegnungen
 plot.past_events: Vergangene Events
 plot.type: Handlungsart
 plot.parent: Übergeordnete Handlung
+plot.subplots: Untergeordnete Handlung
