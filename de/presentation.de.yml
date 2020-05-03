@@ -582,3 +582,4 @@ settlement.type: Art
 settlement.population: Einwohner
 settlement.inhabitant_demonym: Einwohnerbezeichnung
 settlement.location_under: Übergeordneter Ort
+settlement.included_locations: Zugehörige Orte
