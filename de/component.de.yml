@@ -41,7 +41,7 @@ category: Kategorie
 historical.entry: Historisches Ereignis
 image: Bild
 player.character: Spielercharakter
-timeline: Zeitleiste
+timeline: Zeitachse
 map: Karte
 note: Notiz
 secret: Geheimnis
@@ -362,3 +362,5 @@ access.authors.coowner.description: Zugriff auf alles, inklusive Weltkonfigurati
 access.subscribers.purge: Entferne vor dem Import alle Abonnenten von der Liste
 access.code.code: Code
 access.subscriber.add: Abonnent zu Gruppe(n) hinzufügen
+world.summary: Zusammenfassung
+world.explore: Erkunde
