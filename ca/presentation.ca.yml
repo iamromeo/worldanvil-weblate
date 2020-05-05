@@ -285,4 +285,6 @@ location.fauna: Fauna
 location.natural_resources: Recursos naturals
 location.aternative_names: Nom(s) alternatiu(s)
 location.type: Tipus
-location.location_under: Es troba dins
+location.location_under: Ubicació dins de
+location.included_locations: Ubicacions incloses
+location.included_organizations: Organitzacions incloses
