@@ -67,7 +67,7 @@ campaigns: Kampagner
 categories: Kategorier
 historical.entries: Historiske Notater
 images: Billeder
-player.characters: Spiller karakterer
+player.characters: Spiller Karakterer
 maps: Kort
 markers: Markører
 marker.groups: Markør grupper
@@ -84,9 +84,9 @@ list.player.characters: Spiller karakter liste
 list.maps: Kort liste
 list.markers: Markør liste
 list.marker.groups: Markør Gruppe liste
-list.timelines: Tidslinje liste
-list.notes: Note liste
-list.secrets: Hemmeligheds liste
+list.timelines: Tidslinje Liste
+list.notes: Note Liste
+list.secrets: Hemmelighedsliste
 list.worlds: Verdens liste
 subscribers: Abonnenter
 followers: Følgere
@@ -100,18 +100,18 @@ position.description: Vægt er et nummer der afgører hvilken rækkefølge genst
   ligge i. Jo højere nummeret er, jo højere oppe vil genstanden ligge.
 status: Status
 status.description: Sæt denne genstand som offentlig så alle kan se den. Private genstande
-  kan kun ses a dig og dine med-forfattere og abonnenter med den rigtige tilladelse
+  kan kun ses af dig og dine med-forfattere og abonnenter med den rigtige tilladelse
   i forhold til din verden
 access: Adgang
 access.description: Sæt dit indlæg som offentlig så alle kan se den. Private indlæg
   kan kun ses af dig og med-forfattere af din verden
-subscriber.groups: Abonnent grupper
+subscriber.groups: Abonnentgrupper
 subscriber.groups.description: Vælg en eller flere grupper som du vil give adgang
-  til denne artikel til. Dette påvirker kun private artikler.
+  til denne artikel. Dette påvirker kun private artikler.
 display: Vis
-display.homepage: Vis dette kort på verdenens side.
-tags.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til indhold
-  i din verden gør, at du kan søge efter ved at søge på de tags du har brugt.
+display.homepage: Vis dette kort på verdenens startside.
+tags.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til dit
+  indhold gør det lettere for dig at finde det via de tags.
 group: Gruppe
 map.edit.details: Rediger kortets detaljer
 map.legend: Legende
@@ -147,35 +147,35 @@ layer: Lag
 tag: Tag
 layers: Lag
 tags: Tags
-tag.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til indhold
-  i din verden gør, at du kan søge efter ved at søge på de tags du har brugt.
-map.image: Kort Primærbillede
+tag.description: Brug kommaer til at adskille dine tags. Tilføjning af tags til dit
+  indhold gør det lettere for dig at finde det via de tags.
+map.image: Primærbillede af kort
 map.marker.new: Ny stedsmarkør
 map.display.homepage: Vis dette kort på verdenens side.
-map.update.image: Opdater Kort Primærbillede
+map.update.image: Opdater primærbillede af kort
 map.image.details: De forventede fildimensioner er
 circle: Cirkel
 label: Etiket
 polygon: Polygon
 map.image.secondary: Lagbillede
-map.compass: Kompas billede
+map.compass: Billede af kompasrose
 map.compass.description: Vælg et billede som skal vises som kompasset på dit kort
-  i nederste højre hjørne. Hvis du bruger et billede med gennemsigtig baggrund, vil
-  du få bedre visuelle resultater.
+  i nederste højre hjørne. Du får bedre visuelle resultater hvis du bruger et billede
+  med en gennemsigtig baggrund.
 map.marker.radius: Cirklens Radius
 map.marker.radius.description: Cirklens radius i pixels. Udfyld kun dette hvis du
   vil lave en cirkel og ikke en polygon.
 appearance: Udseende
-create.block: Opret Blok
-create.new.block: Opret en ny Blok
-edit.block: Rediger Blok
-delete.block: Slet Blok
+create.block: Opret blok
+create.new.block: Opret en ny blok
+edit.block: Rediger blok
+delete.block: Slet blok
 block: Blok
 blocks: Blokke
 list.blocks: Blokliste
 list.layers: Lagliste
-link: Direkte link
-popup: Pop op
+link: Åbner en ny fane
+popup: Åbner et separat vindue
 map.zoom.initial: Begyndelses Zoom Level
 map.zoom.initial.description: Sæt hvor zoomet ind kortet vil være når det først er
   loadet (0 som standard)
@@ -193,30 +193,30 @@ map.marker.colorOutline.description: Farven på linjen af en cirkel eller polygo
   Du kan bruge CSS farver som blå, rød, gul osv, eller hexkoden for farven, havelågen
   (#) skal være foran
 map.marker.colorFill: Udfyldningsfarve
-create.pin: Opret Kort Nål
-create.article: Opret Artikel
-create.new.pin: Opret en ny Kort Nål
-edit.article: Rediger Artikel
-edit.pin: Rediger Kort Nål
-delete.pin: Slet Kort Nål
+create.pin: Opret kort nål
+create.article: Opret artikel
+create.new.pin: Opret en ny kort nål
+edit.article: Rediger artikel
+edit.pin: Rediger kort nål
+delete.pin: Slet kort nål
 line: Linje
 pin: Kort Nåle
-list.pins: Kort Nåle Liste
-related.article: Relateret Artikel
-related.history: Relateret Historisk Post
-map.thumbnail: Miniature Billede
+list.pins: Liste Over Kortnåle
+related.article: Relateret artikel
+related.history: Relateret Historisk Indslag
+map.thumbnail: Miniature billede
 map.center.description: De initielle koordinater til kortets centrum når det først
   indlæses. Normalt er dette beregnet til at være kortets midte. Det nederste venstre
   hjørne af dit kort er punkt 0:0.
 map.marker.lng: L
 map.marker.choice: Vælg og udfyld kun én af følgende muligheder.
-create.block.template: Opret Blok Skabelon
-create.new.block.template: Opret en Ny Blok Skabelon
-edit.block.template: Rediger Blok Skabelon
-delete.block.template: Slet Blok Skabelon
+create.block.template: Opret blok skabelon
+create.new.block.template: Opret en ny blok skabelon
+edit.block.template: Rediger blok skabelon
+delete.block.template: Slet blok skabelon
 block.template: Blok Skabelon
 block.templates: Blok Skabeloner
-list.block.templates: Blok Skabeloner Liste
+list.block.templates: Blokskabelonsliste
 create.group: Ny gruppe
 create.code: Ny kode
 create.new.era: Opret en ny æra
