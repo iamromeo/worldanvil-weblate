@@ -424,4 +424,21 @@ person.morality_philosophy: Moral i filosofia
 person.taboos: Tabús
 person.personality_characteristics: Característiques de personalitat
 person.motivation: Motivacions
-person.savvies_ineptitudes: Coneixements i ineptitud
+person.savvies_ineptitudes: Coneixements i ineptituds
+person.likes_dislikes: Gustos i manies
+person.virtues_personality_perks: Virtuts i qualitats personals
+person.vices_personality_flaws: Vicis i defectes de personalitat
+person.personality_quirks: Peculiaritats de personalitat
+person.hygiene: Higiene
+person.social: Social
+person.contacts_relations: Contactes i relacions
+person.family_ties: Vincle familiars
+person.religious_views: Opinions religioses
+person.social_aptitude: Aptituds socials
+person.mannerisms: Costums
+person.hobbies_pets: Aficions i mascotes
+person.speech: Parla
+person.wealth_financial_state: Riquesa i estat financer
+person.rpg_character_sheet: Fitxa de personatge de rol
+person.divine_classification: Classificació divina
+person.alignment: Alineament
