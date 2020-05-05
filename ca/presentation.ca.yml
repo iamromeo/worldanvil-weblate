@@ -290,3 +290,132 @@ location.included_locations: Ubicacions incloses
 location.included_organizations: Organitzacions incloses
 location.owner_ruler: Propietari/Governant
 location.owning_organization: Organització propietaria o governant
+location.characters_in_location: Personatges en aquest lloc
+location.related_reports_primary: Informes relacionats (principals)
+location.related_reports_secondary: Informes relacionats (secundaris)
+location.related_myths: Mites relacionats
+material.history_usage: Història i ús
+military_conf.the_conflict: El conflicte
+military_conf.prelude: Preludi
+military_conf.deployment: Desplegament de tropes
+military_conf.battlefield: Camp de batalla
+military_conf.conditions: Condicions
+military_conf.the_engagement: El combat
+military_conf.outcome: Resultat
+military_conf.aftermath: Conseqüències
+military_conf.historical_significance: Importància històrica
+military_conf.legacy: Llegat
+military_conf.in_literature: En la literatura
+military_conf.techological_advancement: Avenços tecnològics
+military_conf.conflict_type: Tipus de conflicte
+military_conf.battlefield_type: Tipus de camp de batalla
+military_conf.starting_date: Data d'inici
+military_conf.ending_date: Data de finalització
+military_conf.conflict_result: Resultats del conflicte
+military_conf.location: Localització
+military_conf.belligerents: Bàndols
+military_conf.led_by: Liderat per
+military_conf.strength: Forces
+military_conf.casualties: Baixes
+military_conf.objectives: Objectius
+myth.summary: Resum
+myth.historical_basis: Base històrica
+myth.spread: Abast
+myth.variations_mutation: Variants
+myth.cultural_reception: Recepció cultural
+myth.in_literature: En la literatura
+myth.in_art: En l'art
+myth.date_of_first_recording: Data dels primers registres
+myth.date_of_setting: Data dels fets
+myth.telling_prose: Història / prosa
+myth.related_ethnicities: Ètnies relacionades
+myth.related_species: Espècies relacionades
+myth.related_locations: Localitzacions relacionades
+myth.related_people: Persones relacionades
+myth.related_organizations: Organitzacions relacionades
+myth.related_items: Objectes relacionats
+myth.related_vehicles: Vehicles relacionats
+organisation.structure: Estructura
+organisation.public_agenda: Agenda pública
+organisation.assets: Béns
+organisation.history: Història
+organisation.disbandment: Dissolució
+organisation.demography_and_population: Demografia i població
+organisation.territories: Territoris
+organisation.military: Exèrcit
+organisation.technological_level: Nivell tecnològic
+organisation.religion: Religió
+organisation.foreign_relations: Afers exteriors
+organisation.agriculture_industry: Agricultura i indústria
+organisation.trade_transport: Comerç i transport
+organisation.education: Educació
+organisation.infrastructure: Infraestructura
+organisation.mythology_lore: Mitologia i històries
+organisation.divine_origins: Origens divins
+organisation.cosmological_views: Visió cosmològica
+organisation.tenets_of_faith: Principis de la fe
+organisation.ethics: Ètica
+organisation.worship: Culte
+organisation.priesthood: Sacerdoci
+organisation.granted_divine_powers: Poders divins atorgats
+organisation.political_influence_intrigue: Influència i intriga política
+organisation.sects: Sectes
+organisation.disbanded_dissolved: ORGANITZACIÓ DISSOLTA
+organisation.founding_date: Data de fundació
+organisation.dissolution_date: Data de fundació
+organisation.type: Tipus
+organisation.capital: Capital
+organisation.alternative_names: Noms alternatius
+organisation.formation_type: Tipus de formació
+organisation.training_level: Nivell d'entrenament
+organisation.veterancy_level: Nivell d'experiència
+organisation.demonym: Gentilici
+organisation.leader: Líder
+organisation.head_of_state: Cap d'estat
+organisation.head_of_government: Cap de govern
+organisation.government_system: Sistema de govern
+organisation.power_structure: Estructura de poder
+organisation.economic_system: Sistema econòmic
+organisation.currency: Moneda
+organisation.major_exports: Exportacions principals
+organisation.major_imports: Importacions principals
+organisation.legislative_body: Organisme legislatiu
+organisation.judicial_body: Organisme judicial
+organisation.parent_organization: Organització a la qual pertany
+organisation.subsidiary_organizations: Organitzacions afiliades
+organisation.permeated_organizations: Organitzacions influïdes
+organisation.divines: Divinitats
+organisation.location: Localització
+organisation.official_languages: Llengües oficials
+organisation.related_ranks_titles: Rangs i títols relacionats
+organisation.controlled_territories: Territoris controlats
+organisation.neighboring_nations: Nacions veïnes
+organisation.manufactured_items: Objectes manufacturats
+organisation.related_items: Objectes relacionats
+organisation.organization_vehicles: Vehicles de l'organització
+organisation.notable_members: Membres destacats
+organisation.related_ethnicities: Ètnies relacionades
+organisation.related_myths: Mites relacionats
+person.divine_domains: Dominis divins
+person.holy_books_codes: Llibres sagrats i codis
+person.divine_symbols_sigils: Símbols divins i segells
+person.tenets_faith: Dogmes
+person.holidays: Festivitats
+person.divine_goals_aspirations: Objectius i aspiracions divines
+person.physical_description: Descripció física
+person.general_condition: Condició física general
+person.body_features: Característiques corporals
+person.facial_features: Característiques facials
+person.identifying_characteristics: Característiques identificatòries
+person.physical_quirks: Peculiaritats físiques
+person.sensory_perception: Percepció i sentits
+person.special_abilities: Habilitats especials
+person.clothing_apparel_accessories: Roba i accessoris
+person.items_specialized_equipment: Equipament especialitzat
+person.mental_characteristics: Característiques mentals
+person.personal_history: Història personal
+person.education: Educació
+person.employment: Feina
+person.accomplishments_achievements: Assoliments i èxits
+person.failures_embarrassments: Fracassos
+person.mental_trauma: Traumes mentals
