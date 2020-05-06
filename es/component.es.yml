@@ -372,3 +372,49 @@ map.presentation: Modo de presentación
 map.settings: Ajustes del mapa
 map.marker.choice.type: ¿Qué clase de marcador es?
 map.marker.choice.functionality: ¿Qué hace?
+Settings & Tools: Ajustes
+Community: Comunidad
+browse: Navegación
+create: Crear
+parent: Matriz
+parent.item: Objeto del que proviene
+create.orgchart: Crear organigrama
+create.template: Crear plantilla
+create.todo: Crear tarea
+create.new.template: Crear una nueva plantilla de artículo
+create.new.orgchart: Crear un nuevo árbol de contenidos
+edit.orgchart: Editar árbol de contenidos
+edit.orgchart.item: Editar una parte del árbol
+delete.orgchart: Eliminar árbol de contenidos
+delete.article.template: Eliminar plantilla de artículo
+chart: Esquema
+orgchart: Árbol de contenidos
+orgchart.structure: Estructura del árbol
+world.view: Ver mundo
+world.explorer: Explorer
+content: Contenido
+athena: Artículos y categorías
+map.pins: Marcadores de mapas
+sheets.and.blocks: Fichas y bloques
+charts: Esquemas
+orgcharts: Árboles de contenido
+histories: Historias
+history: Historia
+timelines_and_calendars: Líneas del tiempo y calendarios
+article.templates: Plantillas de artículo
+list.charts: Lista de esquemas
+list.orgcharts: Lista de árboles de contenido
+map.marker.draggable: Marcador arrastrable
+map.marker.draggable.checkbox: Puedes arrastrar y soltar este marcador.
+map.marker.draggable.description: Todos los Escritores, Editores y dueños del mundo
+  pueden mover los marcadores arrastrables. Al hacerlo, se guarda la nueva posición
+  del marcador. Esta opción funciona en el mapa a tamaño completo y en el Explorer.
+pin.tags.description: Ponle todas las etiquetas que quieras a tu marcador. Te permitirán
+  buscar entre ellos con facilidad.
+pin.theme.description: Los temas permiten filtrar entre tus marcadores. Por ejemplo,
+  el Imperio Galáctico o la Resistencia.
+access.authors.advanced.writer: Escritor avanzado
+access.authors.advanced.writer.description: Da el poder para crear y gestionar tus
+  artículos, sean borradores o no. Esto permite al escritor hacer crecer el mundo
+  con sus artículos. Es el tipo de autor perfecto para jugadores que quieran contribuir
+  a un mundo o a una campaña de rol.
