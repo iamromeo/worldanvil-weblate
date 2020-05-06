@@ -1,1 +1,5 @@
-{}
+manuscripts: Manuscrits
+manuscripts.list: Llista de manuscrits
+manuscript.edit: Modifica el manuscrit
+manuscript.view: Visualitza el manuscrit
+manuscript.delete: Esborra el manuscrit
