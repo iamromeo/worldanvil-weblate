@@ -11,9 +11,9 @@ shop: Obchod
 guild.hall: Cechovní síň
 world: Svět
 profile: Profil
-interface.settings: Možnosti rozhraní
+interface.settings: Rozhraní a přístupnost
 account.details: Nastavení účtu
-announcements: Události
+announcements: Oznámení
 world.select: Vybrat svět
 world.summary: Přehled světa
 world.goto: Přejít na...
@@ -43,7 +43,7 @@ toggle: Rozbalovací nabídka
 your.stream: Sledované světy
 campaign.corkboard: Nástěnka
 copyright: Autorská práva
-dashboard: Hlavní stránka
+dashboard: Nástěnka
 need.help: Potřebuješ pomoc?
 i am an author: Jsem spisovatelem
 Go to Dashboard: Zpět na Hlavní stránku
@@ -52,7 +52,29 @@ i am an artist: Jsem umělcem
 studio: Studio
 todo.list: Seznam úkolů
 join.guild: PŘIDEJ SE DO CECHU!
-account.subscription: Tvé předplatné
+account.subscription: Předplatné
 feature.suggest: Navrhni funkci
 team: Tým
 hiring: HLEDÁME NOVÉ ZAMĚSTNANCE
+browse: Procházet
+advertising: Propagace
+sponsoring: Sponzoring
+characters: Postavy
+character.profile: Profil postavy
+character.profiles: Profily postav
+character.view.profile: Zobrazit profil
+character.edit.profile: Upravit profil
+character.view.sheet: Zobrazit Deník
+character.edit.extended: Upravit rozšířený profil
+character.privacy: Soukromí
+character.display: Zobrazení
+join.guild.description: ZÍSKEJ VŠECHNY FUNKCE! Pomoz world buildingovým nástrojům
+  World Anvil žít a růst!
+join.discord: Získej inspiraci, získej VŠECHNU pomoc!
+join.codex: Kodex dokumentace World Anvil
+worlds: Světy
+world.view: Zobrazit Svět
+settings: Nastavení
+account: Detaily účtu
+public.profile: Veřejný profil
+aacount: Účet
