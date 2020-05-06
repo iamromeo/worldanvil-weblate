@@ -592,3 +592,100 @@ vehicle.power_generation: Generación de energía
 vehicle.owning_organization: Organización propietaria
 vehicle.speed: Velocidad
 vehicle.cargo_passengers_capacity: Capacidad de carga y límite de pasajeros
+report.general_summary: Resumen general
+report.rewards_granted: Recompensas otorgadas
+report.created_content: Contenido creado
+report.notes: Notas
+report.campaign: Campaña
+report.protagonists: Protagonistas
+report.player_journals: Diarios de jugador
+ritual.history: Historia
+ritual.execution: Ejecución
+ritual.components_and_tools: Componentes y herramientas
+ritual.participants: Participantes
+ritual.related_ethnicities: Etnias relacionadas
+settlement.demographics: Demografía
+settlement.government: Gobierno
+settlement.defences: Defensas
+settlement.industry: Industria
+settlement.infrastructure: Infraestructura
+settlement.assets: Recursos
+settlement.history: Historia
+settlement.architecture: Arquitectura
+settlement.geography: Geografía
+settlement.natural_resources: Recursos naturales
+settlement.type: Tipo
+settlement.population: Población
+settlement.included_locations: Ubicaciones incluidas
+settlement.characters_in_location: Personajes en la ubicación
+species.Basic Information: Información básica
+species.anatomy: Anatomía
+species.morphology: Morfología
+species.biological_traits: Características biológicas
+species.growth_rate_stages: Etapas y ritmo de crecimiento
+species.ecology_and_habitats: Ecología y hábitat
+species.biological_cycle: Ciclo biológico
+species.additional_information: Información adicional
+species.social_structure: Estructura social
+species.domestication: Domesticación
+species.uses_products_exploitation: Usos, productos y explotación
+species.facial_characteristics: Características faciales
+species.geographic_origin_and_distribution: Origen geográfico y distribución
+species.perception_and_sensory_capabilities: Percepción y capacidades sensoriales
+species.civilization_and_culture: Civilización y cultura
+species.beauty_ideals: Ideales de belleza
+species.gender_ideals: Ideales de género
+species.courtship_ideals: Ideales de cortejo
+species.relationship_ideals: Ideales de relaciones
+species.average_technological_level: Nivel tecnológico promedio
+species.common_dress_code: Código de vestimenta común
+species.culture_and_cultural_heritage: Cultura y herencia cultural
+species.common_customs_traditions_rituals: 'Costumbres comunes, tradiciones y rituales '
+species.common_taboos: Tabúes comunes
+species.history: Historia
+species.historical_figures: Figuras historicas
+species.common_myths_and_legends: Mitos y leyendas comunes
+species.interspecies_relations_assumptions: Relaciones de entre especies y susposiciones
+species.extinct: EXTINTO EN
+species.genetic_ancestor_s: Ancestro(s) genético(s)
+species.genetic_descendants: Descendientes genéticos
+species.scientific_name: Nombre científico
+species.conservation_status: Estado de conservación
+species.average_physique: Físico promedio
+species.related_ethnicities: Etnias relacionadas
+species.related_myths: Mitos relacionados
+spell.effect: Efecto
+spell.effect_side_secondary: Efectos secundarios
+spell.manifestation: Manifestación
+spell.source: Fuente
+spell.discovery: Descubrimiento
+spell.related_organizations: Organizaciones relacionadas
+spell.material_components: Componentes materiales
+spell.gestures_ritual: Rituales y gestos
+spell.related_discipline: Disciplina relacionada
+spell.related_school: Escuela relacionada
+spell.related_element: Elemento relacionado
+spell.level: Nivel
+spell.restriction_applied: Restricción aplicada
+technology.utility: Utilidad
+technology.inventor_s: Inventor(es)
+technology.access_availability: Acceso y disponibilidad
+technology.complexity: Complejidad
+technology.discovery: Descubrimiento
+technology.related_items: Objetos relacionados
+vehicle.propulsion: Propulsión
+vehicle.armor_and_defense: Armadura y defensa
+vehicle.communication_tools_systems: Herramientas y sistemas de comunicación
+vehicle.sensors: Sensores
+vehicle.additional_auxiliary_systems: Sistemas auxiliares y adicionales
+vehicle.class: Clase
+vehicle.nickname: Apodo
+vehicle.motto: Lema
+vehicle.owner: Dueño
+vehicle.price: Precio
+vehicle.rarity: Rareza
+vehicle.length: Largo
+vehicle.beam: Manga
+vehicle.height: Altura
+vehicle.weight: Peso
+vehicle.complement: Tripulación
