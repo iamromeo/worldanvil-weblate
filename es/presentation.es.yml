@@ -564,3 +564,31 @@ spell.range: Alcance
 vehicle.weapons_armament: Armas
 vehicle.hangars_docked_vessels: Hangares y muelles
 vehicle.rpg_datasheet: Ficha RPG
+rank.first_holder: Primer titular
+rank.reports_directly_to: Informa directamente a
+report.missions_quests_completed: Misiones completadas
+report.related_reports: Informes relacionados
+report.report_date: Fecha del informe
+ritual.observance: Cumplimiento
+settlement.guilds_and_factions: Gremios y facciones
+settlement.inhabitant_demonym: Gentilicio
+settlement.owning_organization: Organización propietaria
+settlement.related_reports_primary: Informes relacionados (principales)
+settlement.related_reports_secondary: Informes relacionados (secundarios)
+species.genetics_and_reproduction: Genética y reproducción
+species.dietary_needs_and_habits: Necesidades y hábitos alimenticios
+species.average_intelligence: Inteligencia media
+species.symbiotic_and_parasitic_organisms: Organismos simbióticos y parasitarios
+species.common_etiquette_rules: Reglas comunes de etiqueta
+species.average_height: Altura media
+species.average_weight: Peso medio
+species.average_length: Longitud media
+species.body_tint_colouring_marking: Tintes, coloración y marcas corporales
+spell.effect_casting_time: Tiempo de casteo
+technology.manufacturing: Fabricación
+technology.parent_technologies: Tecnologías primarias
+technology.children_technologies: Tecnologías derivadas
+vehicle.power_generation: Generación de energía
+vehicle.owning_organization: Organización propietaria
+vehicle.speed: Velocidad
+vehicle.cargo_passengers_capacity: Capacidad de carga y límite de pasajeros
