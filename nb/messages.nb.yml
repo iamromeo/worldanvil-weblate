@@ -4,5 +4,5 @@ success.generic: The Anvil har hamret din forespørsel med suksess.
 success.deletion: Hammeren har tilintetgjort som du befalte.
 failure.deletion: Oisann! Noe gikk galt! Prøvde du å slette noe som fortsatt brukes
   et annet sted?
-bbcode.embed: Kopier og lim inn en BBCode under hvor som helst i artikkelen som godtar
-  BBCode for å legge til denne entiteten inn i den!
+bbcode.embed: Kopier og lim inn en BB-kode under hvor som helst i artikkelen som godtar
+  BB-kode for å legge til denne entiteten inn i den!
