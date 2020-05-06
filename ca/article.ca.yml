@@ -100,3 +100,9 @@ description.secret: Les veritats ocultes, els xiuxiueigs als carrerons, les temu
   realitats encara per descobrir.
 country: País
 religion: Religió
+description.country: Els països són organitzacions territorials especialitzades que
+  s'encarreguen de la gestió dels ciutadans que viuen en els seus territoris. Això
+  és un enllaç secundari a la plantilla d'organització.
+description.religion: Les religions organitzades són organitzacions especialitzades
+  que s'encarreguen dels assumptes espirituals i la gestió dels seus seguidors. Això
+  és un enllaç secundari a la plantilla d'organització.
