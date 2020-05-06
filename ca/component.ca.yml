@@ -376,3 +376,49 @@ map.presentation: Mode de presentació
 map.settings: Configuració del mapa
 map.marker.choice.type: Quina mena de marcador és?
 map.marker.choice.functionality: Què fa?
+Settings & Tools: Configuració i eines
+Community: Comunitat
+browse: Navega
+create: Crea
+parent: Matriu
+parent.item: Ítem d'on prové
+create.orgchart: Crea un organigrama
+create.template: Crea una plantilla
+create.todo: Crea una tasca
+create.new.template: Crea una nova plantilla d'article
+create.new.orgchart: Crea un nou arbre de continguts
+edit.orgchart: Edita l'arbre de continguts
+edit.orgchart.item: Modifica un ítem de l'arbre
+delete.orgchart: Elimina l'arbre de continguts
+delete.article.template: Elimina la plantilla d'article
+chart: Esquema
+orgchart: Arbre de continguts
+orgchart.structure: Estructura de l'arbre
+world.view: Mostra el món
+world.explorer: Explorador
+content: Contingut
+athena: Articles i categories
+map.pins: Marcadors de mapes
+sheets.and.blocks: Fitxes i blocs
+charts: Esquemes
+orgcharts: Arbres de contingut
+histories: Històries
+history: Història
+timelines_and_calendars: Línies del temps i calendaris
+article.templates: Plantilles d'article
+list.charts: Llista d'esquemes
+list.orgcharts: Llista d'arbres de contingut
+map.marker.draggable: Marcador mòbil
+map.marker.draggable.checkbox: Pots arrossegar i deixar anar aquest marcador.
+map.marker.draggable.description: Tots els Escriptors, Editors i propietaris del món
+  poden moure els marcadors mòbils. En fer-ho, es guarda la nova localització del
+  marcador. Aquesta opció funciona al mapa complet del mode de presentació i a l'Explorador.
+pin.tags.description: Posa totes les etiquetes que vulguis al marcador; et permetran
+  trobar-los amb més facilitat.
+pin.theme.description: Amb els temes pots filtrar entre els teus marcadors. Per exemple,
+  "Imperi Galàctic" o "Resistència".
+access.authors.advanced.writer: Escriptor avançat
+access.authors.advanced.writer.description: Crea i gestiona els teus articles independentment
+  de si són esborranys o no.<br>Això permetrà a l'escriptor continuar fent créixer
+  els seus articles.<br>És el tipus d'autor perfecte per jugador que volen contribuir
+  en la vida d'un món o una campanya.
