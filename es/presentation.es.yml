@@ -410,3 +410,6 @@ person.tenets_faith: Dogmas
 person.physical_quirks: Rasgos distintivos
 person.sensory_perception: Sentidos y percepción
 person.items_specialized_equipment: Equipamiento especializado
+person.special_abilities: Habilidades especiales
+person.clothing_apparel_accessories: 'Vestimenta y accesorios '
+person.personal_history: Historia personal
