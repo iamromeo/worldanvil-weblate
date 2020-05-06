@@ -101,3 +101,9 @@ description.secret: Las verdades ocultas, los murmullos en los callejones, las r
   temidas aún por desvelar
 country: País
 religion: Religión
+description.country: Los países son organizaciones territoriales centradas en la gestión
+  de los habitantes de sus territorios. Este es un enlace secundario a la plantilla
+  de Organización.
+description.religion: Las religiones organizadas son organizaciones especializadas
+  en asuntos espirituales y la gestión de sus seguidores. Este es un enlace secundario
+  a la plantilla de Organización.
