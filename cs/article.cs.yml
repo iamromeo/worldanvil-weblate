@@ -14,8 +14,8 @@ technology.science: Technologie (věda)
 tradition.ritual: Tradice (obřad)
 vehicle: Vozidlo
 rpg.session.report: Záznam z RPG sezení
-condition: Zdravotní stav
-formation.military: Útvar (vojenský)
+condition: Stav
+formation.military: Vojenský útvar
 myth.legend: Mýtus (pověst)
 building: Místo (budova)
 location.geographic: Místo (krajina)
@@ -90,7 +90,7 @@ description.historical.entry: Mezi historické události patří takové příb�
 description.secret: Skryté pravdy a věci šeptané ve stínech zapadlých uliček. Děsivé
   skutečnosti čekající na odhalení.
 character: Postava
-material: Materiál
+material: Zdroje
 description.ethnicity: Nikoli biologický druh, ale bytosti se společným kulturním
   původem. Nejedná se o obyvatele jednoho království, ale o skupinu se stejnými hodnotami
   a tradicemi.
