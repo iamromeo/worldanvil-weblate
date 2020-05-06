@@ -5,13 +5,13 @@ delete: Smazat
 create: Vytvořit
 search: Hledat
 search.in: Hledat ve světě
-world.create: Vytvořit svět
-world.view: Zobrazit svět
+world.create: Vytvořit nový Svět
+world.view: Zobrazit Svět
 edit.and.play: Upravit a hrát
 login: Přihlásit se
 logout: Odhlásit se
-register: Vytvořit účet
-create a new...: Vytvořit…
+register: Vytvořit nový účet
+create a new...: Vytvořit nový…
 view.map: Zobrazit mapu
 delete.map: Smazat mapu
 show: Více
@@ -28,3 +28,6 @@ update: Aktualizovat
 copy: Kopírovat
 dismiss: Zahodit
 copy.to.clipboard: Klikni pro zkopírování do schránky
+attach.to.world: Přidat ke světu
+attach: Přidat
+download.resources: Stáhnout zdroje
