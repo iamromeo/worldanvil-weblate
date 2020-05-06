@@ -569,7 +569,7 @@ rank.reports_directly_to: Informa directamente a
 report.missions_quests_completed: Misiones completadas
 report.related_reports: Informes relacionados
 report.report_date: Fecha del informe
-ritual.observance: Cumplimiento
+ritual.observance: Transcurso
 settlement.guilds_and_factions: Gremios y facciones
 settlement.inhabitant_demonym: Gentilicio
 settlement.owning_organization: Organización propietaria
@@ -640,7 +640,7 @@ species.relationship_ideals: Ideales de relaciones
 species.average_technological_level: Nivel tecnológico promedio
 species.common_dress_code: Código de vestimenta común
 species.culture_and_cultural_heritage: Cultura y herencia cultural
-species.common_customs_traditions_rituals: 'Costumbres comunes, tradiciones y rituales '
+species.common_customs_traditions_rituals: Costumbres comunes, tradiciones y rituales
 species.common_taboos: Tabúes comunes
 species.history: Historia
 species.historical_figures: Figuras historicas
@@ -684,7 +684,7 @@ vehicle.motto: Lema
 vehicle.owner: Dueño
 vehicle.price: Precio
 vehicle.rarity: Rareza
-vehicle.length: Largo
+vehicle.length: Longitud
 vehicle.beam: Manga
 vehicle.height: Altura
 vehicle.weight: Peso
