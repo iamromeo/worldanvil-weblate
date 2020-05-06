@@ -3,12 +3,12 @@ document: Dokument
 ethnicity: Etnikum
 item: Předmět
 language: Jazyk
-location.building: Místo (budova)
+location.building: Místo, budova
 organization: Organizace
 prose: Próza
 profession: Povolání
 plot: Zápletka
-rank.title: Hodnost (titul)
+rank.title: Titul
 spell: Magie
 technology.science: Technologie (věda)
 tradition.ritual: Tradice (obřad)
@@ -17,12 +17,12 @@ rpg.session.report: Záznam z RPG sezení
 condition: Stav
 formation.military: Vojenský útvar
 myth.legend: Mýtus / Legenda
-building: Místo (budova)
+building: Místo, budova
 location.geographic: Místo (krajina)
 geography: Místo (krajina)
-location.settlement: Místo (osídlení)
-settlement: Místo (osídlení)
-law: (Meta)fyzikální zákon
+location.settlement: Místo (osada)
+settlement: Místo (osada)
+law: Přírodní zákon
 species: Biologický druh
 technology: Technologie (věda)
 tradition: Tradice (obřad)
@@ -96,6 +96,6 @@ description.ethnicity: Nikoli biologický druh, ale bytosti se společným kultu
   a tradicemi.
 description.profession: Od instalatérů až po okázalé hackery a žoldáky. Různá povolání
   dodají tvému světu a jeho obyvatelům specifický nádech.
-military.conflict: Vojenský konflikt
+military.conflict: Konflikt
 country: Stát
 religion: Náboženství
