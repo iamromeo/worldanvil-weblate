@@ -446,3 +446,96 @@ plot.past_events: Sucesos pasados
 rank.appointment: Designación
 rank.accoutrements_&_equipment: Accesorios y equipamiento
 rank.equates_to: Equivalente a
+person.accomplishments_achievements: Logros y hazañas
+person.intellectual_characteristics: Características intelectuales
+person.morality_philosophy: Moral y filosofía
+person.taboos: Tabúes
+person.savvies_ineptitudes: Destrezas e ineptitudes
+person.vices_personality_flaws: 'Vicios y defectos '
+person.hygiene: Higiene
+person.social: Social
+person.family_ties: Lazos familiares
+person.religious_views: Creencias religiosas
+person.speech: Forma de hablar
+person.wealth_financial_state: Riquezas y estado financiero
+person.divine_classification: Clasificación divina
+person.alignment: Alineamiento
+person.current_location: Ubicación actual
+person.species: Especie
+person.conditions: Condiciones
+person.ethnicity: Etnia
+person.honorary_occupational_titles: Títulos honoríficos y profesionales
+person.life: Vida
+person.circumstances_of_birth: Circunstancias de nacimiento
+person.circumstances_of_death: Circunstancias de muerte
+person.birthplace: Lugar de nacimiento
+person.current_residence: Residencia actual
+person.biological_sex: 'Sexo '
+person.sexuality: Sexualidad
+person.gender_identity: Identidad de género
+person.eyes: Ojos
+person.skin: Tono de piel
+person.hair: Pelo
+person.height: Estatura
+person.weight: Peso
+person.other_affiliations: Otras afiliaciones
+person.related_myths: Mitos relacionados
+person.appears_in: Aparece en...
+person.character_prototype: 'Prototipo de personaje '
+plot.summary: Resumen
+plot.themes: Temas
+plot.structure: Estructura
+plot.exposition: Exposición
+plot.conflict: Conflicto
+plot.rising_action: Acción creciente
+plot.climax: Clímax
+plot.falling_action: Acción descendiente
+plot.resolution: Resolución
+plot.components: Componentes
+plot.goals: Objetivos
+plot.hooks: Ganchos
+plot.stakes: Riesgos
+plot.cruel_tricks: Engaños crueles
+plot.red_herrings: Pistas falsas
+plot.relations: Relaciones
+plot.protagonists: Protagonistas
+plot.allies: Aliados
+plot.competitors: Competidores
+plot.adversaries: Adversarios
+plot.backdrops: Trasfondo
+plot.threats: Amenazas
+plot.encounters: Encuentros
+plot.type: Tipo de trama
+plot.parent: Trama matriz
+plot.related_characters: Personajes relacionados
+plot.related_locations: Lugares relacionados
+plot.related_organizations: Organizaciones relacionadas
+profession.career: Carrera
+profession.career_progression: Progresión profesional
+profession.payment_&_reimbursement: Pago y reembolso
+profession.other_benefits: Otros beneficios
+profession.perception: Percepción
+profession.purpose: Propósito
+profession.social_status: Estatus social
+profession.demographics: Demografía
+profession.history: Historia
+profession.operations: Operaciones
+profession.tools: Herramientas
+profession.materials: Materiales
+profession.workplace: Lugar de trabajo
+profession.provided_services: Servicios proporcionados
+profession.alternative_names: Nombres alternativos
+profession.type: Tipo
+profession.demand: Demanda
+profession.legality: Legalidad
+rank.qualifications: Cualificaciones
+rank.requirements: Requerimientos
+rank.duties: Obligaciones
+rank.responsibilities: Responsabilidades
+rank.benefits: Beneficios
+rank.history: Historia
+rank.type: Tipo
+rank.status: Estatus
+rank.creation: Creación
+rank.source_of_authority: Fuente de autoridad
+rank.length_of_term: Duración de término
