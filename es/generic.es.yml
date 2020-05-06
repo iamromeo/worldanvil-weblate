@@ -65,3 +65,7 @@ access.activate.description: Escribe tu código de suscripción abajo para acced
 access.activate.subscription: Activar suscripción
 access.activate.code: Introducir código de activación
 access.activate.login: ¡Tienes que iniciar sesión para activar tu suscripción!
+identifier: Identificador
+studio.templates: 'Estudio del Creador: plantillas de artículo'
+theme: Tema
+publication.date: Fecha de publicación
