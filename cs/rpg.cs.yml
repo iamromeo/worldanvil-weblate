@@ -1,11 +1,11 @@
 rpg.resources: RPG zdroje
-rpg.resources.welcome.header: Vítej na stránce pro RPG zdroje World Anvil
+rpg.resources.welcome.header: Vítej na stránce s RPG zdroji pro World Anvil
 rpg.resources.welcome.intro1: Právě tady najdeš všechny materiály vytvořené komunitou
   World Anvil, a taky jakýkoliv obsah z SRD(system reference document).
 rpg.world.systems: RPG systém(y) tvého světa
 rpg.systems.list: Seznam RPG systémů
-rpg.add.to.world: Přidat RPG systém do tvého světa
+rpg.add.to.world: Přidat tento systém do tvého světa
 rpg.statblock.copy: Zkopírovat RPG materiál
 rpg.resources.welcome.intro2: Každý RPG materiál má svůj BBkód, který můžeš vložit
-  a využívat ve svém světě nebo i přímo při hře. Veškeré zdroje jsou buď chráněny
+  a využívat ve svém světě nebo přímo během hraní. Veškeré zdroje jsou buď chráněny
   autorským právem nebo sdíleny autory pro volné použití.
