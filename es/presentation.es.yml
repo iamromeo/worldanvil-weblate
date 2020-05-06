@@ -401,17 +401,17 @@ person.divine_goals_aspirations: Metas divinas y aspiraciones
 person.physical_description: Descripción física
 person.general_condition: Condición física general
 person.body_features: Características corporales
-person.facial_features: Características faciales
-person.identifying_characteristics: 'Rasgos identificativos '
+person.facial_features: Rasgos faciales
+person.identifying_characteristics: Rasgos identificativos
 organisation.notable_members: Miembros destacados
 person.holy_books_codes: Libros sagrados y códices
-person.divine_symbols_sigils: Símbolos y sellos divinos
-person.tenets_faith: Dogmas
+person.divine_symbols_sigils: Símbolos y marcas divinas
+person.tenets_faith: Dogmas de fe
 person.physical_quirks: Rasgos distintivos
 person.sensory_perception: Sentidos y percepción
 person.items_specialized_equipment: Equipamiento especializado
 person.special_abilities: Habilidades especiales
-person.clothing_apparel_accessories: 'Vestimenta y accesorios '
+person.clothing_apparel_accessories: Vestimenta y accesorios
 person.personal_history: Historia personal
 person.mental_characteristics: Características mentales
 person.failures_embarrassments: Fracasos y humillaciones
@@ -451,7 +451,7 @@ person.intellectual_characteristics: Características intelectuales
 person.morality_philosophy: Moral y filosofía
 person.taboos: Tabúes
 person.savvies_ineptitudes: Destrezas e ineptitudes
-person.vices_personality_flaws: 'Vicios y defectos '
+person.vices_personality_flaws: Vicios y defectos
 person.hygiene: Higiene
 person.social: Social
 person.family_ties: Lazos familiares
@@ -470,7 +470,7 @@ person.circumstances_of_birth: Circunstancias de nacimiento
 person.circumstances_of_death: Circunstancias de muerte
 person.birthplace: Lugar de nacimiento
 person.current_residence: Residencia actual
-person.biological_sex: 'Sexo '
+person.biological_sex: Sexo
 person.sexuality: Sexualidad
 person.gender_identity: Identidad de género
 person.eyes: Ojos
@@ -481,7 +481,7 @@ person.weight: Peso
 person.other_affiliations: Otras afiliaciones
 person.related_myths: Mitos relacionados
 person.appears_in: Aparece en...
-person.character_prototype: 'Prototipo de personaje '
+person.character_prototype: Prototipo de personaje
 plot.summary: Resumen
 plot.themes: Temas
 plot.structure: Estructura
@@ -538,9 +538,29 @@ rank.type: Tipo
 rank.status: Estatus
 rank.creation: Creación
 rank.source_of_authority: Fuente de autoridad
-rank.length_of_term: Duración de término
+rank.length_of_term: Duración del término
 person.personality_quirks: Rasgos de personalidad
 person.rpg_character_sheet: Hoja de personaje para RPG
 person.contacts_relations: Contactos y relaciones
 person.mannerisms: Manías
 person.realm: Reino
+report.characters_interacted_with: Personaje(s) con los que ha interactuado
+report.primary_location: Localización principal
+report.secondary_location: Localización secundaria
+ritual.related_location: Localización relacionada
+settlement.ruined_settlement: ASENTAMIENTO EN RUINAS
+settlement.alternative_names: Nombres alternativos
+settlement.location_under: Ubicado en
+settlement.owner_ruler: Dueño o gobernante
+species.naming_traditions: Nombres tradicionales
+species.major_organizations: Organizaciones principales
+species.major_language_groups_dialects: Familias lingüísticas principales y dialectos
+species.rpg_datasheet: Ficha RPG
+species.origin_ancestry: Origen o linaje
+species.lifespan: Esperanza de vida
+spell.related_deity_power: Deidad o poder superior relacionado
+spell.effect_duration: Duración del efecto
+spell.range: Alcance
+vehicle.weapons_armament: Armas
+vehicle.hangars_docked_vessels: Hangares y muelles
+vehicle.rpg_datasheet: Ficha RPG
