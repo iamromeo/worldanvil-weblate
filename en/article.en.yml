@@ -46,6 +46,9 @@ description.material: Raw materials, Trade Resources, Chemical elements. Anythin
 description.conflict: Wars, Battles, Sieges and Skirmishes. Generally, what happens when two sides meet each other with pointy sticks.
 description.legend: The Lore of your world. Think King Arthur, Crocodiles in the Sewers of New York or Bigfoot.
 description.organization: Kingdoms, Baronies, Churches of Gods (Organised Religion), Secret Societies, Armies of ruthless mercenaries, Knight and Wizardy Orders. Territorial and Non-territorial.
+description.country: Countries are specialized territorial organizations concerned with the management of the citizens living in their territories (This is a secondary link to the Organization Template).
+description.religion: Organized Religions are specialized organizations concerned with the spiritual matters and management of their followers (This is a secondary link to the Organization Template).
+
 description.profession: From the plumber to the extravagant hacker and sword for hire, professions define the flavour of your world and the people in it.
 description.prose: Haikus, Poems, Short stories, Chapters of your books displayed cleanly and with focus on readability.
 description.rank: King of Endor, First citizen of the Federation, Admiral of the Okabu Federation Fleet, Archmagi of Loboutas etc.

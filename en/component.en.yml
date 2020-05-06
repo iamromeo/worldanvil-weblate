@@ -1,3 +1,9 @@
+Settings & Tools: 'Settings & Tools'
+Community: 'Community'
+browse: 'Browse'
+create: 'Create'
+parent: 'Parent'
+parent.item: 'Parent Item'
 create.author.profile: 'Create Profile'
 create.block: 'Create Block'
 create.block.template: Create Block Template
@@ -7,6 +13,7 @@ create.historical.entry: 'Create Historical Entry'
 create.image: 'Create Image'
 create.player.character: 'Create Player Character'
 create.timeline: 'Create Timeline'
+create.orgchart: 'Create Organization Chart'
 create.layer: Create Layer
 create.map: 'Create Map'
 create.marker: Create Marker
@@ -18,12 +25,16 @@ create.world: 'Create World'
 create.article: 'Create Article'
 create.group: Create Group
 create.code: Create Code
+create.template: Create Template
+create.todo: Create TODO Item
 
+create.new.template: 'Create a new Article Template'
 create.new.block: 'Create a new Block'
 create.new.block.template: Create a New Block Template
 create.new.campaign: 'Create a new Campaign'
 create.new.category: 'Create a new Category'
 create.new.timeline: 'Create a new Timeline'
+create.new.orgchart: 'Create a new Content Tree'
 create.new.historical.entry: 'Create a new Historical Entry'
 create.new.era: 'Create a new Era'
 create.new.image: 'Create a new Image'
@@ -48,6 +59,8 @@ edit.historical.entry: 'Edit Historical Entry'
 edit.image: 'Edit Image'
 edit.player.character: 'Edit Player Character'
 edit.timeline: 'Edit Timeline'
+edit.orgchart: 'Edit Content Tree'
+edit.orgchart.item: 'Edit Content Tree Item'
 edit.layer: Edit Layer
 edit.map: 'Edit Map'
 edit.marker: Edit Marker
@@ -67,6 +80,7 @@ delete.historical.entry: 'Delete Historical Entry'
 delete.image: 'Delete Image'
 delete.player.character: 'Delete Player Character'
 delete.timeline: 'Delete Timeline'
+delete.orgchart: 'Delete Content Tree'
 delete.layer: Delete Layer
 delete.map: 'Delete Map'
 delete.marker: Delete Marker
@@ -75,6 +89,7 @@ delete.note: 'Delete Note'
 delete.pin: Delete Map Pin
 delete.secret: 'Delete Secret'
 delete.world: 'Delete World'
+delete.article.template: Delete Article Template
 
 view.world: 'View World'
 
@@ -92,6 +107,9 @@ historical.entry: 'Historical Entry'
 image: 'Image'
 player.character: 'Player Character'
 timeline: 'Timeline'
+chart: 'Chart'
+orgchart: 'Content Tree'
+orgchart.structure: 'Content Tree Structure'
 layer: Layer
 label: Label 
 link: Opens a New Page
@@ -101,17 +119,20 @@ marker.group: Marker Group
 note: 'Note'
 polygon: Polygon 
 popup: Opens a Popup 
-pin: Pin
 secret: 'Secret'
 tag: Tag
 world: 'World'
-group: Group 
 subscriber: Subscriber
 
 
+
 world.summary: Summary
+world.view: View World
 world.explore: Explore
+world.explorer: Explorer
+content: Content
 articles: 'Articles'
+athena: 'Articles & Categories'
 blocks: 'Blocks'
 block.templates: 'Block Templates'
 campaigns: 'Campaigns'
@@ -121,18 +142,25 @@ images: 'Images'
 player.characters: 'Player Characters'
 layers: Layers
 maps: 'Maps'
+map.pins: 'Map Pins'
+sheets.and.blocks: 'Sheets & Blocks'
 markers: Markers
 marker.groups: Marker Groups
 timelines: 'Timelines'
+charts: 'Charts'
+orgcharts: 'Content Trees'
+histories: 'Histories'
+history: 'History'
+timelines_and_calendars: Timelines & Calendars
 events: "Historical Events"
 calendars: "Calendars"
 notes: 'Notes'
-pin: Map Pins
+pin: Pin
 secrets: 'Secrets'
 tags: Tags
 worlds: 'Worlds'
 groups: Groups
-subscribers: Subscribers
+article.templates: Article Templates
 
 list.articles: 'Articles List'
 list.blocks: 'Blocks List'
@@ -148,11 +176,12 @@ list.markers: 'Markers List'
 list.marker.groups: Marker Groups List
 list.layers: 'Layers List'
 list.timelines: 'Timelines List'
+list.charts: 'Charts List'
+list.orgcharts: 'Content Trees  List'
 list.notes: 'Notes List'
 list.pins: Map Pins List
 list.secrets: 'Secrets List'
 list.worlds: 'Worlds List'
-access: 'Access Rights'
 subscribers: 'Subscribers'
 characters: 'Characters'
 followers: 'Followers'
@@ -196,7 +225,7 @@ map.thumbnail: Thumbnail Image
 map.zoom.initial: Initial Zoom Level
 map.zoom.initial.description: Set how zoomed in the map will be when its first loaded. (0 by Default)
 map.zoom.min: Minimum Allowed Zoom
-map.zoom.min.description: How far out/away you can zoom out. This is a negative multiplier. the small the number the more you will be able to zoom away. (-2 by Default)
+map.zoom.min.description: How far out/away you can zoom out. This is a negative multiplier. The smaller the number, the further away you will be able to zoom. (-2 by Default)
 map.zoom.max: Maximum Allowed Zoom
 map.zoom.max.description: How far in/deep you can zoon in. 0 means zoom to the 1:1 dimensions of the map. Anything above 0 will mean that the image will start to get blurry. (0 by Default)
 map.center.y: Initial Center point (Y Axis)
@@ -231,6 +260,10 @@ map.marker.opacityOutline: Outline Opacity
 map.marker.opacityOutline.description: The opacity % of the outline. From 0 to 100% (i.e. 50)
 map.marker.opacityFill: Fill Opacity
 map.marker.opacityFill.description: The opacity % of the area filling the circle or polygon. From 0 to 100% (i.e. 50)
+map.marker.draggable: Draggable Marker
+map.marker.draggable.checkbox: This marker is draggable.
+map.marker.draggable.description: Draggable Markers can be moved around by all Writers, Editors and owners of the world. When moved, the new location of the marker is saved. This feature is enabled on the full size map of the presentation and the explorer.
+
 map.marker.group.description: Marker groups allow you to organize your markers and map layers into categories that you can turn on and off and manage their visibility (if you are a guild member). As with layers these can be used to display different information or hide a set/group of markers from your readers if you wish.
 map.marker.group.onload: Initial Group Visibility
 map.marker.group.onload.description: Make this group visible during the initial loading of the map
@@ -253,6 +286,8 @@ map.marker.choice.functionality: What does it do?
 
 # Specific Component: Pin
 pin.pinImage: Pin Image
+pin.tags.description: Use as many words as you wish to tag your marker. These will allow you to search through them very quickly.
+pin.theme.description: Themes are a way to filter through your pin. e.g. Star Wars Empire or Star Wars Rebels etc.
 pin.shadow: Pin Shadow Image
 pin.shadow.description: The image of the shadow of the pin. This image is optional. If supplied it must be wider from the pin image and extend to its right side.
 pin.iconAnchor.description: The Anchor Point is the unique pixel point where the edge/point of contact of your pin is with the map. Normally it would be at cartesian 0X and half the pin's width Y
@@ -294,9 +329,10 @@ guild.access.map: All map on free accounts are displayed on the world homepage. 
 access.rights.notice: Groups & Subscribers functionality is only available to members of the Guild! 
 access.rights.management: Access Rights Management
 access.rights.subscribers: Subscribers
-access.rights.groups: Groups
+access.rights.groups: Subscriber Groups
 access.rights.authors: Authors
-access.rights.codes: Subscriber Access Codes
+access.rights.codes: Access Codes
+
 access.authors.management: Authors Management
 access.authors.revoke: Revoke Access
 access.authors.coowner: Co-Owner
@@ -304,7 +340,9 @@ access.authors.coowner.description: Access to everything including World configu
 access.authors.editor: Editor 
 access.authors.editor.description: Access to create, view and edit any and all content.
 access.authors.writer: Writer 
-access.authors.writer.description: Access to create articles set to Draft. Editors and above can then manager, organize and publish those articles.
+access.authors.writer.description: Access to create articles set to Draft. Editors and above can then manage, organize and publish those articles.
+access.authors.advanced.writer: Advanced Writer 
+access.authors.advanced.writer.description: Access to create and manage your articles regardless of if they are draft or not.<br>This will allow the write to continue growing their articles live on the world. <br>This is the perfect author type for players that want to contribute to a living world or campaign.
 access.authors.slots: Author Slots Used
 access.subscribers.slots: Subscriber Slots Used
 access.subscribers.purge: Purge all current Subscribers from the list before importing

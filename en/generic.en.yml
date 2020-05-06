@@ -9,7 +9,7 @@ help: Do you need Help?
 home: Home
 class: CSS Class
 class.name: CSS Class Name
-
+identifier: Identifier
 
 allies: Allies & Partners in Crime
 private.club: Private club. Guild Members only
@@ -21,6 +21,7 @@ meta.description.standard: Worldbuilding and RPG Campaign Management tools for a
 studio.homepage: Creator's Studio Homepage
 studio.pins: "Creator's Studio: Pins"
 studio.sheets: "Creator's Studio: Sheets"
+studio.templates: "Creator's Studio: Article Templates"
 studio.description.header: What's the Creator's Studio
 studio.description.text: The Creator's studio is the home of all advanced customization in World Anvil. Grandmasters, and above, will be able to create and share Character sheets, Widgets, Custom Map Markers and much more as we grow.
 
@@ -39,11 +40,13 @@ notes: Notes
 moderation: Moderation
 metadata: Metadata
 tags: Tags 
+theme: Theme
 article.template: Article template
 world: World
 category: Category
 author: Author
-creation.date: Creation Date 
+creation.date: Creation Date
+publication.date: Publication Date
 update.date: Last Update Date 
 visibility: Visibility 
 public: Public 

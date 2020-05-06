@@ -18,6 +18,7 @@ in: in # name/link of category or world
 
 timeline: Timeline
 timelines: Timelines 
+explore: Explore
 toc: "Table of Contents"
 followers: Followers 
 followers.all: "See all followers"
@@ -26,6 +27,7 @@ heroes: Heroes
 secrets: Secrets
 maps: Maps
 image.gallery: "Image Gallery"
+organization.tree: Organization Tree
 
 articles: "Articles"
 recent.articles: "Recent Articles" 
@@ -310,6 +312,7 @@ law.localization: Localization
 location.geography: Geography
 location.flora: Flora
 location.fauna: Fauna
+location.florafauna: "Fauna & Flora"
 location.natural_resources: "Natural Resources"
 # Location - Sidepanel -
 location.aternative_names: "Alternative Name(s)"
@@ -445,6 +448,7 @@ organisation.training_level: "Training Level"
 organisation.veterancy_level: "Veterancy Level"
 organisation.demonym: "Demonym"
 organisation.leader: "Leader"
+organisation.familyleader: "Family Leader"
 organisation.head_of_state: "Head of State"
 organisation.head_of_government: "Head of Government"
 organisation.government_system: "Government System"
@@ -461,6 +465,7 @@ organisation.permeated_organizations: "Permeated Organizations"
 organisation.divines: "Divines"
 organisation.location: "Location"
 organisation.official_languages: "Official Languages"
+organisation.official_religion: "Official State Religion"
 organisation.related_ranks_titles: "Related Ranks & Titles"
 organisation.controlled_territories: "Controlled Territories"
 organisation.neighboring_nations: "Neighboring Nations"
@@ -534,6 +539,8 @@ person.currently_held_titles: "Currently Held Titles"
 person.previously_held_ranks_titles: "Previously Held Ranks & Titles"
 person.life: Life
 person.year_of_birth: "Year of Birth"
+person.year_of_death: "Year of Death"
+
 person.circumstances_of_birth: "Circumstances of Birth"
 person.circumstances_of_death: "Circumstances of Death"
 person.birthplace: Birthplace
@@ -791,5 +798,5 @@ vehicle.beam: "Beam"
 vehicle.height: "Height"
 vehicle.weight: "Weight"
 vehicle.speed: "Speed"
-vehicle.complement: "Complement"
+vehicle.complement: "Complement / Crew"
 vehicle.cargo_passengers_capacity: "Cargo & Passengers Capacity"
