@@ -60,4 +60,10 @@ studio.pins: 'Tvůrčí dílna: Piny'
 studio.sheets: 'Tvůrčí dílna: Složky'
 theme: Schéma
 publication.date: Datum publikace
-access.passcode: Požadováno Heslo
+access.passcode: Požadováno heslo
+access.passcode.description: Tato stránka je chráněna heslem! Pokud máte heslo, zadejte
+  ho níže k přístupu k obsahu.
+access.activate: Aktivace odběru
+access.activate.description: Níže zadej kód odběru pro přístup k obsahu. Je to tak
+  jednoduché!
+access.activate.subscription: Aktivuj odběr
