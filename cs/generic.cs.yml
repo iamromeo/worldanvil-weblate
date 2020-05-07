@@ -1,5 +1,5 @@
 new: oznámení
-help: Nápověda
+help: Potřebuješ pomoc?
 home: Domů
 world.designer: Panel tvůrce světa
 description: Popis
@@ -54,3 +54,4 @@ access.multipass: Multipass?
 username: Uživatelské jméno
 state: Stát
 access.activate.code: Vlož aktivační klíč
+identifier: Identifikátor
