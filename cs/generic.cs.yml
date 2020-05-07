@@ -15,8 +15,8 @@ class: CSS Třídy
 class.name: Název CSS třídy
 studio.homepage: Domovská stránka Tvůrčí dílny
 studio.description.header: Co je Tvůrčí dílna
-studio.description.text: Tvůrčí studio je místem pro přizpůsobení stránek World Anvil
-  pro pokročilé uživatele. Velmistři a výše budou moci vytvářet a sdílet osobní deníky,
+studio.description.text: Tvůrčí dílna je místem pro pokročilé přizpůsobení stránek
+  World Anvil. Velmistři a výše postavení budou moci vytvářet a sdílet osobní deníky,
   widgety, vlastní značky pro mapy a mnohem více.
 public: Veřejné
 private: Soukromé
@@ -25,12 +25,12 @@ guild.required.master: Tato možnost vyžaduje Členství v cechu s úrovní Mis
 guild.required.grandmaster: Tato možnost vyžaduje Členství v cechu s úrovní Velmistr
   a vyšší.
 todo.your.list: Úkoly
-todo.status.two: Článek je zveřejněn a stále je ve vývoji.
+todo.status.two: Článek je zveřejněn a stále je ve vývoji (WIP).
 todo.status.three: Článek je dokončen!
 notes: Poznámky
 metadata: Metadata
 tags: Štítky
-article.template: Šablona pro článek
+article.template: Šablona článku
 world: Svět
 category: Kategorie
 author: Autor
@@ -41,20 +41,22 @@ open: Otevřené
 views: Zobrazení
 favorites: Oblíbené
 comments: Komentáře
-wip: Stále ve vývoji
+wip: Stále ve vývoji (WIP)
 access.description: Je nám líto ale k této stránce nemáš přístup. Článek je nejspíš
-  soukromý a ty nemáš dostatečná oprávnění k jeho zobrazení.
+  soukromý a Ty nemáš dostatečná oprávnění k jeho zobrazení.
 access.return: Vrať se, odkud jsi přišel!
 access.homepage: Přejít na domovskou stránku
-todo.status.zero: Kliknutím na název vytvoříš článek
-todo.status.one: Článek byl vytvořen, nebyl zveřejněn a je stále ve vývoji.
+todo.status.zero: Kliknutím na název vytvoříš článek!
+todo.status.one: Článek byl vytvořen, nezveřejněn a je stále ve vývoji (WIP).
 moderation: Moderace
-author.notes: Autorovy poznámky
+author.notes: Poznámky autora
 access.multipass: Multipass?
 username: Uživatelské jméno
 state: Stát
 access.activate.code: Vlož aktivační klíč
 identifier: Identifikátor
 studio.templates: 'Tvůrčí dílna: Šablony článků'
-studio.pins: 'Tvůrčí studio: Piny'
-studio.sheets: 'Tvůrčí Studio: Složky'
+studio.pins: 'Tvůrčí dílna: Piny'
+studio.sheets: 'Tvůrčí dílna: Složky'
+theme: Schéma
+publication.date: Datum publikace
