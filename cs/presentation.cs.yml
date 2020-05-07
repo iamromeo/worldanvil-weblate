@@ -35,7 +35,7 @@ article.love: Lidé, kterým se líbí tvůj článek
 article.love.return: Běž a opětuj tobě vyjádřenou lásku!
 article.likes.number: Tento článek se líbí %number% tvůrců světů
 article.visibility: Tento článek je viditelný pro tyto skupiny odběratelů
-author.notes: Autorovy poznámky
+author.notes: Poznámky autora
 players.looking: Hledám hráče
 players.full: Kampaň je plná
 authors: Autoři
@@ -162,3 +162,4 @@ formation.sidebar.type: Typ
 item.sidebar.related.technologies: Související technologie
 item.sidebar.rarity: Vzácnost
 language.alphabet: Abeceda
+heroes: Hrdinové
