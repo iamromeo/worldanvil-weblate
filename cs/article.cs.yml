@@ -17,7 +17,7 @@ rpg.session.report: Zpráva ze sezení
 condition: Stav
 formation.military: Vojenský útvar
 myth.legend: Mýtus / Legenda
-building: Místo, budova
+building: Místo, stavba
 location.geographic: Lokace, Zeměpisná
 geography: Krajina
 location.settlement: Místo, osada
@@ -58,37 +58,37 @@ description.organization: Království, baronství, církve (a další organizov
   tajné společnosti, skupiny nemilosrdných žoldnéřů nebo rytířské a kouzelnické řády.
   Mohou být navázané na určité území ale nemusí.
 description.prose: Haiku, básně, povídky a kapitoly knih zobrazené v jednoduché formě
-  zaměřené na čitelnost textu.
-description.rank: Král Endoru, prezident federace, admirál loďstva Okabské federace,
+  zaměřené na srozumitelnost a čitelnost textu.
+description.rank: Král Endoru, prezident Federace, admirál flotily Okabské federace,
   arcimág z Loboutasu apod.
 description.report: Záznamy z her na hrdiny (RPG) slouží k udržování přehledu v poznámkách
-  o tom, co se stalo během poslední hry. Pomůžou ti pak při přípravě té další.
-description.settlement: Od těch nejmenších vesniček až po ty nejživější obrovské vesmírné
-  stanice
+  o tom, co se stalo během poslední hry. Pomůžou Ti pak při přípravě té další.
+description.settlement: Od těch nejmenších vesniček až po ty nejživější gigantické
+  vesmírné stanice
 description.species: Sem patří zvířata, rostliny ale také inteligentní bytosti včetně
   lidí, elfů a mimozemšťanů
 description.spell: Zaklínadla, rituály, psionika a superschopnosti!
 description.plot: Zápletky mohou popisovat hlavní děj, jednání (akt), scénu nebo jinou
   část tvého příběhu. Můžeš je použít jak pro psaný text, tak pro osnovu RPG kampaně.
-description.technology: Vědní obory a technika, od vzniku zemědělství až po parní
+description.technology: Vědní obory a technika, od vynálezu zemědělství až po parní
   stroje a laserové zbraně
 description.tradition: Různé zvyky, tradice a obřady. Patří sem oslavy sklizně, svátky
-  a významné dny ale také třeba tajné pozdravy a kolik polibků patří na jakou tvář.
+  a významné dny, ale také třeba tajné pozdravy a kolik polibků patří na jakou tvář.
 description.vehicle: Dinosaury připomínající dvounožci, plachetnice, létající pirátské
   lodě nebo vesmírná plavidla. Může to být typ dopravního prostředku nebo konkrétní
   exemplář.
 description.category: Kategorie ti pomohou uspořádat a rozčlenit obsah tvého světa.
   Podobně jako kapitoly v knize.
-description.image: Říká se, že obrázek vydá za tisíc slov. Doslova ti celkový počet
-  slov nezvedne, ale co.
+description.image: Říká se, že obrázek vydá za tisíc slov. Teda, celkový počet slov
+  nezvedne, ale co.
 description.map: Mapy se dají využít k zobrazení podoby tvého světa, ale také jako
   alternativní způsob orientace.
-description.timeline: Časové osy ti pomohou vytvořit příběh tvého světa a popsat jednotlivé
+description.timeline: Časové osy ti pomohou vytvořit příběh Tvého světa a popsat jednotlivé
   události, které mu daly jeho podobu.
 description.historical.entry: Mezi historické události patří takové příběhy, které
-  lze zařadit do Historie s velkým "há". Jsou to mimořádné okamžiky či období ve vývoji
-  tvého světa, které mají na svědomí jeho současnou podobu.
-description.secret: Skryté pravdy a věci šeptané ve stínech zapadlých uliček. Děsivé
+  lze zařadit do Historie s velkým "Há". Jsou to mimořádné okamžiky či období ve vývoji
+  Tvého světa, které mají na svědomí jeho současnou podobu.
+description.secret: Skryté pravdy, věci šeptané ve stínech zapadlých uliček. Děsivé
   skutečnosti čekající na odhalení.
 character: Postava
 material: Zdroje
