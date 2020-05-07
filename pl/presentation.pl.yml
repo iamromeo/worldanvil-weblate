@@ -280,3 +280,7 @@ location.geography: Geografia
 location.flora: Flora
 location.fauna: Fauna
 location.natural_resources: Surowce naturalne
+campaign.lore: Fabuła
+law.type: Rodzaj
+location.type: Rodzaj
+location.related_myths: Powiązane mity
