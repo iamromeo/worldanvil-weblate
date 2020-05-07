@@ -20,7 +20,7 @@ organization: Szervezet
 prose: Próza
 profession: Foglalkozás
 plot: Cselekmény
-rank.title: Titulus
+rank.title: Cím
 species: Faj
 spell: Varázslat
 technology.science: Technológia/ Tudomány
@@ -31,7 +31,7 @@ vehicle: Jármű
 rpg.session.report: Játék Jelentés
 rpg.report: Játék Jelentés
 description.building: '... vagy Látványosság. Csodák, természetes vagy ember keze
-  által épített, romok, dungeonök, templomok, nagy fák, Kovácsműhely, Fogadó, Kastély.
+  által épített, romok, tömlöcök, templomok, nagy fák, Kovácsműhely, Fogadó, Kastély.
   Bármi, amit az emberek elég fontosnak tartanak ahhoz, hogy elnevezzék.'
 description.character: Királyoktól és Királynéktól hősökig, parasztokig, és Istenekig.
 description.condition: Természetes és Mágikus Kórok, Betegségek, Mutációk és Változások.
@@ -101,3 +101,5 @@ country: Ország
 religion: Vallás
 description.country: Az országok olyan területi szerveződések, melyek fő feladata
   a benne élő lakosainak irányítása (ez egy másodlagos link a Szervezeti Sablonhoz).
+description.religion: A szervezett vallások olyasféle szervezetek, melyek a híveik
+  spirituális és egyéb irányításával foglalatoskodnak (ez része a Szervezeti Sablonnak).
