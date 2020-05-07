@@ -54,9 +54,9 @@ todo.list: Teendők
 join.guild: CSATLAKOZZ A CÉHHEZ!
 join.guild.description: ÉRD EL AZ ÖSSZES FUNKCIÓT! Segíts a World Anvil világépítő
   eszközkészlet fenntartásában és növekedésében!
-account.subscription: Feliratkozásod
+account.subscription: Feliratkozás
 feature.suggest: Van egy ötleted?
-team: Csapat
+team: Csapatunk
 hiring: MUNKATÁRSAKAT KERESÜNK
 accessibility: Hozzáférés
 badges: Kitűzők
@@ -64,3 +64,38 @@ characters: Karakterek
 join.discord: Inspirálódj, kapj meg MINDEN támogatást!
 join.codex: World Anvil Dokumentáció Kódex
 browse: Böngészés
+advertising: Reklámozás
+sponsoring: Szponzorálás
+character.profile: Karakter Profil
+character.profiles: Karakter Profilok
+character.view.profile: Profil Megtekintése
+character.edit.profile: Profil Szerkesztése
+character.view.sheet: Lap Megtekintése
+character.edit.extended: Kibővített Profil Szerkesztése
+character.privacy: Adatvédelem
+character.display: Megjelenítés
+worlds: Világok
+world.view: Világ Megtekintése
+settings: Beállítások
+account: Felhasználói Adatok
+public.profile: Nyilvános Profil
+aacount: Felhasználó
+campaign: Kampány
+campaign.npcs: NPC-k
+campaign.primer: Primer
+campaign.page: Kampány Megtekintése
+campaign.settings: Beállítások
+news: Híreink
+images_and_files: Képek & Fájlok
+statblocks: Statblokkok
+your.statblocks: Statblokkjaid
+community.statblocks: Közösségi Statblokkok
+homepage: Főoldal
+followed_worlds: Követett Világok
+your_reading_list: Olvasólistád
+stream: Közvetítés
+gear_and_gifts: Felszerelés & Ajándékok
+documentation: Dokumentáció
+report_bug: Bug jelentése
+suggest_feature: Funkció Javaslat
+ask_question: Kérdezz
