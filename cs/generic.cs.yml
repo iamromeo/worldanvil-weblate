@@ -9,12 +9,12 @@ title: Název
 weight: Důležitost
 allies: Komplicové
 private.club: Soukromý klub. Pouze pro členy Cechu tvůrců světů (WBG)
-meta.description.standard: Nástroje správy tvoření světů a RPG kampaní pro všechny
-  vypravěče, pány jeskyně a spisovatele
+meta.description.standard: Nástroje správy pro světů a RPG kampaní pro všechny vypravěče,
+  pány jeskyně a spisovatele
 class: CSS Třídy
 class.name: Název CSS třídy
-studio.homepage: Domovská stránka tvůrčího studia
-studio.description.header: Co je tvůrčí studio
+studio.homepage: Domovská stránka Tvůrčí dílny
+studio.description.header: Co je Tvůrčí dílna
 studio.description.text: Tvůrčí studio je místem pro přizpůsobení stránek World Anvil
   pro pokročilé uživatele. Velmistři a výše budou moci vytvářet a sdílet osobní deníky,
   widgety, vlastní značky pro mapy a mnohem více.
@@ -55,3 +55,4 @@ username: Uživatelské jméno
 state: Stát
 access.activate.code: Vlož aktivační klíč
 identifier: Identifikátor
+studio.templates: 'Tvůrčí dílna: Šablony článků'
