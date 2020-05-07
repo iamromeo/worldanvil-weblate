@@ -14,15 +14,15 @@ profile: Profil
 interface.settings: Rozhraní a přístupnost
 account.details: Nastavení účtu
 announcements: Oznámení
-world.select: Vybrat svět
-world.summary: Přehled světa
+world.select: Vybrat Svět
+world.summary: Přehled Světa
 world.goto: Přejít na...
-world.configure: Nastavení světa
+world.configure: Nastavení Světa
 configuration: Nastavení
 welcome: Vítej
 saved.articles: Uložené články
 notifications: Oznámení
-world.browse: Procházet světy
+world.browse: Procházet Světy
 campaign.home: Domů
 campaign.sessions: Sezení
 campaign.plots: Zápletky
@@ -34,28 +34,28 @@ privacy: Soukromí
 tos: Smluvní podmínky
 contact: Kontakt
 progress: Vývoj
-our.patrons: Naši patroni
+our.patrons: Naši podporovatelé
 etiquette: Etiketa
-News & Updates: Novinky & aktualizace
+News & Updates: Novinky a aktualizace
 Search for Articles, Worlds & Users: Hledat články, světy a uživatele
 All Rights Reserved: Veškerá práva vyhrazena
 toggle: Rozbalovací nabídka
-your.stream: Sledované světy
+your.stream: Sledované Světy
 campaign.corkboard: Nástěnka
 copyright: Autorská práva
 dashboard: Nástěnka
 need.help: Potřebuješ pomoc?
-i am an author: Jsem spisovatelem
+i am an author: Jsem spisovatel
 Go to Dashboard: Zpět na Hlavní stránku
-i am a gamemaster: Jsem pánem jeskyně
-i am an artist: Jsem umělcem
-studio: Studio
+i am a gamemaster: Jsem Pánem jeskyně
+i am an artist: Jsem umělec
+studio: Dílna
 todo.list: Seznam úkolů
 join.guild: PŘIDEJ SE DO CECHU!
 account.subscription: Předplatné
 feature.suggest: Navrhni funkci
-team: Tým
-hiring: HLEDÁME NOVÉ ZAMĚSTNANCE
+team: Náš tým
+hiring: NABÍRÁME
 browse: Procházet
 advertising: Propagace
 sponsoring: Sponzoring
@@ -79,3 +79,23 @@ account: Detaily účtu
 public.profile: Veřejný profil
 aacount: Účet
 badges: Odznaky
+campaign: Kampaň
+campaign.npcs: NPC postavy
+campaign.primer: Primer
+campaign.page: Zobrazit kampaň
+campaign.settings: Nastavení
+accessibility: Přístupnost
+news: Novinky
+images_and_files: Obrázky a soubory
+statblocks: Statbloky
+your.statblocks: Tvoje Statbloky
+community.statblocks: Statbloky komunity
+homepage: Hlavní strana
+followed_worlds: Světy co sleduješ
+your_reading_list: Seznam četby
+stream: Stream
+gear_and_gifts: Vybavení a dárky
+documentation: Dokumentace
+report_bug: Nahlas chybu
+suggest_feature: Navrhni zlepšení
+ask_question: Zeptej se na otázku
