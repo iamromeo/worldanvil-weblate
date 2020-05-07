@@ -1,1 +1,5 @@
-{}
+manuscripts: Kéziratok
+manuscripts.list: Kéziratlisták
+manuscript.edit: Kézirat Szerkesztése
+manuscript.view: Kézirat Megtekintése
+manuscript.delete: Kézirat Törlése
