@@ -1,5 +1,5 @@
 new: oznámení
-help: Nápověda
+help: Potřebuješ pomoc?
 home: Domů
 world.designer: Panel tvůrce světa
 description: Popis
@@ -7,7 +7,7 @@ status: Stav
 meta.title.standard: Správa tvoření světů a RPG kampaní | World Anvil
 title: Název
 weight: Důležitost
-allies: Spolupachatelé
+allies: Komplicové
 private.club: Soukromý klub. Pouze pro členy Cechu tvůrců světů (WBG)
 meta.description.standard: Nástroje správy tvoření světů a RPG kampaní pro všechny
   vypravěče, pány jeskyně a spisovatele
@@ -54,3 +54,4 @@ access.multipass: Multipass?
 username: Uživatelské jméno
 state: Stát
 access.activate.code: Vlož aktivační klíč
+identifier: Identifikátor

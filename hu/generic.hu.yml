@@ -24,16 +24,16 @@ guild.required.master: Ehhez a funkcióhoz legalább Mester rangú Céhtagnak ke
 guild.required.grandmaster: Ehhez a funkcióhoz legalább Nagymester rangú Céhtagnak
   kell lenned.
 todo.your.list: Teendők
-todo.status.zero: Kattints a címre hogy Létrehozd a Cikket!
-todo.status.one: A cikk létrehozva, Publikálatlan, és még mindig Átdolgozás Alatt
+todo.status.zero: Kattints a címre hogy Létrehozd a Bejegyzést!
+todo.status.one: A bejegyzés létrehozva, Publikálatlan, és még mindig Átdolgozás Alatt
   áll
-todo.status.two: A cikk publikálva, és még mindig Átdolgozás Alatt áll
-todo.status.three: A cikk befejezve!
+todo.status.two: A bejegyzés publikálva, és még mindig Átdolgozás Alatt áll
+todo.status.three: A bejegyzés befejezve!
 notes: Jegyzetek
 moderation: Moderáció
 metadata: Metaadatok
 tags: Címkék
-article.template: Cikk sablon
+article.template: Bejegyzés sablon
 world: Világ
 category: Kategória
 author: Szerző
