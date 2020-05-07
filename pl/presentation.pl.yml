@@ -301,3 +301,6 @@ military_conf.battlefield_type: Rodzaj pola bitwy
 military_conf.conflict_result: Wynik Konfliktu
 military_conf.belligerents: Strony konfliktu
 military_conf.led_by: Dowodzone przez
+military_conf.location: Lokalizacja
+myth.summary: Podsumowanie
+myth.historical_basis: Podstawa historyczna
