@@ -99,3 +99,5 @@ description.secret: A rejtett igazságok, a suttogások a sikátorok közt, a re
   valók miket föl kell tárni
 country: Ország
 religion: Vallás
+description.country: Az országok olyan területi szerveződések, melyek fő feladata
+  a benne élő lakosainak irányítása (ez egy másodlagos link a Szervezeti Sablonhoz).
