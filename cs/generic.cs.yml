@@ -25,7 +25,7 @@ guild.required.master: Tato možnost vyžaduje Členství v cechu s úrovní Mis
 guild.required.grandmaster: Tato možnost vyžaduje Členství v cechu s úrovní Velmistr
   a vyšší.
 todo.your.list: Úkoly
-todo.status.two: Článek je zveřejněn a stále je ve vývoji (WIP).
+todo.status.two: Článek je zveřejněn a stále je ve vývoji (WIP)
 todo.status.three: Článek je dokončen!
 notes: Poznámky
 metadata: Metadata
@@ -47,7 +47,7 @@ access.description: Je nám líto ale k této stránce nemáš přístup. Člán
 access.return: Vrať se, odkud jsi přišel!
 access.homepage: Přejít na domovskou stránku
 todo.status.zero: Kliknutím na název vytvoříš článek!
-todo.status.one: Článek byl vytvořen, nezveřejněn a je stále ve vývoji (WIP).
+todo.status.one: Článek byl vytvořen, nezveřejněn a je stále ve vývoji (WIP)
 moderation: Moderace
 author.notes: Poznámky autora
 access.multipass: Multipass?
