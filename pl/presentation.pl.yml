@@ -280,3 +280,20 @@ location.geography: Geografia
 location.flora: Flora
 location.fauna: Fauna
 location.natural_resources: Surowce naturalne
+campaign.lore: Fabuła
+law.type: Rodzaj
+location.type: Rodzaj
+location.related_myths: Powiązane mity
+campaign.lore_and_cast: Fabuła i Obsada
+location.owner_ruler: Właściciel/Władca
+location.related_reports_primary: Powiązane raporty (Główne)
+location.related_reports_secondary: Powiązane raporty (Drugorzędne)
+military_conf.the_conflict: Konflikt
+military_conf.historical_significance: Znaczenie Historyczne
+military_conf.legacy: Dziedzictwo
+military_conf.in_literature: W literaturze
+military_conf.techological_advancement: Postęp technologiczny
+military_conf.conflict_type: Rodzaj Konfliktu
+location.location_under: Znajduje się w
+location.included_locations: Uwzględnione Lokalizacje
+location.included_organizations: Uwzględnione Organizacje
