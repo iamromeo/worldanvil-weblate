@@ -173,7 +173,7 @@ edit.pin: Térkép Jelzés Szerkesztése
 delete.pin: Térkép Jelzés Törlése
 polygon: Poligon
 popup: Megnyit egy Felugró Ablakot
-pin: Térkép Jelzések
+pin: Jelzés
 list.pins: Térkép Jelzéslista
 map.compass: Iránytű Képe
 map.compass.description: Válassz ki egy képet a térképed iránytűjének a térkép jobb
@@ -297,7 +297,7 @@ master.feature: Ez egy Mester+ szintű exkluzív funkció. Csatlakozz a  <a clas
   text-pink" href="/worldbuilders-guild-membership">1Világalkotók Céhébe Guild</a>2
   , hogy használhasd ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
 create.block.template: Blokk Sablon Létrehozása
-create.new.block.template: Új Blokk Sablon Létrehozása
+create.new.block.template: Új Sablon Blokk Létrehozása
 edit.block.template: Blokk Sablon Szerkesztése
 delete.block.template: Blokk Sablon Törlése
 block.template: Blokk Sablon
@@ -311,7 +311,7 @@ groups: Csoportok
 list.subscribers: Feliratkozók
 access.rights.management: Hozzáférési Engedély Kezelés
 access.rights.subscribers: Feliratkozók
-access.rights.groups: Csoportok
+access.rights.groups: Feliratkozói Csoportok
 access.rights.authors: Szerzők
 access.authors.management: Szerzők Kezelése
 access.authors.revoke: Hozzáférés Visszavonása
@@ -339,7 +339,7 @@ view.world: Világ Megtekintése
 deete.code: Kód Törlése
 access.rights.notice: A Csoportok és Feliratkozók funkció csak a Céhtagoknak érhető
   el!
-access.rights.codes: Feliratkozó Hozzáférési Kódok
+access.rights.codes: Hozzáférési Kódok
 access.authors.coowner.description: Hozzáférés mindenhez, kezdve a Világ konfigurációktól
   a CSS és Hozzáférés-kezelésig.
 access.authors.editor.description: Hozzáférés bármely tartalom létrehozásához, megtekintéséhez,
@@ -367,3 +367,50 @@ map.presentation: Prezentáció Mód Megnyitása
 map.settings: Térkép Beállítások
 map.marker.choice.type: Milyen fajta jelölés ez?
 map.marker.choice.functionality: Mit csinál?
+Settings & Tools: Beállítások & Eszközök
+Community: Közösség
+browse: Böngészés
+create: Létrehozás
+parent: Fő Bejegyzés
+parent.item: Fő Elem
+create.orgchart: Szervezeti Táblázat Létrehozása
+create.template: Sablon Létrehozása
+create.todo: Teendő Létrehozása
+create.new.template: Új Bejegyzés Sablon Létrehozása
+create.new.orgchart: Új Tartalomfa Létrehozása
+edit.orgchart: Tartalomfa Szerkesztése
+edit.orgchart.item: Tartalomfa elemének Szerkesztése
+delete.orgchart: Tartalomfa Törlése
+delete.article.template: Bejegyzés Sablon Törlése
+chart: Táblázat
+orgchart: Tartalomfa
+orgchart.structure: Tartalomfa Felépítése
+world.view: Világ Megtekintése
+world.explorer: Felfedező
+content: Tartalom
+athena: Bejegyzések & Kategóriák
+map.pins: Térkép Jelzők
+sheets.and.blocks: Lapok & Blokkok
+charts: Táblázatok
+orgcharts: Tartalomfák
+histories: Történetek
+history: Történelem
+timelines_and_calendars: Idővonalak & Naptárak
+article.templates: Bejegyzés Sablonok
+list.charts: Táblázat Lista
+list.orgcharts: Tartalomfák Listája
+map.marker.draggable: Mozgatható Jelző
+map.marker.draggable.checkbox: Ez a jelző mozgatható.
+map.marker.draggable.description: A mozgatható jelzőket az összes író, szerző, és
+  világtulajdonos mozgathatja. Ha megmozdítják, az új helyzete mentésre kerül. Ezt
+  a teljes méretű térképeknél lehet megtenni a prezentáció és felfedezés alatt.
+pin.tags.description: Használj annyi szót amennyit akarsz a jelződ megnevezésére.
+  Ezzel gyorsabban keresheted meg őket.
+pin.theme.description: 'A témák jelzők szűrésére alkalmasak. P.l.: Star Wars Birodalom
+  vagy Star Wars Lézadók stb.'
+access.authors.advanced.writer: Fejlett Szövegszerkesztő
+access.authors.advanced.writer.description: Hozzáférés a bejegyzések létrehozására
+  és kezelésére, függetlenül attól, hogy vázlatok-e vagy sem. <br>Ez lehetővé teszi
+  az íróknak, hogy hozzájáruljanak a még élő bejegyzésekhez.<br> Ez a legjobb szerzői
+  hozzáférés azon játékosoknak, akik szeretnének hozzáadni egy élő világhoz, vagy
+  kampányhoz.
