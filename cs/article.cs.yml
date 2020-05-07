@@ -10,48 +10,49 @@ profession: Povolání
 plot: Zápletka
 rank.title: Titul
 spell: Magie
-technology.science: Technologie (věda)
-tradition.ritual: Tradice (obřad)
+technology.science: Technologie / Věda
+tradition.ritual: Tradice / Obřad
 vehicle: Vozidlo
-rpg.session.report: Záznam z RPG sezení
+rpg.session.report: Zpráva ze sezení
 condition: Stav
 formation.military: Vojenský útvar
 myth.legend: Mýtus / Legenda
 building: Místo, budova
 location.geographic: Lokace, Zeměpisná
 geography: Krajina
-location.settlement: Místo (osada)
-settlement: Místo (osada)
+location.settlement: Místo, osada
+settlement: Místo, osada
 law: Přírodní zákon
-species: Živočišný druh
-technology: Technologie (věda)
-tradition: Tradice (obřad)
-rpg.report: RPG záznam
-description.building: '... nebo jiný významný orientační bod. Přírodní divy i ty postavené;
+species: Druh
+technology: Technologie / Věda
+tradition: Tradice / Obřad
+rpg.report: Zpráva ze sezení
+description.building: '... nebo jiný významný orientační bod. Divy, přírodní i umělé,
   ruiny, podzemní prostory, chrámy, památné stromy, kovárny, hostince či hrady. Cokoli
   co si zaslouží vlastní jméno a můžeš to ukázat na mapě.'
 description.character: Od králů a královen až po hrdiny, venkovany a bohy.
 description.condition: Přirozené i nadpřirozené nemoci, choroby, mutace a proměny.
 description.document: Smlouvy, knihy, umělecká díla, příručky, průvodce, prohlášení
-  a další!
-description.formation: Modely různých bojových útvarů. Jak vypadají tvoje legie, falangy,
+  a mnohem víc!
+description.formation: Typy různých bojových útvarů. Jak vypadají tvoje legie, falangy,
   šermíři, kopiníci a rytíři? Jaké je jejich vybavení a taktika?
 description.generic: Obecné články se dají využít pro jakýkoli doprovodný obsah, jako
-  jsou vlastní RPG pravidla, různé úvody ke kapitolám, příběhům a dalším textům, apod.
+  jsou vlastní RPG pravidla, úvody ke kapitolám, příběhům, dalším textům, apod.
 description.geography: Geografie světů a vesmírů. Patří sem galaxie, sluneční systémy,
-  planety, pohoří, údolí, moře, bažiny, jezera a veškerá další místa.
+  planety, pohoří, údolí, moře, bažiny a jezera. Jedná se o veškerá další zeměpisná
+  místa.
 description.item: Předměty každodenní potřeby, peníze, nástroje, zbraně a zbroje;
   od těch nejběžnějších až po ty nejvzácnější
-description.law: Možná že ve tvém světě gravitace funguje trochu jinak, vzduch je
-  plný magie, nebo světlo cestuje pomaleji. Sem patří jakýkoli přirozený i nadpřirozený
-  přírodní či fyzikální zákon.
+description.law: Možná, že ve tvém světě gravitace funguje trochu jinak, nebo je vzduch
+  plný magie, nebo světlo cestuje pomaleji. Sem patří jakýkoli přirozený či nadpřirozený
+  přírodní a fyzikální zákon.
 description.language: Způsoby jakými se inteligentní bytosti ve tvém světě dorozumívají
   a vzájemně si vyměňují svoje představy a myšlenky.
-description.material: Suroviny, přírodní zdroje a chemické prvky. Cokoli od mithrilu
-  a adamantia až po uran a nezískatelnium 2000.
-description.conflict: Války, bitvy, obléhání a jiné potyčky. Obecně cokoli kde se
-  střetnou nějaké dvě strany a každá z nich drží něco ostrého.
-description.legend: Sem patří folklór tvého světa. Věci podobné králi Artušovi a jeho
+description.material: Suroviny, obchodní zboží a chemické prvky. Cokoli od Mithrilu
+  a Adamantia po Uran a Unobtanium 2000.
+description.conflict: Války, bitvy, obléhání a jiné potyčky. Obecně, cokoli kde se
+  střetnou dvě strany a každá z nich drží něco ostrého.
+description.legend: Sem patří folklór Tvého světa. Věci podobné králi Artušovi a jeho
   rytířům, krokodýlům ve stokách New Yorku nebo třeba yettimu.
 description.organization: Království, baronství, církve (a další organizovaná náboženství),
   tajné společnosti, skupiny nemilosrdných žoldnéřů nebo rytířské a kouzelnické řády.
@@ -99,3 +100,7 @@ description.profession: Od instalatérů až po okázalé hackery a žoldáky. R
 military.conflict: Konflikt
 country: Stát
 religion: Náboženství
+description.country: Státy jsou specializované uzemní celky se zájmem o blaho občanů
+  žijících na jejich území (Je to druhotný odkaz na šablonu Organizace).
+description.religion: Církve jsou specializované organizace zajímající se o spirituální
+  záležitosti svých následovníků (Je to druhotný odkaz na šablonu Církve).
