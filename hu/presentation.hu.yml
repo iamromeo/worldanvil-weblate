@@ -59,7 +59,7 @@ author.comments: Megjegyzések & Visszajelzések
 author.worlds: Világok
 author.characters: Karakterek
 author.badges: Kitűzők & Medálok
-history: Előzmények
+history: Történelem
 type: Típus
 condition.transmission: Terjedési mód & Terjesztők
 condition.causes: Kiváltó okok
@@ -369,7 +369,7 @@ organisation.alternative_names: Alternatív Megnevezések
 organisation.formation_type: Formáció Típusa
 organisation.training_level: Kiképzés Szintje
 organisation.veterancy_level: Tapasztaltság Szintje
-organisation.demonym: Jelzők
+organisation.demonym: Földrajzi származás
 organisation.leader: Vezető
 organisation.head_of_state: Államfő
 organisation.head_of_government: Kormányfő
@@ -425,7 +425,7 @@ person.taboos: Tabuk
 person.personality_characteristics: Személyiségi Jellemzők
 person.motivation: Motiváció
 person.savvies_ineptitudes: Jártasságok & Alkalmatlanságok
-person.likes_dislikes: Kedvelések & Nem kedvelések
+person.likes_dislikes: Mit szeret mit nem
 person.virtues_personality_perks: Erények & Érdekességek
 person.vices_personality_flaws: Bűnök & Hibák
 person.personality_quirks: Személyiségi Furcsaságok
@@ -687,5 +687,11 @@ vehicle.beam: Szélesség
 vehicle.height: Magasság
 vehicle.weight: Súly
 vehicle.speed: Sebesség
-vehicle.complement: Szükséges Legénység
+vehicle.complement: Legénység
 vehicle.cargo_passengers_capacity: Rakomány- & Utaskapacitás
+explore: Felfedezés
+organization.tree: Szervezeti Fa
+location.florafauna: Flóra & Fauna
+organisation.familyleader: Családfő
+organisation.official_religion: Hivatalos Államvallás
+person.year_of_death: Halálozás Éve

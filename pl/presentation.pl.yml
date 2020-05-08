@@ -189,7 +189,7 @@ document.modal.close: Zamknij
 document.article.medium: Medium
 document.article.expirationdate: Data wygaśnięcia
 document.article.myth: Mit
-document.article.location: Miejsce
+document.article.location: Lokalizacja
 document.article.authors: Autorzy
 document.article.signatoriescharacters: Podpisujący (Postacie)
 document.article.signatoriesorganizations: Podpisujący (Organizacje)
@@ -293,7 +293,14 @@ military_conf.historical_significance: Znaczenie Historyczne
 military_conf.legacy: Dziedzictwo
 military_conf.in_literature: W literaturze
 military_conf.techological_advancement: Postęp technologiczny
-military_conf.conflict_type: Rodzaj Konfliktu
+military_conf.conflict_type: Rodzaj konfliktu
 location.location_under: Znajduje się w
 location.included_locations: Uwzględnione Lokalizacje
 location.included_organizations: Uwzględnione Organizacje
+military_conf.battlefield_type: Rodzaj pola bitwy
+military_conf.conflict_result: Wynik Konfliktu
+military_conf.belligerents: Strony konfliktu
+military_conf.led_by: Dowodzone przez
+military_conf.location: Lokalizacja
+myth.summary: Podsumowanie
+myth.historical_basis: Podstawa historyczna
