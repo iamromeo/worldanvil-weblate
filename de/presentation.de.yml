@@ -661,3 +661,4 @@ spell.related_element: Zugehöriges Element
 spell.effect_duration: Effekt Dauer
 spell.effect_casting_time: Zauberzeit
 spell.range: Reichweite
+spell.level: Level
