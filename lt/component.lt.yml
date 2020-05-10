@@ -47,3 +47,82 @@ create.world: Kurti pasaulį
 create.article: Kurti straipsnį
 create.group: Kurti grupę
 browse: Naršyti
+Settings & Tools: Nustatymai ir įrankiai
+Community: Bendruomenė
+create: Kurti
+parent: Viršesnis
+parent.item: Pirmaeilis daiktas
+create.orgchart: Kurti organizacinę schemą
+create.code: Kurti kodą
+create.template: Kurti šabloną
+create.todo: Kurti užduotį
+create.new.template: Kurti naują straipsnio šabloną
+create.new.block: Kurti naują bloką
+create.new.block.template: Kurti naują bloko šabloną
+create.new.orgchart: Kurti naują turinio medį
+create.new.pin: Kurti naują žemėlapio „pin'ą“
+edit.author.profile: Redaguoti profilį
+edit.block: Redaguoti bloką
+edit.block.template: Redaguoti bloko šabloną
+edit.campaign: Redaguoti kampaniją
+edit.category: Redaguoti kategoriją
+edit.historical.entry: Redaguoti istorinį įvykį
+edit.image: Redaguoti iliustraciją
+edit.player.character: Redaguoti žaidėjo veikėją
+edit.timeline: Redaguoti laiko juostą
+edit.orgchart: Redaguoti turinio medį
+edit.orgchart.item: Redaguoti turinio medžio daiktą
+edit.layer: Redaguoti sluoksnį
+edit.marker: Redaguoti žymeklį
+edit.marker.group: Redaguoti žymeklių grupę
+edit.note: Redaguoti užrašą
+edit.pin: Redaguoti žemėlapio „pin'ą“
+edit.secret: Redaguoti paslaptį
+edit.world: Redaguoti pasaulį
+edit.group: Redaguoti grupę
+delete.author.profile: Trinti profilį
+delete.block: Trinti bloką
+delete.block.template: Trinti bloko šabloną
+delete.campaign: Trinti kampaniją
+delete.category: Trinti kategoriją
+delete.historical.entry: Trinti istorinį įvykį
+delete.image: Trinti iliustraciją
+delete.player.character: Trinti žaidėjo veikėją
+delete.timeline: Trinti laiko juostą
+delete.orgchart: Trinti turinio medį
+delete.layer: Trinti sluoksnį
+delete.marker: Trinti žymeklį
+delete.marker.group: Trinti žymeklių grupę
+delete.note: Trinti užrašą
+delete.pin: Trinti žemėlapio „pin'ą“
+delete.secret: Trinti paslaptį
+delete.world: Trinti pasaulį
+delete.article.template: Trinti straipsnio šabloną
+view.world: Peržiūrėti pasaulį
+delete.group: Trinti grupę
+deete.code: Trinti kodą
+author.profile: Profilis
+block: Blokas
+block.template: Bloko šablonas
+campaign: Kampanija
+circle: Apskritimas
+line: Linija
+historical.entry: Istorinis įvykis
+image: Iliustracija
+player.character: Žaidėjo veikėjas
+chart: Diagrama
+orgchart: Turinio medis
+orgchart.structure: Turinio medžio struktūra
+layer: Sluoksnis
+label: Žyma
+link: Atidaro naują puslapį
+map: Žemėlapis
+marker: Žymeklis
+marker.group: Žymeklių grupė
+note: Pastaba
+polygon: Daugiakampis
+popup: Atidaro iššokančiame lange
+secret: Paslaptis
+tag: Žyma
+subscriber: Prenumeratorius
+world.summary: Santrauka

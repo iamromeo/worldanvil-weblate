@@ -232,12 +232,12 @@ pin.pinImage: Obrázek špendlíku
 pin.shadow: Obrázek stínu špendlíku
 functionality: Funkčnost
 pin.iconAnchor.description: Kotva určuje speciální pixel, kde se potkává tvůj špendlík
-  s mapou. Normálně By to byly souřadnice 0Y a polovina šířky špendlíku X.
+  s mapou. Normálně by to byly souřadnice 0Y a polovina šířky špendlíku X.
 pin.iconAnchorX: Kotva bodu X (v pixelech)
 pin.iconAnchorY: Kotva bodu Y (v pixelech)
 pin.popupAnchor.description: Vyskakovacím oknem kotvy je bod, ve kterém bude střed
   vyskakovacího trojúhelníku. Na rozdíl od kotvy štítu by se měl tento bod nacházet
-  v horní části ikony nebo ještě výš.
+  v horní části ikony nebo ještě výš
 pin.popupAnchorX: Bod X vyskakovacího okna (v pixelech)
 pin.popupAnchorY: Bod Y vyskakovacího okna (v pixelech)
 map.marker.linePoints.description: Párově zapsaná zeměpisná délka a šířka každého
@@ -253,18 +253,19 @@ map.marker.group.description: Skupiny značek ti umožňují organizovat tvé zn
   tvými čtenáři.
 map.marker.group.onload: Počáteční viditelnost skupiny
 map.marker.group.onload.description: Tato skupina bude viditelná při prvotním načtení
-  mapy.
+  mapy
 map.layers.max: Dosáhl jsi maximálního počtu vrstev, které můžeš na svém účtu mít!
   Pokud chceš mít více vrstev na svých mapách, zvaž vylepšení svého účtu! <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">1Cech tvůrců světů</a>2
 map.marker.linePoints: Body čáry
 map.marker.lineColor: Barva čáry
-map.marker.lineColor.description: Barva tvé čáry. Můžeš použít CSS barvy jako je blue,
-  red, yellow atd. NEBO můžeš využít hexkódu příslušné barvy včetně křížku na začátku.
+map.marker.lineColor.description: 'Barva čáry. Můžeš použít CSS barvy jako je "blue",
+  "red", "yellow" atd. NEBO můžeš využít hexkódu příslušné barvy včetně křížku # na
+  začátku'
 map.marker.lineWeight: Pozice čáry
 map.marker.lineOpacity: Neprůhlednost čáry
 map.marker.lineOpacity.description: Neprůhlednost čáry v procentech. Použij čísla
-  od 0 do 100 % (např. 50%).
+  od 0 do 100 % (např. 50%)
 pin.template.header: Standardní šablona špendlíku
 pin.template.description: Za pomoci souborů v této složce zip můžeš vytvářet špendlíky
   jako jsou ty poskytnuté World Anvil.
@@ -326,3 +327,4 @@ browse: Procházet
 create: Vytvořit
 world.view: Zobrazit Svět
 characters: Postavy
+history: Historie
