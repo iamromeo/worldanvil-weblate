@@ -1,1 +1,5 @@
-{}
+manuscripts: Rankraščiai
+manuscripts.list: Rankraščių sąrašas
+manuscript.edit: Redaguoti rankraštį
+manuscript.view: Peržiūrėti rankraštį
+manuscript.delete: Trinti rankraštį
