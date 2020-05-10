@@ -665,3 +665,4 @@ spell.level: Level
 spell.restriction_applied: Nutzungseinschränkungen
 technology.utility: Nutzen
 technology.manufacturing: Herstellung
+technology.parent_technologies: Übergeordnete Technologien
