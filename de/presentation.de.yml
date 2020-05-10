@@ -666,3 +666,4 @@ spell.restriction_applied: Nutzungseinschränkungen
 technology.utility: Nutzen
 technology.manufacturing: Herstellung
 technology.parent_technologies: Übergeordnete Technologien
+technology.children_technologies: Zugehörige Technologien
