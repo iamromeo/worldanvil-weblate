@@ -63,3 +63,7 @@ access.activate.description: Įveskite prenumeratos kodą žemiau, kad galėtum 
 access.activate.subscription: Aktyvuoti prenumeratą
 access.activate.code: Įvesti aktyvavimo kodą
 access.activate.login: Prenumeratos aktyvavimui reiktų prisijungti!
+identifier: Identifikatorius
+studio.templates: 'Kūrybos studija: Straipsnių šablonai'
+theme: Tema
+publication.date: Publikacijos data
