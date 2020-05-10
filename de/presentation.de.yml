@@ -685,3 +685,4 @@ vehicle.class: Klasse
 vehicle.nickname: Spitzname
 vehicle.motto: Motto
 vehicle.owner: Besitzer
+vehicle.owning_organization: Besitzende Organisation
