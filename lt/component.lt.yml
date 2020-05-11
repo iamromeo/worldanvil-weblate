@@ -33,7 +33,7 @@ create.block.template: Sukurti bloko ruošinį
 create.campaign: Sukurti kampaniją
 create.category: Sukurti kategoriją
 create.historical.entry: Sukurti istorinį įvykį
-create.image: Nauja nuotrauka
+create.image: Kurti iliustraciją
 create.player.character: Kurti veikėją
 create.timeline: Kurti laiko juostą
 create.layer: Kurti sluoksnį
@@ -126,3 +126,43 @@ secret: Paslaptis
 tag: Žyma
 subscriber: Prenumeratorius
 world.summary: Santrauka
+world.view: Peržiūrėti pasaulį
+world.explore: Tyrinėti
+world.explorer: Tyrinėtojas
+content: Turinys
+athena: Straipsniai ir kategorijos
+blocks: Blokai
+block.templates: Blokų šablonai
+categories: Kategorijos
+historical.entries: Istoriniai įvykiai
+images: Iliustracijos
+player.characters: Žaidėjo veikėjai
+layers: Sluoksniai
+map.pins: Žemėlapio „pin'ai“
+markers: Žymekliai
+charts: Diagramos
+orgcharts: Turinio medžiai
+histories: Istorijos
+history: Istorija
+timelines_and_calendars: Laiko juostos ir kalendoriai
+events: Istoriniai įvykiai
+calendars: Kalendoriai
+pin: Žemėlapio žyma
+worlds: Pasauliai
+groups: Grupės
+article.templates: Straipsnių šablonai
+list.articles: Straipsnių sąrašas
+list.blocks: Blokų sąrašas
+list.characters: Veikėjų sąrašas
+list.block.templates: Blokų šablonų sąrašas
+list.campaigns: Kampanijų sąrašas
+list.categories: Kategorijų sąrašas
+list.historical.entries: Istorinių įvykių sąrašas
+list.images: Iliustracijų sąrašas
+list.player.characters: Žaidėjo veikėjų sąrašas
+list.maps: Žemėlapių sąrašas
+list.markers: Žymeklių sąrašas
+list.marker.groups: Žymeklių grupių sąrašas
+list.layers: Sluoksnių sąrašas
+list.timelines: Laiko juostų sąrašas
+list.charts: Diagramų sąrašas
