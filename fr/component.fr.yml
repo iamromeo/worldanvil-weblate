@@ -417,3 +417,7 @@ list.charts: Liste des Graphiques
 list.orgcharts: Liste des Arbres de Contenu
 map.marker.draggable: Marqueur déplaçable
 map.marker.draggable.checkbox: Ce marqueur est déplaçable
+map.marker.draggable.description: Les marqueurs amovibles peuvent être déplacés par
+  tous les Écrivains, Éditeurs et propriétaire du Monde. Une fois déplacé, le nouvel
+  emplacement du marqueur est sauvegardé. Cette fonctionnalité est disponible lorsque
+  la carte est affiché en taille réelle en mode présentation et explorateur.
