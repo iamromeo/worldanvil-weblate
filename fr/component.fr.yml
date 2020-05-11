@@ -423,3 +423,5 @@ map.marker.draggable.description: Les marqueurs déplaçable peuvent être dépl
   la carte est affiché en taille réelle en mode présentation et explorateur.
 pin.tags.description: Utilisez autant d'étiquettes que vous souhaitez pour votre marqueur.
   Cela vous permettra de les parcourir rapidement.
+pin.theme.description: Les thèmes sont un moyen de filtrer à travers votre épingle.
+  Par exemple. Star Wars Empire ou Star Wars Rebels etc.
