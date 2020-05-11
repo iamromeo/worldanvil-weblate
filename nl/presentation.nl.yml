@@ -30,3 +30,8 @@ follow: Volg %name%
 follow.action.remove: UNFOLLOW
 like.action.add.description: Laat de auteur weten dat je zijn/haar werk leuk vind.
   Dit artikel zal NIET toegevoegd worden bij je lees-later collectie
+reading.action.add.description: Voeg dit artikel toen aan uw lees-later/opgeslagen
+  artikelen lijst. De auteur zal NIET genotificeerd worden
+alternativenames: Alternatieve Namen
+article.love: Mensen die van je artikel houden
+article.love.return: 'Ga wat liefde teruggeven '
