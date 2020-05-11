@@ -5,7 +5,7 @@ help: Avez-vous besoin d'aide ?
 home: Accueil
 description: Description
 allies: Partenaires
-world.designer: Panel de designers du monde
+world.designer: Panneau de design du monde
 meta.title.standard: Concepteur de mondes et de campagnes de JDR | World Anvil
 meta.description.standard: 'Outils de conception de mondes et de campagnes de JDR
   pour tous : Auteurs, Maîtres de Jeu, Conteurs...'
@@ -13,11 +13,11 @@ weight: Poids
 private.club: Club privé. Membres de la Guilde uniquement
 class: Classe CSS
 class.name: Nom de classe CSS
-studio.homepage: Page d'accueil de l'Atelier du créateur
-studio.description.header: Qu'est ce que la Forge du Créateur
-studio.description.text: La Forge du Créateur est l'atelier de personnalisation avancée
-  de WorldAnvil. Grand maîtres et rangs supérieurs pourront créer et partager divers
-  contenus tel que des fiches personnages, des gadgets, des indicateurs personnalisés
+studio.homepage: Page d'accueil de l'Atelier du Créateur
+studio.description.header: Qu'est ce que l'Atelier du Créateur
+studio.description.text: L' Atelier du Créateur est l'atelier de personnalisation
+  avancée de WorldAnvil. Grand maîtres et rangs supérieurs pourront créer et partager
+  divers contenus tel que des fiches personnages, des gadgets, des indicateurs personnalisés
   pour cartes et bien plus.
 guild.required: Cette fonctionnalité nécessite une souscription à la guilde des Forgemondes!
 todo.your.list: Liste 'À faire'
@@ -40,8 +40,8 @@ access.description: Vous n'avez pas accès à cette page. Cet article est probab
 access.return: Retournez d'où vous venez !
 username: Nom d'utilisateur
 state: État
-studio.pins: 'Forge du Créateur : Épingles'
-studio.sheets: 'Forge du créateur : Fiches'
+studio.pins: 'Atelier du Créateur : Épingles'
+studio.sheets: 'Atelier du Créateur : Fiches'
 guild.required.master: Cette fonctionnalité requiert un abonnement Maître ou supérieur
   de la Guilde des Forgemondes.
 guild.required.grandmaster: Cette fonctionnalité requiert un abonnement Grand Maître
@@ -67,6 +67,6 @@ access.activate.subscription: Activer Abonnement
 access.activate.code: Entrer Code d'Activation
 access.activate.login: Vous devez être connecté pour activer votre abonnement !
 identifier: Identifiant
-studio.templates: 'Atelier du créateur : Modèles d''articles'
+studio.templates: 'Atelier du Créateur : Modèles d''articles'
 publication.date: Date de Publication
 theme: Thème
