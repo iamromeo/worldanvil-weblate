@@ -58,3 +58,6 @@ access.passcode.description: Deze pagina is beschermd door een wachtwoord! Indie
 access.activate: Abonnement Activatie
 access.activate.description: Geef je Abonnementscode hieronder in om toegang te krijgen
   tot de inhoud. Het is zo gemakkelijk!
+access.activate.subscription: Activeer Abonnement
+access.activate.code: Geef Activatie Code in
+access.activate.login: Je moet ingelogd zijn om je abonnement te activeren!
