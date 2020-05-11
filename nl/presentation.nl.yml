@@ -26,3 +26,7 @@ twitch.live: Kijk live op Twitch
 support.patreon: Steun het project op Patreon
 support.kofi.user: Koop %username% een koffie!
 support.patreon.user: Steun %username% op Patreon
+follow: Volg %name%
+follow.action.remove: UNFOLLOW
+like.action.add.description: Laat de auteur weten dat je zijn/haar werk leuk vind.
+  Dit artikel zal NIET tegevoegd worden bij je lees-later collectie
