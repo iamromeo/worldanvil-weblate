@@ -31,7 +31,7 @@ guild.required.grandmaster: Deze optie vereist een Guild Membership van Grandmas
   of hoger.
 todo.your.list: Taken Lijst
 todo.status.zero: Klik op de titel om een Artikel aan te maken!
-todo.status.one: Het Artikel is aangemaakt, niet gepubliceerd en nog in bewerking.
+todo.status.one: Het Artikel is aangemaakt, niet gepubliceerd en nog in bewerking
 todo.status.two: Het artikel is Gepubliceerd en is nog steeds in bewerking
 todo.status.three: Het artikel is afgewerkt!
 metadata: Metagegevens
@@ -56,5 +56,8 @@ access.passcode.description: Deze pagina is beschermd door een wachtwoord! Indie
   je het wachtwoord kent gelieve het hieronder in te geven om toegang te krijgen tot
   de inhoud.
 access.activate: Abonnement Activatie
-access.activate.description: Geef je Abonnementscode in hieronder om toegang te krijgen
+access.activate.description: Geef je Abonnementscode hieronder in om toegang te krijgen
   tot de inhoud. Het is zo gemakkelijk!
+access.activate.subscription: Activeer Abonnement
+access.activate.code: Geef Activatie Code in
+access.activate.login: Je moet ingelogd zijn om je abonnement te activeren!
