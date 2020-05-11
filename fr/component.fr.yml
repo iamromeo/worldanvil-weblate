@@ -421,3 +421,5 @@ map.marker.draggable.description: Les marqueurs déplaçable peuvent être dépl
   tous les Écrivains, Éditeurs et propriétaire du Monde. Une fois déplacé, le nouvel
   emplacement du marqueur est sauvegardé. Cette fonctionnalité est disponible lorsque
   la carte est affiché en taille réelle en mode présentation et explorateur.
+pin.tags.description: Utilisez autant d'étiquettes que vous souhaitez pour votre marqueur.
+  Cela vous permettra de les parcourir rapidement.
