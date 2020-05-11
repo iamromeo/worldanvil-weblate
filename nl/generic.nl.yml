@@ -52,3 +52,9 @@ author.notes: Auteurs notities
 access.return: Keer terug van waar je gekomen bent!
 access.homepage: Ga naar Hoofdpagina
 access.passcode: Wachtwoord vereist
+access.passcode.description: Deze pagina is beschermd door een wachtwoord! Indien
+  je het wachtwoord kent gelieve het hieronder in te geven om toegang te krijgen tot
+  de inhoud.
+access.activate: Abonnement Activatie
+access.activate.description: Geef je Abonnementscode in hieronder om toegang te krijgen
+  tot de inhoud. Het is zo gemakkelijk!
