@@ -25,3 +25,9 @@ username: Gebruikersnaam
 studio.pins: 'Creator''s Studio: Pins'
 studio.sheets: 'Creator''s Studio: Sheets'
 state: Provincie
+guild.required: Deze optie vereist een Guild Membership!
+guild.required.master: Deze optie vereist een Guild Membership van Master of hoger.
+guild.required.grandmaster: Deze optie vereist een Guild Membership van Grandmaster
+  of hoger.
+todo.your.list: Taken Lijst
+todo.status.zero: Klik op de titel om een Artikel te maken.
