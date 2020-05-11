@@ -392,3 +392,4 @@ parent: Parent
 parent.item: Élément parent
 create.orgchart: Créer un organigramme
 create.template: Créer un modèle
+create.todo: Créer élément "à faire"
