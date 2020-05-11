@@ -39,3 +39,6 @@ article.template: Artikel sjabloon
 author: Auteur
 creation.date: Aanmaakdatum
 update.date: Datum Laatst Bijgewerkt
+theme: Thema
+category: Categorie
+publication.date: Publicatie Datum
