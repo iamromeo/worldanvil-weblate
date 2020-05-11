@@ -100,3 +100,6 @@ religion: Religion
 description.country: Les Pays sont des organisations territoriales spécialisées qui
   s'intéressent à la gestion des citoyens peuplant leurs territoires (Ceci est un
   lien secondaire vers le Modèle d'Organisation).
+description.religion: Les Religions Organisées sont des organisations spécialisées
+  qui s'occupent des questions spirituelles et de la gestion de leurs fidèles (Ceci
+  est un lien secondaire vers le Modèle d'Organisation).
