@@ -67,3 +67,5 @@ access.activate.subscription: Activer Abonnement
 access.activate.code: Entrer Code d'Activation
 access.activate.login: Vous devez être connecté pour activer votre abonnement !
 identifier: Identifiant
+studio.templates: 'Studio de Créateur : Modèles d''articles'
+publication.date: Date de publication
