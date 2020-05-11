@@ -17,7 +17,7 @@ save.changes: Salvar Alterações
 view.map: Ver Mapa
 delete.map: Apagar Mapa
 replace: Substituir
-browse: Procurar
+browse: Navegar
 edit.map: Editar Mapa
 edit.profile: Editar Perfil
 view.profile: Ver Perfil
@@ -28,3 +28,6 @@ dismiss: Dispensar
 save: Salvar
 manage: Gerenciar
 update: Atualizar
+attach.to.world: Anexar ao Mundo
+attach: Anexar
+download.resources: Baixar Recursos
