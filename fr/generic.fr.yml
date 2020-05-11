@@ -1,7 +1,7 @@
 new: nouveau
 title: Titre
 status: Statut
-help: Avez-vous besoin d'aide?
+help: Avez-vous besoin d'aide ?
 home: Accueil
 description: Description
 allies: Partenaires
@@ -13,7 +13,7 @@ weight: Poids
 private.club: Club privé. Membres de la Guilde uniquement
 class: Classe CSS
 class.name: Nom de classe CSS
-studio.homepage: Page d'accueil du Créateur
+studio.homepage: Page d'accueil de l'Atelier du créateur
 studio.description.header: Qu'est ce que la Forge du Créateur
 studio.description.text: La Forge du Créateur est l'atelier de personnalisation avancée
   de WorldAnvil. Grand maîtres et rangs supérieurs pourront créer et partager divers
@@ -67,6 +67,6 @@ access.activate.subscription: Activer Abonnement
 access.activate.code: Entrer Code d'Activation
 access.activate.login: Vous devez être connecté pour activer votre abonnement !
 identifier: Identifiant
-studio.templates: 'Studio de Créateur : Modèles d''articles'
+studio.templates: 'Atelier du créateur : Modèles d''articles'
 publication.date: Date de publication
 theme: Thème
