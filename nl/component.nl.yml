@@ -129,7 +129,7 @@ position.description: Gewicht is een getal dat bepaalt in welke volgorde een ite
   item zal verschijnen.
 status.description: Stel dit item in als openbaar voor iedereen om te kunnen zien.
   Privé items zijn alleen zichtbaar voor jou en de co-auteurs en abonnees met de juiste
-  permissies van jouw wereld.
+  permissies van jouw wereld
 access: Toegang
 access.description: Stel uw bericht in als openbaar, zodat iedereen het kan zien.
   Privéberichten zijn alleen zichtbaar voor jou en co-auteurs van jouw wereld
@@ -191,3 +191,4 @@ groups: Groepen
 list.characters: Personage Lijst
 characters: Personages
 list.subscribers: Abonnees
+history: Geschiedenis
