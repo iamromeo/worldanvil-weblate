@@ -418,7 +418,7 @@ list.orgcharts: Liste des Arbres de Contenu
 map.marker.draggable: Marqueur déplaçable
 map.marker.draggable.checkbox: Ce marqueur est déplaçable
 map.marker.draggable.description: Les marqueurs déplaçable peuvent être déplacés par
-  tous les Écrivains, Éditeurs et propriétaire du Monde. Une fois déplacé, le nouvel
+  tous les Rédacteurs, Éditeurs et propriétaire du Monde. Une fois déplacé, le nouvel
   emplacement du marqueur est sauvegardé. Cette fonctionnalité est disponible lorsque
   la carte est affiché en taille réelle en mode présentation et explorateur.
 pin.tags.description: Utilisez autant d'étiquettes que vous souhaitez pour votre marqueur.
@@ -426,3 +426,8 @@ pin.tags.description: Utilisez autant d'étiquettes que vous souhaitez pour votr
 pin.theme.description: Les thèmes sont un moyen de filtrer à travers votre épingle.
   Par exemple. Star Wars Empire ou Star Wars Rebels etc.
 access.authors.advanced.writer: Rédacteur avancé
+access.authors.advanced.writer.description: Accès pour créer et gérer vos articles
+  sans tenir compte de leur statut de brouillon ou non.<br>Cela permet à l'auteur
+  de poursuivre directement l'écriture des articles dans le monde. <br>C'est le statut
+  d'auteur idéal pour les joueurs qui souhaitent contribuer à un monde ou une campagne
+  en cours.
