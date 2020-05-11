@@ -484,7 +484,7 @@ plot.allies: Aliados
 plot.neutrals_bystanders: Neutros/Espectadores
 plot.competitors: Concorrentes
 plot.adversaries: Adversários
-plot.backdrops: Pano de Fundo
+plot.backdrops: Plano de Fundo
 plot.locations: Localizações
 plot.threats: Ameaças
 plot.encounters: Encontros
@@ -608,7 +608,7 @@ species.history: História
 species.historical_figures: Figuras Históricas
 species.common_myths_and_legends: Mitos e Lendas Comuns
 species.rpg_datasheet: Ficha de RPG
-species.extinct: EXTINTO(A)
+species.extinct: ESPÉCIE EXTINTA
 species.genetic_ancestor_s: Ancestral(is) Genético(s)
 species.genetic_descendants: Descendentes Genéticos
 species.scientific_name: Nome Científico
@@ -690,3 +690,9 @@ technology.parent_technologies: Tecnologias Mães
 technology.children_technologies: Tecnologias Filhas
 rank.duties: Deveres
 vehicle.beam: Largura
+explore: Explorar
+organization.tree: Árvore de Organizações
+location.florafauna: Fauna e Flora
+organisation.familyleader: Líder da Família
+organisation.official_religion: Religião Oficial do Estado
+person.year_of_death: Ano de Morte
