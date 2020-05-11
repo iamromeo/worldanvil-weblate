@@ -13,8 +13,8 @@ meta.description.standard: Worldbuilding en RPG Campagne Management tools voor e
   Schrijver en Dungeon Master
 studio.description.header: Wat is de Creator’s Studio
 studio.description.text: De Creator’s Studio is het middelpunt van alle geavanceerde
-  customizatie In World Anvil. Grandmasters, en hoger kunnen Character sheets, Widgets,
-  Aangepaste Markers voor kaarten maken en delen. En nog veel meer in toekomst.
+  aanpassingen in World Anvil. Grandmasters, en hoger, kunnen Personage sheets, Widgets
+  en Aangepaste Markers voor kaarten maken en delen. En nog veel meer in toekomst.
 class: CSS Class
 class.name: CSS Class naam
 studio.homepage: Creator's Studio Homepage
@@ -28,3 +28,4 @@ studio.pins: 'Creator''s Studio: Pins
 studio.sheets: 'Creator''s Studio: Sheets
 
   '
+state: Provincie
