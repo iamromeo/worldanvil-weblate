@@ -416,3 +416,4 @@ article.templates: Modèles d'Articles
 list.charts: Liste des Graphiques
 list.orgcharts: Liste des Arbres de Contenu
 map.marker.draggable: Marqueur déplaçable
+map.marker.draggable.checkbox: Ce marqueur est amovible.
