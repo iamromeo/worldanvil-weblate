@@ -8,7 +8,7 @@ articles: Artikelen
 author.notes: Auteurs notities
 world.anvil.header: World Anvil Worldbuilding Tools Platform & Community
 world.anvil.description: World Anvil is een Worldbuilding Tools platform en community
-  voor schrijvers, RPG-verhalenvertellers en worldbuilding-fanaten.
+  voor schrijvers, RPG-verhalenvertellers en worldbuilding-fanaten
 account.create: Maak jouw Account aan
 created.by: Gemaakt door
 editorial.team: Redactie
@@ -31,7 +31,7 @@ follow.action.remove: UNFOLLOW
 like.action.add.description: Laat de auteur weten dat je zijn/haar werk leuk vind.
   Dit artikel zal NIET toegevoegd worden bij je lees-later collectie
 reading.action.add.description: Voeg dit artikel toen aan uw lees-later/opgeslagen
-  artikelen lijst. De auteur zal NIET genotificeerd worden
+  artikelen lijst. De auteur zal NIET genotificeerd worden.
 alternativenames: Alternatieve Namen
 article.love: Mensen die van je artikel houden
 article.love.return: Ga wat liefde teruggeven!
@@ -59,4 +59,7 @@ campaign.protagonists: De Hoofdrolspelers
 campaign.playedby: Gespeeld door
 campaign.lfp: Opzoek naar Spelers
 campaign.full: Vol
-campaign.support.patreon: Help deze campagne op Patreon
+campaign.support.patreon: Ondersteun deze campagne op Patreon
+featured.articles: Aanbevolen Artikelen
+campaign.sessions: Sessie lijst
+campaign.sessions.scheduled: Geplande sessies
