@@ -2,8 +2,11 @@ rpg.resources: RPG SRD
 rpg.resources.welcome.header: Welkom op de World Anvil RPG SRD pagina
 rpg.resources.welcome.intro1: Hier kan je alle hulpbronnen van de World Anvil Community
   en alle informatie uit de SRDs (System Referentie Documenten) vinden!
-rpg.world.systems: Jouw Wereld System(en)
+rpg.world.systems: Jouw Wereld Syste(e)m(en)
 rpg.resources.welcome.intro2: Elk "blok" (waarden blok) die hier opgeslagen is heeft
   een eigen BBcode die je kan kopieren en gebruiken in je wereld of tijdens het spelen.
   Alle bronnen die zich hier bevinden vallen onder een licentie of zijn vrijwillig
   gedeeld door hun auteurs.
+rpg.systems.list: RPG Systemen Lijst
+rpg.add.to.world: Voeg dit systeem toe aan jouw Wereld
+rpg.statblock.copy: Maak een kopie van dit waarden blok
