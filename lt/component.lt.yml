@@ -166,3 +166,63 @@ list.marker.groups: Žymeklių grupių sąrašas
 list.layers: Sluoksnių sąrašas
 list.timelines: Laiko juostų sąrašas
 list.charts: Diagramų sąrašas
+list.orgcharts: Turinio medžių sąrašas
+map.settings: Žemėlapio nustatymai
+map.presentation: Atidaryti pristatymo režimą
+list.subscribers: Prenumeratoriai
+related.history: Susijęs istorinis įvykis
+related.article: Susijęs straipsnis
+map.center.description: a
+map.center.x: Pirminis centrinis taškas (x ašis)
+map.center.y: Pirminis centrinis taškas (y ašis)
+map.zoom.max.description: Skaičius nustatantis kaip arti galima priartinti. 0 neleis
+  pritraukti arčiau nei 1:1, bet kuri reikšmė virš 0 priartins dar labiau. Priklausomai
+  nuo kokybės, žemėlapis gali atrodyti neryškiai (numatytasis nustatymas yra 0).
+map.zoom.max: Didžiausias leistinas priartinimo lygis
+map.zoom.min.description: Neigiamas daugiklis nustatantis kaip toli gali atitraukti.
+  Kuo mažesnis skaičius, tuo toliau galima bus atitraukti (numatytasis nustatymas
+  yra -2).
+map.zoom.min: Didžiausias leistinas nutolinimo lygis
+map.zoom.initial.description: Nustatyk kiek pirmąkart įkeliant bus priartintas žemėlapis
+  (numatytasis lygis yra 0).
+map.zoom.initial: Pirminis priartinimo lygis
+map.thumbnail: Miniatūrinė iliustracija
+map.compass.description: Pasirink atvaizdą, kuris bus rodomas kaip kompaso rožė žemėlapio
+  apačioje. Didesnio skaidrumo iliustracija duos geresnį vizualinį rezultatą.
+map.compass: Kompaso rožės atvaizdas
+list.pins: Žemėlapio žymų sąrašas
+map.image.details: Laukiami failo matmenys yra
+map.update.image: Atnaujinti žemėlapio pirminę iliustraciją
+map.image.secondary: Sluoksnio iliustracija
+tag.description: Naudok kablelius, kad atskirtumei etiketes. Etikečių prikabinimas
+  prie bet kurios turinio dalies padės naudotis paieška.
+map.legend: Legenda
+map.edit.details: Redaguoti žemėlapio detales
+map.image: Žemėlapio pirminė iliustracija
+tags.description: Naudok kablelius, kad atskirtumei etiketes. Etikečių prikabinimas
+  prie bet kurios turinio dalies padės naudotis paieška.
+display.homepage: Rodyti šį žemėlapį pasaulio pradiniame puslapyje.
+subscriber.groups.description: Pasirink vieną ar daugiau grupių, kurioms nori suteikti
+  prieigą prie šio straipsnio. Tai paveiks tik privačius straipsnius.
+subscriber.groups: Prenumeratorių grupės
+access.description: Nustatyk įrašą viešu, kad kiekvienas galėtų matyti. Privatūs įrašai
+  yra matomi tik tau ir tavo pasaulio bendraautoriams.
+access: Prieiga
+status.description: Nustatyk šį elementą viešu, kad kiekvienas galėtų matyti. Privatūs
+  elementai yra matomi tik tau ir bendraautoriams, taip pat prenumeratoriams, turintiems
+  reikalingus leidimus.
+position.description: Pozicijos svoris yra skaičius nustatantis tvarką, kuria bus
+  sudėliojamas sąrašas. Kuo didesnis skaičius, tuo aukščiau elementas bus sąraše.
+position: Pozicijos svoris
+related.organization: Susijusi organizacija
+related.map: Susijęs žemėlapis
+related.location: Susijusi vieta
+related.category: Susijusi kategorija
+marker.groups: Žymeklių grupės
+list.worlds: Pasaulių sąrašas
+list.secrets: Paslapčių sąrašas
+list.notes: Užrašų sąrašas
+BETA: Beta
+followers: Sekėjai
+subscribers: Prenumeratoriai
+group: Grupė
