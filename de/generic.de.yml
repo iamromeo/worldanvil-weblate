@@ -68,3 +68,7 @@ access.activate.subscription: Abonnement aktivieren
 access.activate.code: Aktivierungscode eingeben
 access.activate.login: Du musst eingeloggt sein, um dein Abonnement zu aktivieren!
 access.activate: Abonnement Aktivierung
+publication.date: Veröffentlichungsdatum
+theme: Thema
+studio.templates: "Creator's Studio: Artikel Vorlagen"
+identifier: Identifikator
