@@ -411,5 +411,6 @@ map.marker.draggable.description: "Verschiebbare Markierungen können von allen 
   \ Maßstab der Präsentation und dem Explorer aktiv."
 pin.tags.description: Nutze so viele Wörter wie du möchtest um deine Markierung zu
   etikettieren. Diese erlauben es dir deine Markierungen schnell zu durchsuchen.
-pin.theme.description: Themen bieten dir die Möglichkeit, keine Markierungen zu filtern,
+pin.theme.description: Themen bieten dir die Möglichkeit deine Markierungen zu filtern,
   z.B. Star Wars Empire oder Star Wars Rebels, etc.
+orgcharts: Baumdarstellungen
