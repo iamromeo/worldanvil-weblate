@@ -408,4 +408,6 @@ map.marker.draggable.checkbox: Diese Markierung ist verschiebbar.
 map.marker.draggable.description: "Verschiebbare Markierungen können von allen Autoren,\
   \ Editoren und Inhaber einer Welt bewegt werden. Nach dem Verschieben wird die neue\
   \ Position der Markierung gespeichert. Dieses Feature ist auf den Karten im 1:1\
-  \ Maßstab der Präsentation und dem Explorer aktiv.\n"
+  \ Maßstab der Präsentation und dem Explorer aktiv."
+pin.tags.description: Nutze so viele Wörter wie du möchtest um deine Markierung zu
+  etikettieren. Diese erlauben es dir deine Markierungen schnell zu durchsuchen.
