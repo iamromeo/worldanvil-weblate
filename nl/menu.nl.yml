@@ -32,7 +32,7 @@ campaign.quicklinks: Quicklinks
 campaign.corkboard: Prikbord
 home: Startpagina
 pricing: Prijzen
-need.help: Hulp nodig?
+need.help: Heeft u hulp nodig?
 faq: FAQ
 privacy: Privacy
 tos: Servicevoorwaarden
@@ -53,3 +53,5 @@ studio: Studio
 todo.list: Te doen lijst
 join.guild: JOIN DE GUILD!
 characters: Personages
+world.view: Bekijk Wereld
+browse: Bladeren
