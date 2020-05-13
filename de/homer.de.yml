@@ -1,1 +1,5 @@
 manuscripts: Manuskripte
+manuscripts.list: Manuskriptliste
+manuscript.edit: Manuskript bearbeiten
+manuscript.view: Manuskript ansehen
+manuscript.delete: Manuskript löschen
