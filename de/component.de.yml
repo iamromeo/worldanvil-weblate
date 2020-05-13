@@ -404,3 +404,4 @@ charts: Diagramme
 histories: Geschichten
 list.charts: Diagrammliste
 list.orgcharts: Liste der Baumdarstellungen
+map.marker.draggable.checkbox: Diese Markierung ist verschiebbar.
