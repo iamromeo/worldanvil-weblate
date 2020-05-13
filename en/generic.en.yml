@@ -1,4 +1,6 @@
+community: Community
 username: Username
+welcome: Welcome
 new: 'new'
 title: Title
 description: Description
@@ -10,6 +12,14 @@ home: Home
 class: CSS Class
 class.name: CSS Class Name
 identifier: Identifier
+dismiss: Dismiss
+upcoming.streams: 'Upcoming Streams'
+join.discord: Join our Discord
+join.discord.description: Take part on the development of World Anvil - join world building challenges - win prizes and awesome badges!
+join.worldanvil.cta: Join the Worldbuilders Guild
+
+goto.account: Go to Account details
+goto.articles.list: Go to Articles List
 
 allies: Allies & Partners in Crime
 private.club: Private club. Guild Members only
@@ -70,3 +80,28 @@ access.activate.description: Write your Subscription code below to get access to
 access.activate.subscription: Activate Subscription
 access.activate.code: Enter Activation Code
 access.activate.login: You will need to be logged in to activate your subscription!
+
+dashboard.page.title: Your Global Dashboard
+dashboard.create.first: Create your first World!
+dashboad.cta: GET WORLDBUILDING
+dashboard.features.mistake: Have you activated worldbuilding features by mistake?
+dashboard.manage.features: Manage your activated features
+dashboard.news: News
+dashboard.events: Events
+dashboard.worlds: Your Worlds
+dashboard.characters: Your Characters
+dashboard.campaigns: Your Campaigns
+dashboard.communities: Your Communities
+dashboard.dev.updates: Development Updates
+dashboard.in.news: In the News
+dashboard.videos: Recent Videos
+dashboard.podcast.cta: Listen to our Worldbuilding Podcast
+dashboard.worldbuilding.disabled: The worldbuilding features are disabled
+dashboard.continue: Continue Building
+dashboard.recent.articles: Your Recently articles
+dashboard.worlds.max: You have reached the maximum number of Worlds
+dashboard.help.grow: Help us keep World Anvil alive and growing!
+dashboard.followed.worlds: Your Followed Worlds
+dashboard.followed.characters: Followed Characters
+dashboard.upcoming.sessions: Upcoming Sessions
+dashboard.upcoming.stream: Upcoming Streams & Events

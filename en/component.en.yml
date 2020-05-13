@@ -227,7 +227,7 @@ map.zoom.initial.description: Set how zoomed in the map will be when its first l
 map.zoom.min: Minimum Allowed Zoom
 map.zoom.min.description: How far out/away you can zoom out. This is a negative multiplier. The smaller the number, the further away you will be able to zoom. (-2 by Default)
 map.zoom.max: Maximum Allowed Zoom
-map.zoom.max.description: How far in/deep you can zoon in. 0 means zoom to the 1:1 dimensions of the map. Anything above 0 will mean that the image will start to get blurry. (0 by Default)
+map.zoom.max.description: How far in/deep you can zoom in. 0 means zoom to the 1:1 dimensions of the map. Anything above 0 will mean that the image will start to get blurry. (0 by Default)
 map.center.y: Initial Center point (Y Axis)
 map.center.x: Initial Center point (X Axis)
 map.center.description: The initial coordinates of the center of the map when it's first loaded. Normally this is calculated to be the center of your map. The bottom left of your map is point 0:0.

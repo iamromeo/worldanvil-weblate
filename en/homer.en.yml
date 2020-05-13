@@ -3,3 +3,10 @@ manuscripts.list: Manuscripts list
 manuscript.edit: Edit Manuscript
 manuscript.view: View Manuscript
 manuscript.delete: Delete Manuscript
+manuscript.settings: Manuscript Settings
+manuscript.create: 'Create a new Manuscript'
+manuscript.world.activate: 'You need to Activate one of your worlds'
+manuscript.world.activate.desc: 'You have no active world, you need one to start a new manuscript'
+manuscript.edit.upper: EDIT
+manuscript.view.upper: VIEW
+manuscript.settings.upper: SETTINGS
