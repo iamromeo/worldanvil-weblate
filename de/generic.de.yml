@@ -1,7 +1,7 @@
 new: Neu
 title: Titel
 status: Status
-help: Hilfe
+help: Benötigst Du Hilfe?
 home: Home
 allies: Verbündete & Komplizen
 meta.title.standard: Worldbuilding- und RPG Kampagnen-Verwaltung | World Anvil
@@ -68,3 +68,7 @@ access.activate.subscription: Abonnement aktivieren
 access.activate.code: Aktivierungscode eingeben
 access.activate.login: Du musst eingeloggt sein, um dein Abonnement zu aktivieren!
 access.activate: Abonnement Aktivierung
+publication.date: Veröffentlichungsdatum
+theme: Thema
+studio.templates: "Creator's Studio: Artikel Vorlagen"
+identifier: Identifikator
