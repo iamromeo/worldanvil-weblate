@@ -1,4 +1,4 @@
-Public: Public
+Public: Public$
 Private: Privé
 failure.deletion: Oups! Quelque chose s'est mal passé! Se pourrait-il que l’élément
   que vous avez essayé de supprimer est utilisé quelque part?
