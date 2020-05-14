@@ -126,7 +126,7 @@ edit.timeline: Редактировать Хронологию
 delete.timeline: Удалить Хронологию
 list.timelines: Список Хронологий
 delete.pin: Удалить Значок на Карте
-pin: Пины карты
+pin: Пин
 list.historical.entries: Список исторических происшествий
 list.marker.groups: Список Групп Меток
 list.pins: Список пинов карт
@@ -316,7 +316,7 @@ class: Класс
 race: Раса
 access.rights.management: Управление правами доступа
 access.rights.subscribers: Подписчики
-access.rights.groups: Группы
+access.rights.groups: Группы Подписчиков
 access.rights.authors: Авторы
 access.authors.management: Управление авторскими правами
 access.authors.revoke: Отменить доступ
@@ -343,7 +343,7 @@ access.rights.notice: Функционал Групп и Подписчиков 
 master.feature: Это эксклюзивная функция уровня Мастер +. Присоединитесь к <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild </a>, чтобы
   получить доступ к этой функции и помочь развитию World Anvil.
-access.rights.codes: Коды доступа Подписчиков
+access.rights.codes: Коды Доступа
 access.authors.writer.description: Доступ к созданию статей с пометкой Черновик. В
   дальнейшем пользователи от Редактора и выше могут управлять, упорядочивать и опубликовывать
   эти статьи.
@@ -361,3 +361,53 @@ access.code.expiryDate: Срок годности
 access.code.edit: Редактировать коды доступа Подписчиков
 access.group.assets: Ресурсы группы
 characters: Персонажи
+list.orgcharts: Список Информационных Деревьев
+list.charts: Список Схем
+orgcharts: Информационные Деревья
+charts: Диаграмма
+athena: Статьи и Категории
+content: Содержание
+world.explorer: Искатель
+world.explore: Изучить
+world.view: Обзор Мира
+orgchart.structure: Структура Информационного Дерева
+orgchart: Информационное Дерево
+delete.article.template: Удалить Шаблон Статьи
+delete.orgchart: Удалить Информационное Дерево
+edit.orgchart.item: Редактировать Вещь из Информационного Дерева
+edit.orgchart: Редактировать Информационное Дерево
+create.new.orgchart: Создать новое Информационное Дерево
+parent.item: Родительский Предмет
+parent: Родитель
+access.authors.advanced.writer.description: Возможность создать и управлять статьями
+  независимо от того, являются ли они черновиками, или нет.<br>Это позволит продолжить
+  пополнять статью в реальном времени. <br>Это лучший тип авторства для тех, кто хочет
+  внести свой вклад в жизнь мира, или в приключение.
+access.authors.advanced.writer: Продвинутый Писатель
+pin.theme.description: 'Тематика - быстрый способ фильтровать пины. Напр. Империя
+  Звёздных Войн или Звездные Войны: Повстанцы и т.д.'
+pin.tags.description: Используй для тегов столько слов, сколько хочешь. Это поможет
+  тебе быстрее находить его.
+map.marker.choice.functionality: Что он делает?
+map.marker.choice.type: Какого вида этот Маркер?
+map.marker.draggable.description: Передвигаемые Маркеры могут быть подвинуты всеми
+  Писателями, Редакторами и владельцами мира. После перемещения, новая локация сохраняется.
+  Эта особенность возможна на полноразмерной карте с демонстрацией и поиском.
+map.marker.draggable.checkbox: Вы можете двигать эти маркеры.
+map.marker.draggable: Передвигаемые Маркеры
+map.presentation: Открыть Режим Демонстрации
+article.templates: Шаблоны Статей
+calendars: Календарные Даты
+timelines_and_calendars: Временные линии и Даты
+history: История
+histories: Истории
+sheets.and.blocks: Листы и Блоки
+map.pins: Метки на Карте
+chart: Схема
+create.new.template: Создать новый шаблон статьи
+create.todo: Создать задание для списка дел
+create.template: Создать шаблон
+create.orgchart: Создать структуру организации
+create: Создать
+Community: Сообщество
+Settings & Tools: Настройки и Инструменты
