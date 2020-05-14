@@ -99,3 +99,5 @@ condition.origin: 'Herkomst'
 condition.cycle: Cyclus
 condition.rarity: Zeldzaamheid
 condition.species: Getroffen Rassen
+document.caveats: voorbehouden
+document.purpose: Doel
