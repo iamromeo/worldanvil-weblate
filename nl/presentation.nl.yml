@@ -115,3 +115,5 @@ document.modal.close: Sluiten
 document.article.expirationdate: Vervaldatum
 document.article.ratificationdate: Bekrachtigingsdatum
 document.article.myth: Mythe
+document.article.authors: Schrijvers
+document.article.location: Locatie
