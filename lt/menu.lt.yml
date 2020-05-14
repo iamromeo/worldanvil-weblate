@@ -5,7 +5,7 @@ characters: Veikėjai
 notebook: Užrašinė
 studio: Studija
 todo.list: TODO sąrašas
-srd: RPG SRD
+srd: RPG ištekliai
 about: Apie
 community: Bendruomenė
 challenges: Iššūkiai
@@ -18,7 +18,7 @@ join.discord: Įsikvėpk, gauk VISĄ pagalbą!
 join.codex: World Anvil dokumentacijos kodeksas
 world: Pasaulis
 profile: Profilis
-interface.settings: Vartotojo sąsajos nustatymai
+interface.settings: Vartotojo sąsajos nustatymai ir prieinamumas
 account.details: Paskyros detalės
 account.subscription: Tavo prenumerata
 announcements: Pranešimai
@@ -66,3 +66,37 @@ browse: Naršyti
 campaign: Kampanija
 world.view: Peržiūrėti pasaulį
 worlds: Pasauliai
+ask_question: Užduoti klausimą
+suggest_feature: Pasiūlyti funkciją
+report_bug: Pranešti apie klaidą (angl. bug)
+documentation: Dokumentacija
+gear_and_gifts: Lauktuvių parduotuvė
+stream: Transliacija
+your_reading_list: Tavo skaitysiamas sąrašas
+followed_worlds: Sekami pasauliai
+homepage: Pagrindinis
+community.statblocks: Bendruomenės statistikos blokai
+your.statblocks: Tavo statistikos blokai
+statblocks: Statistikos blokai
+images_and_files: Iliustracijos ir failai
+news: Mūsų naujienos
+campaign.settings: Nustatymai
+campaign.page: Peržiūrėti kampaniją
+campaign.primer: Pradžiamokslis
+campaign.parties: Komandos, šutvės
+campaign.npcs: NPC'ai
+aacount: Paskyra
+public.profile: Viešas profilis
+account: Paskyros detalės
+settings: Nustatymai
+go.to.create: Eiti į kūrybinį meniu
+character.display: Vizualizacija
+character.profiles: Veikėjų profiliai
+character.privacy: Privatumas
+character.edit.extended: Redaguoti išplėstinį profilį
+character.view.sheet: Peržiūrėti lentelę
+character.edit.profile: Redaguoti profilį
+character.view.profile: Peržiūrėti profilį
+character.profile: Veikėjo profilis
+sponsoring: Parama
+advertising: Reklamavimas
