@@ -16,7 +16,7 @@ view: Обзор
 edit.and.play: Редактировать и играть
 login: Авторизация
 world.view: Обзор Мира
-browse: Загрузить
+browse: Поиск
 download: Скачать
 register: Создать аккаунт
 view.map: Посмотреть карту
@@ -28,3 +28,6 @@ copy.to.clipboard: Скопировать в буфер обмена
 update: Обновить
 copy: Копировать
 manage: Управление
+attach: Присоединить
+download.resources: Скачать Ресурсы
+attach.to.world: Привязать к Миру
