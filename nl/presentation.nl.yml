@@ -83,3 +83,6 @@ campaign.setting: De Omgeving
 campaign.generic: Andere NPC's
 campaign.maps: Kaarten
 campaign.timelines: 'Tijdlijnen '
+campaign.journal.player: speler
+campaign.journal.campaign: Campange
+campaign.journal.world: Wereld
