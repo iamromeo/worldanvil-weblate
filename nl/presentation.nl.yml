@@ -130,3 +130,4 @@ follow.action.add.description: 'Volg om alle om alle artikels geschreven door de
 reading.action.remove: VERWIJDEREN VAN LITERATUURSLIJST
 reading.action.add: VOEG TOE AAN LITERATUURLIJST
 goto.homepage: Ga naar de hoofdpagina van %name%
+campaign.system: Een %systeem_naam% game
