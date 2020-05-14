@@ -68,3 +68,37 @@ access.activate.description: Níže zadej kód odběru pro přístup k obsahu. J
   jednoduché!
 access.activate.subscription: Aktivuj odběr
 access.activate.login: Musíš být přihlášen, abys ses mohl stát odběratelem!
+dashboard.upcoming.stream: Nadcházející streamy a události
+dashboard.upcoming.sessions: Nadcházející sezení
+dashboard.followed.characters: Postavy, které sleduješ
+dashboard.followed.worlds: Světy, které sleduješ
+dashboard.help.grow: Pomoz nám držet World Anvil na živu a rostoucí!
+dashboard.worlds.max: Dosáhl jsi maximálního povoleného počtu světů
+dashboard.recent.articles: Tvoje poslední články
+dashboard.continue: Pokračuj v budování
+dashboard.worldbuilding.disabled: Funkce pro budování světa jsou zakázány
+dashboard.podcast.cta: Poslouchej náš podcast
+dashboard.videos: Poslední videa
+dashboard.in.news: V novinkách
+dashboard.dev.updates: Aktualizace vývoje
+dashboard.communities: Tvoje komunity
+dashboard.campaigns: Tvoje kampaně
+dashboard.characters: Tvoje postavy
+dashboard.worlds: Tvoje světy
+dashboard.events: Události
+dashboard.news: Novinky
+dashboard.manage.features: Spravujte své aktivní funkce
+dashboard.features.mistake: Aktivoval jsi funkce budování světa omylem ?
+dashboad.cta: ZAČNI TVOŘIT
+dashboard.create.first: Vytvoř svůj první svět!
+dashboard.page.title: Tvoje nástěnka
+goto.articles.list: Jdi k seznamu článků
+goto.account: Jdi k detailům účtu
+join.worldanvil.cta: Připoj se ke Guildě Stavitelů světů
+join.discord.description: Zúčastni se vývoje World Anvil - připoj se k výzvám v budování
+  světů - získej odměny a úžasné odznaky!
+join.discord: Přidej se na náš Discord
+upcoming.streams: Nadcházející streamy
+dismiss: Zahodit
+welcome: Vítej
+community: Komunita
