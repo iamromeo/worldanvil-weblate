@@ -298,3 +298,27 @@ location.location_under: Располагается под
 law.localization: Перевод
 landmark.reportsecondarylocations: Связанный отчёт (второстепенные локации)
 landmark.contenders: Оспаривается
+myth.spread: Распространение
+myth.historical_basis: Историческое основание
+myth.summary: Сводка
+military_conf.objectives: Цели
+military_conf.casualties: Потери
+military_conf.strength: Численность
+military_conf.led_by: Лидер
+military_conf.belligerents: Стороны конфликта
+military_conf.location: Место
+military_conf.conflict_result: Исход конфликта
+military_conf.ending_date: Дата конца
+military_conf.starting_date: Дата начала
+military_conf.battlefield_type: Вид поля боя
+military_conf.conflict_type: Вид конфликта
+military_conf.techological_advancement: Технологическое развитие
+military_conf.in_literature: В литературе
+military_conf.legacy: Наследие
+military_conf.historical_significance: Историческое значение
+military_conf.aftermath: Последствия
+military_conf.outcome: Развязка
+military_conf.the_engagement: Стычка
+military_conf.battlefield: Поле боя
+military_conf.prelude: Прелюдия
+military_conf.the_conflict: Конфликт
