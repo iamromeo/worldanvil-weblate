@@ -129,3 +129,4 @@ follow.action.add.description: 'Volg om alle om alle artikels geschreven door de
   in deze wereld in jouw stream te krijgen!'
 reading.action.remove: VERWIJDEREN VAN LITERATUURSLIJST
 reading.action.add: VOEG TOE AAN LITERATUURLIJST
+goto.homepage: Ga naar de hoofdpagina van %naam%
