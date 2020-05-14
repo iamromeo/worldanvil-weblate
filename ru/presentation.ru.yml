@@ -285,3 +285,12 @@ document.publication.status: Статус публикации
 campaign.sessions_archive: Архив сессий
 heroes: Герои
 campaign.lore: Лор
+landmark.reportprimarylocations: Связанныt отчёт (основные локации)
+landmark.children: Включает в себя
+landmark.parent: Является частью
+formation.sidebar.parent.formation: Является частью
+formation.sidebar.dissolution: Дата роспуска
+formation.sidebar.founding: Дата основания
+ethnicity.major.organizations: Важные организации
+ethnicity.major.lang.groups.dialects: Основные языковые группы и диалекты
+document.term: Срок действия
