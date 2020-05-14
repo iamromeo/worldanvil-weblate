@@ -26,15 +26,15 @@ vehicle: Fordon
 rpg.session.report: RPG Sessions Rapport
 building: Byggnad
 geography: Geografi
-settlement: Bebyggelse
+settlement: Bosättning
 technology: Teknologi
 tradition: Tradition
 rpg.report: RPG Rapport
 description.building: '... eller Landmärke. Under, naturliga och byggda, ruiner, fängelsehålor,
   tempel, gigantiska träd, smedjor, vandrarhem, slott. Allt du kan peka till och människor
-  tycker är viktigt nog för ett namn.'
+  tycker är viktigt nog att namnge.'
 description.character: Från kungar och drottningar till hjältar, bönder och gudar.
-description.condition: Naturliga och magiska åkommor, sjukdommar, mutationer och transformationer.
+description.condition: Naturliga och magiska åkommor, sjukdomar, mutationer och transformationer.
 description.document: Avtal, böcker, konstverk, manualer, handböcker, budskap och
   så mycket mer!
 description.formation: Militära formationsprototyper. Hur ser dina legioner, falanger,
