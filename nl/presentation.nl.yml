@@ -131,3 +131,4 @@ reading.action.remove: VERWIJDEREN VAN LITERATUURSLIJST
 reading.action.add: VOEG TOE AAN LITERATUURLIJST
 goto.homepage: Ga naar de hoofdpagina van %name%
 campaign.system: Een %system_name% game
+campaign.explore.world: 'Verken deze %wereld_naam% '
