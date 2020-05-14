@@ -8,7 +8,7 @@ item: Föremål
 language: Språk
 material: Material
 myth.legend: Myt / Legend
-military.conflict: Militär Konflikt
+military.conflict: Konflikt
 location.building: Plats, Byggnad
 location.geographic: Plats, Geografisk
 location.settlement: Plats, Bebyggelse
@@ -17,7 +17,7 @@ organization: Organisation
 prose: Prosa
 profession: Yrke
 plot: Handling
-rank.title: Rank / Titel
+rank.title: Titel
 species: Art
 spell: Trollformel
 technology.science: Teknologi / Vetenskap
