@@ -262,3 +262,25 @@ campaign.lore_and_cast: Лор и Поддержка
 campaign.playedby: Сыграно
 organization.tree: Древо Организации
 explore: Изучить
+material.history_usage: История и использование
+location.related_myths: Связанные мифы
+location.related_reports_secondary: Связанные отчёты (Второстепенные)
+location.related_reports_primary: Связанные отчёты (Главные)
+location.owning_organization: Владеющая организация
+location.owner_ruler: Владелец/Правитель
+location.type: Вид
+location.aternative_names: Альтернативные Названия
+location.natural_resources: Природные Ресурсы
+location.fauna: Фауна
+location.flora: Флора
+law.type: Вид
+landmark.alterations: Изменения
+item.rpg.datasheet: Спецификация по Ролевой Системе
+formation.upkeep: Содержание
+document.article.signatoriesorganizations: Подписи (Организации)
+document.article.signatoriescharacters: Подписи (Персонажи)
+document.article.authoringdate: Дата создания
+document.legacy: Наследие
+document.publication.status: Статус публикации
+campaign.sessions_archive: Архив сессий
+heroes: Герои
