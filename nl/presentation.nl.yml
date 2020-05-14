@@ -64,13 +64,13 @@ featured.articles: Aanbevolen Artikelen
 campaign.sessions: Sessie lijst
 campaign.sessions.scheduled: Geplande sessies
 explore: Verkennen
-join.discord.world: Volg %wereldnaam% Discord!
+join.discord.world: Volg %worldname% Discord!
 organization.tree: Organisatie order
-article.likes.number: 'Dit bericht is door %number% geliked.'
-like.action.add: 'Like '
-like.action.remove: Verwijder like
-follow.action.add: Volg
-following: Je volgt nu %naam%
+article.likes.number: 'dit bericht is door %number% geliked'
+like.action.add: 'LIKE'
+like.action.remove: VERWIJDER LIKE
+follow.action.add: VOLG
+following: Je volgt nu %name%
 author.badges: Badges & Medailles
 campaign.sessions_archive: Sessie Archief
 campaign.allies: Bondgenoten
@@ -82,7 +82,7 @@ campaign.neutral: Neutrale Partijen
 campaign.setting: De Omgeving
 campaign.generic: Andere NPC's
 campaign.maps: Kaarten
-campaign.timelines: 'Tijdlijnen '
+campaign.timelines: 'Tijdlijnen'
 campaign.journal.player: Speler
 campaign.journal.campaign: Campange
 campaign.journal.world: Wereld
@@ -127,8 +127,8 @@ ethnicity.other.names: Andere Namen
 ethnicity.culture: Cultuur
 follow.action.add.description: 'Volg om alle om alle artikels geschreven door de auteurs
   in deze wereld in jouw stream te krijgen!'
-reading.action.remove: VERWIJDEREN VAN LITERATUURSLIJST
+reading.action.remove: VERWIJDEREN VAN LITERATUURLIJST
 reading.action.add: VOEG TOE AAN LITERATUURLIJST
 goto.homepage: Ga naar de hoofdpagina van %name%
 campaign.system: Een %system_name% game
-campaign.explore.world: 'Verken deze %wereld_naam% '
+campaign.explore.world: 'Verken de wereld van %world_name%'
