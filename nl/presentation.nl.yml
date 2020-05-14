@@ -66,3 +66,8 @@ campaign.sessions.scheduled: Geplande sessies
 explore: Verkennen
 join.discord.world: Volg %wereldnaam% Discord!
 organization.tree: Organisatie order
+article.likes.number: 'Dit bericht is door %nummer% geliked. '
+like.action.add: 'Like '
+like.action.remove: Verwijder like
+follow.action.add: Volg
+following: Je volgt nu %naam%
