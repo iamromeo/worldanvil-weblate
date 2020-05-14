@@ -322,3 +322,5 @@ military_conf.the_engagement: Стычка
 military_conf.battlefield: Поле боя
 military_conf.prelude: Прелюдия
 military_conf.the_conflict: Конфликт
+military_conf.conditions: Обстановка
+military_conf.deployment: Размещение
