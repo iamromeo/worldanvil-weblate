@@ -211,3 +211,7 @@ edit.article: Bewerk artikel
 create.new.era: Creëer een nieuwe Era
 create.new.orgchart: Creëer een nieuwe inhoudsopgave
 edit.orgchart.item: Bewerk inhoudsopgave item
+delete.article.template: verwijder artikel sjabloon
+delete.orgchart: Verwijder inhoudsopgave
+delete.block.template: Verwijder bloksjabloon
+edit.group: Bewerk groep
