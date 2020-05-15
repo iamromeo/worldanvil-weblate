@@ -318,3 +318,5 @@ npc: Niet speelbare karakter
 spell: Spreuk
 class: Klasse
 race: Ras
+access.rights.management: Toegang rechten beheer
+access.rights.subscribers: Abonee
