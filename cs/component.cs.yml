@@ -198,8 +198,8 @@ map.marker.radius.description: Poloměr kruhu v pixelech, tuto hodnotu vyplň je
 map.marker.link.description: Když tuto značku označíš jako značku s přímým odkazem,
   tak po kliknutí přenese uživatele přímo na cílovou stránku.
 map.marker.polygonPoints: Body polygonu
-map.marker.colorOutline.description: Barva ohraničení kruhu nebo polygonu. Můžeš použít
-  CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
+map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelníku. Můžeš
+  použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
   na začátku kódu.
 map.marker.colorFill.description: Barva plochy vyplňující kruh nebo polygon. Můžeš
   použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
