@@ -3,13 +3,13 @@ edit: Редактировать
 save.changes: Сохранить изменения
 delete: Удалить
 create: Создать
-world.create: Создать новый мир
+world.create: Создать новый Мир
 replace: Заменить
 search: Поиск
 search.in: Поиск в
 create a new...: Создать...
 edit.map: Редактировать Карту
-edit.profile: Редактировать профиль
+edit.profile: Редактировать Профиль
 logout: Выход
 delete.map: Удалить Карту
 view: Обзор
@@ -19,7 +19,7 @@ world.view: Обзор Мира
 browse: Поиск
 download: Скачать
 register: Создать аккаунт
-view.map: Посмотреть карту
+view.map: Посмотреть Карту
 view.profile: Просмотреть Профиль
 check.out: Посмотреть
 save: Сохранить
