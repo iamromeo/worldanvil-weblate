@@ -326,6 +326,6 @@ access.authors.management: Auteursbeheer
 access.rights.codes: Toegangscode
 access.authors.revoke: Toegang Ingetrekken
 access.authors.coowner: Mede beheerder
-access.authors.editor: Verbeteraar
+access.authors.editor: Redacteur
 access.authors.coowner.description: Toegang tot alles, inclusief World-configuratie,
   CSS en Access Management.
