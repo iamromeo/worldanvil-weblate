@@ -334,5 +334,5 @@ access.authors.editor.description: 'Toegang tot creëren, bekijken en bewerken v
 access.authors.writer.description: 'Toegang tot creëren van een concept. Bewerker
   en hoger kunnen die artikelen vervolgens beheren, ordenen en publiceren. '
 access.authors.writer: Schrijver
-access.authors.slots: Schrijvers opening gebruikt
+access.authors.slots: Auteur openingen gebruikt
 access.authors.advanced.writer: Geavanceerde schrijver
