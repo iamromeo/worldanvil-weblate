@@ -302,5 +302,5 @@ pin.iconAnchorX: Anker punt X (in pixels)
 pin.iconAnchorY: Ankerpunt Y (in pixels)
 pin.popupAnchorY: Popup punt Y (in pixels)
 pin.template.header: Standaard Markers sjabloon
-pin.template.description: Use the files in this zip file to create pins similar to
-  the ones provided by World Anvil.
+pin.template.description: Gebruik de bestanden in dit ZIP-bestand, om markers te maken
+  die gelijkaardig zijn aan die dat World Anvil voorzien.
