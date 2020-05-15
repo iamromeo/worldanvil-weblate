@@ -234,3 +234,5 @@ orgcharts: Inhoudsopgaves
 list.block.templates: Blok Sjablonen lijst
 article.templates: Artikel sjablonen
 timelines_and_calendars: Tijdlijnen & kalenders
+list.orgcharts: inhoudsopgave lijst
+list.charts: Grafiek lijst
