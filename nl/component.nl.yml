@@ -294,3 +294,11 @@ pin.theme.description: Thema's zijn een manier om door je pin te filteren. b.v. 
 pin.shadow.description: Het beeld van de schaduw van de pin. Deze afbeelding is optioneel.
   Indien meegeleverd, moet deze breder zijn vanaf de markering afbeelding en naar
   de rechterkant uitbreiden.
+pin.popupAnchor.description: Het pop-upankerpunt is het punt waar de pop-updriehoek
+  wordt gecentreerd. Tegenover het markering anker zou het bovenaan het pictogram
+  staan, zo niet hoger.
+pin.popupAnchorX: Popup punt  X (in pixels)
+pin.iconAnchorX: Anker punt X (in pixels)
+pin.iconAnchorY: Ankerpunt Y (in pixels)
+pin.popupAnchorY: Popup punt Y (in pixels)
+pin.template.header: Standaard markering sjabloon
