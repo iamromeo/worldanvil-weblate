@@ -336,3 +336,12 @@ access.authors.writer.description: 'Toegang tot creëren van een concept. Bewerk
 access.authors.writer: Schrijver
 access.authors.slots: Auteur openingen gebruikt
 access.authors.advanced.writer: Geavanceerde schrijver
+access.subscribers.purge: Verwijder alle huidige abonnees uit de lijst voordat u ze
+  importeert
+access.subscribers.slots: Abonnee openingen gebruikt
+access.authors.add: Voeg een nieuwe schrijver toe
+access.authors.username: Gebruikersnaam
+access.authors.rank: Rang
+access.authors.groups: Groepen
+access.subscribers.emails: E-mail abonnees
+access.subscriber.add: Voeg Abonnees aan de Groepen
