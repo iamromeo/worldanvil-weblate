@@ -269,4 +269,4 @@ map.marker.group.description: Met markergroepen kunt u uw markeringen en kaartla
   beheren (als u een gildelid bent). Net als bij lagen kunnen deze worden gebruikt
   om verschillende informatie weer te geven of indien gewenst een set / groep markeringen
   voor uw lezers te verbergen.
-map.marker.group.onload: Eerste groepszichtbaarheid
+map.marker.group.onload: Initiële Groepszichtbaarheid
