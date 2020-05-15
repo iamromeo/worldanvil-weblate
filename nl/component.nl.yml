@@ -238,8 +238,8 @@ list.orgcharts: inhoudsopgave lijst
 list.charts: Grafiek lijst
 related.article: Gerelateerd artikel
 related.history: Gerelateerde Historische Vermelding
-map.marker.polygonPoints.description: Lengte en breedte van elk punt als een paar
-  gescheiden door een komma en door elkaar gescheiden door een spatie. Bijvoorbeeld
+map.marker.polygonPoints.description: Lengtegraad en breedtegraad van elk punt als
+  een paar gescheiden door een komma en door elkaar gescheiden door een spatie. Bijvoorbeeld
   20,20 30,30 50,45. Tip! Gebruik de rode "nieuwe punt" pin om de breedte / lengte
   te krijgen.
 map.marker.link.relation.description: Kies een van de onderstaande relaties voor de
