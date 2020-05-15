@@ -284,3 +284,5 @@ map.marker.lineColor: Lijn kleur
 map.marker.lineWeight: Lijn gewicht
 map.marker.lineOpacity: Lijndekking
 map.marker.choice.type: Wat voor soort Marker is het?
+pin.pinImage: Markering afbeelding
+map.marker.choice.functionality: Wat doet het?
