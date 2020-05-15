@@ -238,3 +238,19 @@ list.orgcharts: inhoudsopgave lijst
 list.charts: Grafiek lijst
 related.article: Gerelateerd artikel
 related.history: Gerelateerde Historische Vermelding
+map.marker.polygonPoints.description: Lengte en breedte van elk punt als een paar
+  gescheiden door een komma en door elkaar gescheiden door een spatie. Bijvoorbeeld
+  20,20 30,30 50,45. Tip! Gebruik de rode "nieuwe punt" pin om de breedte / lengte
+  te krijgen.
+map.marker.link.relation.description: Kies een van de onderstaande relaties voor de
+  directe link om naar te linken. Als u er meer dan één kiest, wordt alleen de eerste
+  van kracht.
+map.marker.link.description: Als u de markering markeert als een directe-linkmarkering,
+  zal de gebruiker, wanneer erop wordt geklikt, rechtstreeks naar de doelpagina navigeren.
+map.marker.choice: Kies en vul slechts een van de volgende opties in.
+map.display.homepage: "Toon deze kaart op de startpagina van de wereld.\n"
+map.marker.label.description: Dit is de tekst die voor dit label op uw kaart zal verschijnen.
+map.marker.label: Label tekst
+map.marker.fill: Gaaf! Vul dan nu de onderstaande formulier in!
+map.settings: Kaart instellingen
+map.presentation: Open prestatie mode
