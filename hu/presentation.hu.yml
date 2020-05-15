@@ -38,7 +38,7 @@ reading.action.remove: Eltávolítás az Olvasó Listáról
 reading.action.add: Olvasó Listához adás
 reading.action.add.description: Add hozzá ezt a cikket az Olvasd el Később/ Mentett
   cikkek listába. A szerző NEM lesz értesítve.
-goto.homepage: Menny %name% Kezdőlapjára
+goto.homepage: Menj %name% Kezdőlapjára
 article.love: Az emberek, kik szerették a cikked
 article.love.return: Menny és szeresd vissza őket!
 article.likes.number: Ezt a posztot %number% világépítő kedvelte
