@@ -260,3 +260,13 @@ map.marker.colorOutline: Overzicht kleur
 map.marker.opacityFill: Vul Ondoorzichtigheid in
 map.marker.draggable: "Sleepbare markering\n"
 map.marker.draggable.checkbox: Deze markering is sleepbaar.
+map.marker.draggable.description: Versleepbare markeringen kunnen worden verplaatst
+  door alle schrijvers, redacteuren en eigenaren van de wereld. Bij verplaatsing wordt
+  de nieuwe locatie van de markering opgeslagen. Deze functie is ingeschakeld op de
+  volledige kaart van de presentatie en de verkenner.
+map.marker.group.description: Met markergroepen kunt u uw markeringen en kaartlagen
+  indelen in categorieën die u kunt in- en uitschakelen en hun zichtbaarheid kunt
+  beheren (als u een gildelid bent). Net als bij lagen kunnen deze worden gebruikt
+  om verschillende informatie weer te geven of indien gewenst een set / groep markeringen
+  voor uw lezers te verbergen.
+map.marker.group.onload: Eerste groepszichtbaarheid
