@@ -304,3 +304,8 @@ pin.popupAnchorY: Popup punt Y (in pixels)
 pin.template.header: Standaard Markers sjabloon
 pin.template.description: Gebruik de bestanden in dit ZIP-bestand, om markers te maken
   die gelijkaardig zijn aan die dat World Anvil voorzien.
+character: Karakter
+organization.and.access: Organisatie & Toegang
+functionality: Functionaliteit
+appearance: Verschijning
+pin.value.notzero: Zorg er alsjeblieft voor dat deze waarde niet leeg of 0 is.
