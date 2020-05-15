@@ -79,3 +79,8 @@ access.description: Het spijt me zo, maar je hebt geen toegang tot deze pagina. 
 moderation: Met mate
 goto.articles.list: Ga naar Artikel Lijst
 goto.account: Ga naar Account details
+dashboard.manage.features: Beheer je geactiveerd functies
+dashboard.features.mistake: Heb je per ongeluk functies voor het bouwen van een wereld
+  geactiveerd?
+dashboad.cta: GA WERELDBOUWEN
+dashboard.create.first: Creëer je eerste Wereld!
