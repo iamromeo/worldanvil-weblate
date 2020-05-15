@@ -350,5 +350,11 @@ access.subscribers.management: Abonnee Beheer
 access.group.management: Abonnee Groepen Beheer
 access.group.edit: Bewerk Abonnee Groep
 access.group.assets: Groep Middelen
-access.group.position.description: (Optional) Zodat u uw groepen kunt organiseren
+access.group.position.description: (Optioneel) Zodat u uw groepen kunt organiseren
   als dat nodig is.
+access.code.management: Abonnee Codes Beheer
+access.code.code: Code
+access.code.group: Abonnee Groep
+access.code.maxUses: Maximaal Nummer van Gebruikers
+access.code.expiryDate: Verval Datum
+access.code.edit: Bewerk Abonnee Code
