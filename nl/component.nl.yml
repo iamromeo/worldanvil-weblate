@@ -258,3 +258,5 @@ map.marker.opacityOutline: Overzicht Ondoorzichtigheid
 map.marker.colorFill: Vul kleur in
 map.marker.colorOutline: Overzicht kleur
 map.marker.opacityFill: Vul Ondoorzichtigheid in
+map.marker.draggable: "Sleepbare markering\n"
+map.marker.draggable.checkbox: Deze markering is sleepbaar
