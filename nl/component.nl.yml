@@ -330,4 +330,4 @@ access.authors.editor: Redacteur
 access.authors.coowner.description: Toegang tot alles, inclusief World-configuratie,
   CSS en Access Management.
 access.authors.editor.description: 'Toegang tot creëren, bekijken en bewerken van
-  de inhoud. '
+  alle inhoud.'
