@@ -331,3 +331,8 @@ access.authors.coowner.description: Toegang tot alles, inclusief World-configura
   CSS en Access Management.
 access.authors.editor.description: 'Toegang tot creëren, bekijken en bewerken van
   alle inhoud.'
+access.authors.writer.description: 'Toegang tot creëren van een concept. Bewerker
+  en hoger kunnen die artikelen vervolgens beheren, ordenen en publiceren. '
+access.authors.writer: Schrijver
+access.authors.slots: Schrijvers opening gebruikt
+access.authors.advanced.writer: Geavanceerde schrijver
