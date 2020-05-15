@@ -3,3 +3,11 @@ manuscripts.list: Seznam rukopisů
 manuscript.edit: Upravit rukopis
 manuscript.view: Zobrazit rukopis
 manuscript.delete: Smazat rukopis
+manuscript.settings.upper: NASTAVENÍ
+manuscript.view.upper: ZOBRAZIT
+manuscript.edit.upper: UPRAVIT
+manuscript.world.activate.desc: Nemáš žádný aktivní svět, musíš nějaký vytvořit abys
+  mohl vytvořit rukopis
+manuscript.world.activate: Musíš zvolit jeden ze svých světů
+manuscript.create: Vytvořit nový rukopis
+manuscript.settings: Nastavení rukopisu
