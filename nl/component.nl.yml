@@ -254,6 +254,6 @@ map.marker.label: Label tekst
 map.marker.fill: Gaaf! Vul dan nu de onderstaande formulier in!
 map.settings: Kaart instellingen
 map.presentation: Open prestatie mode
-map.marker.opacityOutline: Overzicht dekking
+map.marker.opacityOutline: Overzicht Ondoorzichtigheid
 map.marker.colorFill: Vul kleur in
 map.marker.colorOutline: Overzicht kleur
