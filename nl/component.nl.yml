@@ -270,3 +270,16 @@ map.marker.group.description: Met markergroepen kunt u uw markeringen en kaartla
   om verschillende informatie weer te geven of indien gewenst een set / groep markeringen
   voor uw lezers te verbergen.
 map.marker.group.onload: Initiële Groepszichtbaarheid
+map.marker.linePoints: Lijnpunten
+map.marker.lineWeight.description: Het gewicht van betrekkelijke pixels van de lijn
+map.marker.lineDash.description: Dit is een geavanceerde functie. Gebruik lijn streepje
+  om het streeppatroon van uw lijn te definiëren. Bijvoorbeeld 8 8 betekent 8 pixels
+  lijn 8 pixels gap. Maar u kunt ook gewoon 8 of 1 2 3 4 gebruiken om variabele lijn
+  streepjes te hebben.
+map.marker.linePoints.check: Vink dit aan en sleep de nieuwe markeerstift om een ​​lijn
+  te maken.
+map.marker.group.onload.description: Maak deze groep zichtbaar tijdens het eerste
+  laden van de kaart
+map.marker.lineColor: Lijn kleur
+map.marker.lineWeight: Lijn gewicht
+map.marker.lineOpacity: Lijndekking
