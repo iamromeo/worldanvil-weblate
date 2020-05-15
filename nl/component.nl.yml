@@ -310,3 +310,11 @@ functionality: Functionaliteit
 appearance: Verschijning
 pin.value.notzero: Zorg er alsjeblieft voor dat deze waarde niet leeg of 0 is.
 feat: Verwezenlijking
+item: Item
+access.rights.notice: De functionaliteit voor groepen en abonnees is alleen beschikbaar
+  voor leden van het gilde!
+monster: Monster
+npc: Niet speelbare karakter
+spell: Spreuk
+class: Klasse
+race: Ras
