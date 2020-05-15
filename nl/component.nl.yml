@@ -286,3 +286,8 @@ map.marker.lineOpacity: Lijndekking
 map.marker.choice.type: Wat voor soort Marker is het?
 pin.pinImage: Marker Afbeelding
 map.marker.choice.functionality: Wat doet het?
+pin.shadow: Markering schaduw afbeeliding
+pin.tags.description: Gebruik zoveel woorden als je wenst voor deze markering. Hiermee
+  kunt u er heel snel doorheen zoeken.
+pin.theme.description: Thema's zijn een manier om door je pin te filteren. b.v. Star
+  Wars Empire of Star Wars Rebels etc.
