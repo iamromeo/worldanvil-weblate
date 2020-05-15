@@ -291,3 +291,6 @@ pin.tags.description: Gebruik zoveel woorden als je wenst voor deze markering. H
   kunt u er heel snel doorheen zoeken.
 pin.theme.description: Thema's zijn een manier om door je pin te filteren. b.v. Star
   Wars Empire of Star Wars Rebels etc.
+pin.shadow.description: Het beeld van de schaduw van de pin. Deze afbeelding is optioneel.
+  Indien meegeleverd, moet deze breder zijn vanaf de markering afbeelding en naar
+  de rechterkant reiken.
