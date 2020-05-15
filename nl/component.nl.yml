@@ -345,3 +345,10 @@ access.authors.rank: Rang
 access.authors.groups: Groepen
 access.subscribers.emails: E-mail abonnees
 access.subscriber.add: Voeg Abonnees aan de Groep(en) toe
+access.subscribers.add: Voeg Abonnees aan de Groep toe
+access.subscribers.management: Abonnee Beheer
+access.group.management: Abonnee Groepen Beheer
+access.group.edit: Bewerk Abonnee Groep
+access.group.assets: Groep Middelen
+access.group.position.description: (Optional) Zodat u uw groepen kunt organiseren
+  als dat nodig is.
