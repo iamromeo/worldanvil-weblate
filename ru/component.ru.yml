@@ -80,7 +80,7 @@ secrets: Секреты
 list.secrets: Список Тайн
 create.marker: Создать Метку
 create.pin: Создать значок на карте
-create.new.block: Созадать новый Блок
+create.new.block: Создать новый Блок
 create.new.timeline: Создать новую Хронологию
 create.new.marker: Создать новую Метку
 create.new.marker.group: Создать новую Группу Меток
@@ -92,7 +92,7 @@ circle: Круг
 line: Линия
 player.character: Игровой Персонаж
 timeline: Хронология
-label: Метка
+label: Пометка
 marker.group: Группа Меток
 polygon: Полигон
 popup: Открыть всплывающее окно
@@ -301,7 +301,7 @@ create.group: Создать группу
 create.new.era: Создать новую Эру
 edit.article: Редактировать статью
 edit.group: Редактировать группу
-view.world: Показать Мир
+view.world: Посмотреть Мир
 delete.group: Удалить группу
 deete.code: Удалить код доступа
 block.template: Шаблон Блока
@@ -377,8 +377,8 @@ delete.orgchart: Удалить Информационное Дерево
 edit.orgchart.item: Редактировать Вещь из Информационного Дерева
 edit.orgchart: Редактировать Информационное Дерево
 create.new.orgchart: Создать новое Информационное Дерево
-parent.item: Родительский Предмет
-parent: Родитель
+parent.item: Принадлежит
+parent: Принадлежит
 access.authors.advanced.writer.description: Возможность создать и управлять статьями
   независимо от того, являются ли они черновиками, или нет.<br>Это позволит продолжить
   пополнять статью в реальном времени. <br>Это лучший тип авторства для тех, кто хочет

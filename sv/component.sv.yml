@@ -16,21 +16,21 @@ edit.campaign: Redigera Kampanj
 edit.category: Redigera Kategori
 edit.historical.entry: Redigera Historisk Händelse
 edit.image: Redisgera Bild
-edit.player.character: Redigera Spelarkaraktär
+edit.player.character: Redigera spelarkaraktär
 edit.timeline: Redigera Tidslinje
-edit.map: Redigera Karta
+edit.map: Redigera karta
 edit.note: Redigera Anteckning
 edit.secret: Redigera Hemlighet
 edit.world: Redigera Värld
 delete.author.profile: Radera Profil
-delete.block: Radera Block
+delete.block: Radera block
 delete.campaign: Radera Kampanj
 delete.category: Radera Kategori
-delete.historical.entry: Radera Historisk Händelse
+delete.historical.entry: Radera historisk händelse
 delete.image: Radera Bild
-delete.player.character: Radera Spelarkaraktär
+delete.player.character: Radera spelarkaraktär
 delete.timeline: Radera Tidslinje
-delete.map: Radera Karta
+delete.map: Radera karta
 delete.note: Radera Anteckning
 delete.secret: Radera Hemlighet
 delete.world: Radera Värld
@@ -38,7 +38,7 @@ author.profile: Profil
 block: Block
 campaign: Kampanj
 category: Kategori
-historical.entry: Historisk Händelse
+historical.entry: Historisk händelse
 image: Bild
 player.character: Spelarkaraktär
 timeline: Tidslinje
@@ -78,8 +78,8 @@ create.new.player.character: Skapa en ny spelarkaraktär
 create.new.layer: Skapa ett nytt lager
 create.new.marker: Skapa en ny markör
 create.new.marker.group: Skapa en ny Markörgrupp
-edit.layer: Redigera Lager
-edit.marker: Redigera Markör
+edit.layer: Redigera lager
+edit.marker: Redigera markör
 edit.marker.group: Redigera Markörgrupp
 subscriber.groups: Prenumerationsgrupper
 subscriber.groups.description: Välj en eller flera grupper som du vill låta ha tillgång
@@ -94,7 +94,7 @@ tag.description: Använd kommatecken för att separera dina taggar. att lägga t
 map.image: Kartans Primärbild
 map.image.secondary: Lagerbild
 map.update.image: Updatera Kartans Primärbild
-map.edit.details: Redigera Kartdetaljer
+map.edit.details: Redigera kartdetaljer
 map.image.details: Dom förväntade fildimensionerna är
 map.legend: Teckenförklaring
 map.legend.description: Det här kommer dyka upp i nedre vänstra hörnet på din karta.
@@ -102,11 +102,11 @@ map.legend.description: Det här kommer dyka upp i nedre vänstra hörnet på di
   beskrivning eller ge annan kontext.
 map.marker.style: Stil
 map.marker.color: Färg
-map.marker.longitude: Longitude
+map.marker.longitude: Longitud
 map.marker.latitude: Latitud
 map.marker.height: Höjd
 map.marker.new: Ny Plats Markör
-map.marker.drag: Dra mig för att sätta koordinaterna för den nya Markören
+map.marker.drag: Dra mig för att sätta koordinaterna för den nya markören
 map.marker.fill: Fantastiskt! Fyll i formuläret här nedan nu!
 map.display.homepage: Visa denna kartan på Världshemsidan.
 guild.access: Alla föremål på ett fritt konto är allmäna. Gå med i  <a class="m-t-10
@@ -122,3 +122,6 @@ guild.access.map: Alla kartor på ett fritt konto visas på världshemsidan. Gå
   <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a>
   för att sätta dina kartor, artiklar och världar som privat, och hjälpa utvecklingen
   av World Anvil.
+item: Föremål
+world.view: Visa värld
+browse: Bläddra

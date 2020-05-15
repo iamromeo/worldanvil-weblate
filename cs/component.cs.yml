@@ -80,7 +80,7 @@ edit.historical.entry: Upravit historickou událost
 delete.historical.entry: Smazat historickou událost
 historical.entry: Historická událost
 list.historical.entries: Seznam historických událostí
-access.description: Nastav tento příspěvek jako veřejný, aby si ho mohl každý zobrazit.
+access.description: Nastav svůj příspěvek jako veřejný, aby si ho mohl každý zobrazit.
   Soukromé příspěvky jsou viditelné pouze tobě a spoluautorům tvého světa.
 tag.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
   k jakémukoli obsahu, který bude díky nim snáze dohledatelný.
@@ -103,9 +103,9 @@ list.layers: Seznam vrstev
 position: Pozice/Důležitost
 position.description: Důležitost je číslo, které určuje, v jakém pořadí se položka
   zobrazí na daném seznamu. Čím vyšší číslo, tím výše se položka zobrazí.
-status.description: Nastav tuto položku jako veřejnou, aby si ji mohl každý zobrazit.
-  Soukromé položky jsou viditelné pouze tobě a také spoluautorům a odběratelům tvého
-  světa, kteří mají příslušné oprávnění si je zobrazit.
+status.description: Nastavte tuto položku jako veřejnou, aby ji všichni mohli zobrazit.
+  Soukromé položky jsou viditelné pouze pro vás a vaše spoluautory a odběratele s
+  náležitým oprávněním k vašemu světu.
 subscriber.groups.description: Vyber jednu nebo více skupin, kterým chceš povolit
   přístup k tomuto článku. Nastavení ovlivní pouze soukromé články.
 display: Zobrazení
@@ -144,7 +144,7 @@ create.new.map: Vytvořit novou mapu
 create.new.marker: Vytvořit novou značku
 create.new.marker.group: Vytvořit novou skupinu značek
 create.new.note: Vytvořit novou poznámku
-create.new.world: Vytvořit nový Svět
+create.new.world: Vytvořit Svět
 subscriber.groups: Odběratelské skupiny
 group: Skupina
 map.image: Hlavní obrázek mapy
@@ -170,10 +170,10 @@ edit.pin: Upravit špendlík na mapě
 delete.pin: Smazat špendlík na mapě
 circle: Kruh
 label: Štítek
-link: Přímý odkaz
+link: Otevřít na nové stránce
 polygon: Polygon
-popup: Vyskakovací okno
-pin: Špendlíky na mapě
+popup: Otevřít ve vyskakovacím okně
+pin: Špendlík
 list.pins: Seznam špendlíků na mapě
 map.compass: Obrázek růžice kompasu
 map.compass.description: Vyber obrázek, který se zobrazí jako kompasová růžice v pravém
@@ -198,8 +198,8 @@ map.marker.radius.description: Poloměr kruhu v pixelech, tuto hodnotu vyplň je
 map.marker.link.description: Když tuto značku označíš jako značku s přímým odkazem,
   tak po kliknutí přenese uživatele přímo na cílovou stránku.
 map.marker.polygonPoints: Body polygonu
-map.marker.colorOutline.description: Barva ohraničení kruhu nebo polygonu. Můžeš použít
-  CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
+map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelníku. Můžeš
+  použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
   na začátku kódu.
 map.marker.colorFill.description: Barva plochy vyplňující kruh nebo polygon. Můžeš
   použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
@@ -232,7 +232,7 @@ pin.pinImage: Obrázek špendlíku
 pin.shadow: Obrázek stínu špendlíku
 functionality: Funkčnost
 pin.iconAnchor.description: Kotva určuje speciální pixel, kde se potkává tvůj špendlík
-  s mapou. Normálně by to byly souřadnice 0Y a polovina šířky špendlíku X.
+  s mapou. Normálně by to byly souřadnice 0Y a polovina šířky špendlíku X
 pin.iconAnchorX: Kotva bodu X (v pixelech)
 pin.iconAnchorY: Kotva bodu Y (v pixelech)
 pin.popupAnchor.description: Vyskakovacím oknem kotvy je bod, ve kterém bude střed
@@ -328,3 +328,48 @@ create: Vytvořit
 world.view: Zobrazit Svět
 characters: Postavy
 history: Historie
+map.marker.draggable.checkbox: Tato značka se dá přesunout.
+map.marker.draggable: Značka
+map.settings: Nastavení mapy
+map.presentation: Otevřít prezentační mód
+list.orgcharts: Seznam obsahů
+list.charts: Seznam schémat
+list.characters: Seznam postav
+article.templates: Šablony článků
+calendars: Kalendáře
+events: Historické události
+timelines_and_calendars: Časové osy a kalendáře
+histories: Historie
+orgcharts: Obsahy
+charts: Schéma
+sheets.and.blocks: Tabulky a bloky
+map.pins: Špendlíky na mapě
+athena: Články a kategorie
+content: Obsah
+world.explorer: Průzkumník
+world.explore: Prozkoumat
+orgchart.structure: Struktura obsahu
+orgchart: Obsah
+chart: Schéma
+delete.article.template: Smazat šablonu článku
+delete.orgchart: Smazat obsah
+edit.orgchart.item: Upravit položku Obsahu
+edit.orgchart: Upravit Obsah
+create.new.orgchart: Vytvořit nový Obsah
+create.new.template: Vytvořit novou Šablonu článku
+create.todo: Vytvořit úkol
+create.template: Vytvořit šablonu
+create.orgchart: Vytvořit organizační schéma
+parent.item: Zdrojový předmět
+parent: Zdroj
+Community: Komunita
+Settings & Tools: Nastavení a nástroje
+list.block.templates: Seznam šablon pro RPG materiály
+block.templates: Šablony pro RPG materiály
+block.template: Šablona pro RPG materiál
+deete.code: Smazat kód
+delete.block.template: Smazat šablonu pro RPG materiál
+edit.block.template: Upravit šablonu pro RPG materiál
+create.new.block.template: Vytvořit novou šablonu pro RPG materiál
+create.code: Vytvořit kód
+world.summary: Přehled
