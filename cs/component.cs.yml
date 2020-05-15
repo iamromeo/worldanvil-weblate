@@ -103,9 +103,9 @@ list.layers: Seznam vrstev
 position: Pozice/Důležitost
 position.description: Důležitost je číslo, které určuje, v jakém pořadí se položka
   zobrazí na daném seznamu. Čím vyšší číslo, tím výše se položka zobrazí.
-status.description: Nastav tuto položku jako veřejnou, aby si ji mohl každý zobrazit.
-  Soukromé položky jsou viditelné pouze tobě a také spoluautorům a odběratelům tvého
-  světa, kteří mají příslušné oprávnění si je zobrazit.
+status.description: Nastavte tuto položku jako veřejnou, aby ji všichni mohli zobrazit.
+  Soukromé položky jsou viditelné pouze pro vás a vaše spoluautory a odběratele s
+  náležitým oprávněním k vašemu světu.
 subscriber.groups.description: Vyber jednu nebo více skupin, kterým chceš povolit
   přístup k tomuto článku. Nastavení ovlivní pouze soukromé články.
 display: Zobrazení
@@ -364,3 +364,11 @@ parent.item: Zdrojový předmět
 parent: Zdroj
 Community: Komunita
 Settings & Tools: Nastavení a nástroje
+list.block.templates: Seznam šablon pro RPG materiály
+block.templates: Šablony pro RPG materiály
+block.template: Šablona pro RPG materiál
+deete.code: Smazat kód
+delete.block.template: Smazat šablonu pro RPG materiál
+edit.block.template: Upravit šablonu pro RPG materiál
+create.new.block.template: Vytvořit novou šablonu pro RPG materiál
+create.code: Vytvořit kód
