@@ -178,3 +178,9 @@ formation.upkeep: Onderhoud
 formation.recruitment: Aanwerving
 formation.history: Geschiedenis
 formation.historical.loyalties: Historische loyaliteiten
+formation.sidebar.overall.training.level: Algemeen trainingsniveau
+formation.sidebar.type: Type
+formation.sidebar.founding: Oprichting
+formation.sidebar.dissolution: Ontbinding
+formation.sidebar.assumed.veterancy: Aangenomen Veterancy
+formation.sidebar.parent.formation: Oudere Formatie
