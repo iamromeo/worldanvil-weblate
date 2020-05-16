@@ -249,3 +249,7 @@ location.fauna: Fauna
 location.natural_resources: Natuurlijke Grondstoffen
 location.florafauna: Fauna & Flora
 location.included_locations: Opgenomen Locaties
+location.type: Type
+location.aternative_names: Alternatieve Namen
+location.location_under: Locatie onder
+location.included_organizations: Inclusief Organisaties
