@@ -8,4 +8,5 @@ manuscript.world.activate: Cal activar un dels vostres mons
 manuscript.create: Crea un nou manuscrit
 manuscript.world.activate.desc: No hi ha cap mon actiu i en cal un per crear un nou
   manuscrit
-manuscript.edit.upper: Editar
+manuscript.edit.upper: EDITA
+manuscript.view.upper: MOSTRA
