@@ -252,4 +252,5 @@ location.included_locations: Opgenomen Locaties
 location.type: Type
 location.aternative_names: Alternatieve Namen
 location.location_under: Locatie onder
-location.included_organizations: Inclusief Organisaties
+location.included_organizations: Opgenomen Organisaties
+location.owning_organization: Eigenaar Organisatie
