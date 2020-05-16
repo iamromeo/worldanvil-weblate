@@ -132,4 +132,29 @@ reading.action.add: VOEG TOE AAN LITERATUURLIJST
 goto.homepage: Ga naar de hoofdpagina van %name%
 campaign.system: Een %system_name% game
 campaign.explore.world: 'Verken de wereld van %world_name%'
-document.article.medium: Vorm
+document.article.medium: Medium
+follow.action.unfollow.world: Volg deze Wereld niet meer
+campaign.competitors: Concurrenten
+campaign.lore: Traditionele kennis
+campaign.lore_and_cast: Geschiedenis & Ondersteunende Karakters
+condition.transmission: Transmissie & Vectoren
+condition.epidimiology: Epidemiologie
+condition.reception: Culturele Verwelkoming
+document.structure: Documenten Structuur
+document.clauses: Clausules
+document.article.authoringdate: Ontwerpdatum
+ethnicity.major.lang.groups.dialects: Grote taalgroepen en dialecten
+ethnicity.common.dress.code: 'Gebruikelijke Kleding voorschiften '
+ethnicity.common.customs.traditions.rituals: Gebruikelijke gebruiken, tradities en
+  rituelen
+ethnicity.funerary.memorial.Customs: 'Begrafenissen en Herdenking gebruiken '
+document.article.signatoriesorganizations: Ondertekenaars (Organisaties)
+ethnicity.culture.cultural.heritage: Cultuur en cultureel erfgoed
+ethnicity.shared.customary.codes.values: Gedeelde gebruikelijke codes en waarden
+ethnicity.Average.technological.level: Gemiddeld technologisch niveau
+ethnicity.common.etiquette.rules: Algemene etiquetteregels
+ethnicity.art.architecture: Kunst & Architectuur
+ethnicity.birth.baptismal.rites: Geboorte & Doop Rituelen
+ethnicity.comingofage.rites: Ouder Worden Rituelen
+ethnicity.common.taboos: Gebruikelijke Taboe's
+ethnicity.common.myths.legends: Gebruikelijke Mythes en Legendes

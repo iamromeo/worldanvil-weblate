@@ -324,3 +324,119 @@ military_conf.prelude: Прелюдия
 military_conf.the_conflict: Конфликт
 military_conf.conditions: Обстановка
 military_conf.deployment: Размещение
+myth.variations_mutation: Вариации и Мутации
+myth.cultural_reception: Культурное Воприятие
+myth.in_literature: В литературе
+myth.in_art: В искусстве
+myth.date_of_first_recording: Первое появление
+myth.date_of_setting: Дата появления
+myth.telling_prose: Сказание/Проза
+myth.related_ethnicities: Связанные этносы
+myth.related_species: Связанные виды
+myth.related_locations: Связанные места
+myth.related_people: Связанные люди
+myth.related_organizations: Связанные организации
+myth.related_items: Связанные предметы
+myth.related_vehicles: Связанные транспорт
+organisation.structure: Структура
+organisation.public_agenda: Публичное заявление
+organisation.assets: Ресурсы
+organisation.history: История
+organisation.disbandment: Расформирование
+organisation.demography_and_population: Демография и население
+organisation.territories: Территории
+organisation.military: Войска
+organisation.technological_level: Технологический уровень
+organisation.religion: Религия
+organisation.foreign_relations: Международные отношения
+organisation.agriculture_industry: Сельхоз и промышленность
+organisation.trade_transport: Торговля и транспорт
+organisation.education: Образование
+organisation.infrastructure: Инфраструктура
+organisation.mythology_lore: Мифология и лор
+organisation.divine_origins: Божественное происхождение
+organisation.cosmological_views: Космология
+organisation.tenets_of_faith: Принципы веры
+organisation.ethics: Этика
+organisation.worship: Поклонение
+organisation.priesthood: Духовенство
+organisation.granted_divine_powers: Полученные божественные силы
+organisation.political_influence_intrigue: Политическое влияние и интриги
+organisation.sects: Секты
+organisation.disbanded_dissolved: РОСПУСК
+organisation.founding_date: Основание
+organisation.dissolution_date: Дата роспуска
+organisation.type: Тип
+organisation.capital: Столица
+organisation.alternative_names: Другие названия
+organisation.formation_type: Вид строения
+organisation.training_level: Уровень подготовки
+organisation.veterancy_level: Уровень ветеранства
+organisation.demonym: Обозначение местных жителей
+organisation.leader: Лидер
+organisation.head_of_state: Глава
+organisation.head_of_government: Глава правительства
+organisation.government_system: Система правления
+organisation.power_structure: Вооружённые силы
+organisation.economic_system: Экономика
+organisation.currency: Валюта
+organisation.major_exports: Главные экспортные статьи
+organisation.major_imports: Главные импортные статьи
+organisation.legislative_body: Законодательные органы
+organisation.judicial_body: Судебный орган
+organisation.parent_organization: Головная организация
+organisation.subsidiary_organizations: Дочерние организации
+organisation.permeated_organizations: Примыкающие организации
+organisation.divines: Божества
+organisation.location: Место
+organisation.official_languages: Официальные языки
+organisation.related_ranks_titles: Связанные ранки и титулы
+organisation.controlled_territories: Контролируемые территории
+organisation.neighboring_nations: Соседние нации
+organisation.manufactured_items: Промышленные вещи
+organisation.related_items: Связанные предметы
+organisation.organization_vehicles: Транспорт организации
+organisation.notable_members: Известные участники
+organisation.related_ethnicities: Связанные этносы
+organisation.related_myths: Связанные мифы
+person.divine_domains: Божественные домены
+person.holy_books_codes: Святые книги и коды
+person.divine_symbols_sigils: Божественные символы
+person.tenets_faith: Догматы веры
+person.holidays: Праздники
+person.divine_goals_aspirations: Божественные цели и стремления
+person.physical_description: Физическое описание
+person.general_condition: Общее физическое состояние
+person.body_features: Особенности тела
+person.facial_features: Черты лица
+person.identifying_characteristics: Узнаваемые черты
+person.physical_quirks: Физические особенности
+person.sensory_perception: Чувство и проницаемость
+person.special_abilities: Способности
+person.clothing_apparel_accessories: Одежа и аксессуары
+person.items_specialized_equipment: Специальная экипировка
+person.mental_characteristics: Ментальные характеристики
+person.personal_history: Биография
+person.education: Образование
+person.employment: Работа
+person.accomplishments_achievements: Достижения
+person.failures_embarrassments: Провалы
+person.mental_trauma: Ментальная травма
+person.intellectual_characteristics: Интеллект
+person.morality_philosophy: Мораль и философия
+person.taboos: Табу
+person.personality_characteristics: Личные характеристики
+person.motivation: Мотивация
+person.savvies_ineptitudes: Компетентность
+person.likes_dislikes: Любит/Не любит
+person.virtues_personality_perks: Персональные навыки
+person.vices_personality_flaws: Недостатки личности
+person.personality_quirks: Персональные особенности
+person.hygiene: Гигиена
+person.social: Социум
+person.contacts_relations: Отношения
+person.family_ties: Семейные узы
+person.religious_views: Религиозные взгляды
+person.social_aptitude: Социальные способности
+organisation.familyleader: Глава семьи
+organisation.official_religion: Официальная государственная религия
