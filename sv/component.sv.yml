@@ -85,7 +85,7 @@ subscriber.groups: Prenumerationsgrupper
 subscriber.groups.description: Välj en eller flera grupper som du vill låta ha tillgång
   till den här artikeln. Detta påverkar endast privata artiklar.
 display: Visa
-display.homepage: Visa denna kartan på Världshemsidan.
+display.homepage: Visa denna kartan på världens förstasida.
 tags.description: Använd kommatecken för att separera dina taggar. att lägga till
   taggar till delar av innehåll hjälper dig att söka efter det via någon av taggarna.
 group: Grupp
