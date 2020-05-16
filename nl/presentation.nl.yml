@@ -133,3 +133,6 @@ goto.homepage: Ga naar de hoofdpagina van %name%
 campaign.system: Een %system_name% game
 campaign.explore.world: 'Verken de wereld van %world_name%'
 document.article.medium: Medium
+follow.action.unfollow.world: Volg deze Wereld niet meer
+campaign.competitors: Concurrenten
+campaign.lore: Geschiedenis
