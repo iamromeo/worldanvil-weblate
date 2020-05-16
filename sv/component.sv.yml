@@ -118,9 +118,9 @@ guild.subscriber.groups: Prenumerantgrupper låter <a class="m-t-10 text-pink" h
 guild.access.status: Alla föremål på ett gratis konto är offentliga. Gå med i <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a> för att
   sätta vad du vill till privat och hjälpa utvecklingen av World Anvil.
-guild.access.map: Alla kartor på ett fritt konto visas på världshemsidan. Gå med i
-  <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a>
-  för att sätta dina kartor, artiklar och världar som privat, och hjälpa utvecklingen
+guild.access.map: Alla kartor på gratis konton visas på världens förstasida. Gå med
+  i <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a>
+  för att sätta dina kartor, artiklar och världar som privata, och hjälpa utvecklingen
   av World Anvil.
 item: Föremål
 world.view: Visa värld
