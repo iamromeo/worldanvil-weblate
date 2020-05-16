@@ -220,3 +220,8 @@ landmark.architecture: 'Architectuur '
 landmark.ruined: GERUÏNEERDE STRUCTUUR
 landmark.parent: Bovenliggende locatie
 landmark.children: Opgenomen Locaties
+landmark.charactersinlocation: Karakteres in Locatie
+landmark.professions: 'Gerelateerde Profession '
+landmark.owner: Eigenaar
+landmark.organization: Eigenaar Organisatie
+landmark.connectedrooms: Verbonden kamers
