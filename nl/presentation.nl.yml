@@ -259,3 +259,45 @@ location.characters_in_location: Karakters in Locatie
 location.related_reports_primary: Gerelateerde Verslagen (Primair)
 location.related_reports_secondary: Gerelateerde Verslagen (Secondair)
 location.related_myths: Gerelateerde Mythes
+material.characteristics: 'Fysieke Eigenschappen '
+material.useCultural: Culturele Betekenis en Gebruik
+material.reusability: Herbruikbaarheid & Recycling
+material.boiling: Kook/ Condensatie Punt
+material.properties: Eigendommen
+material.compounds: Verbindingen
+material.geo: Geologie & Geografie
+material.halflife: Leven & Vervaldatum
+material.discovery: Ontdekking
+material.useCommon: Dagelijks gebruik
+material.useIndustrial: Industrieel Gebruik
+material.refinement: Verfijning
+material.manufacturing: Productie & Producten
+material.hazards: Gevaren
+material.environment: Milieu Impact
+material.distribution: Distributie
+material.market: Handel & Markt
+material.storage: Opbergruimte
+material.regulations: Wet & Regelgeving
+material.value: Waarde
+material.rarity: Zeldzaamheid
+material.odor: Geur
+material.taste: Smaak
+material.color: Kleur
+material.melting: Smelting/ Bevriezings Punt
+material.commonState: Gebruikelijke Staat
+material.locations: Gerelateerde Locatatie
+material.density: Dichtheid
+material.species: Gerelateerde Soorten
+material.items: Gerelateerde Spullen
+material.technologies: Gerelateerde Technologie
+material.professions: Gerelateerde Beroepen
+material.origin: Oorsprongen & Bron
+material.history_usage: Geschiedenis & Gebruik
+military_conf.the_conflict: De Conflict
+military_conf.prelude: Prelude
+military_conf.deployment: Implementatie
+military_conf.battlefield: Oorlogszone
+military_conf.conditions: Voorwaarden
+military_conf.outcome: UItkomst
+military_conf.aftermath: Nasleep
+military_conf.historical_significance: Geschiedenis Betekenis
