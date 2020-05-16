@@ -69,3 +69,37 @@ identifier: Identificador
 studio.templates: 'Estudio del Creador: plantillas de artículo'
 theme: Tema
 publication.date: Fecha de publicación
+dashboard.upcoming.stream: Próximos eventos y streamings
+dashboard.upcoming.sessions: Próximas sesiones
+dashboard.followed.characters: Personajes que sigues
+dashboard.followed.worlds: Mundos que sigues
+dashboard.help.grow: ¡Ayúdanos a seguir haciendo crecer World Anvil!
+dashboard.worlds.max: Has alcanzado el número máximo de mundos que puedes crear
+dashboard.recent.articles: Tus artículos recientes
+dashboard.continue: Sigue creando
+dashboard.worldbuilding.disabled: Las funciones de worldbuilding están desactivadas
+dashboard.podcast.cta: ¡Escucha nuestro podcast de worldbuilding!
+dashboard.videos: Vídeos recientes
+dashboard.in.news: Noticias
+dashboard.dev.updates: Noticias del desarrollo
+dashboard.communities: Tus comunidades
+dashboard.campaigns: Tus campañas
+dashboard.characters: Tus personajes
+dashboard.worlds: Tus mundos
+dashboard.events: Eventos
+dashboard.news: Novedades
+dashboard.manage.features: Ajusta tus funciones activadas
+dashboard.features.mistake: ¿Has activado las funciones de worldbuilding por error?
+dashboad.cta: CONSTRUYE
+dashboard.create.first: ¡Crea tu primer mundo!
+dashboard.page.title: Tu panel principal
+goto.articles.list: Ir a la lista de artículos
+goto.account: Ir a los detalles de la cuenta
+join.worldanvil.cta: Únete al Gremio de Worldbuilders
+join.discord.description: Participa en el desarrollo de World Anvil, únete a nuestros
+  desafíos de worldbuilding, ¡y gana premios y medallas!
+join.discord: Únete al Discord
+upcoming.streams: Futuras transmisiones
+dismiss: Cerrar
+welcome: Hola
+community: Comunidad

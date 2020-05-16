@@ -3,7 +3,7 @@ title: Cím
 description: Leírás
 status: Állapot
 weight: Súly
-help: Segítség
+help: Kell segítség?
 home: Kezdőlap
 allies: Szövetségesek, Bűntársak
 private.club: Privát klub. Csak Céhtagoknak
@@ -70,3 +70,37 @@ identifier: Azonosító
 studio.templates: 'Alkotók Stúdiója: Bejegyzés Sablonok'
 theme: Téma
 publication.date: Kiadás Dátuma
+dashboard.upcoming.stream: Közelgő Stream-ek & Események
+dashboard.upcoming.sessions: Közelgő Ülések
+dashboard.followed.characters: Követett Karakterek
+dashboard.followed.worlds: Követett Világaid
+dashboard.help.grow: Segíts a World Anvil-nak élni és nőni !
+dashboard.worlds.max: Elérted a világok maximum számát
+dashboard.recent.articles: Az Újabb Bejegyzéseid
+dashboard.continue: Építés folytatása
+dashboard.worldbuilding.disabled: A világépítő funkciók kikapcsolva
+dashboard.podcast.cta: Halgass bele a Világépítő Podcast-ünkbe
+dashboard.videos: Friss videók
+dashboard.in.news: A hírekben
+dashboard.dev.updates: Fejlesztési hírek
+dashboard.communities: Közösségeid
+dashboard.campaigns: Kampányaid
+dashboard.characters: Karaktereid
+dashboard.worlds: Világaid
+dashboard.events: Események
+dashboard.news: Hírek
+dashboard.manage.features: Kezeld az aktivált funkciókat
+dashboard.features.mistake: Tán véletlenül aktiváltad a világépítő funkciókat?
+dashboad.cta: ÉPÍTS VILÁGOT
+dashboard.create.first: Hozd Létre az első Világod!
+dashboard.page.title: A Globális Irányítópultod
+goto.articles.list: A Bejegyzéslistához
+goto.account: A Fiókadatokhoz
+join.worldanvil.cta: Csatlakozz a Világépítők Céhébe
+join.discord.description: Végy részt a World Anvil fejlesztésében -nevezz világépítő
+  versenyekre- nyerj díjakat, és király kitűzőket!
+join.discord: Csatlakozz Discord-unkhoz
+upcoming.streams: Közelgő Stream-ek
+dismiss: Elutasítás
+welcome: Üdvözöljük
+community: Közösség
