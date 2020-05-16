@@ -98,7 +98,7 @@ map.edit.details: Redigera kartdetaljer
 map.image.details: De förväntade fildimensionerna är
 map.legend: Teckenförklaring
 map.legend.description: Det här kommer dyka upp i nedre vänstra hörnet på din karta.
-  Använd det för att skapa en teckenförklaring för dina markeringar, skrive en kort
+  Använd det för att skapa en teckenförklaring för dina markeringar, skriva en kort
   beskrivning eller ge annan kontext.
 map.marker.style: Stil
 map.marker.color: Färg
