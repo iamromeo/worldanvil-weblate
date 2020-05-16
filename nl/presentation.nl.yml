@@ -195,3 +195,23 @@ item.sidebar.manufacturer: Fabrikant
 item.sidebar.itemtype: Voorwerp type
 item.sidebar.usedby: Gebruikt bij
 item.sidebar.related.technologies: Gerelateerde Technologieën
+item.sidebar.owning.organization: Eigenaar van een Organisatie
+item.sidebar.rawmaterials.components: Grondstoffen & Componenten
+landmark.purpose: Doel/ functie
+landmark.design: Ontwerp
+landmark.entries: Inzendingen
+landmark.sensory: Zintuiglijk & uiterlijk
+landmark.denizens: Bewoners
+landmark.contents: Inhoud & Inrichting
+landmark.valuables: Kostbaarheden
+landmark.hazards: Gevaren & Vallen
+landmark.properties: Specials Eigendommen
+landmark.effects: Milieu-effecten
+item.sidebar.tools: Gereedschap
+item.sidebar.related.ethnicities: Gerelateerde etniciteiten
+item.sidebar.related.condition: Gerelateerde Condities
+item.sidebar.rarity: Zeldzaamheid
+item.sidebar.weight: Gewicht
+item.sidebar.dimensions: Dimensie
+item.sidebar.base.price: Basis Prijs
+item.sidebar.related.myths: Gerelateerde Fabel
