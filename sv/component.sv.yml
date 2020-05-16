@@ -105,7 +105,7 @@ map.marker.color: Färg
 map.marker.longitude: Longitud
 map.marker.latitude: Latitud
 map.marker.height: Höjd
-map.marker.new: Ny Plats Markör
+map.marker.new: Ny platsmarkör
 map.marker.drag: Dra mig för att sätta koordinaterna för den nya markören
 map.marker.fill: Fantastiskt! Fyll i formuläret här nedan nu!
 map.display.homepage: Visa denna kartan på Världshemsidan.
