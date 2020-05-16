@@ -6,5 +6,5 @@ manuscript.delete: Esborra el manuscrit
 manuscript.settings: Configuració del manuscrit
 manuscript.world.activate: Cal activar un dels vostres mons
 manuscript.create: Crea un nou manuscrit
-manuscript.world.activate.desc: No hi ha món actiu, és necessari un per crear un nou
+manuscript.world.activate.desc: No hi ha cap mon actiu i en cal un per crear un nou
   manuscrit
