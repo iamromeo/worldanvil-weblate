@@ -36,7 +36,7 @@ delete.secret: Verwijder geheim
 delete.world: Verwijder wereld
 author.profile: Profiel
 block: Blok
-campaign: Campagne
+campaign: Champagne
 category: Categorie
 historical.entry: Historische gebeurtenis
 image: Afbeelding
@@ -248,17 +248,17 @@ map.marker.link.relation.description: Kies een van de onderstaande relaties voor
 map.marker.link.description: Als u de markering markeert als een directe-linkmarkering,
   zal de gebruiker, wanneer erop wordt geklikt, rechtstreeks naar de doelpagina navigeren.
 map.marker.choice: Kies en vul slechts een van de volgende opties in.
-map.display.homepage: "Toon deze kaart op de startpagina van de wereld.\n"
+map.display.homepage: "Toon deze kaart op de startpagina van de wereld."
 map.marker.label.description: Dit is de tekst die voor dit label op uw kaart zal verschijnen.
 map.marker.label: Label tekst
-map.marker.fill: Gaaf! Vul dan nu de onderstaande formulier in!
+map.marker.fill: Gaaf! Vul dan nu het onderstaande formulier in!
 map.settings: Kaart instellingen
 map.presentation: Open prestatie mode
 map.marker.opacityOutline: Overzicht Ondoorzichtigheid
 map.marker.colorFill: Vul kleur in
 map.marker.colorOutline: Overzicht kleur
 map.marker.opacityFill: Vul Ondoorzichtigheid in
-map.marker.draggable: "Sleepbare markering\n"
+map.marker.draggable: "Sleepbare Marker"
 map.marker.draggable.checkbox: Deze markering is sleepbaar.
 map.marker.draggable.description: Versleepbare markeringen kunnen worden verplaatst
   door alle schrijvers, redacteuren en eigenaren van de wereld. Bij verplaatsing wordt
@@ -271,12 +271,12 @@ map.marker.group.description: Met markergroepen kunt u uw markeringen en kaartla
   voor uw lezers te verbergen.
 map.marker.group.onload: Initiële Groepszichtbaarheid
 map.marker.linePoints: Lijnpunten
-map.marker.lineWeight.description: Het gewicht van betrekkelijke pixels van de lijn
+map.marker.lineWeight.description: Het gewicht van betrekkelijke pixels van de lijn.
 map.marker.lineDash.description: Dit is een geavanceerde functie. Gebruik lijn streepje
   om het streeppatroon van uw lijn te definiëren. Bijvoorbeeld 8 8 betekent 8 pixels
   lijn 8 pixels gap. Maar u kunt ook gewoon 8 of 1 2 3 4 gebruiken om variabele lijn
   streepjes te hebben.
-map.marker.linePoints.check: Vink dit aan en sleep de nieuwe markeerstift om een ​​lijn
+map.marker.linePoints.check: Vink dit aan en sleep de nieuwe markeerstift om een lijn
   te maken.
 map.marker.group.onload.description: Maak deze groep zichtbaar tijdens het eerste
   laden van de kaart
@@ -294,10 +294,10 @@ pin.theme.description: Thema's zijn een manier om door je pin te filteren. b.v. 
 pin.shadow.description: Het beeld van de schaduw van de pin. Deze afbeelding is optioneel.
   Indien meegeleverd, moet deze breder zijn vanaf de markering afbeelding en naar
   de rechterkant uitbreiden.
-pin.popupAnchor.description: Het pop-upankerpunt is het punt waar de pop-updriehoek
+pin.popupAnchor.description: Het pop-up ankerpunt is het punt waar de pop-up driehoek
   wordt gecentreerd. Tegenover het markering anker zou het bovenaan het pictogram
-  staan, zo niet hoger.
-pin.popupAnchorX: Popup punt  X (in pixels)
+  staan, zo niet hoger
+pin.popupAnchorX: Pop-up punt X (in pixels)
 pin.iconAnchorX: Anker punt X (in pixels)
 pin.iconAnchorY: Ankerpunt Y (in pixels)
 pin.popupAnchorY: Popup punt Y (in pixels)
@@ -312,7 +312,7 @@ pin.value.notzero: Zorg er alsjeblieft voor dat deze waarde niet leeg of 0 is.
 feat: Verwezenlijking
 item: Item
 access.rights.notice: De functionaliteit voor Groepen en Abonnees is alleen beschikbaar
-  voor leden van het Gilde!
+  voor leden van de Gilde!
 monster: Monster
 npc: Niet speelbare karakter
 spell: Spreuk
@@ -332,7 +332,7 @@ access.authors.coowner.description: Toegang tot alles, inclusief World-configura
 access.authors.editor.description: 'Toegang tot creëren, bekijken en bewerken van
   alle inhoud.'
 access.authors.writer.description: 'Toegang tot creëren van een concept. Bewerker
-  en hoger kunnen die artikelen vervolgens beheren, ordenen en publiceren. '
+  en hoger kunnen die artikelen vervolgens beheren, ordenen en publiceren.'
 access.authors.writer: Schrijver
 access.authors.slots: Auteur openingen gebruikt
 access.authors.advanced.writer: Geavanceerde schrijver
