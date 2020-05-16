@@ -25,7 +25,7 @@ campaign.corkboard: Доска для заметок
 home: Главная
 pricing: Цены
 faq: FAQ
-privacy: Конфиденциальность
+privacy: Приватность
 copyright: Авторские права
 contact: Контакты
 progress: Прогресс
@@ -42,22 +42,62 @@ i am a gamemaster: Я мастер
 dashboard: Панель управления
 challenges: Состязания
 need.help: Нужна помощь?
-tos: Условия предоставления услуг
+tos: Условия Предоставления Услуг
 our.patrons: Наши Покровители
-Go to Dashboard: к панели управления
+Go to Dashboard: К панели управления
 guild.hall: Гильдия
 campaign.home: Главная
 your.stream: Ваша трансляция
-world.browse: Просмотр Миров
+world.browse: Поиск Миров
 campaign.quicklinks: Ссылки
 todo.list: Список задач
 join.guild: ПРИСОЕДИНИТЬСЯ К ГИЛЬДИИ!
-account.subscription: Ваша Подписка
+account.subscription: Подписка
 join.guild.description: ПОЛУЧИТЕ ВЕСЬ ФУНКЦИОНАЛ! Помогите нам поддерживать инструментарий
   World Anvil живым и развивающимся!
 badges: Значки
 feature.suggest: Есть идея?
 accessibility: Доступность
 hiring: ВАКАНСИИ
-team: Наша команда
+team: Наша Команда
 characters: Персонажи
+ask_question: Задать вопрос
+suggest_feature: Предложить нововведение
+report_bug: Сообщить об Ошибке
+documentation: Документация
+gear_and_gifts: Снаряжение и Подарки
+stream: Прямой Эфир
+your_reading_list: Твой Список Прочитанного
+followed_worlds: Миры, на которые ты подписан
+homepage: Домашняя страница
+community.statblocks: Блоки Статистики Сообщества
+your.statblocks: Твои Блоки Статистики
+statblocks: Блоки Статистики
+images_and_files: Изображения и Файлы
+news: Наши Новости
+campaign.settings: Настройки
+campaign.primer: Основатель
+campaign.parties: Команды
+campaign.npcs: НИПы
+aacount: Аккаунт
+public.profile: Публичный Профиль
+account: Детали Аккаунта
+settings: Настройки
+go.to.create: Перейти к меню Создания
+join.codex: Кодекс World Anvil
+join.discord: Вдохновляйтесь, Получайте ВСЮ помощь!
+character.display: Отображение
+character.privacy: Приватность
+character.edit.extended: Расширенная Настройка Профиля
+character.view.sheet: Посмотреть Лист
+character.edit.profile: Редактировать Профиль
+character.view.profile: Посмотреть Профиль
+character.profiles: Профили Персонажей
+character.profile: Профиль Персонажа
+sponsoring: Спонсорство
+advertising: Реклама
+worlds: Миры
+browse: Поиск
+world.view: Обзор Мира
+campaign.page: Посмотреть Кампанию
+campaign: Кампания
