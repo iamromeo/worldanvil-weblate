@@ -246,5 +246,6 @@ law.type: Type
 location.geography: Geografie
 location.flora: Flora
 location.fauna: Fauna
-location.natural_resources: Neutrale Middelen
+location.natural_resources: Natuurlijke Grondstoffen
 location.florafauna: Fauna & Flora
+location.included_locations: Opgenomen Locaties
