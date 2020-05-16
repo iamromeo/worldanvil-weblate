@@ -86,16 +86,16 @@ subscriber.groups.description: Välj en eller flera grupper som du vill låta ha
   till den här artikeln. Detta påverkar endast privata artiklar.
 display: Visa
 display.homepage: Visa denna kartan på världens förstasida.
-tags.description: Använd kommatecken för att separera dina taggar. att lägga till
+tags.description: Använd kommatecken för att separera dina taggar. Att lägga till
   taggar till delar av innehåll hjälper dig att söka efter det via någon av taggarna.
 group: Grupp
-tag.description: Använd kommatecken för att separera dina taggar. att lägga till taggar
+tag.description: Använd kommatecken för att separera dina taggar. Att lägga till taggar
   till delar av innehåll hjälper dig att söka efter det via någon av taggarna.
 map.image: Kartans Primärbild
 map.image.secondary: Lagerbild
 map.update.image: Updatera Kartans Primärbild
 map.edit.details: Redigera kartdetaljer
-map.image.details: Dom förväntade fildimensionerna är
+map.image.details: De förväntade fildimensionerna är
 map.legend: Teckenförklaring
 map.legend.description: Det här kommer dyka upp i nedre vänstra hörnet på din karta.
   Använd det för att skapa en teckenförklaring för dina markeringar, skrive en kort
