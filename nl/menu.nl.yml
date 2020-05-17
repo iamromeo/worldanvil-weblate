@@ -60,16 +60,16 @@ suggest_feature: Suggereer een functie
 report_bug: Geef een Bug aan
 documentation: Documenteren
 stream: Stream
-your_reading_list: Jouw Lezers Lijst
+your_reading_list: Jouw Literatuurlijst
 followed_worlds: Gevolgde Werelden
 homepage: Startpagina
-community.statblocks: Communicatie Status blok
-your.statblocks: Jouw Status blok
-statblocks: Status blokken
+community.statblocks: Communicatie Statistiek blok
+your.statblocks: Jouw Statistiek blok
+statblocks: Statistiek blokken
 images_and_files: Afbeeldingen & Documenten
 hiring: WE NEMEN MENSEN AAN
-news: Onze Nieuws
-team: Onze Groep
+news: Ons Nieuws
+team: Ons Team
 accessibility: Toegankelijkheid
 campaign.settings: Instellingen
 campaign.page: Bekijk Campagne
@@ -77,24 +77,26 @@ campaign.primer: Inleiding
 campaign.parties: Partijen
 campaign.npcs: Niet Speelbare Karakters
 campaign: Champagne
-badges: Lintjes
-account.subscription: Abonneer
+badges: Badges
+account.subscription: Abonnement
 aacount: Account
-public.profile: Publieke Profiel
+public.profile: Publiek Profiel
 account: Account Gegevens
 settings: Instellingen
 go.to.create: Ga naar Creëer menu
 worlds: Werelden
 join.discord: Wordt geïnspireerd, Krijg ALLE hulp!
-join.guild.description: KRIJG ALLE FUNCTIES! Help ons om de World Anvil gereedschapkist
-  voor wereldbouw levend en groeiend te houden!
+join.guild.description: KRIJG ALLE FUNCTIES! Help ons om de World Anvil gereedschapskist
+  voor Worldbuilding levend en groeiend te houden!
 character.display: Vertoning
-character.privacy: Privé
-character.edit.extended: Bewerk Uitgebreide Profiel
+character.privacy: Privacy
+character.edit.extended: Bewerk Uitgebreid Profiel
 character.view.sheet: Bekijk Blad
 character.edit.profile: Bewerk Profiel
 character.view.profile: Bekijk Profiel
 character.profiles: Karakter Profielen
 character.profile: Karakter Profiel
-sponsoring: Sponsering
-advertising: Advertenties
+sponsoring: Sponsoring
+advertising: Adverteren
+gear_and_gifts: Uitrusting en Giften
+join.codex: World Anvil Documentatie Codex
