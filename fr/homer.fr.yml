@@ -5,3 +5,9 @@ manuscript.view: Voir le manuscrit
 manuscript.delete: Supprimer le manuscrit
 manuscript.settings: Paramètres du manuscrit
 manuscript.settings.upper: PARAMÈTRES
+manuscript.create: Créer un nouveau manuscrit
+manuscript.world.activate: Vous devez activer un de vos mondes
+manuscript.world.activate.desc: Vous n'avez pas de monde actif, il vous en faut un
+  pour démarrer un nouveau manuscrit
+manuscript.edit.upper: ÉDITER
+manuscript.view.upper: VOIR
