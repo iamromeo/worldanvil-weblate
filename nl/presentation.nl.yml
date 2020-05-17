@@ -651,3 +651,5 @@ organisation.controlled_territories: 'Gecontroleerde Grondgebieden'
 organisation.neighboring_nations: Aangrenzende Naties
 person.holidays: Verlofdagen
 person.body_features: Lichaam Eigenschappen
+person.facial_features: Gezichtskenmerken
+person.mental_characteristics: 'Mentaal Karaktertests '
