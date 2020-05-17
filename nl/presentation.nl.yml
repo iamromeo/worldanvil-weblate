@@ -523,3 +523,12 @@ settlement.architecture: Architectuur
 settlement.geography: Geografie
 settlement.natural_resources: Natuurlijke Bronnen
 settlement.alternative_names: Alternatieve Na(a)m(en)
+settlement.type: Type
+settlement.population: Populatie
+settlement.inhabitant_demonym: Inwoner Demonym
+settlement.location_under: Locatie onder
+settlement.included_locations: Inbegrepen Locatie
+settlement.owner_ruler: Eigenaar/Leider
+settlement.owning_organization: Eigenaar Organisatie
+settlement.characters_in_location: Karakters op Locatie
+settlement.related_reports_primary: Gerelateerde Rapporten (Primair)
