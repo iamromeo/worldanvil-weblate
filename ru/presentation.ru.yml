@@ -9,7 +9,7 @@ like.action.add: ЛАЙК
 like.action.add.description: Дайте автору знать, что вам понравилась его работа. Эта
   статья НЕ будет добавлена к вашей коллекции "прочитать позже"
 reading.action.add.description: Добавить эту статью в свой список прочесть-позже/сохраненного.
-  Автор не будет уведомлен про это.
+  Автор НЕ будет уведомлен про это.
 goto.homepage: Перейти на страницу %name%
 article.love: Люди, которым нравятся ваши статьи
 article.love.return: Давай отблагодарим их!
@@ -20,7 +20,7 @@ players.full: Кампания полна
 authors: Авторы
 author.page: Страница автора
 author.since: Участник на протяжении
-author.interests: Интересы и Хобби
+author.interests: Интересы и хобби
 author.movies: Любимые фильмы
 author.tv: Любимые сериалы
 author.books: Любимые книги
@@ -29,7 +29,7 @@ author.games: Любимые игры
 author.comments: Комментарии, отзывы и предложения
 author.worlds: Миры
 author.characters: Персонажи
-author.badges: Значки и Медали
+author.badges: Значки и медали
 history: История
 condition.causes: Причины
 condition.symptoms: Симптомы
@@ -47,7 +47,7 @@ timelines: Хронологии
 world.anvil.description: World Anvil это платформа с инструментами для создания миров
   и сообщество для писателей, рассказчиков историй в настольных ролевых играх и любителей
   создавать новые миры
-account.create: Создайте Вашу учетную запись
+account.create: Создай свою учетную запись
 created.by: Автор -
 powered.by: С помощью -
 toc: Оглавление
@@ -64,19 +64,19 @@ twitch.live: Смотреть на Twitch
 support.patreon: Поддержать проект на Patreon
 support.patreon.user: Поддержать %username% на Patreon
 support.kofi.user: Купить %username% кофе!
-join.discord.world: Присоединится к %worldname% Discord!
+join.discord.world: Присоединится к Discord серверу %worldname%!
 followers: Наблюдающие
-reading.action.remove: удалить из списка читаемого
-reading.action.add: ДОБАВИТЬ В СПИСОК ЧТЕНИЯ
+reading.action.remove: УДАЛИТЬ ИЗ СПИСКА ПРОЧИТАННОГО
+reading.action.add: ДОБАВИТЬ В СПИСОК ПРОЧИТАННОГО
 article.visibility: Эта статья видна таким группам подписчиков
 condition.sequela: Осложнения
 condition.cycle: Цикл
-followers.all: Открыть список Наблюдающих
+followers.all: Просмотреть всех наблюдающих
 following: Наблюдает за %name%
 follow: Наблюдать за %name%
 type: Тип
-condition.transmission: Распространение и Носители
-condition.reception: Культурное Восприятие
+condition.transmission: Распространение и носители
+condition.reception: Культурное восприятие
 campaign.system: Игра %system_name%
 campaign.world: В мире %world_name%
 campaign.storytellers: Историю рассказывает
@@ -92,7 +92,7 @@ campaign.allies: Союзники
 campaign.competitors: Соперники
 campaign.neutral: Нейтральные команды
 campaign.explore.world: Изучить мир %world_name%
-campaign.support.patreon: Поддержать Кампанию на Patreon
+campaign.support.patreon: Поддержать кампанию на Patreon
 campaign.setting: Сеттинг
 campaign.journal.session.report: Отчет по сессии
 campaign.timelines: Хронологии
@@ -139,7 +139,7 @@ writers.team: Писатели
 campaign.sessions: Список сессий
 campaign.vtt: Виртуальный стол
 follow.action.unfollow.world: Отписаться от Мира
-alternativenames: Альтернативные имена
+alternativenames: Другие названия
 campaign.sessions.past: Предыдущая сессия
 document.purpose: Цель
 document.structure: Структура документа
@@ -151,7 +151,7 @@ document.historical.details: Исторические детали
 document.background: Контекст
 document.history: История
 document.public.reaction: Общественная реакция
-campaign.generic: Другие NPC
+campaign.generic: Другие НИПы
 document.modal.read.document: Прочесть документ
 document.modal.close: Закрыть
 document.article.medium: Материал
@@ -257,10 +257,10 @@ location.included_organizations: Включает в себя
 location.included_locations: Включает в себя
 location.florafauna: Флора и Фауна
 location.geography: Расположение
-campaign.maps_and_timelines: Карты и Временные линии
-campaign.lore_and_cast: Лор и Поддержка
+campaign.maps_and_timelines: Карты и временные линии
+campaign.lore_and_cast: Лор и поддержка
 campaign.playedby: Сыграно
-organization.tree: Древо Организации
+organization.tree: Древо организации
 explore: Изучить
 material.history_usage: История и Использование
 location.related_myths: Связанные мифы
@@ -440,3 +440,258 @@ person.religious_views: Религиозные взгляды
 person.social_aptitude: Социальные способности
 organisation.familyleader: Глава семьи
 organisation.official_religion: Официальная государственная религия
+rank.first_holder: Первый представитель
+person.mannerisms: Манеры
+person.hobbies_pets: Хобби и питомцы
+person.speech: Речь
+person.wealth_financial_state: Финансы
+person.rpg_character_sheet: Лист RPG персонажа
+person.divine_classification: Классификация божеств
+person.alignment: Мировоззрение
+person.current_location: Текущее местоположение
+person.species: Виды
+person.conditions: Состояния
+person.ethnicity: Этнос
+person.realm: Королевство
+person.church_cult: Вера/Культ
+person.honorary_occupational_titles: Титулы
+person.currently_held_titles: Текущие титулы
+person.previously_held_ranks_titles: Ранее занимаемые ранги и титулы
+person.life: Жизнь
+person.year_of_birth: Год рождения
+person.circumstances_of_birth: Обстоятельства рождения
+person.circumstances_of_death: Обстоятельства смерти
+person.birthplace: Место рождения
+person.current_residence: Текущее место проживания
+person.biological_sex: Биологический пол
+person.sexuality: Сексуальная ориентация
+person.gender_identity: Гендер
+person.eyes: Глаза
+person.skin: Цвет кожи
+person.hair: Волосы
+person.height: Рост
+person.weight: Вес
+person.quotes_catchphrases: Цитаты и фирменные фразы
+person.aligned_organization: Согласованная организация
+person.other_affiliations: Прочие связи
+person.related_myths: Связанные мифы
+person.known_languages: Известные языки
+person.appears_in: Появляется в.....
+person.character_prototype: Прототип
+plot.summary: Сводка
+plot.plot_points_scenes: Сценарные точки
+plot.themes: Тематика
+plot.structure: Структура
+plot.exposition: Экспозиция
+plot.conflict: Конфликт
+plot.climax: Климакс
+plot.rising_action: Расцвет
+plot.falling_action: Падение
+plot.resolution: Решение
+plot.components: Компоненты
+plot.goals: Цели
+plot.hooks: Зацепки
+plot.stakes: Ставки
+plot.moral_quandaries: Моральные затрудения
+plot.cruel_tricks: Жестокие повороты
+plot.red_herrings: Отвлекающий маневр
+plot.relations: Отношения
+plot.protagonists: Протагонист
+plot.allies: Союзники
+plot.neutrals_bystanders: Нейтралы
+plot.competitors: Конкуренты
+plot.adversaries: Оппоненты
+plot.backdrops: Фон
+plot.locations: Места
+plot.threats: Опасности
+plot.encounters: Столкновения
+plot.past_events: Прошлые события
+plot.type: Тип сюжета
+plot.parent: Принадлежит сюжету
+plot.subplots: Подсценарий
+plot.related_characters: Связанные персонажи
+plot.related_locations: Связанные места
+plot.related_organizations: Связанные организации
+profession.career: Карьера
+profession.qualifications: Квалификации
+profession.career_progression: Карьерный рост
+profession.payment_&_reimbursement: Плата и возмещение
+profession.other_benefits: Другая выгода
+profession.perception: Проницательность
+profession.purpose: Назначение
+profession.social_status: Социальный статус
+profession.demographics: Демография
+profession.history: История
+profession.operations: Операции
+profession.tools: Инструменты
+profession.materials: Материалы
+profession.workplace: Рабочее место
+profession.provided_services: Предоставляемые услуги
+profession.dangers_&_hazards: Опасности и риски
+profession.alternative_names: Другие названия
+profession.type: Тип
+profession.demand: Спрос
+profession.legality: Законность
+rank.qualifications: Квалификации
+rank.requirements: Требования
+rank.appointment: Назначение
+rank.duties: Обязанности
+rank.type: Тип
+rank.responsibilities: Ответственность
+rank.benefits: Льготы
+rank.accoutrements_&_equipment: Снаряжение
+rank.grounds_for_removal_dismissal: Основание для отставки
+rank.history: История
+rank.cultural_significance: Культурное значение
+rank.notable_holders: Выдающиеся представители
+rank.status: Статус
+rank.creation: Создание
+rank.alternative_naming: Другие названия
+rank.equates_to: Равняется
+rank.source_of_authority: Источник власти
+rank.length_of_term: Срок полномочий
+rank.reports_directly_to: Прямая ответственность перед
+report.general_summary: Общая сводка
+report.rewards_granted: Полученные награды
+report.missions_quests_completed: Завершённые миссии и квесты
+report.characters_interacted_with: Персонаж(и), с которым(и) взаимодействовал(и)
+report.created_content: Созданный контент
+report.related_reports: Связанные отчеты
+report.notes: Заметки
+report.campaign: Кампания
+report.protagonists: Протагонист
+report.player_journals: Журналы игроков
+report.report_date: Дата отчета
+report.primary_location: Основная локация
+report.secondary_location: Вторичная локация
+ritual.history: История
+ritual.execution: Выполнение
+ritual.components_and_tools: Компоненты и инструменты
+ritual.participants: Участники
+ritual.observance: Обряд
+ritual.related_location: Связанное место
+ritual.related_ethnicities: Связанные этносы
+settlement.demographics: Демография
+settlement.government: Правительство
+settlement.defences: Защита
+settlement.industry: Промышленность
+settlement.infrastructure: Инфраструктура
+settlement.assets: Активы
+settlement.guilds_and_factions: Гильдии и фракции
+settlement.history: История
+settlement.architecture: Архитектура
+settlement.geography: Расположение
+settlement.natural_resources: Природные ресурсы
+settlement.ruined_settlement: РАЗРУШЕННОЕ ПОСЕЛЕНИЕ
+settlement.alternative_names: Другое(-ие) название(-ия)
+settlement.type: Тип
+settlement.population: Население
+settlement.inhabitant_demonym: Жители
+settlement.location_under: Подместа
+settlement.included_locations: Включенные места
+settlement.owner_ruler: Владелец/Правитель
+settlement.owning_organization: Владеющая организация
+settlement.characters_in_location: Персонажи в локации
+settlement.related_reports_primary: Связанные отчеты (основные)
+settlement.related_reports_secondary: Связанные отчеты (второстепенные)
+spell.effect: Эффект
+species.Basic Information: Базовая информация
+species.anatomy: Анатомия
+species.morphology: Морфология
+species.biological_traits: Биологические признаки
+species.genetics_and_reproduction: Генетика и репродукция
+species.growth_rate_stages: Стадии роста
+species.ecology_and_habitats: Экология
+species.dietary_needs_and_habits: Диетические потребности
+species.biological_cycle: Биологический цикл
+species.additional_information: Дополнительная информация
+species.social_structure: Социальная структура
+species.domestication: Одомашнивание
+species.uses_products_exploitation: Использование
+species.facial_characteristics: Черты лица
+species.geographic_origin_and_distribution: Место рождения
+species.average_intelligence: Средний интеллект
+species.perception_and_sensory_capabilities: Восприятие
+species.symbiotic_and_parasitic_organisms: Паразиты
+species.civilization_and_culture: Цивилизация и культура
+species.naming_traditions: Традиции именования
+species.major_organizations: Главенствующие организации
+species.beauty_ideals: Идеал красоты
+species.gender_ideals: Идеалы гендера
+species.courtship_ideals: Идеал ухаживания
+species.relationship_ideals: Идеал отношения
+species.average_technological_level: Средний технологический уровень
+species.major_language_groups_dialects: Основные языковые группы и диалекты
+species.common_etiquette_rules: Стандартные правила этикета
+species.common_dress_code: Обычный дресс код
+species.culture_and_cultural_heritage: Культурное наследие
+species.common_customs_traditions_rituals: Общие обычаи, традиции и ритуалы
+species.common_taboos: Общие табу
+species.history: История
+species.historical_figures: Исторические личности
+species.common_myths_and_legends: Общие мифы и легенды
+species.interspecies_relations_assumptions: Межвидовые отношения и допущения
+species.rpg_datasheet: Датабаза RPG
+species.extinct: ВЫМЕРЛИ
+species.genetic_ancestor_s: Генетический(-ие) Предок(-и)
+species.genetic_descendants: Генетические потомки
+species.scientific_name: Научное название
+species.origin_ancestry: Происхождения
+species.lifespan: Продолжительность жизни
+species.conservation_status: Статус общения
+species.average_height: Средняя высота
+species.average_weight: Средний вес
+species.average_length: Средняя длина
+species.average_physique: Среднее телосложение
+species.body_tint_colouring_marking: Оттенок тела, окрас и рисунок
+species.related_ethnicities: Связанный этнос
+species.related_myths: Связанный мифы
+spell.effect_side_secondary: Побочные эффекты
+spell.manifestation: Проявление
+spell.source: Источник
+spell.discovery: Открытие
+spell.related_deity_power: Связанное божество/Высшая сила
+spell.related_organizations: Связанные организации
+spell.material_components: Физические компоненты
+spell.gestures_ritual: Жесты и ритуал
+spell.related_discipline: Связанная дисциплина
+spell.related_school: Связанная школа
+spell.related_element: Связанный элемент
+spell.effect_duration: Длительность эффекта
+spell.effect_casting_time: Время вызова эффекта
+spell.range: Дистанция
+spell.level: Уровень
+spell.restriction_applied: Ограничение применения
+technology.utility: Польза
+technology.manufacturing: Мануфактура
+technology.parent_technologies: Изначальные технологии
+technology.children_technologies: Дочерние технологии
+technology.inventor_s: Изобретатель(-ли)
+technology.access_availability: Доступность
+technology.complexity: Сложность
+technology.discovery: Открытие
+technology.related_items: Связанные предметы
+vehicle.propulsion: Движущая сила
+vehicle.power_generation: Мощность
+vehicle.weapons_armament: Вооружение
+vehicle.armor_and_defense: Броня
+vehicle.communication_tools_systems: Системы коммуникации
+vehicle.sensors: Датчики
+vehicle.motto: Девиз
+vehicle.additional_auxiliary_systems: Вспомогательные системы
+vehicle.hangars_docked_vessels: Ангары
+vehicle.rpg_datasheet: База данных RPG
+vehicle.class: Класс
+vehicle.nickname: Прозвище
+vehicle.owner: Владелец
+vehicle.owning_organization: Владеющая организация
+vehicle.price: Цена
+vehicle.rarity: Редкость
+vehicle.length: Длина
+vehicle.beam: Луч
+vehicle.height: Высота
+vehicle.weight: Вес
+vehicle.speed: Скорость
+vehicle.complement: Дополнение/Экипаж
+vehicle.cargo_passengers_capacity: Грузо- и пассажировместимость
+person.year_of_death: Год смерти
