@@ -133,21 +133,21 @@ goto.homepage: Ga naar de hoofdpagina van %name%
 campaign.system: Een %system_name% game
 campaign.explore.world: 'Verken de wereld van %world_name%'
 document.article.medium: Medium
-follow.action.unfollow.world: Volg deze Wereld niet meer
+follow.action.unfollow.world: Deze wereld niet meer volgen
 campaign.competitors: Concurrenten
-campaign.lore: Traditionele kennis
-campaign.lore_and_cast: Geschiedenis & Ondersteunende Karakters
-condition.transmission: Transmissie & Vectoren
+campaign.lore: Lore
+campaign.lore_and_cast: Lore & Ondersteunende Karakters
+condition.transmission: Transmissies & Vectoren
 condition.epidimiology: Epidemiologie
 condition.reception: Culturele Verwelkoming
 document.structure: Documenten Structuur
 document.clauses: Clausules
-document.article.authoringdate: Ontwerpdatum
+document.article.authoringdate: Auteurs Datum
 ethnicity.major.lang.groups.dialects: Grote taalgroepen en dialecten
-ethnicity.common.dress.code: 'Gebruikelijke Kleding voorschiften '
+ethnicity.common.dress.code: 'Gebruikelijke Kleding voorschiften'
 ethnicity.common.customs.traditions.rituals: Gebruikelijke gebruiken, tradities en
   rituelen
-ethnicity.funerary.memorial.Customs: 'Begrafenissen en Herdenking gebruiken '
+ethnicity.funerary.memorial.Customs: 'Begrafenissen en Herdenking gebruiken'
 document.article.signatoriesorganizations: Ondertekenaars (Organisaties)
 ethnicity.culture.cultural.heritage: Cultuur en cultureel erfgoed
 ethnicity.shared.customary.codes.values: Gedeelde gebruikelijke codes en waarden
@@ -159,9 +159,9 @@ ethnicity.comingofage.rites: Ouder Worden Rituelen
 ethnicity.common.taboos: Gebruikelijke Taboe's
 ethnicity.common.myths.legends: Gebruikelijke Mythes en Legendes
 ethnicity.historical.figures: Historische figuren
-ethnicity.beauty.ideals: 'Schoonheids Idealen '
+ethnicity.beauty.ideals: 'Schoonheids Idealen'
 ethnicity.ideals: Idealen
-ethnicity.gender.ideals: Geslachts Idealen
+ethnicity.gender.ideals: Gender Idealen
 ethnicity.courtship.ideals: Verkering Idealen
 ethnicity.relationship.ideals: Relatie Idealen
 ethnicity.major.organizations: Belangrijke organisaties
@@ -185,7 +185,7 @@ formation.sidebar.dissolution: Ontbinding
 formation.sidebar.assumed.veterancy: Aangenomen Veterancy
 formation.sidebar.parent.formation: Bovenliggende Formatie
 formation.sidebar.usedby: Gebruikt door
-item.inner.workings: Mechanica en innerlijke werking
+item.inner.workings: ' Mechanica en innerlijke werking'
 formation.sidebar.ranks.titles: Rangen & Titels
 item.manufacturing.process: Productieprocess
 item.significance: Betekenis
@@ -193,7 +193,7 @@ item.rpg.datasheet: RPG Datablad
 item.sidebar.subtype.model: Subtype / Model
 item.sidebar.manufacturer: Fabrikant
 item.sidebar.itemtype: Voorwerp type
-item.sidebar.usedby: Gebruikt bij
+item.sidebar.usedby: Gebruikt door
 item.sidebar.related.technologies: Gerelateerde Technologieën
 item.sidebar.owning.organization: Eigenaar van een Organisatie
 item.sidebar.rawmaterials.components: Grondstoffen & Componenten
@@ -201,27 +201,27 @@ landmark.purpose: Doel/ functie
 landmark.design: Ontwerp
 landmark.entries: Inzendingen
 landmark.sensory: Zintuiglijk & uiterlijk
-landmark.denizens: Bewoners
+landmark.denizens: Inwoners
 landmark.contents: Inhoud & Inrichting
 landmark.valuables: Kostbaarheden
 landmark.hazards: Gevaren & Vallen
-landmark.properties: Specials Eigendommen
+landmark.properties: Speciale Eigendommen
 landmark.effects: Omgevingseffecten
 item.sidebar.tools: Gereedschap
 item.sidebar.related.ethnicities: Gerelateerde etniciteiten
 item.sidebar.related.condition: Gerelateerde Condities
 item.sidebar.rarity: Zeldzaamheid
 item.sidebar.weight: Gewicht
-item.sidebar.dimensions: Dimensie
+item.sidebar.dimensions: Dimensies
 item.sidebar.base.price: Basis Prijs
 item.sidebar.related.myths: Gerelateerde Fabel
 landmark.alterations: Aanpassingen
-landmark.architecture: 'Architectuur '
-landmark.ruined: GERUÏNEERDE STRUCTUUR
+landmark.architecture: 'Architectuur'
+landmark.ruined: GERUÏNEERD GEBOUW
 landmark.parent: Bovenliggende locatie
 landmark.children: Opgenomen Locaties
-landmark.charactersinlocation: Karakteres in Locatie
-landmark.professions: 'Gerelateerde Profession '
+landmark.charactersinlocation: Karakters in Locatie
+landmark.professions: 'Gerelateerde Profession'
 landmark.owner: Eigenaar
 landmark.organization: Eigenaar Organisatie
 landmark.connectedrooms: Verbonden kamers
@@ -259,7 +259,7 @@ location.characters_in_location: Karakters in Locatie
 location.related_reports_primary: Gerelateerde Verslagen (Primair)
 location.related_reports_secondary: Gerelateerde Verslagen (Secondair)
 location.related_myths: Gerelateerde Mythes
-material.characteristics: 'Fysieke Eigenschappen '
+material.characteristics: 'Fysieke Eigenschappen'
 material.useCultural: Culturele Betekenis en Gebruik
 material.reusability: Herbruikbaarheid & Recycling
 material.boiling: Kook/ Condensatie Punt
@@ -304,13 +304,13 @@ military_conf.historical_significance: Historische Betekenis
 myth.cultural_reception: Culturele Verwelkoming
 military_conf.in_literature: In Literatuur
 military_conf.led_by: Geleid door
-myth.related_items: Gerelateerde  Voorwerpen
-organisation.foreign_relations: "Buitenlandse Zaken\n"
+myth.related_items: Gerelateerde Voorwerpen
+organisation.foreign_relations: "Buitenlandse Zaken"
 organisation.disbanded_dissolved: UITGEBROKEN / OPGELOST
 organisation.veterancy_level: Veterancy Niveau
 organisation.notable_members: Opmerkelijke Leden
 person.holy_books_codes: Heilige Boeken & Codes
-person.taboos: "Taboe's "
+person.taboos: "Taboe's"
 person.previously_held_ranks_titles: Eerder Gehouden Rangen & Titels
 person.hair: Haar
 person.character_prototype: Karakter Prototype
@@ -415,7 +415,7 @@ person.savvies_ineptitudes: Savvies & Onbekwaamheden
 person.likes_dislikes: Likes & Dislikes
 person.virtues_personality_perks: Deugden en Persoonlijkheidsvoordelen
 person.personality_quirks: Persoonlijkheids Eigenaardigheden
-person.hygiene: Hygiene
+person.hygiene: Hygiëne
 person.contacts_relations: Contacten & Relaties
 person.family_ties: Familie Banden
 person.social_aptitude: Sociale Bekwaamheid
@@ -423,7 +423,7 @@ person.mannerisms: Manieren
 person.hobbies_pets: Hobbies en huisdieren
 person.speech: Spraak
 person.wealth_financial_state: Rijkdom & Financiële status
-person.alignment: Uitlijning
+person.alignment: Alignment
 person.current_location: Huidige Locatie
 person.species: Soort
 person.conditions: Condities
@@ -458,7 +458,7 @@ plot.protagonists: Hoofdpersonen
 plot.allies: Bondgenoten
 plot.competitors: Concurrenten
 plot.adversaries: Vijanden
-plot.locations: 'Locaties '
+plot.locations: 'Locaties'
 plot.encounters: Ontmoetingen
 plot.type: Plot Type
 plot.related_characters: Gerelateerde Karakters
@@ -497,7 +497,7 @@ report.missions_quests_completed: Missie/Quests Voltooid
 report.created_content: Creëer Inhoud
 report.related_reports: Gerelateerde Verslagen
 organisation.familyleader: Familiehoofd
-report.notes: 'Notities '
+report.notes: 'Notities'
 report.campaign: Campagne
 report.protagonists: Hoofdpersonen
 report.player_journals: Spelers Dagboek
@@ -547,17 +547,17 @@ species.social_structure: Sociale Structuur
 species.domestication: Domesticatie
 species.uses_products_exploitation: Gebruiken, Producten & Exploitatie
 species.geographic_origin_and_distribution: Geografische Afkomst en Distributie
-species.civilization_and_culture: 'Civilisatie en Culturen '
+species.civilization_and_culture: 'Civilisatie en Culturen'
 species.facial_characteristics: Fysieke Karakterisatie
 species.average_intelligence: Gemiddelde Intelligentie
 species.perception_and_sensory_capabilities: Perceptie en Sensorische Mogelijkheden
 species.symbiotic_and_parasitic_organisms: Symbiotische en Parasitaire organismen
 species.naming_traditions: Naamgevingstradities
 species.major_organizations: Grote Organisaties
-species.beauty_ideals: 'Schoonheids Idealen '
+species.beauty_ideals: 'Schoonheidsidealen'
 species.gender_ideals: Geslachts Idealen
 species.courtship_ideals: Verkering Idealen
-species.relationship_ideals: RelatieIdealen
+species.relationship_ideals: Relatie-idealen
 species.major_language_groups_dialects: 'Grote taalgroepen en dialecten'
 species.average_technological_level: Geavanceerde Technologie Niveau
 species.common_etiquette_rules: Gemeenschappelijke etiquette regels
@@ -566,7 +566,7 @@ species.common_dress_code: Gebruikelijke Kleding Voorschriften
 species.common_customs_traditions_rituals: Dagelijkse Gebruiken, Tradities en Rituelen
 species.common_taboos: Gebruikelijke Taboe's
 species.history: Geschiedenis
-species.historical_figures: 'Historische Figuren '
+species.historical_figures: 'Historische Figuren'
 species.common_myths_and_legends: Gebruikelijke Mythes en Legendes
 species.interspecies_relations_assumptions: Interspecies Relaties en Veronderstellingen
 species.rpg_datasheet: RPG Datablad
@@ -582,10 +582,10 @@ species.average_weight: Gemiddeld Gewicht
 species.average_length: Gemiddelde Lengte
 species.average_physique: Gemiddelde lichaamsbouw
 species.body_tint_colouring_marking: Lichaamskleur, Kleuren en Markering
-species.related_myths: 'Gerelateerde Mythelogie '
-species.related_ethnicities: Gerelateerde Etniciteit
+species.related_myths: 'Gerelateerde Mythologie'
+species.related_ethnicities: Gerelateerde Etniciteiten
 spell.effect: Effect
-spell.related_element: 'Gerelateerde Elementen '
+spell.related_element: 'Gerelateerde Elementen'
 spell.effect_side_secondary: Bijwerkingen
 spell.manifestation: Manifestatie
 spell.source: Bron
@@ -661,7 +661,7 @@ person.church_cult: Kerk/ Cult
 person.year_of_death: Jaar van Overlijden
 person.circumstances_of_birth: Omstandigheden van Geboorte
 person.circumstances_of_death: Omstandigheden van Overlijden
-person.biological_sex: Biologische Geslacht
+person.biological_sex: Biologisch Geslacht
 person.gender_identity: Gender Identiteit
 person.height: Hoogte
 person.related_myths: Gerelateerde Mythes
@@ -678,7 +678,7 @@ plot.parent: Bovenliggend Plot
 plot.subplots: Subplots
 profession.career: Loopbaan
 profession.demographics: Demografie
-profession.tools: Tools
+profession.tools: Gereedschap
 profession.dangers_&_hazards: Gevaren
 profession.demand: Vraag naar
 rank.duties: Plichten
@@ -687,4 +687,10 @@ report.rewards_granted: Toegekende beloningen
 report.characters_interacted_with: Karakter(s) heeft/hebben interactie gehad met
 settlement.ruined_settlement: Geruïneerde nederzetting
 technology.utility: Utiliteit
-person.items_specialized_equipment: Gespecialiseerde Apparatuur
+person.items_specialized_equipment: Gespecialiseerde Uitrusting
+condition.sequela: Restletsel
+condition.hosts: Gastgevers & Dragers
+campaign.vtt: Virtueel Tafelblad
+myth.date_of_setting: Contextuele Datum
+organisation.organization_vehicles: Organisatie Voertuigen
+person.social: Sociaal
