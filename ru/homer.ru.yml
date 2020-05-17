@@ -1,1 +1,13 @@
-{}
+manuscripts: Манускрипт
+manuscripts.list: Список манускриптов
+manuscript.edit: Редактировать манускрипт
+manuscript.view: Посмотреть манускрипт
+manuscript.delete: Удалить манускрипт
+manuscript.settings: Настройки манускрипта
+manuscript.create: Создать новый манускрипт
+manuscript.world.activate: Тебе нужно активировать один из своих миров
+manuscript.edit.upper: РЕДАКТИРОВАТЬ
+manuscript.view.upper: ПОСМОТРЕТЬ
+manuscript.settings.upper: НАСТРОЙКИ
+manuscript.world.activate.desc: У тебя нет активных миров, тебе нужен хотя бы один,
+  чтобы начать новый манускрипт
