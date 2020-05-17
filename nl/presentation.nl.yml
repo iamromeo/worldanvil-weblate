@@ -605,3 +605,12 @@ technology.manufacturing: Productie
 technology.parent_technologies: Bovenliggende Technologieën
 technology.children_technologies: Onderliggende Technologieën
 technology.inventor_s: Uitvinder(s)
+technology.access_availability: Toegang & Beschikbaarheid
+technology.complexity: Complexiteit
+technology.discovery: Ontdekking
+technology.related_items: Gerelateerde Voorwerpen
+vehicle.power_generation: Stroom Opwekking
+vehicle.propulsion: Voortstuwing
+vehicle.weapons_armament: Wapens & Bewapening
+vehicle.armor_and_defense: Armor & Verdediging
+vehicle.communication_tools_systems: Communicaties Gereedschap en Systemen
