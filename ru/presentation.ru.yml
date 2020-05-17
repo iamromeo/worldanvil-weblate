@@ -14,7 +14,7 @@ goto.homepage: Перейти на страницу %name%
 article.love: Люди, которым нравятся ваши статьи
 article.love.return: Давай отблагодарим их!
 article.likes.number: этот пост лайкнуло %number% создателей миров
-author.notes: Записи автора
+author.notes: Записки автора
 players.looking: Поиск игроков
 players.full: Кампания полна
 authors: Авторы
@@ -102,7 +102,7 @@ campaign.journal.campaign: Кампания
 campaign.journal.player: Игрок
 campaign.journal.character: Персонаж
 landmark.purpose: Назначение / Функция
-landmark.valuables: Ценности
+landmark.valuables: Ценность
 landmark.hazards: Опасности и ловушки
 landmark.properties: Особые свойства
 landmark.architecture: Архитектура
@@ -122,7 +122,7 @@ material.products: Побочные продукты
 material.hazards: Опасности
 material.environment: Влияние на окружающую среду
 material.reusability: Повторное использование и переработка
-material.distribution: Распостранение
+material.distribution: Распространение
 material.market: Рынок
 material.storage: Хранение
 material.value: Ценность
@@ -222,12 +222,12 @@ item.sidebar.rawmaterials.components: Исходные материалы и к�
 item.sidebar.tools: Инструменты
 item.sidebar.related.myths: Связанные мифы
 landmark.design: Дизайн
-landmark.entries: Входы/выходы
-landmark.sensory: Сенсорный и внешний вид
+landmark.entries: Входы / Выходы
+landmark.sensory: Датчики и внешний вид
 landmark.contents: Наполнение и обстановка
 landmark.effects: Условия окружения
 landmark.denizens: Обитатели
-landmark.ruined: РАЗРУШЕНОЕ СТРОЕНИЕ
+landmark.ruined: РАЗРУШЕНнОЕ СТРОЕНИЕ
 landmark.professions: Связанные профессии
 landmark.organization: Владеющая организация
 language.alphabet: Алфавит
@@ -241,7 +241,7 @@ language.sidebar.common.phrases: Распространённые фразы
 language.sidebar.common.female.names: Распространённые женские имена
 language.sidebar.common.male.names: Распространённые мужские имена
 language.sidebar.common.unisex.names: Распространённые универсальные имена
-material.halflife: Длительность жизни
+material.halflife: Период полураспада
 material.regulations: Законы и регуляция
 material.locations: Связанные места
 material.species: Связанные виды
@@ -251,31 +251,31 @@ material.professions: Связанные профессии
 law.manifestation: Проявление
 landmark.connectedrooms: Смежные комнаты
 landmark.materials: Связанные материалы
-material.manufacturing: Производство и Товары
-location.characters_in_location: Персонажи в Локации
+material.manufacturing: Производство и товары
+location.characters_in_location: Персонажи в локации
 location.included_organizations: Включает в себя
 location.included_locations: Включает в себя
-location.florafauna: Флора и Фауна
+location.florafauna: Флора и фауна
 location.geography: Расположение
 campaign.maps_and_timelines: Карты и временные линии
 campaign.lore_and_cast: Лор и поддержка
 campaign.playedby: Сыграно
 organization.tree: Древо организации
 explore: Изучить
-material.history_usage: История и Использование
+material.history_usage: История использования
 location.related_myths: Связанные мифы
 location.related_reports_secondary: Связанные отчёты (Второстепенные)
-location.related_reports_primary: Связанные отчёты (Главные)
+location.related_reports_primary: Связанные отчёты (Основные)
 location.owning_organization: Владеющая организация
 location.owner_ruler: Владелец/Правитель
 location.type: Вид
-location.aternative_names: Альтернативные Названия
-location.natural_resources: Природные Ресурсы
+location.aternative_names: Другое(-ие) название(-ия)
+location.natural_resources: Природные ресурсы
 location.fauna: Фауна
 location.flora: Флора
 law.type: Вид
 landmark.alterations: Изменения
-item.rpg.datasheet: Спецификация по Ролевой Системе
+item.rpg.datasheet: База данных RPG
 formation.upkeep: Содержание
 document.article.signatoriesorganizations: Подписи (Организации)
 document.article.signatoriescharacters: Подписи (Персонажи)
@@ -285,7 +285,7 @@ document.publication.status: Статус публикации
 campaign.sessions_archive: Архив сессий
 heroes: Герои
 campaign.lore: Лор
-landmark.reportprimarylocations: Связанныt отчёт (основные локации)
+landmark.reportprimarylocations: Связанный отчёт (основные локации)
 landmark.children: Включает в себя
 landmark.parent: Является частью
 formation.sidebar.parent.formation: Является частью
