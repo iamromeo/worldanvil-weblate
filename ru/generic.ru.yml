@@ -1,1 +1,105 @@
-{}
+dashboard.upcoming.stream: Предстоящие трансляции и события
+dashboard.upcoming.sessions: Предстоящие сессии
+dashboard.followed.characters: Персонажи, за которыми ты следишь
+dashboard.followed.worlds: Миры, на которые ты подписан
+dashboard.help.grow: Помоги нам сохранять World Anvil в живых и расти!
+dashboard.worlds.max: Ты достиг своего предела миров
+dashboard.recent.articles: Твои недавние статьи
+dashboard.continue: Продолжать создание
+dashboard.worldbuilding.disabled: Функции worldbuilding отключены
+dashboard.podcast.cta: Слушать наш подкаст worldbuilding
+dashboard.videos: Последние видео
+dashboard.in.news: В новостях
+dashboard.dev.updates: Обновления разработки
+dashboard.communities: Твои сообщества
+dashboard.campaigns: Твои кампании
+dashboard.characters: Твои персонажи
+dashboard.worlds: Твои миры
+dashboard.events: События
+dashboard.news: Новости
+dashboard.manage.features: Управляй своими возможностями
+dashboard.features.mistake: Активировал функции worldbuilding по ошибке?
+dashboad.cta: ПОЛУЧИ WORLDBUILDING
+dashboard.create.first: Создай свой первый мир!
+dashboard.page.title: Твоя панель управления
+access.activate.login: Тебе нужно быть зарегистрированным, чтобы активировать свою
+  подписку!
+access.activate.code: Ввести ключ активации
+access.activate.subscription: Активировать подписку
+access.activate.description: Напиши свой код подписки ниже, чтобы получить доступ
+  к контенту. Это просто!
+access.activate: Активация подписки
+access.passcode.description: Страница защищена паролем! Если он у тебя есть, то введи
+  его, чтобы получить доступ к контенту.
+access.passcode: Необходим пароль
+access.homepage: Идти на домашнюю страницу
+access.return: Иди туда, откуда пришёл!
+access.description: Извини, но у тебя нет доступа к этой странице. Возможно из-за
+  того, что статья приватная и у тебя нет нужных прав для просмотра её.
+access.multipass: Многоходовка?
+author.notes: Записки автора
+wip: Работа в процесса
+comments: Комментарии
+favorites: Избранное
+views: Просмторов
+open: Открыто
+private: Приватность
+public: Публично
+visibility: Видимость
+update.date: Дата последнего обновления
+publication.date: Дата публикации
+creation.date: Дата создания
+author: Автор
+category: Категория
+world: Мир
+article.template: Шаблон статьи
+theme: Тема
+tags: Тэги
+metadata: Метаданные
+moderation: Модерация
+notes: Записки
+todo.status.three: Статья завершена!
+todo.status.two: Статья опубликована, но до сих пор на доработке
+todo.status.one: Статья создана, не опубликована и работа до сих пор в прогрессе
+todo.status.zero: Нажмите на название, чтобы создать статью!
+todo.your.list: Список дел
+guild.required.grandmaster: Для этого нужно быть членом гильдии (от грандмастера и
+  выше).
+guild.required.master: Для этого нужно быть членом гильдии (от мастера и выше).
+guild.required: Для этого требуется членство в гильдии!
+studio.description.text: Студия создателей - дом для всех продвинутых создателей миров.
+  Грандмастеры, и выше, могут создавать и делится листами персонажей, виджетами, новыми
+  метками для карт и многим другим, по мере нашего роста.
+studio.description.header: Что за студия создателей
+studio.templates: 'Студия создателей: шаблоны статей'
+studio.sheets: 'Студия создателей: Листы'
+studio.pins: 'Студия создателей: Пины'
+studio.homepage: Домашняя страница студии создания
+meta.description.standard: Инструменты менеджмента worldbuilding и RPG кампаний для
+  рассказчиков, мастеров подземелий и авторов фанфиков
+meta.title.standard: Менеджмент worldbuilding и RPG кампаний | World Anvil
+world.designer: Панель дизайнера миров
+private.club: Приватный клуб. Только для членов гильдии
+allies: Союзники и партнеры по преступлению
+goto.articles.list: Перейти к списку статей
+goto.account: Перейти к деталям аккаунта
+join.worldanvil.cta: Присоединись к гильдии Worldbuilders
+join.discord.description: Прими участие в разработке World Anvil - присоединись к
+  испытаниям - выигрывай призы и крутые бэйджи!
+join.discord: Присоединяйся к нашему Discord серверу
+upcoming.streams: Предстоящие трансляции
+dismiss: Отклонить
+identifier: Идентификатор
+class.name: Имя класса CSS
+class: CSS класс
+home: Дом
+help: Нужна помощь?
+weight: Вес
+status: Статус
+state: Состояние
+description: Описание
+title: Название
+new: новый
+welcome: Добро пожаловать
+username: Псевдоним
+community: Сообщество
