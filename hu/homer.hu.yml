@@ -3,3 +3,11 @@ manuscripts.list: Kéziratlisták
 manuscript.edit: Kézirat Szerkesztése
 manuscript.view: Kézirat Megtekintése
 manuscript.delete: Kézirat Törlése
+manuscript.settings.upper: BEÁLLÍTÁSOK
+manuscript.view.upper: MEGTEKINTÉS
+manuscript.edit.upper: SZERKESZTÉS
+manuscript.world.activate.desc: Nincs aktív világod, ami az új kézirat létrehozásához
+  szükséges
+manuscript.world.activate: Aktiválnod kell valamely világodat
+manuscript.create: Új Kézirat Létrehozása
+manuscript.settings: Kézirat Beállítások

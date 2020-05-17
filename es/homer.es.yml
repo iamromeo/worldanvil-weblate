@@ -3,3 +3,11 @@ manuscripts.list: Lista de manuscritos
 manuscript.edit: Editar manuscrito
 manuscript.view: Ver manuscrito
 manuscript.delete: Eliminar manuscrito
+manuscript.settings.upper: AJUSTES
+manuscript.view.upper: VER
+manuscript.edit.upper: EDITAR
+manuscript.world.activate.desc: No tienes un mundo activo, y necesitas uno para crear
+  un manuscrito
+manuscript.world.activate: Tienes que activar uno de tus mundos
+manuscript.create: Crear un nuevo manuscrito
+manuscript.settings: Ajustes del manuscrito

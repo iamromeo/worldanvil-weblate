@@ -3,3 +3,11 @@ manuscripts.list: Rankraščių sąrašas
 manuscript.edit: Redaguoti rankraštį
 manuscript.view: Peržiūrėti rankraštį
 manuscript.delete: Trinti rankraštį
+manuscript.settings.upper: Nustatymai
+manuscript.view.upper: Peržiūrėti
+manuscript.edit.upper: Redaguoti
+manuscript.world.activate.desc: Nėra aktyvių pasaulių, tam, kad sukurtum rankraštį,
+  reikia pradėti vieną
+manuscript.world.activate: Reikia aktyvuoti vieną iš turimų pasaulių
+manuscript.create: Kurti naują rankraštį
+manuscript.settings: Rankraščio nustatymai
