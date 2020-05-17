@@ -602,4 +602,4 @@ spell.range: Bereik
 spell.level: Niveau
 spell.restriction_applied: Toegepaste Beperking
 technology.manufacturing: Productie
-technology.parent_technologies: Voorgaande Technologie
+technology.parent_technologies: Bovenliggende Technologieën
