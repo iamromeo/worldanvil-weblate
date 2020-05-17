@@ -1,8 +1,8 @@
-toggle: Växla Meny
+toggle: Växla meny
 dashboard: Instrumentpanel
 campaigns: Kampanjer
 notebook: Anteckningsbok
-srd: RPG SRD
+srd: Rollspelsresurser
 about: Om
 community: Gemenskap
 challenges: Utmaningar
@@ -13,14 +13,14 @@ world: Värld
 profile: Profil
 interface.settings: Gränssnittsinställningar
 account.details: Kontodetaljer
-announcements: Uppdateringar
+announcements: Meddelanden
 world.select: Välj Värld
-world.summary: Världssamanfattning
+world.summary: Världsammanfattning
 world.goto: Gå till Värld
 world.configure: Konfigurera Värld
 configuration: Konfiguration
 welcome: Välkommen
-your.stream: Din ström
+your.stream: Ditt nyhetsflöde
 saved.articles: Sparade Artiklar
 notifications: Aviseringar
 world.browse: Bläddra bland Världar
