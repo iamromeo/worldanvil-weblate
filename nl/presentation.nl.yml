@@ -621,3 +621,15 @@ vehicle.rpg_datasheet: RPG Datablad
 vehicle.class: Klasse
 vehicle.nickname: Bijnaam
 vehicle.owning_organization: Eigenaar Organisatie
+vehicle.motto: Motto
+material.products: Bijproducten & bijproducten
+vehicle.owner: Eigenaar
+vehicle.price: Prijs
+vehicle.rarity: Zeldzaamheid
+vehicle.length: Lengte
+vehicle.beam: Balk
+vehicle.height: Hoogte
+vehicle.weight: Gewicht
+vehicle.speed: Snelheid
+vehicle.complement: Complement / Bemanning
+vehicle.cargo_passengers_capacity: Vracht & Passagiers Capaciteit
