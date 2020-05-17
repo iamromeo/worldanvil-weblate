@@ -618,3 +618,5 @@ vehicle.sensors: Sensoren
 vehicle.additional_auxiliary_systems: Aanvullende & hulpsystemen
 vehicle.hangars_docked_vessels: Hangars en aangemeerde schepen
 vehicle.rpg_datasheet: RPG Datablad
+vehicle.class: Klasse
+vehicle.nickname: Koosnaampje
