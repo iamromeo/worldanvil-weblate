@@ -585,3 +585,21 @@ species.body_tint_colouring_marking: Lichaamskleur, Kleuren en Markering
 species.related_myths: 'Gerelateerde Mythelogie '
 species.related_ethnicities: Gerelateerde Etniciteit
 spell.effect: Effect
+spell.related_element: 'Gerelateerde Elementen '
+spell.effect_side_secondary: Bijwerkingen
+spell.manifestation: Manifestatie
+spell.source: Bron
+spell.discovery: Ontdekking
+spell.related_deity_power: Gerelateerde God/ Hogere Macht
+spell.related_organizations: Gerelateerde Organisatie
+spell.material_components: Materiële Componenten
+spell.gestures_ritual: Gebaren & Rituelen
+spell.related_discipline: Gerelateerde Discipline
+spell.related_school: Gerelateerde School
+spell.effect_duration: Effecten Looptijd
+spell.effect_casting_time: Effecten Uitspraak Tijd
+spell.range: Bereik
+spell.level: Niveau
+spell.restriction_applied: Toegepaste Beperking
+technology.manufacturing: Productie
+technology.parent_technologies: Voorgaande Technologie
