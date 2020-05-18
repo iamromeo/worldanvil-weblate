@@ -1,4 +1,12 @@
 rpg.world.systems: Tavo pasaulio sistema(-os)
 rpg.systems.list: RPG sistemų sąrašas
 rpg.add.to.world: Pridėti šią sistemą į pasaulį
-rpg.statblock.copy: Kopijuoti šį duomenų bloką
+rpg.statblock.copy: Kopijuoti šį duomenų ir informacijos bloką
+rpg.resources.welcome.intro1: Čia yra vieta, kur galima rasti visus World Anvil bendruomenės
+  sukurtus išteklius ir kitus SRD (System Reference Document)!
+rpg.resources.welcome.intro2: Kiekvienas „blokas“ (duomenų blokas/stat block) patalpintas
+  čia turi BB-kodą (BBcode), kurį gali kopijuoti ir naudoti savo pasaulyje arba juo
+  naudotis žaidžiant. Visi ištekliai ir resursai talpinami turi licenciją arba yra
+  noriai įkelti autorių.
+rpg.resources: RPG ištekliai
+rpg.resources.welcome.header: Sveiki atvykę į World Anvil RPG išteklių puslapį
