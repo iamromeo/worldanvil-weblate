@@ -5,7 +5,7 @@ create: Skapa
 search: Sök
 search.in: Sök i
 world.create: Skapa en ny Värld
-world.view: Visa Värld
+world.view: Visa värld
 check.out: Kolla in
 edit.and.play: Redigera & Spela
 login: Logga in
@@ -22,3 +22,12 @@ delete.map: Radera karta
 edit.profile: Redigera profil
 view.profile: Visa profil
 download: Ladda ner
+dismiss: Avfärda
+save: Spara
+manage: Hantera
+update: Uppdatera
+download.resources: nedladdnings bara resurser
+attach: Fäst
+attach.to.world: Fäst till värden
+copy.to.clipboard: Klicka för att kopiera till urklipp
+copy: Kopiera

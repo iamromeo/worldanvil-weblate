@@ -11,7 +11,7 @@ delete: Ištrinti
 create: Kurti
 replace: Perkelti
 search: Ieškoti
-search.in: Ieškoti
+search.in: 'Ieškoti čia:'
 world.create: Kurti naują pasaulį
 world.view: Peržiūrėti pasaulį
 browse: Naršyti
@@ -27,6 +27,7 @@ delete.map: Trinti žemėlapį
 edit.profile: Redaguoti paskyrą
 view.profile: Peržiūrėti paskyrą
 check.out: Peržiūrėti
-attach.to.world: Prikabinti prie pasaulio
+attach.to.world: Prijungti prie pasaulio
 attach: Prikabinti
 download.resources: Parsisiųsti išteklius
+edit.and.play: Redaguoti ir žaisti
