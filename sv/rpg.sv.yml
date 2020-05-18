@@ -1,1 +1,5 @@
-{}
+rpg.resources: Rollspelsresurser
+rpg.resources.welcome.header: Välkommen till World Anvils rollspelsresurssida
+rpg.resources.welcome.intro1: Här kan alla resurser som skapats av World Anvils gemenskap
+  och innehåll från SRD (System Reference Documents) finnas!
+rpg.world.systems: Din världs system
