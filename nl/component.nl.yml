@@ -362,7 +362,7 @@ map.marker.radius.description: Radius van Cirkel in pixels. Vul dit alleen in al
   je een cirkel wilt maken en geen polygoon.
 map.marker.radius: Cirkelradius
 map.marker.polygonPoints: Polygoon Punten
-create.template: Creëer Partroon
+create.template: Creëer Patroon
 create.new.template: Creëer een nieuwe Artikel Sjabloon
 sheets.and.blocks: Bladzijdes & Blokken
 map.marker.colorFill.description: De kleur van de omtrek van een cirkel of veelhoek.
@@ -371,7 +371,7 @@ map.marker.colorFill.description: De kleur van de omtrek van een cirkel of veelh
 map.marker.opacityFill.description: De dekking % van het gebied dat de cirkel of veelhoek
   vult. Van 0 tot 100% (d.w.z. 50)
 map.layers.max: "U heeft het maximale aantal lagen bereikt dat u op uw account kunt\
-  \ hebben! Als je meer lagen op je kaarten wilt, overweeg dan om te upgraden!\n<a\
+  \ hebben! Als je meer lagen op je kaarten wilt, overweeg dan om te upgraden! <a\
   \ class=\"m-t-10 text-pink\" href=\"/worldbuilders-guild-membership\"> Worldbuilders\
   \ Guild </a>"
 map.marker.colorOutline.description: De kleur van de omtrek van een cirkel of veelhoek.
@@ -413,7 +413,13 @@ grandmaster.feature: Dit is een exclusieve functie op het niveau van Grandmaster
   Sluit je aan bij de <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
   Guild</a> om toegang te krijgen tot deze functie en de ontwikkeling van World Anvil
   te helpen.
-guild.access.map: Alle kaarten op gratis accounts worden weergegeven op de wereldhomepage.
-  Sluit je aan bij de <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Wereldbouwers
-  Gilde</a> om je kaart, artikelen en werelden privé te maken en de ontwikkeling van
+guild.access.map: Alle kaarten op gratis accounts worden weergegeven op de startpagina
+  van de wereld. Sluit je aan bij de <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a> om je kaart, artikelen en werelden privé te maken en de ontwikkeling van
   World Anvil te helpen.
+access.authors.advanced.writer.description: Toegang om uw artikelen te maken en te
+  beheren, ongeacht of ze concept zijn of niet. <br> Hierdoor kan de schrijver hun
+  artikelen live op de wereld blijven uitbreiden. <br> Dit is het perfecte auteurstype
+  voor spelers die willen bijdragen aan een levende wereld of campagne.
+access.group.description.description: (optioneel) Om u eraan te herinneren wie en
+  waarom in deze groep zitten.
