@@ -358,3 +358,10 @@ access.code.group: Abonnee Groep
 access.code.maxUses: Maximaal Nummer van Gebruikers
 access.code.expiryDate: Verval Datum
 access.code.edit: Bewerk Abonnee Code
+map.marker.radius.description: Radius van Cirkel in pixels. Vul dit alleen in als
+  je een cirkel wilt maken en geen polygoon.
+map.marker.radius: Cirkelradius
+map.marker.polygonPoints: Polygoon Punt
+create.template: Creëer Partroon
+create.new.template: Creëer een nieuwe Artikel Sjabloon
+sheets.and.blocks: Bladzijdes & Blokken
