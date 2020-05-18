@@ -395,3 +395,6 @@ map.marker.lineColor.description: De kleurenlijn. U kunt CSS-kleuren gebruiken z
   blauw, rood, geel enz. OF de hexcode van de kleur inclusief de hash voor de lijn
 map.marker.lineOpacity.description: De dekking % van de Lijn. Van 0 tot 100% (d.w.z.
   50)
+guild.subscriber.groups: Abonneegroepen zijn toegestaan <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Wereldbouwers Gilde</a> om leden van die
+  groep leestoegang te geven tot privéartikelen.
