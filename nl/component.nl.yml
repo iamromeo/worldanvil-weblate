@@ -372,8 +372,8 @@ map.marker.opacityFill.description: De dekking % van het gebied dat de cirkel of
   vult. Van 0 tot 100% (d.w.z. 50)
 map.layers.max: "U heeft het maximale aantal lagen bereikt dat u op uw account kunt\
   \ hebben! Als je meer lagen op je kaarten wilt, overweeg dan om te upgraden!\n<a\
-  \ class=\"m-t-10 text-pink\" href=\"/worldbuilders-guild-membership\"> Wereldbouwers\
-  \ Gilde </a>"
+  \ class=\"m-t-10 text-pink\" href=\"/worldbuilders-guild-membership\"> Worldbuilders\
+  \ Guild </a>"
 map.marker.colorOutline.description: De kleur van de omtrek van een cirkel of veelhoek.
   U kunt CSS-kleuren gebruiken zoals blauw, rood, geel enz. OF de hexcode van de kleur
   inclusief de hash voor de lijn
