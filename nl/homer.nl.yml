@@ -1,0 +1,10 @@
+manuscripts: Manuscripten
+manuscripts.list: Manuscripten lijst
+manuscript.edit: Bewerk Manuscript
+manuscript.view: Bekijk Manuscript
+manuscript.delete: Verwijder Manuscript
+manuscript.settings: Manuscript Instellingen
+manuscript.create: Creëer een nieuwe Manuscript
+manuscript.world.activate: Je moet één van werelden Activeren.
+manuscript.world.activate.desc: Je hebt geen actieve wereld, je hebt er één nodig
+  om een nieuw manuscript te starten
