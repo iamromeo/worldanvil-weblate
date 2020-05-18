@@ -43,7 +43,7 @@ categories: Категории
 images: Изображения
 layers: Слои
 maps: Карты
-notes: Заметки
+notes: Записки
 worlds: Миры
 list.campaigns: Список Кампаний
 list.categories: Список Категорий
@@ -101,7 +101,7 @@ articles: Статьи
 player.characters: Игровые Персонажи
 marker.groups: Группы Меток
 timelines: Хронологии
-tags: Теги
+tags: Тэги
 list.articles: Список статей
 list.blocks: Список Блоков
 list.player.characters: Список Игровых Персонажей
