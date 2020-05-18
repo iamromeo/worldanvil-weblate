@@ -4,3 +4,8 @@ rpg.resources.welcome.intro1: Här kan alla resurser som skapats av World Anvils
   och innehåll från SRD (System Reference Documents) finnas!
 rpg.world.systems: Din världs system
 rpg.add.to.world: Lägg till detta system till din värld
+rpg.resources.welcome.intro2: Varje "block" (stat-block) som finns här har en BBcode
+  som du kan kopiera och använda i din värld eller medan du spelar. Alla resurser
+  som finns här är antingen licenserade eller frivilligt delade av dess författare.
+rpg.systems.list: Lista över rollspelssystem
+rpg.statblock.copy: Gör en kopia av detta stat-block
