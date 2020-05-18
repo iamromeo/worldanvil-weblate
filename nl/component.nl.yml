@@ -379,3 +379,19 @@ map.marker.colorOutline.description: De kleur van de omtrek van een cirkel of ve
   inclusief de hash voor de lijn
 map.marker.opacityOutline.description: De dekking % van de omtrek. Van 0 tot 100%
   (d.w.z. 50)
+map.marker.linePoints.description: Lengtegraad en breedtegraad van elk punt als een
+  paar gescheiden door een komma en door elkaar gescheiden door een spatie. Bijvoorbeeld
+  20,20 30,30 50,45. Tip! Gebruik de rode "nieuwe punt" pin om de breedte / lengte
+  te krijgen.
+map.marker.lineDash: Line Dash Array
+guild.access: Alle items op gratis accounts zijn openbaar. Sluit je aan bij de<a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership"> Wereldbouwers Gilde </a> om specifieke
+  abonneegroepen toestemming te geven om toegang te krijgen tot de inhoud die u wilt
+  en om de ontwikkeling van World Anvil te helpen.
+pin.iconAnchor.description: Het Ankerpunt is het unieke pixelpunt waar de rand / het
+  contactpunt van uw pin zich met de kaart bevindt. Normaal gesproken zou het cartesisch
+  0X zijn en de helft van de breedte van de pin Y
+map.marker.lineColor.description: De kleurenlijn. U kunt CSS-kleuren gebruiken zoals
+  blauw, rood, geel enz. OF de hexcode van de kleur inclusief de hash voor de lijn
+map.marker.lineOpacity.description: De dekking % van de Lijn. Van 0 tot 100% (d.w.z.
+  50)
