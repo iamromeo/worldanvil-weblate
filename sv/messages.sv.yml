@@ -1,2 +1,8 @@
-Public: Allmän
+Public: Offentlig
 Private: Privat
+success.generic: Städet har hamrat din förfrågan med framgång.
+bbcode.embed: Kopiera och klistra in BB-koden nedan i någon del av din artikel som
+  har BB-kod aktiverat för att bädda in denna enhet i den!
+failure.deletion: Oj då! Något blev fel! Finns det någon chans att det du försökte
+  radera fortfarande används någonstans?
+success.deletion: Hammaren har utplånat så som du befallde.
