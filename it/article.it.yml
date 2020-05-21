@@ -101,3 +101,9 @@ description.secret: Le verità nascoste, i sussurri nei vicoli, le terribili rea
   da rivelare
 country: Nazione
 religion: Religione
+description.religion: Le Religioni Organizzate sono organizzazioni specializzate impegnate
+  con le questioni spirituali e la gestione dei loro seguaci (Questo è un link secondario
+  al Template Organizzazione).
+description.country: Le Nazioni sono organizzazioni territoriali specializzate impegnate
+  nella gestione dei cittadini che vivono nei loro territori (Questo è un link secondario
+  al Template Organizzazione).

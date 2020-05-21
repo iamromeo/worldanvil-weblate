@@ -23,13 +23,13 @@ spell: Trollformel
 technology.science: Teknologi / Vetenskap
 tradition.ritual: Tradition / Ritual
 vehicle: Fordon
-rpg.session.report: RPG Sessions Rapport
+rpg.session.report: Sessionsrapport
 building: Byggnad
 geography: Geografi
 settlement: Bosättning
 technology: Teknologi
 tradition: Tradition
-rpg.report: RPG Rapport
+rpg.report: Sessionsrapport
 description.building: '... eller Landmärke. Under, naturliga och byggda, ruiner, fängelsehålor,
   tempel, gigantiska träd, smedjor, värdshus, slott. Allt du kan peka mot och som
   människor tycker är viktiga nog att namnge.'
@@ -50,3 +50,5 @@ description.language: De sätt som intelligenta arter kommunicerar på och utbyt
   och tankar i din värld.
 description.material: Råvaror, handelsresurser, kemiska element. Allt från mithril
   och adamantium till uran och unobtainium 2000.
+description.ethnicity: Inte arten utan folket med ett gemensamt kulturellt släktskap.
+  Inte folket i ett kungarike, utan folket som lever med samma tro och traditioner.
