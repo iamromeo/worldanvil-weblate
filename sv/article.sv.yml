@@ -79,9 +79,9 @@ description.tradition: Seder, traditioner och ritualer. Skördefester, minnesdag
 description.technology: Vetenskap och teknik. Från uppfinnandet av lantbruket till
   ångmotorer och laserpistoler
 description.spell: Magiska formler, ritualer, psionicer, superkrafter!
-description.plot: Berättelse intriger är dina övergripande ränker, handlingar, scener,
-  Beat eller hur du än kallar dina intriger. Använd dem för din prosa eller din rollspels
-  kampanjöversikt.
+description.plot: Berättelsehandlingar är dina övergripande ränker, handlingar, scener,
+  beats eller vad du än kallar delarna i din berättelse. Använd dem för din prosa
+  eller översikten för din rollspelskampanj.
 description.timeline: Tidslinjer hjälper dig att berätta din världs historier och
   beskriva händelserna som formade den.
 description.map: Kartor kan användas för att visa din världs geografi, men också som
@@ -97,3 +97,9 @@ description.secret: Den dolda sanningen, viskningarna i bakgränderna, den frukt
   verkligheten som ska avslöjas
 religion: Religion
 country: Land
+description.religion: Organiserade religioner är specialiserade organisationer inbegripna
+  med andliga angelägenheter och ledningen av dess följare (Detta är en sekundär länk
+  till Organisationsmallen).
+description.country: Länder är specialiserade territoriala organisationer inbegripna
+  med ledningen av invånarna som bor i deras territorier (Detta är en sekundär länk
+  till Organisationsmallen).
