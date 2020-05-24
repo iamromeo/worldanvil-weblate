@@ -277,10 +277,10 @@ pin.template.header: Általános Pontsablon
 pin.template.description: Használd ezeket a fájlokat a zip-ben, hogy a World Anvil
   által biztosított pontokhoz hasonlókat hozz létre.
 pin.value.notzero: Bizonyosodj meg róla, hogy ez az érték nem üres vagy 0.
-guild.feature: Ez egy Céh-exkluzív funkció. Csatlakozz a  <a class="m-t-10 text-pink"
-  href="/worldbuilders-guild-membership">1Világépítők Céhébe</a>2 , hogy használhasd
+guild.feature: Ez egy Céh-exkluzív funkció. Csatlakozz a <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Világépítők Céhébe</a> , hogy használhasd
   ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
-grandmaster.feature: Ez egy Nagymester+ funkció. Csatlakozz a  <a class="m-t-10 text-pink"
+grandmaster.feature: Ez egy Nagymester+ funkció. Csatlakozz a <a class="m-t-10 text-pink"
   href="/worldbuilders-guild-membership">1Világépítők Céhébe</a>2 , hogy használhasd
   ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
 create.article: Cikk Létrehozása
@@ -293,7 +293,7 @@ item: Tárgy
 spell: Varázslat
 class: Osztály
 race: Rassz
-master.feature: Ez egy Mester+ szintű exkluzív funkció. Csatlakozz a  <a class="m-t-10
+master.feature: Ez egy Mester+ szintű exkluzív funkció. Csatlakozz a <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">1Világalkotók Céhébe Guild</a>2
   , hogy használhasd ezt a funkciót, továbbá segítsd a World Anvil fejlesztését.
 create.block.template: Blokk Sablon Létrehozása
