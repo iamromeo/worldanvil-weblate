@@ -440,7 +440,7 @@ person.hobbies_pets: Hobbik & Háziállatok
 person.speech: Beszédkészség
 person.wealth_financial_state: Vagyon & Anyagi Állapot
 person.rpg_character_sheet: RPG Karakterlap
-person.divine_classification: Isteni Osztályozés
+person.divine_classification: Isteni Osztályozás
 person.alignment: Beállítottság
 person.current_location: Jelenlegi Tartózkodási Hely
 person.species: Faj
@@ -502,7 +502,7 @@ plot.encounters: Találkozások
 plot.past_events: Múltbéli Események
 plot.type: Cselekmény Típus
 plot.parent: Főcselekmény
-plot.subplots: Alcselekmény
+plot.subplots: Alcselekmények
 plot.related_characters: Kapcsolódó Karakterek
 plot.related_locations: Kapcsolódó Területek
 plot.related_organizations: Kapcsolódó Szervezetek
