@@ -209,5 +209,5 @@ map.presentation: Öppna presentationsläge
 map.settings: Kartinställningar
 map.zoom.initial: Inledande zoomlevel
 map.thumbnail: Miniatyrbild
-map.zoom.initial.description: Se hur inzoomad kartan kommer vara när den först öppnas.
+map.zoom.initial.description: Sätt hur inzoomad kartan kommer vara när den först öppnas.
   (0 är standard)
