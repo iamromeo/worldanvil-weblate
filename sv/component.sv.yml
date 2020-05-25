@@ -211,3 +211,5 @@ map.zoom.initial: Inledande zoomlevel
 map.thumbnail: Miniatyrbild
 map.zoom.initial.description: Sätt hur inzoomad kartan kommer vara när den först öppnas.
   (0 är standard)
+map.zoom.min: Minsta tillåtna zoom
+map.zoom.max: Största tillåtna zoom
