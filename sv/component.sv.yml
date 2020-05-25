@@ -199,3 +199,4 @@ position.description: Vikt är ett nummer som definierar i vilken ordning ett f�
 status.description: 'Gör den här artikeln offentlig för alla att se. Privata artiklar
   är bara synliga för dig och medförfattaren, samt prenumeranter med rätt tillstånd'
 position: Position/Vikt
+access: Åtkomst
