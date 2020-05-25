@@ -159,7 +159,7 @@ marker: Markör
 marker.group: Markörgrupp
 polygon: Polygon
 popup: Öppnar en popup
-list.historical.entries: Historiska inlägg  Lista
+list.historical.entries: Lista över historiska händelser
 block.templates: Blockmall
 list.block.templates: Blockmallslista
 subscriber: Prenumerant
