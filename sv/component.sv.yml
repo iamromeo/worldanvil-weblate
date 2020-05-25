@@ -128,3 +128,4 @@ browse: Bläddra
 characters: Karaktärer
 pin.iconAnchor.description: Ankarpunkten är den unika pixelpunkt där din markör rör
   kartan. Vanligtvis är det på kartesiska 0X och halva markörens bredd Y
+create.block.template: Skapa Block mall
