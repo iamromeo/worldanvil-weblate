@@ -213,6 +213,6 @@ map.zoom.initial.description: Sätt hur inzoomad kartan kommer vara när den fö
   (0 är standard)
 map.zoom.min: Minsta tillåtna zoom
 map.zoom.max: Största tillåtna zoom
-map.zoom.max.description: Hur långt in/djupt du kan zooma in. 0 menas att zoomen är
-  1:1 ratio av kartan. Allting över 0 betyder att bilden kommer börja bli oskarp.
+map.zoom.max.description: Hur långt in/djupt du kan zooma in. 0 innebär att zoomen
+  är 1:1 ratio av kartan. Allting över 0 betyder att bilden kommer börja bli oskarp.
   (0 är Standard)
