@@ -232,3 +232,5 @@ map.marker.radius.description: Cirkelns radie i pixlar. Fyll bara i detta om du 
 map.marker.radius: Cirkelradie
 map.marker.link.description: 'Om du anger markören som direktlänk-markör, så kan man
   genom att klicka på markören komma direkt till målsidan.'
+map.marker.link.relation.description: Välj en av relationerna nedan för direktlänka
+  till. Om du väljer mer än en, bara den första kommer få effekt.
