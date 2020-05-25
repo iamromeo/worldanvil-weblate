@@ -216,3 +216,7 @@ map.zoom.max: Största tillåtna zoom
 map.zoom.max.description: Hur långt in/djupt du kan zooma in. 0 innebär att zoomen
   är 1:1 ratio av kartan. Allting över 0 betyder att bilden kommer börja bli oskarp.
   (0 är Standard)
+map.center.description: De inledande koordinaterna till kartans centralpunkt när den
+  först laddas. Vanligtvis räknas detta till kartans mitt. Kartans nedre vänstra hörn
+  är punkten 0:0.
+map.center.y: Inledande centralpunkt (Y-axel)
