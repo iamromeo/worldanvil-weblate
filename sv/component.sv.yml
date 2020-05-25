@@ -252,3 +252,6 @@ map.marker.opacityFill.description: Opacitet % på ytan som fyller cirkeln eller
   Från 0 till 100%
 pin.pinImage: Markörbild
 pin.shadow: Markörskuggbild
+pin.shadow.description: Bilden för markörens skugga. Denna bild är frivillig. Om den
+  används måste det vara bredare än markörbilden och sträcka sig sig till dess högra
+  sida.
