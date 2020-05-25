@@ -246,4 +246,4 @@ map.marker.colorFill: Fyllfärg
 map.marker.colorFill.description: Färgen på ytan som fyller en cirkel eller polygon.
   Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
   nummertecknet framför talet
-map.marker.opacityOutline.description: Opacitet % på ytterlinjen. Från 0 till 100%
+map.marker.opacityOutline.description: Opacitet % på konturen. Från 0 till 100%
