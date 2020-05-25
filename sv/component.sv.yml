@@ -254,3 +254,8 @@ pin.pinImage: Markörbild
 pin.shadow: Markörskuggbild
 pin.shadow.description: Bilden för markörens skugga. Denna bild är frivillig. Om den
   används måste den vara bredare än markörbilden och sträcka sig till dess högra sida.
+pin.popupAnchor.description: Popup-ankarpunkten är den punkt där popuptriangeln kommer
+  vara centrerad. Motsatt till ankarmarkören så finner man den på toppen av ikonen,
+  om inte högre
+pin.iconAnchorX: Ankarpunkt X (i pixlar)
+pin.iconAnchorY: Ankarpunkt Y (i pixlar)
