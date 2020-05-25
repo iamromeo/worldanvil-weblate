@@ -251,4 +251,4 @@ map.marker.opacityFill: Fyllningsopacitet
 map.marker.opacityFill.description: Opacitet % på ytan som fyller cirkeln eller polygonen.
   Från 0 till 100%
 pin.pinImage: Markörbild
-pin.shadow: Markörskuggsbild
+pin.shadow: Markörskuggbild
