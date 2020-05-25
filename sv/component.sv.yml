@@ -194,3 +194,8 @@ list.pins: Kartmarkörlista
 list.subscribers: Prenumeranter
 related.article: Relaterad Artikel
 related.history: Relaterad historisk händelse
+position.description: Vikt är ett nummer som definierar i vilken ordning ett föremål
+  kommer att visas i en lista. Ju högre numret är desto högre visas det i listan.
+status.description: 'Gör den här artikeln offentlig för alla att se. Privata artiklar
+  är bara synliga för dig och medförfattaren och prenumeranter med rätt tillstånd.  '
+position: Position/Vikt
