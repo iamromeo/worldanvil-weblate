@@ -202,3 +202,9 @@ position: Position/Vikt
 access: Åtkomst
 access.description: Gör inlägget offentligt för alla att se. Privata inlägg är bara
   synliga för dig och medförfattare till din värld.
+map.compass.description: Välj den bild som kommer visas som Kompass ros för din kartas
+  högre nedre kant. Använd en bild med transparant bakgrund för mycket bättre visuellt
+  resultat.
+map.compass: Kompassrosbild
+map.presentation: Öppna presentationsläge
+map.settings: Kartinställningar
