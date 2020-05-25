@@ -230,3 +230,5 @@ map.marker.choice: Välj och fyll i endast ett av följande alternativ.
 map.marker.radius.description: Cirkelns radie i pixlar. Fyll bara i detta om du vill
   skapa en cirkel och inte en polygon.
 map.marker.radius: Cirkelradie
+map.marker.link.description: 'Om du markerar markören som direkt länk markör, klickar
+  man på markören så går man till den målets sida. '
