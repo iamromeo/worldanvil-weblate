@@ -207,3 +207,5 @@ map.compass.description: Välj den bild som kommer att visas som kompassros i di
 map.compass: Kompassrosbild
 map.presentation: Öppna presentationsläge
 map.settings: Kartinställningar
+map.zoom.initial: Inledande zoomlevel
+map.thumbnail: Miniatyrbild
