@@ -15,7 +15,7 @@ edit.block: Redigera Block
 edit.campaign: Redigera Kampanj
 edit.category: Redigera Kategori
 edit.historical.entry: Redigera Historisk Händelse
-edit.image: Redisgera Bild
+edit.image: Redigera Bild
 edit.player.character: Redigera spelarkaraktär
 edit.timeline: Redigera Tidslinje
 edit.map: Redigera karta
@@ -91,9 +91,9 @@ tags.description: Använd kommatecken för att separera dina taggar. Att lägga 
 group: Grupp
 tag.description: Använd kommatecken för att separera dina taggar. Att lägga till taggar
   till delar av innehåll hjälper dig att söka efter det via någon av taggarna.
-map.image: Kartans Primärbild
+map.image: Kartans huvudbild
 map.image.secondary: Lagerbild
-map.update.image: Updatera Kartans Primärbild
+map.update.image: Uppdatera kartans huvudbild
 map.edit.details: Redigera kartdetaljer
 map.image.details: De förväntade fildimensionerna är
 map.legend: Teckenförklaring
@@ -109,9 +109,9 @@ map.marker.new: Ny platsmarkör
 map.marker.drag: Dra mig för att sätta koordinaterna för den nya markören
 map.marker.fill: Fantastiskt! Fyll i formuläret här nedan nu!
 map.display.homepage: Visa denna karta på världens förstasida.
-guild.access: Alla föremål på ett gratis konto är allmänna. Gå med i  <a class="m-t-10
+guild.access: Alla föremål på ett gratis konto är allmänna. Gå med i <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a> för att
-  ge rättigheter till specifika prenumerations grupper tillgång till det innehåll
+  ge rättigheter till specifika prenumerationsgrupper att få tillgång till det innehåll
   du vill och hjälp till att utveckla World Anvil.
 guild.subscriber.groups: Prenumerantgrupper låter <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a>
   ge lästillsånd för privata artiklar till medlemmar i den gruppen.
