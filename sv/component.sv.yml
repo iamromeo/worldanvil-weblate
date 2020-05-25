@@ -131,13 +131,13 @@ pin.iconAnchor.description: Ankarpunkten är den unika pixelpunkt där din mark�
 create.block.template: Skapa Blockmall
 create.pin: Skapa kartmarkör
 create.new.pin: Skapa en ny kartmarkör
-create.article: Skapa Artikel
-edit.article: Redigera Artikel
-create.new.block.template: Skapa ny Blockmall
-edit.block.template: Redigera Blockmall
-create.group: Skapa Grupp
-create.code: Skapa Kod
-create.new.era: Skapa en ny Era
+create.article: Skapa artikel
+edit.article: Redigera artikel
+create.new.block.template: Skapa ny blockmall
+edit.block.template: Redigera blockmall
+create.group: Skapa grupp
+create.code: Skapa kod
+create.new.era: Skapa en ny era
 create.new.historical.entry: Skapa ett nytt historiskt inlägg
 delete.marker: Radera markör
 delete.marker.group: Radera markörgrupp
@@ -148,18 +148,18 @@ delete.pin: Radera kartmarkör
 circle: Cirkel
 label: Etikett
 line: Linje
-delete.block.template: Radera Blockmall
+delete.block.template: Radera blockmall
 block.template: Blockmall
-edit.group: Redigera Grupp
-delete.group: Radera Grupp
-view.world: Se Värld
-deete.code: Radera Kod
+edit.group: Redigera grupp
+delete.group: Radera grupp
+view.world: Se värld
+deete.code: Radera kod
 link: Öppnar en ny sida
 marker: Markör
 marker.group: Markörgrupp
 polygon: Polygon
 popup: Öppnar en popup
-list.historical.entries: Lista över historiska händelser
+list.historical.entries: Lista över historiska inlägg
 block.templates: Blockmall
 list.block.templates: Blockmallslista
 subscriber: Prenumerant
@@ -177,7 +177,7 @@ markers: Markörer
 marker.groups: Markörgrupper
 layers: Lager
 list.images: Bildlista
-list.player.characters: Spelarkaraktärlista
+list.player.characters: Lista över spelarkaraktärer
 list.maps: Kartlista
 list.timelines: Tidslinjelista
 list.notes: Anteckningslista
@@ -192,7 +192,7 @@ related.organization: Relaterad organisation
 list.layers: Lagerlista
 list.pins: Kartmarkörlista
 list.subscribers: Prenumeranter
-related.article: Relaterad Artikel
+related.article: Relaterad artikel
 related.history: Relaterad historisk händelse
 position.description: Vikt är ett nummer som definierar i vilken ordning ett föremål
   kommer att visas i en lista. Ju högre numret är desto högre visas det i listan.
@@ -201,7 +201,7 @@ status.description: 'Gör den här artikeln offentlig för alla att se. Privata 
 position: Position/Vikt
 access: Åtkomst
 access.description: Gör inlägget offentligt för alla att se. Privata inlägg är bara
-  synliga för dig och medförfattare till din värld.
+  synliga för dig och medförfattare till din värld
 map.compass.description: Välj den bild som kommer att visas som kompassros i din kartas
   nedre högra kant. Använd en bild med transparent bakgrund för bättre visuellt resultat.
 map.compass: Kompassrosbild
@@ -209,8 +209,8 @@ map.presentation: Öppna presentationsläge
 map.settings: Kartinställningar
 map.zoom.initial: Inledande zoomlevel
 map.thumbnail: Miniatyrbild
-map.zoom.initial.description: Sätt hur inzoomad kartan kommer vara när den först öppnas.
-  (0 är standard)
+map.zoom.initial.description: Ställ in hur inzoomad kartan kommer vara när den först
+  öppnas. (0 är standard)
 map.zoom.min: Minsta tillåtna zoom
 map.zoom.max: Största tillåtna zoom
 map.zoom.max.description: Hur långt in/djupt du kan zooma in. 0 innebär att zoomen
@@ -225,7 +225,7 @@ map.marker.lng: Lon
 map.marker.lat: Lat
 map.marker.label: Etikettext
 map.marker.label.description: Det här är texten som kommer att synas på din karta
-  med denna etikett.
+  för denna etikett.
 map.marker.choice: Välj och fyll i endast ett av följande alternativ.
 map.marker.radius.description: Cirkelns radie i pixlar. Fyll bara i detta om du vill
   skapa en cirkel och inte en polygon.
@@ -238,28 +238,29 @@ map.marker.polygonPoints.description: Longitud och latitud för varje punkt som 
   separerade med ett komma och delade från varandra med ett mellanslag. T.ex. 20,20
   30,30 50,45. Tips! Använd den röda "ny punkt" markören för att få fram lon/lat.
 map.marker.polygonPoints: Polygonpunkter
-map.marker.colorOutline.description: Färgen på ytterlinjen på en cirkel eller polygon.
+map.marker.colorOutline.description: Färgen på konturen till en cirkel eller polygon.
   Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
   nummertecknet framför talet
-map.marker.colorOutline: Ytterlinjefärg
-map.marker.colorFill: Fyllfärg
+map.marker.colorOutline: Konturfärg
+map.marker.colorFill: Fyllningsfärg
 map.marker.colorFill.description: Färgen på ytan som fyller en cirkel eller polygon.
   Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
   nummertecknet framför talet
 map.marker.opacityOutline.description: Opacitet % på konturen. Från 0 till 100%
 map.marker.opacityFill: Fyllningsopacitet
 map.marker.opacityFill.description: Opacitet % på ytan som fyller cirkeln eller polygonen.
-  Från 0 till 100%
+  Från 0 till 100% (t.ex. 50)
 pin.pinImage: Markörbild
 pin.shadow: Markörskuggbild
 pin.shadow.description: Bilden för markörens skugga. Denna bild är frivillig. Om den
   används måste den vara bredare än markörbilden och sträcka sig till dess högra sida.
 pin.popupAnchor.description: Popup-ankarpunkten är den punkt där popuptriangeln kommer
   vara centrerad. Motsatt till ankarmarkören så finner man den på toppen av ikonen,
-  om inte högre
+  om inte högre upp
 pin.iconAnchorX: Ankarpunkt X (i pixlar)
 pin.iconAnchorY: Ankarpunkt Y (i pixlar)
 appearance: Utseende
 functionality: Funktionalitet
 organization.and.access: Organisation och tillstånd
 pin.popupAnchorY: Popup-punkt Y (i pixlar)
+spell: Trollformel
