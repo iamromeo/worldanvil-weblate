@@ -226,3 +226,4 @@ map.marker.lat: Lat
 map.marker.label: Etikettext
 map.marker.label.description: Det här är texten som kommer att synas på din karta
   med denna etikett.
+map.marker.choice: Välj och fyll i endast en av följande alternativ.
