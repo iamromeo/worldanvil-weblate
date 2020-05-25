@@ -220,3 +220,4 @@ map.center.description: De inledande koordinaterna till kartans centralpunkt nä
   först laddas. Vanligtvis räknas detta till kartans mitt. Kartans nedre vänstra hörn
   är punkten 0:0.
 map.center.y: Inledande centralpunkt (Y-axel)
+map.center.x: Inledande centralpunkt (X-axel)
