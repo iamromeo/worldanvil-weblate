@@ -200,3 +200,5 @@ status.description: 'Gör den här artikeln offentlig för alla att se. Privata 
   är bara synliga för dig och medförfattaren, samt prenumeranter med rätt tillstånd'
 position: Position/Vikt
 access: Åtkomst
+access.description: Gör inlägget offentlig för alla att se. Privata inlägg är bara
+  synliga för dig och medförfattaren till din värld.
