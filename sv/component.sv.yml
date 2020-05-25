@@ -176,3 +176,18 @@ list.campaigns: Kampanjlista
 markers: Markörer
 marker.groups: Markörgrupper
 layers: Lager
+list.images: Bildlista
+list.player.characters: Spelarkaraktärlista
+list.maps: Kartlista
+list.timelines: Tidslinjelista
+list.notes: Anteckningslista
+list.secrets: Hemlighetslista
+list.worlds: Världslista
+list.markers: Markörlista
+list.marker.groups: Markörgruppslista
+related.category: Relaterad kategori
+related.location: Relaterad plats
+related.map: Relaterad karta
+related.organization: Relaterad organisation
+list.layers: Lagerlista
+list.pins: Kartmarkörlista
