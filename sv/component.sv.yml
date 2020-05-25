@@ -248,3 +248,7 @@ map.marker.colorFill.description: Färgen på ytan som fyller en cirkel eller po
   nummertecknet framför talet
 map.marker.opacityOutline.description: Opacitet % på konturen. Från 0 till 100%
 map.marker.opacityFill: Fyllningsopacitet
+map.marker.opacityFill.description: Opacitet % på ytan som fyller cirkeln eller polygonen.
+  Från 0 till 100%
+pin.pinImage: Markörbild
+pin.shadow: Markörskuggsbild
