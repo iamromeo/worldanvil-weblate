@@ -227,3 +227,6 @@ map.marker.label: Etikettext
 map.marker.label.description: Det här är texten som kommer att synas på din karta
   med denna etikett.
 map.marker.choice: Välj och fyll i endast ett av följande alternativ.
+map.marker.radius.description: Cirkelns radie i pixlar. Fyll bara i detta om du vill
+  skapa en cirkel och inte en polygon.
+map.marker.radius: Cirkelradie
