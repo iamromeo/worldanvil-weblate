@@ -139,3 +139,11 @@ create.group: Skapa Grupp
 create.code: Skapa Kod
 create.new.era: Skapa en ny Era
 create.new.historical.entry: Skapa ett nytt historiskt inlägg
+delete.marker: Radera markör
+delete.marker.group: Radera markörgrupp
+layer: Lager
+delete.layer: Radera lager
+edit.pin: Redigera kartmarkör
+delete.pin: Radera kartmarkör
+circle: Cirkel
+label: Etikett
