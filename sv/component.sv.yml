@@ -234,7 +234,7 @@ map.marker.link.description: 'Om du anger markören som direktlänk-markör, så
   genom att klicka på markören komma direkt till målsidan.'
 map.marker.link.relation.description: Välj en av relationerna nedan för att direktlänka
   till den. Om du väljer mer än en, får bara den första effekt.
-map.marker.polygonPoints.description: Longitud och latitud för varje punkt i par separerade
-  med ett komma och delade från varandra med ett mellanslag. T.ex. 20,20 30,30 50,45.
-  Tips! Använd den röda "ny punkt" markören för att få fram lon/lat.
+map.marker.polygonPoints.description: Longitud och latitud för varje punkt som par
+  separerade med ett komma och delade från varandra med ett mellanslag. T.ex. 20,20
+  30,30 50,45. Tips! Använd den röda "ny punkt" markören för att få fram lon/lat.
 map.marker.polygonPoints: Polygonpunkter
