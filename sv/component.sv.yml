@@ -238,3 +238,12 @@ map.marker.polygonPoints.description: Longitud och latitud för varje punkt som 
   separerade med ett komma och delade från varandra med ett mellanslag. T.ex. 20,20
   30,30 50,45. Tips! Använd den röda "ny punkt" markören för att få fram lon/lat.
 map.marker.polygonPoints: Polygonpunkter
+map.marker.colorOutline.description: Färgen på ytterlinjen på en cirkel eller polygon.
+  Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
+  nummertecknet framför talet
+map.marker.colorOutline: Ytterlinjefärg
+map.marker.colorFill: Fyllfärg
+map.marker.colorFill.description: Färgen på ytan som fyller en cirkel eller polygon.
+  Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
+  nummertecknet framför talet
+map.marker.opacityOutline.description: Opacitet % på ytterlinjen. Från 0 till 100%
