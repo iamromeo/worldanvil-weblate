@@ -259,3 +259,7 @@ pin.popupAnchor.description: Popup-ankarpunkten är den punkt där popuptriangel
   om inte högre
 pin.iconAnchorX: Ankarpunkt X (i pixlar)
 pin.iconAnchorY: Ankarpunkt Y (i pixlar)
+appearance: Utseende
+functionality: Funktionalitet
+organization.and.access: Organisation och tillstånd
+pin.popupAnchorY: Popup-punkt Y (i pixlar)
