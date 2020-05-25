@@ -221,3 +221,8 @@ map.center.description: De inledande koordinaterna för kartans centralpunkt nä
   är punkten 0:0.
 map.center.y: Inledande centralpunkt (Y-axel)
 map.center.x: Inledande centralpunkt (X-axel)
+map.marker.lng: Lon
+map.marker.lat: Lat
+map.marker.label: Etikettext
+map.marker.label.description: Det här är texten som kommer synas på din karta med
+  denna etikett.
