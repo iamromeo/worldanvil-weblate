@@ -66,3 +66,41 @@ access.activate.code: Inserisci Codice di Attivazione
 access.activate.login: Devi aver eseguito l'accesso per attivare il tuo abbonamento!
 state: Stato
 access.multipass: Multipass?
+community: Community
+dashboard.worlds.max: Hai raggiunto il numero massimo di Mondi
+dashboard.communities: Le Tue Community
+dashboard.recent.articles: I tuoi articoli recenti
+dashboard.continue: Continua a Costruire
+dashboard.worldbuilding.disabled: Le funzionalità di worldbuilding sono disabilitate
+dashboard.podcast.cta: Ascolta il nostro Podcast sul Worldbuilding
+dashboard.videos: Video Recenti
+dashboard.campaigns: Le Tue Campagne
+dashboard.characters: I Tuoi Personaggi
+dashboard.worlds: I Tuoi Mondi
+dashboard.events: Eventi
+dashboard.news: Notizie
+dashboard.manage.features: Gestisci le funzionalità abilitate
+dashboad.cta: INIZIA A COSTRUIRE
+dashboard.create.first: Crea il tuo primo Mondo!
+publication.date: Data di Pubblicazione
+theme: Tema
+join.discord.description: Prendi parte allo sviluppo di World Anvil - partecipa alle
+  sfide di world building - vinci premi e fantastiche medaglie!
+dismiss: Rimuovi
+identifier: Identificatore
+welcome: Benvenuto
+dashboard.upcoming.stream: Stream ed Eventi in Arrivo
+dashboard.upcoming.sessions: Sessioni in Arrivo
+dashboard.followed.characters: Personaggi Seguiti
+dashboard.followed.worlds: I Tuoi Mondi Seguiti
+dashboard.help.grow: Aiutaci a mantenere Wold Anvil vivo e in crescita!
+dashboard.in.news: Dentro le Notizie
+dashboard.dev.updates: Sviluppo Aggiornamenti
+dashboard.features.mistake: Hai attivato le funzionalità di worldbuilding per errore?
+dashboard.page.title: Il tuo Pannello di Controllo Globale
+studio.templates: 'Laboratorio: Template Articoli'
+goto.articles.list: Vai alla Lista Articoli
+goto.account: Vai ai dettagli Account
+join.worldanvil.cta: Unisciti alla Gilda dei Worldbuilder
+join.discord: Unisciti al nostro Discord
+upcoming.streams: Stream in Arrivo
