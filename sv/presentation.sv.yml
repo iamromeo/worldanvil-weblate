@@ -40,3 +40,6 @@ reading.action.add.description: Lägg till den här artikeln till din läs-senar
   sparade artiklar. Författaren kommer INTE bli informerad.
 goto.homepage: Gå till %name%s startsida
 article.visibility: Denna artikel kan ses av följande prenumerantgrupper
+author.movies: Favorit filmer
+author.interests: Intressen & Hobbys
+history: Historia
