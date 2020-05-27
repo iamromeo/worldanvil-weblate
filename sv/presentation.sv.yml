@@ -33,3 +33,8 @@ like.action.add.description: Låt författaren veta att du gillade deras arbete.
 reading.action.remove: TA BORT FRÅN LÄSLISTAN
 like.action.remove: p
 reading.action.add: LÄGG TILL i LÄSLISTAN
+article.likes.number: Detta är gillad av %number% världsbyggare
+article.love: De som älskade din artikel
+alternativenames: Alternativa namn
+reading.action.add.description: Lägg till den här artikeln till din läs-senare, eller
+  sparade artiklar. Författaren kommer INTE bli informerad.
