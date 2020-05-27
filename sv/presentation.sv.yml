@@ -28,3 +28,5 @@ follow.action.unfollow.world: Sluta följa Världen
 follow.action.remove: SLUTA FÖLJA
 follow.action.add.description: Följ för att visa alla artiklar skrivna av världsförfattaren!
 like.action.add: GILLA
+like.action.add.description: Låt författaren veta att du gillade deras arbete. Denna
+  artikel kommer INTE läggas i din läs-senare samling.
