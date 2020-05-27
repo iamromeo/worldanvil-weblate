@@ -23,3 +23,6 @@ maps: Kartor
 heroes: Hjältar
 campaigns: Kampanjer
 followers: Följare
+follow.action.add: FÖLJ
+follow.action.unfollow.world: Sluta följa Världen
+follow.action.remove: SLUTA FÖLJA
