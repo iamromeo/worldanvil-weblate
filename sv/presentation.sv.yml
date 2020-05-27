@@ -32,8 +32,8 @@ like.action.add.description: Låt författaren veta att du gillade deras arbete.
   artikel kommer INTE läggas i din läs-senare-samling
 reading.action.remove: TA BORT FRÅN LÄSLISTAN
 like.action.remove: ''
-reading.action.add: LÄGG TILL i LÄSLISTAN
-article.likes.number: Detta är gillad av %number% världsbyggare
+reading.action.add: LÄGG TILL I LÄSLISTAN
+article.likes.number: Denna artikel är gillad av %number% världsbyggare
 article.love: De som älskade din artikel
 alternativenames: Alternativa namn
 reading.action.add.description: Lägg till den här artikeln till din läs-senare, eller
