@@ -40,7 +40,7 @@ reading.action.add.description: Lägg till den här artikeln till din läs-senar
   sparade artiklar. Författaren kommer INTE bli informerad.
 goto.homepage: Gå till %name%s startsida
 article.visibility: Denna artikel kan ses av följande prenumerantgrupper
-author.movies: Favorit filmer
+author.movies: Favoritfilmer
 author.interests: Intressen & Hobbys
 history: Historia
 author.page: Författarens sida
@@ -48,3 +48,8 @@ authors: Författare
 players.full: Denna kampanj är full
 players.looking: Letar efter spelare
 author.since: Medlem sedan
+author.games: Favoritspel
+author.writers: Favoritförfattare
+author.books: Favoritböcker
+campaign.storytellers: Berättad av
+campaign.world: I %world_name%s värld
