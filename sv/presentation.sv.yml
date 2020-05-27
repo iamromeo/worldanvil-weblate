@@ -30,4 +30,5 @@ follow.action.add.description: Följ för att visa alla artiklar skrivna av vär
 like.action.add: GILLA
 like.action.add.description: Låt författaren veta att du gillade deras arbete. Denna
   artikel kommer INTE läggas i din läs-senare-samling
-reading.action.remove: TA BORT FRÅN LÄS LISTAN
+reading.action.remove: TA BORT FRÅN LÄSLISTAN
+like.action.remove: p
