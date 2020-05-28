@@ -370,3 +370,94 @@ person.physical_description: Descrizione Fisica
 person.general_condition: Condizioni Fisiche Generali
 person.physical_quirks: Bizzarrie Fisiche
 vehicle.cargo_passengers_capacity: Capacità Cargo e Passeggeri
+person.circumstances_of_birth: Circostanze di Nascita
+person.year_of_death: Anno di Morte
+person.year_of_birth: Anno di Nascita
+person.life: Vita
+person.previously_held_ranks_titles: Titoli e Gradi Posseduti in Passato
+person.currently_held_titles: Titoli Attualmente Posseduti
+person.honorary_occupational_titles: Titoli Onorari e Occupazionali
+person.church_cult: Chiesa/Culto
+person.realm: Reame
+person.ethnicity: Etnia
+person.conditions: Condizioni
+person.species: Specie
+person.current_location: Posizione Attuale
+person.alignment: Allineamento
+person.divine_classification: Classificazione Divina
+person.rpg_character_sheet: Scheda Personaggio GDR
+person.wealth_financial_state: Ricchezze e Situazione Finanziaria
+person.speech: Linguaggio
+person.hobbies_pets: Hobby e Animali da Compagnia
+person.mannerisms: Abitudini
+person.social_aptitude: Attitudine Sociale
+person.religious_views: Visione Religiosa
+person.family_ties: Legami Familiari
+person.contacts_relations: Conoscenze e Relazioni
+person.social: Socialità
+person.hygiene: Igiene
+person.personality_quirks: Stranezze Personalità
+person.virtues_personality_perks: Virtù e Pregi Caratteriali
+person.vices_personality_flaws: Vizi e Difetti Caratteriali
+person.likes_dislikes: Cose Gradite e Sgradite
+person.savvies_ineptitudes: Competenze e Lacune
+person.motivation: Motivazioni
+person.personality_characteristics: Personalità
+person.taboos: Tabù
+person.morality_philosophy: Moralità e Filosofia
+person.intellectual_characteristics: Caratteristiche Intellettuali
+person.mental_trauma: Traumi Mentali
+person.failures_embarrassments: Fallimenti e Scandali
+person.accomplishments_achievements: Successi e Realizzazioni
+person.employment: Impiego
+person.education: Educazione
+person.personal_history: Storia personale
+person.mental_characteristics: Caratteristiche mentali
+person.items_specialized_equipment: Equipaggiamento specialistico
+person.clothing_apparel_accessories: Abbigliamento e Accessori
+person.special_abilities: Abilità speciali
+person.sensory_perception: Sensi e Percezione
+person.identifying_characteristics: Caratteristiche Identificanti
+person.facial_features: Tratti Facciali
+person.body_features: Tratti Fisici
+person.divine_goals_aspirations: Obiettivi Divini e Aspirazioni
+person.divine_domains: Domini Divini
+organisation.manufactured_items: Oggetti Prodotti
+organisation.official_religion: Religione di Stato Ufficiale
+organisation.location: Luoghi
+organisation.permeated_organizations: Organizzazioni Infiltrate
+organisation.subsidiary_organizations: Organizzazioni Sussidiarie
+organisation.parent_organization: Organizzazione Madre
+organisation.major_imports: Importazioni Principali
+organisation.major_exports: Esportazioni Principali
+organisation.familyleader: Capofamiglia
+organisation.demonym: Appellativo dei Membri
+organisation.dissolution_date: Data di Dissoluzione
+organisation.disbanded_dissolved: CONGEDATA/DISSOLTA
+organisation.sects: Sette
+organisation.granted_divine_powers: Poteri Divini Concessi
+organisation.worship: Culto
+organisation.education: Formazione
+organisation.military: Forze Armate
+organisation.assets: Risorse
+myth.telling_prose: Racconto / Prosa
+myth.date_of_setting: Data dell'Evento
+myth.date_of_first_recording: Data della Prima Occorrenza
+myth.in_art: In Arte
+myth.in_literature: In Letteratura
+myth.cultural_reception: Ricezione Culturale
+myth.variations_mutation: Varianti e Mutazioni
+myth.spread: Diffusione
+myth.summary: Riepilogo
+military_conf.belligerents: Schieramenti
+military_conf.the_engagement: L'Ingaggio
+material.history_usage: Storia e Usi
+location.related_reports_secondary: Rapporti Correlati (Secondari)
+location.related_reports_primary: Rapporti Correlati (Primari)
+location.included_organizations: Organizzazioni Incluse
+location.included_locations: Luoghi Inclusi
+location.location_under: Luogo sotto
+location.florafauna: Fauna e Flora
+campaign.lore_and_cast: Storia e Personaggi di Supporto
+organization.tree: Organigramma
+explore: Esplora
