@@ -60,9 +60,11 @@ author.worlds: Världar
 author.comments: Kommentarer & feedback
 campaign.watchlive: Se kampanjen live på Twitch
 campaign.protagonists: Huvudpersonerna
-campaign.sessions_archive: Sessionsarkivet
+campaign.sessions_archive: Sessionsarkiv
 campaign.sessions: Sessionslista
 campaign.support.patreon: Stöd denna kampanj på Patreon
 campaign.playedby: Spelad av
 campaign.full: Full
 campaign.lfp: Letar efter Spelare
+campaign.journal.session.report: Sessionsrapport
+campaign.supporting.cast: Biroller
