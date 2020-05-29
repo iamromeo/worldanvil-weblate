@@ -90,3 +90,4 @@ condition.sequela: 'Följdtillstånd'
 condition.prognosis: Prognos
 condition.hosts: Värdar & smittobärare
 condition.affectedgroups: Påverkade grupper
+condition.prevention: Förebyggande
