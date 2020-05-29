@@ -82,3 +82,6 @@ campaign.session.live: LIVE
 campaign.sessions.past: Tidigare sessioner
 campaign.sessions.scheduled: Planerade sessioner
 campaign.neutral: Neutrala parter
+condition.symptoms: syntom/er
+condition.causes: Orsaker
+campaign.explore.world: Utforska %world_name%s värld
