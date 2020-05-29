@@ -88,3 +88,5 @@ campaign.explore.world: Utforska %world_name%s värld
 condition.treatment: Behandling
 condition.sequela: 'Följdtillstånd'
 condition.prognosis: Prognos
+condition.hosts: Värd & smittobärare
+condition.affectedgroups: Påverkade grupper
