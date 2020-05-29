@@ -23,3 +23,38 @@ maps: Kartor
 heroes: Hjältar
 campaigns: Kampanjer
 followers: Följare
+follow.action.add: FÖLJ
+follow.action.unfollow.world: Sluta följa Världen
+follow.action.remove: SLUTA FÖLJA
+follow.action.add.description: Följ för att visa alla artiklar skrivna av världsförfattaren!
+like.action.add: GILLA
+like.action.add.description: Låt författaren veta att du gillade deras arbete. Denna
+  artikel kommer INTE läggas i din läs-senare-samling
+reading.action.remove: TA BORT FRÅN LÄSLISTAN
+like.action.remove: ''
+reading.action.add: LÄGG TILL I LÄSLISTAN
+article.likes.number: Denna artikel är gillad av %number% världsbyggare
+article.love: De som älskade din artikel
+alternativenames: Alternativa namn
+reading.action.add.description: Lägg till den här artikeln till din läs-senare, eller
+  sparade artiklar. Författaren kommer INTE bli informerad.
+goto.homepage: Gå till %name%s startsida
+article.visibility: Denna artikel kan ses av följande prenumerantgrupper
+author.movies: Favoritfilmer
+author.interests: Intressen & Hobbys
+history: Historia
+author.page: Författarens sida
+authors: Författare
+players.full: Denna kampanj är full
+players.looking: Letar efter spelare
+author.since: Medlem sedan
+author.games: Favoritspel
+author.writers: Favoritförfattare
+author.books: Favoritböcker
+campaign.storytellers: Denna historia är berättad av
+campaign.world: I %world_name%s värld
+author.badges: Märken & Medaljer
+campaign.system: Ett %system_name% spel
+author.characters: Karaktärer
+author.worlds: Världar
+author.comments: Kommentarer & feedback
