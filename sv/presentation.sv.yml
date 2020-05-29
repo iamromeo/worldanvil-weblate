@@ -112,3 +112,9 @@ document.modal.read.document: Läs dokumentet
 document.modal.close: Stäng
 document.article.medium: Medium
 document.article.myth: Myt
+document.article.authoringdate: Författardatum
+document.article.ratificationdate: Ratificeringsdatum
+document.article.expirationdate: Utgångsdatum
+document.article.location: Plats
+document.article.authors: Författare
+document.article.signatoriescharacters: Underteckad (karaktär/er)
