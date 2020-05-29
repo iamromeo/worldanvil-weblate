@@ -91,3 +91,7 @@ condition.prognosis: Prognos
 condition.hosts: Värdar & smittobärare
 condition.affectedgroups: Påverkade grupper
 condition.prevention: Förebyggande
+condition.epidimiology: Epidemiologi
+condition.reception: Kulturellt mottagande
+condition.origin: Härkomst
+condition.cycle: Cykler
