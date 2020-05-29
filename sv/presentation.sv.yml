@@ -86,3 +86,5 @@ condition.symptoms: Symptom
 condition.causes: Orsaker
 campaign.explore.world: Utforska %world_name%s värld
 condition.treatment: Behandling
+condition.sequela: 'Följdtillstånd '
+condition.prognosis: Prognos
