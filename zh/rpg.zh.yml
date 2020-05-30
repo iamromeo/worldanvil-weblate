@@ -1,1 +1,8 @@
-{}
+rpg.statblock.copy: 複製此屬性欄
+rpg.add.to.world: 將此系統加入到您的世界
+rpg.systems.list: RPG 系統列表
+rpg.world.systems: 您的世界套用之遊戲系統
+rpg.resources.welcome.intro1: 這裡能找到所有 World Anvil 社群及官方系統參考檔（SRD）的參考資源 ！
+rpg.resources.welcome.header: 歡迎來到 World Anvil 的 RPG 資源庫
+rpg.resources: RPG 資源
+rpg.resources.welcome.intro2: 每個在此刊登的屬性欄都有一個 BB 代碼，您可以把代碼複製到您的世界中使用或在您遊戲時使用。所有在這裡刊登的資源要麼已獲許可，要麼是該作者自願共享。
