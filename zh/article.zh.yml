@@ -1,25 +1,47 @@
-article.generic: 文章，普通
+article.generic: 一般文章
 character: 人物
 condition: 条件
 document: 文章
 ethnicity: 族
 language: 语言
 myth.legend: 神话 / 传说
-formation.military: 团体（军事)
+formation.military: 軍事團體
 item: 品
 material: 材料
-military.conflict: 战争
+military.conflict: 衝突
 location.building: 地点， 建造
 building: 建造
-location.geographic: 地点，地理
+location.geographic: 地點，地域
 geography: 地理
 location.settlement: 地点，镇/成
 settlement: 镇/成
-law: 定律 （神/物理）
+law: 自然定律
 organization: 组织
 prose: 文
 profession: 行业
 plot: 情节
-rank.title: 官 / 衔
+rank.title: 稱號/頭銜
 species: 物种
 spell: 魔法
+description.organization: 不同王國、諸侯領地、諸神教派（制度性宗教）、秘密合社、僱傭兵團、騎人團及巫師團。有地限性及非地限性。
+description.legend: 你的世界中為人熟識的傳說故事，好例子有亞瑟王、紐約市污水渠的鱷魚及大腳怪。
+description.conflict: 大小戰役、攻防戰及衝突。基本上就是兩方對峙下以利器互攻的情況。
+description.material: 原材料、交易物資、化學元素。從秘銀、汎合金至鈾元素、難得素2000 也包括在內。
+description.language: 在你的世界中高智能物種互相溝通及交流思想概念的方法。
+description.law: 也許你世界的重力運作與眾不同，或者是魔力無所不在，又或者光走得慢些。是指任何有異於常或超自然的自然及物理法則。
+description.item: 由最普遍至最獨特的日常用品、錢幣、工具、武器及護甲。
+description.geography: 世界及宇宙；星系、太陽系、星球、山脈、盤谷、海洋、沼澤及湖泊。囊括所有地理位置。
+description.generic: 一般文章可套用於附加內容、角色扮演遊戲的自製規則集、介紹其它章節、故事、散文等等。
+description.formation: 各式軍事單位；你的軍團、方陣、劍士團、槍兵隊、騎士團的外觀及其裝備戰略是什麼樣子？
+description.ethnicity: 並非指某個物種，而是因相同文化傳承而連繫在一起的人們。並非指一國之民，而是有相同信仰及習俗傳統的人們。
+description.document: 公約、書籍、藝術品、手冊、指南、聲明及各式文獻！
+description.condition: 自然和魔法疾病、症狀、異變及變形
+description.character: 上至帝后及各方神明，下至英雄落寇莊稼人
+description.building: ⋯⋯ 或地標。奇觀（自然及人工）、遺跡、地宮、神廟、巨樹、鍛治場、酒館、城堡。任何可以用作路標又在民眾心目中有足夠份量而命名的地點。
+rpg.report: 章節摘錄
+rpg.session.report: 章節摘錄
+vehicle: 運輸工具
+tradition: 習俗
+tradition.ritual: 習俗／禮儀
+technology: 技術
+technology.science: 技術/科學
