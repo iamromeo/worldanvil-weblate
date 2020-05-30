@@ -1,1 +1,6 @@
-{}
+bbcode.embed: 複製並貼上下面的 BB 代碼到文章任何已啟用 BB 代碼的部分以嵌入此實體！
+failure.deletion: 糟了！出事了！您嘗試刪除的內容裡是否還有在其它地方使用？
+success.deletion: 錘子已按你指令將其打至灰飛煙滅。
+success.generic: 鐵砧已把你的要求敲定了。
+Private: 不公開
+Public: 公開
