@@ -445,3 +445,7 @@ person.alignment: Alineament
 explore: Explora
 organization.tree: Organigrama
 location.florafauna: Flora i fauna
+person.current_location: Localització actual
+person.species: Espècies
+organisation.familyleader: Cap de família
+organisation.official_religion: Religió oficial
