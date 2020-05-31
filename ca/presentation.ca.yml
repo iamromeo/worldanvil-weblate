@@ -459,3 +459,8 @@ person.currently_held_titles: Títols actualment ostentats
 person.life: Vida
 person.year_of_birth: Any de naixement
 person.year_of_death: Any de mort
+person.circumstances_of_birth: Circumstàncies de naixement
+person.circumstances_of_death: Circumstàncies de mort
+person.birthplace: Lloc de naixement
+person.current_residence: Residència actual
+person.biological_sex: Sexe biològic
