@@ -143,3 +143,17 @@ ethnicity.major.organizations: Viktiga organisationer
 formation.manpower: Arbetskraft
 formation.equipment: Utrustning
 formation.weaponry: Vapenförråd
+formation.vehicles: Fordon
+formation.tactics: Strategier
+formation.training: Träning
+formation.upkeep: Underhåll
+formation.recruitment: Rekrytering
+formation.history: Historia
+formation.historical.loyalties: Historiska lojaliteter
+formation.sidebar.type: Typ
+formation.sidebar.founding: Grundande
+formation.sidebar.dissolution: Upplösning
+formation.sidebar.overall.training.level: Övergripande träningsnivå
+formation.sidebar.usedby: Använd av
+item.manufacturing.process: Tillverkningsprocess
+item.significance: Betydelse
