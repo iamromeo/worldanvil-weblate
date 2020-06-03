@@ -472,4 +472,25 @@ person.hair: Cabells
 person.quotes_catchphrases: Citacions i frases cèlebres
 person.height: Alçada
 person.weight: Pes
-person.aligned_organization: Organització relacionada
+person.aligned_organization: Organització afí
+person.known_languages: Llengües conegudes
+person.other_affiliations: Altres afiliacions
+person.related_myths: Mites relacionats
+person.appears_in: Apareix a...
+person.character_prototype: Prototip de personatge
+plot.summary: Resum
+plot.plot_points_scenes: Punts de la trama o escenes
+plot.falling_action: Acció decreixent
+plot.themes: Temes
+plot.exposition: Exposició
+plot.conflict: Conflicte
+plot.rising_action: Acció creixent
+plot.climax: Clímax
+plot.resolution: Resolució
+plot.structure: Estructura
+plot.components: Components
+plot.goals: Objectius
+plot.hooks: Ganxos
+plot.stakes: Riscs
+plot.moral_quandaries: Dilemes morals
+plot.cruel_tricks: Trucs cruels
