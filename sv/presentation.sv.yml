@@ -161,3 +161,7 @@ item.sidebar.subtype.model: Subtyp / Modell
 item.sidebar.usedby: Använd av
 item.sidebar.manufacturer: Tillverkare
 item.sidebar.related.condition: Relaterade tillstånd
+item.sidebar.rarity: Sällsynthet
+item.sidebar.weight: Vikt
+item.sidebar.dimensions: Dimensioner
+item.sidebar.base.price: Vanligast pris
