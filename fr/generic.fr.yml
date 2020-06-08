@@ -93,3 +93,13 @@ join.discord: Rejoignez notre Discord
 upcoming.streams: Prochains streams
 dismiss: Annuler
 welcome: Bienvenue
+dashboard.upcoming.stream: Prochains streams & événements
+dashboard.upcoming.sessions: Prochaines sessions
+dashboard.followed.characters: Personnages suivis
+dashboard.followed.worlds: Vos mondes suivis
+dashboard.help.grow: Aidez nous à améliorer World Anvil !
+dashboard.worlds.max: Vous avez atteint le nombre maximum de mondes
+dashboard.recent.articles: Vos articles récents
+dashboard.continue: Continuez la création
+dashboard.worldbuilding.disabled: Les fonctionnalités de conception de mondes sont
+  désactivées
