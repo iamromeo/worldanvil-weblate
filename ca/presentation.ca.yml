@@ -515,4 +515,24 @@ plot.related_locations: Localitzacions relacionades
 profession.career: Carrera
 profession.qualifications: Qualificacions
 profession.career_progression: Progressió professional
-profession.payment_&_reimbursement: Pagament i reemborssament
+profession.payment_&_reimbursement: Pagament i reemborsament
+profession.other_benefits: Altres beneficis
+profession.perception: Percepcions
+profession.purpose: Propòsit
+profession.social_status: Estatus social
+profession.demographics: Demografia
+profession.history: Història
+profession.operations: Operacions
+profession.tools: Eines
+profession.materials: Materials
+profession.workplace: Lloc de treball
+profession.provided_services: Serveis prestats
+profession.dangers_&_hazards: Perills i riscos
+profession.alternative_names: Noms alternatius
+profession.type: Tipus
+profession.demand: Demanda
+profession.legality: Legalitat
+rank.qualifications: Qualificacions
+rank.requirements: Requeriments
+rank.appointment: Cita
+rank.duties: Obligacions
