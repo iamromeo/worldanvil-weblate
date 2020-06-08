@@ -506,3 +506,6 @@ plot.locations: Ubicacions
 plot.threats: Amenaces
 plot.encounters: Encontres
 plot.parent: Guió superior
+plot.past_events: Esdeveniments passats
+plot.type: Tipus de trama
+plot.subplots: Subtrames
