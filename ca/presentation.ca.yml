@@ -566,7 +566,7 @@ report.report_date: Data de l'informe
 report.primary_location: Localització principal
 ritual.related_ethnicities: Ètnies relacionades
 ritual.related_location: Localització relacionada
-ritual.observance: Observacions
+ritual.observance: Seguiment
 ritual.participants: Participants
 ritual.components_and_tools: Components i eines
 ritual.execution: Execució
@@ -582,7 +582,7 @@ settlement.guilds_and_factions: Gremis i faccions
 settlement.assets: Béns
 settlement.infrastructure: Infraestructura
 settlement.industry: Indústria
-settlement.defences: Defences
+settlement.defences: Defenses
 settlement.government: Govern
 settlement.inhabitant_demonym: Gentilici
 settlement.population: Població
@@ -689,5 +689,6 @@ vehicle.armor_and_defense: Armadura i defensa
 vehicle.length: Longitud
 vehicle.rarity: Raresa
 vehicle.price: Preu
-vehicle.height: Alçada
+vehicle.height: Altura
 vehicle.beam: Raig
+vehicle.complement: Tripulació
