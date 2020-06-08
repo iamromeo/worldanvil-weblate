@@ -594,3 +594,21 @@ settlement.owner_ruler: Propietari/Governant
 settlement.owning_organization: Organització propietària
 settlement.characters_in_location: Personatges a la localització
 settlement.related_reports_primary: Informes relacionats (principals)
+species.perception_and_sensory_capabilities: Percepció i capacitat sensorial
+species.average_intelligence: Intel·ligència mitjana
+species.geographic_origin_and_distribution: Origen i distribució geogràfica
+species.facial_characteristics: Característiques facials
+species.uses_products_exploitation: Usos, productes i explotacions
+species.domestication: Domesticació
+species.social_structure: Estructura social
+species.additional_information: Informació addicional
+species.biological_cycle: Cicle biològic
+species.dietary_needs_and_habits: Necessitats i hàbits alimentaris
+species.ecology_and_habitats: Ecologia i hàbitats
+species.growth_rate_stages: Ritme i etapes de creixement
+species.genetics_and_reproduction: Genètica i reprodució
+species.biological_traits: Trets biològics
+species.morphology: Morfologia
+species.anatomy: Anatomia
+species.Basic Information: Informació bàsica
+settlement.related_reports_secondary: Informes relacionats (secundaris)
