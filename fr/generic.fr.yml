@@ -71,3 +71,25 @@ studio.templates: 'Atelier du Créateur : Modèles d''articles'
 publication.date: Date de Publication
 theme: Thème
 community: Communauté
+dashboard.podcast.cta: Écoutez notre Podcast de conception de mondes
+dashboard.videos: Vidéos récentes
+dashboard.dev.updates: Mises à jour de développement
+dashboard.communities: Vos communautés
+dashboard.campaigns: Vos campagnes
+dashboard.characters: Vos personnages
+dashboard.worlds: Vos mondes
+dashboard.events: Événements
+dashboard.manage.features: Gérez les fonctionnalités activées
+dashboard.features.mistake: Avez-vous activé les fonctionnalités de conception de
+  mondes par erreur ?
+dashboard.create.first: Créez votre premier monde !
+dashboard.page.title: Votre tableau de bord global
+goto.articles.list: Aller à la liste d'articles
+goto.account: Aller aux détails du compte
+join.worldanvil.cta: Rejoignez la Guilde des concepteurs de mondes
+join.discord.description: Prenez part au développement de World Anvil - participez
+  aux challenges de conception de mondes - gagnez de superbes prix et badges !
+join.discord: Rejoignez notre Discord
+upcoming.streams: Prochains streams
+dismiss: Annuler
+welcome: Bienvenue
