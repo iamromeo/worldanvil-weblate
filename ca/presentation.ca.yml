@@ -509,3 +509,10 @@ plot.parent: Guió superior
 plot.past_events: Esdeveniments passats
 plot.type: Tipus de trama
 plot.subplots: Guions inferiors
+plot.related_organizations: Organitzacions relacionades
+plot.related_characters: Personatges relacionats
+plot.related_locations: Localitzacions relacionades
+profession.career: Carrera
+profession.qualifications: Qualificacions
+profession.career_progression: Progressió professional
+profession.payment_&_reimbursement: Pagament i reemborssament
