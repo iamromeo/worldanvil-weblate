@@ -692,3 +692,6 @@ vehicle.price: Preu
 vehicle.height: Altura
 vehicle.beam: Raig
 vehicle.complement: Tripulació
+vehicle.cargo_passengers_capacity: Càrrega i capacitat de passatgers
+vehicle.speed: Velocitat
+vehicle.weight: Pes
