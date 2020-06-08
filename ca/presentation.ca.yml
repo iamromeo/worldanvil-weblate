@@ -654,3 +654,24 @@ species.related_ethnicities: Ètnies relacionades
 species.body_tint_colouring_marking: Tints, coloracions i marques corporals
 species.average_physique: Físic mitjà
 spell.material_components: Components materials
+vehicle.weapons_armament: Armes i armament
+vehicle.propulsion: Propulsió
+vehicle.power_generation: Generació d'energia
+technology.related_items: Objectes relacionats
+technology.discovery: Descobriment
+technology.complexity: Complexitat
+technology.access_availability: Accés i disponibilitat
+technology.inventor_s: Inventor(s)
+technology.children_technologies: Tecnologies derivades
+technology.parent_technologies: Tecnologies primàries
+technology.manufacturing: Manufactura
+technology.utility: Utilitat
+spell.restriction_applied: Restriccions aplicades
+spell.level: Nivell
+spell.range: Abast
+spell.effect_casting_time: Temps de llançament
+spell.effect_duration: Duració de l'efecte
+spell.related_element: Element relacionat
+spell.related_school: Escola relacionada
+spell.related_discipline: Disciplina relacionada
+spell.gestures_ritual: Gestos i rituals
