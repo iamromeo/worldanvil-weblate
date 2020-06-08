@@ -686,6 +686,6 @@ vehicle.additional_auxiliary_systems: Sistemes addicionals i auxiliars
 vehicle.sensors: Sensors
 vehicle.communication_tools_systems: Sistemes i eines de comunicació
 vehicle.armor_and_defense: Armadura i defensa
-vehicle.length: Allargada
+vehicle.length: Longitud
 vehicle.rarity: Raresa
 vehicle.price: Preu
