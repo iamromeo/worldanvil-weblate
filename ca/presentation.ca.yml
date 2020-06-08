@@ -542,7 +542,7 @@ rank.accoutrements_&_equipment: Accessoris i equipament
 rank.benefits: Beneficis
 rank.cultural_significance: Rellevància cultural
 rank.history: Història
-rank.notable_holders: Portadors notables
+rank.notable_holders: Titulars notables
 rank.length_of_term: Durada del mandat
 rank.source_of_authority: Font d'autoritat
 rank.equates_to: Equival a
@@ -552,5 +552,5 @@ rank.status: Estatus
 rank.type: Tipus
 rank.first_holder: Primer titular
 rank.reports_directly_to: Informa directament a
-report.rewards_granted: Recompenses otorgades
+report.rewards_granted: Recompenses atorgades
 report.general_summary: Resum general
