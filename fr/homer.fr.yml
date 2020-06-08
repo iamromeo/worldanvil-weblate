@@ -1,6 +1,6 @@
 manuscripts: Manuscrits
-manuscripts.list: Liste des Manuscrits
-manuscript.edit: Éditer le manuscrit
+manuscripts.list: Liste des manuscrits
+manuscript.edit: Modifier le manuscrit
 manuscript.view: Voir le manuscrit
 manuscript.delete: Supprimer le manuscrit
 manuscript.settings: Paramètres du manuscrit
