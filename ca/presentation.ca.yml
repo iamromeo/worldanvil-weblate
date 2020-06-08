@@ -552,3 +552,5 @@ rank.status: Estatus
 rank.type: Tipus
 rank.first_holder: Primer titular
 rank.reports_directly_to: Informa directament a
+report.rewards_granted: Recompenses otorgades
+report.general_summary: Resum general
