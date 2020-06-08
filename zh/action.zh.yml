@@ -1,1 +1,33 @@
-{}
+world.view: 檢視世界
+world.create: 創建新世界
+download.resources: 下載資源
+view.profile: 檢視個人資料
+edit.profile: 編輯個人資料
+delete.map: 刪除地圖
+view.map: 檢視地圖
+edit.map: 編輯地圖
+create a new...: 建立新的 ⋯⋯
+register: 建立新帳號
+logout: 登出
+login: 登入
+copy.to.clipboard: 點擊以複製到剪貼板
+download: 下載
+browse: 瀏覽
+edit.and.play: 編輯及播放
+check.out: 來看看
+search.in: 於 ⋯⋯ 檢索
+search: 檢索
+replace: 取代
+create: 創建
+delete: 刪除
+dismiss: 取消
+copy: 複製
+view: 檢視
+update: 更新
+save.changes: 儲存變更
+save: 存檔
+edit: 編輯
+show: 展開
+attach: 附加
+attach.to.world: 附加到世界
+manage: 管理
