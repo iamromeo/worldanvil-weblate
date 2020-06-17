@@ -1,1 +1,2 @@
 file.delete: 'Delete File'
+git.testing.string: 'Test'
