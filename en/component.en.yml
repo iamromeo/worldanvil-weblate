@@ -148,6 +148,7 @@ markers: Markers
 marker.groups: Marker Groups
 timelines: 'Timelines'
 charts: 'Charts'
+statblocks: 'Statblocks'
 orgcharts: 'Content Trees'
 histories: 'Histories'
 history: 'History'
@@ -263,7 +264,7 @@ map.marker.opacityFill.description: The opacity % of the area filling the circle
 map.marker.draggable: Draggable Marker
 map.marker.draggable.checkbox: This marker is draggable.
 map.marker.draggable.description: Draggable Markers can be moved around by all Writers, Editors and owners of the world. When moved, the new location of the marker is saved. This feature is enabled on the full size map of the presentation and the explorer.
-
+map.marker.draggable.description.2: Draggable is enabled only for all normal (pin) markers and labels.
 map.marker.group.description: Marker groups allow you to organize your markers and map layers into categories that you can turn on and off and manage their visibility (if you are a guild member). As with layers these can be used to display different information or hide a set/group of markers from your readers if you wish.
 map.marker.group.onload: Initial Group Visibility
 map.marker.group.onload.description: Make this group visible during the initial loading of the map

@@ -277,7 +277,8 @@ landmark.properties: "Special Properties"
 landmark.effects: "Environmental Effects" 
 landmark.alterations: Alterations 
 landmark.architecture: Architecture 
-landmark.ruined: "RUINED STRUCTURE" 
+landmark.ruined: "RUINED STRUCTURE"
+landmark.constructed: "Construction Date"
 landmark.parent: "Parent Location" 
 landmark.children: "Included Locations"
 landmark.owner: Owner
@@ -289,6 +290,7 @@ landmark.materials: "Related Materials"
 landmark.contenders: "Contested By"
 landmark.reportprimarylocations: "Related Report (Primary Locations)"
 landmark.reportsecondarylocations: "Related Report (Secondary Locations)"
+landmark.vehicle: "Compartment of Vehicle"
 
 # Language
 language.alphabet: Alphabet
@@ -314,6 +316,10 @@ location.flora: Flora
 location.fauna: Fauna
 location.florafauna: "Fauna & Flora"
 location.natural_resources: "Natural Resources"
+location.history: "History"
+location.tourism: "Tourism"
+location.rank: "Ruling/Owning Rank"
+location.species: "Inhabiting Species"
 # Location - Sidepanel -
 location.aternative_names: "Alternative Name(s)"
 location.type: Type
@@ -475,6 +481,8 @@ organisation.organization_vehicles: "Organization Vehicles"
 organisation.notable_members: "Notable Members"
 organisation.related_ethnicities: "Related Ethnicities"
 organisation.related_myths: "Related Myths"
+organisation.culture: "Culture"
+organisation.leader.title: "Leader Title"
 
 # Person - Divine
 person.divine_domains: "Divine Domains"
@@ -529,6 +537,7 @@ person.rpg_character_sheet: "RPG Character sheet"
 person.divine_classification: "Divine Classification"
 person.alignment: Alignment
 person.current_location: "Current Location"
+person.current_vehicle: "Currently Boarded Vehicle"
 person.species: Species
 person.conditions: Conditions
 person.ethnicity: Ethnicity
@@ -540,6 +549,7 @@ person.previously_held_ranks_titles: "Previously Held Ranks & Titles"
 person.life: Life
 person.year_of_birth: "Year of Birth"
 person.year_of_death: "Year of Death"
+person.birthday: "Date of Birth"
 
 person.circumstances_of_birth: "Circumstances of Birth"
 person.circumstances_of_death: "Circumstances of Death"
@@ -619,6 +629,16 @@ profession.alternative_names: "Alternative Names"
 profession.type: "Type"
 profession.demand: "Demand"
 profession.legality: "Legality"
+profession.famous: "Famous in the Field"
+profession.associated: "Other Associated professions"
+profession.location: "Related Location"
+profession.locations: "Related Locations"
+profession.usedby: "Used By"
+profession.ranks: "Ranks & Titles"
+profession.relatedvehicles: "Related Vehicles"
+profession.relatedtechnologies: "Related Technologies"
+profession.relatedmaterials: "Related Materials"
+
 
 # Rank
 rank.qualifications: "Qualifications"
@@ -636,6 +656,8 @@ rank.type: "Type"
 rank.status: "Status"
 rank.creation: "Creation"
 rank.alternative_naming: "Alternative Naming"
+rank.formofaddress: Form of Address
+rank.weight: Comparative Weight
 rank.equates_to: "Equates to"
 rank.source_of_authority: "Source of Authority"
 rank.length_of_term: "Length of Term"
@@ -680,6 +702,7 @@ settlement.architecture: "Architecture"
 settlement.geography: "Geography"
 settlement.natural_resources: "Natural Resources"
 settlement.ruined_settlement: "RUINED SETTLEMENT"
+settlement.founding: "Founding Date"
 settlement.alternative_names: "Alternative Name(s)"
 settlement.type: "Type"
 settlement.population: "Population"
@@ -744,6 +767,8 @@ species.average_physique: "Average Physique"
 species.body_tint_colouring_marking: "Body Tint, Colouring and Marking"
 species.related_ethnicities: "Related Ethnicities"
 species.related_myths: "Related Myths"
+species.discoverer: "Discovered by"
+species.locations: "Geographic Distribution"
 
 
 # Spell
@@ -800,3 +825,7 @@ vehicle.weight: "Weight"
 vehicle.speed: "Speed"
 vehicle.complement: "Complement / Crew"
 vehicle.cargo_passengers_capacity: "Cargo & Passengers Capacity"
+vehicle.designation: "Designation"
+vehicle.crew: "Crew"
+vehicle.manufacturer: "Manufacturer"
+vehicle.compartments: "Compartments"

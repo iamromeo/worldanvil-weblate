@@ -1,12 +1,78 @@
-manuscripts: Manuscripts
-manuscripts.list: Manuscripts list
-manuscript.edit: Edit Manuscript
-manuscript.view: View Manuscript
-manuscript.delete: Delete Manuscript
-manuscript.settings: Manuscript Settings
+manuscripts: 'Manuscripts'
+manuscripts.list: 'Manuscripts list'
+manuscript.edit: 'Edit Manuscript'
+manuscript.view: 'View Manuscript'
+manuscript.delete: 'Delete Manuscript'
+manuscript.basic.settings: 'Manuscript Basic Settings'
+manuscript.advanced.settings: 'Manuscript Advanced Settings'
+manuscript.settings: 'Manuscript Settings'
 manuscript.create: 'Create a new Manuscript'
 manuscript.world.activate: 'You need to Activate one of your worlds'
 manuscript.world.activate.desc: 'You have no active world, you need one to start a new manuscript'
-manuscript.edit.upper: EDIT
-manuscript.view.upper: VIEW
-manuscript.settings.upper: SETTINGS
+manuscript.edit.upper: 'EDIT'
+manuscript.view.upper: 'VIEW'
+manuscript.settings.upper: 'SETTINGS'
+
+search.results.world: World search results
+search.results.manuscript: Manuscript search results
+
+new.folder: 'Create a new Folder'
+folder: 'Folder'
+new.text: 'Create a new Text'
+text: 'Text'
+search: 'Search Manuscript'
+search_replace: 'Search & Replace'
+
+title: 'Title'
+synopsis: 'Synopsis'
+write: 'Write'
+review: 'Review'
+read: 'Read'
+saved: 'Saved'
+# Tags
+tags: 'Tags'
+tag.type: 'Type tag name'
+tag.remove: 'Remove tag'
+press.enter: 'Press the enter key to add or choose from the autocomplete  list.'
+# Article
+article.remove: 'Remove article'
+# Label
+label: 'Label'
+label.remove: 'Remove label'
+no.label: 'No label'
+change.label: 'Change label'
+edit.label: 'Edit label'
+choose.label: 'Choose a label'
+edit.label.list: 'Edit labels list'
+# POV and Articles
+pov.character: 'POV Character'
+pov.help: 'To set your Point of View character, start typing the title of any of your character articles'
+pov.remove: 'Remove POV Character'
+# Metadata
+scene.notes: 'Notes'
+scene.pov: 'P.O.V. Character'
+scene.time: 'Time of Day'
+scene.duration: 'Duration of Scene'
+scene.type: 'Scene Type'
+scene.importance: 'Scene Importance'
+scene.related.characters: 'Related Characters'
+scene.related.locations: 'Related Locations'
+scene.related.items: 'Related Items'
+scene.related.articles: 'Related Other articles'
+
+
+# Interface
+ui.header: 'Default Interface Settings'
+ui.intro: 'Alter the settings below in order to set the way you want your editor to look and feel like.'
+ui.notice: 'Once you are done, refresh the page so the settings can take effect.'
+ui.documentSettings: 'Document Settings'
+ui.backgroundColor: 'Background Color'
+ui.fontSettings: 'Text Settings'
+ui.fontSize: 'Font Size'
+ui.fontColor: 'Font Color'
+ui.fontTypeface: 'Font Family'
+ui.paragraphSettings: 'Paragraph Settings'
+ui.paragraphIndent: 'Paragraph Indent'
+ui.paragraphPadding: 'Paragraph Bottom Padding'
+ui.lineHeight: 'Line Height'
+ui.cssRules: 'CSS Extra Rules'
