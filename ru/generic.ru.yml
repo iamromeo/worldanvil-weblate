@@ -54,7 +54,7 @@ category: Категория
 world: Мир
 article.template: Шаблон статьи
 theme: Тема
-tags: Тэги
+tags: Теги
 metadata: Метаданные
 moderation: Модерация
 notes: Записки
@@ -103,3 +103,4 @@ new: новый
 welcome: Добро пожаловать
 username: Псевдоним
 community: Сообщество
+dashboard.stream: Скоро в прямом эфире
