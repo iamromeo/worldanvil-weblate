@@ -101,3 +101,6 @@ suggest_feature: Buzón de sugerencias
 ask_question: Haz una pregunta
 campaign.parties: Grupos
 go.to.create: Ir al menú de creación
+community.shared.statblocks: Bloques compartidos en la Comunidad
+shared.statblocks: Bloques compartidos
+account.apikeys: Configuración de API Keys
