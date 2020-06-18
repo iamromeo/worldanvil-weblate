@@ -72,7 +72,7 @@ followed_worlds: Миры, на которые ты подписан
 homepage: Домашняя страница
 community.statblocks: Блоки Статистики Сообщества
 your.statblocks: Твои Блоки Статистики
-statblocks: Блоки Статистики
+statblocks: Блоки статистики
 images_and_files: Изображения и Файлы
 news: Наши Новости
 campaign.settings: Настройки
@@ -101,3 +101,6 @@ browse: Поиск
 world.view: Обзор Мира
 campaign.page: Посмотреть Кампанию
 campaign: Кампания
+community.shared.statblocks: Блоки статистики сообщества
+shared.statblocks: Блоки статистики, которыми поделились
+account.apikeys: Управление ключами API
