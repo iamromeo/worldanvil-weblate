@@ -92,7 +92,7 @@ circle: Круг
 line: Линия
 player.character: Игровой Персонаж
 timeline: Хронология
-label: Пометка
+label: Метка
 marker.group: Группа Меток
 polygon: Полигон
 popup: Открыть всплывающее окно
@@ -101,7 +101,7 @@ articles: Статьи
 player.characters: Игровые Персонажи
 marker.groups: Группы Меток
 timelines: Хронологии
-tags: Тэги
+tags: Теги
 list.articles: Список статей
 list.blocks: Список Блоков
 list.player.characters: Список Игровых Персонажей
@@ -414,3 +414,5 @@ world.summary: Сводка
 map.settings: Настройки Карты
 list.characters: Список Персонажей
 events: Исторические События
+map.marker.draggable.description.2: Перемещать можно лишь стандартные маркеры и метки.
+statblocks: Блоки статистики
