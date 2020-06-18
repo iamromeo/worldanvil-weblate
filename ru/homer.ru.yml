@@ -11,3 +11,58 @@ manuscript.view.upper: ПОСМОТРЕТЬ
 manuscript.settings.upper: НАСТРОЙКИ
 manuscript.world.activate.desc: У тебя нет активных миров, тебе нужен хотя бы один,
   чтобы начать новый манускрипт
+ui.cssRules: Дополнительные правила CSS
+ui.lineHeight: Высота линии
+ui.paragraphPadding: Нижний заполнитель абзаца
+ui.paragraphIndent: Отступ абзаца
+ui.paragraphSettings: Настройки параграфа
+ui.fontTypeface: Семейство шрифтов
+ui.fontColor: Цвет шрифта
+ui.fontSize: Размер шрифта
+ui.fontSettings: Настройки текста
+ui.backgroundColor: Цвет заднего фона
+ui.documentSettings: Настройки документов
+ui.notice: Когда закончишь, обнови страницу, и настройки примутся.
+ui.intro: Сделай порядок настроек так, как ты хочешь, чтобы он смотрелся.
+ui.header: Стандартные настройки интерфейса
+scene.related.articles: Другие связанные статьи
+scene.related.items: Связанные предметы
+scene.related.locations: Связанные места
+scene.related.characters: Связанные персонажи
+scene.importance: Важность сцены
+scene.type: Тип сцены
+scene.duration: Длительность сцены
+scene.time: Время
+scene.pov: От лица
+scene.notes: Примечания
+pov.remove: Убрать персонажа
+pov.help: Чтобы выбрать, от чьего лица всё будет, начни печатать название статьи персонажа
+pov.character: От лица
+edit.label.list: Редактировать список меток
+choose.label: Выбрать метку
+edit.label: Редактировать метку
+change.label: Сменить метку
+no.label: Нет меток
+label.remove: Убрать метку
+label: Метка
+article.remove: Удалить статью
+press.enter: Пожалуйста, введите ключ, который хотите добавить, или выберите из списка.
+tag.remove: Убрать тег
+tag.type: Наберите тег
+tags: Теги
+saved: Сохранено
+read: Читать
+review: Обзор
+write: Писать
+synopsis: Синопсис
+title: Название
+search_replace: Поиск и замена
+search: Поиск манускрипт
+text: Текст
+new.text: Создать новый текст
+folder: Папка
+new.folder: Создать новую папку
+search.results.manuscript: Результат поиска манускрипта
+search.results.world: Результат поиска мира
+manuscript.advanced.settings: Дополнительные настройки манускрипта
+manuscript.basic.settings: Стандартные настройки манускрипта
