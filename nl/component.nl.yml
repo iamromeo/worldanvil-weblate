@@ -116,7 +116,7 @@ delete.layer: Laag verwijderen
 delete.pin: Kaartspeld verwijderen
 circle: Cirkel
 layer: Laag
-label: Etiket
+label: Label
 link: Opent een nieuwe pagina
 polygon: Veelhoek
 popup: Opent een Pop-up
@@ -423,3 +423,4 @@ access.authors.advanced.writer.description: Toegang om uw artikelen te maken en 
   voor spelers die willen bijdragen aan een levende wereld of campagne.
 access.group.description.description: (optioneel) Om u eraan te herinneren wie en
   waarom in deze groep zitten.
+statblocks: Statistiek blokken
