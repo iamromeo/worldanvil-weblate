@@ -422,3 +422,6 @@ access.authors.advanced.writer.description: Crea i gestiona els teus articles in
   de si són esborranys o no.<br>Això permetrà a l'escriptor continuar fent créixer
   els seus articles.<br>És el tipus d'autor perfecte per jugadors que volen contribuir
   en la vida d'un món o una campanya.
+map.marker.draggable.description.2: Només es poden arrossegar els marcadors i etiquetes
+  normals.
+statblocks: Blocs d'estadístiques
