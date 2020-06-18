@@ -695,3 +695,31 @@ vehicle.speed: Скорость
 vehicle.complement: Дополнение/Экипаж
 vehicle.cargo_passengers_capacity: Грузо- и пассажировместимость
 person.year_of_death: Год смерти
+vehicle.compartments: Отсеки
+vehicle.manufacturer: Производитель
+vehicle.crew: Экипаж
+vehicle.designation: Обзоначение
+species.locations: Географическое положение
+species.discoverer: Открыто
+settlement.founding: Дата основания
+rank.weight: Вес в обществе
+rank.formofaddress: Форма обращения
+profession.relatedmaterials: Связанные материаллы
+profession.relatedtechnologies: Связанные технологии
+profession.relatedvehicles: Связанные транспортные средства
+profession.ranks: Ранги и титулы
+profession.usedby: Используется
+profession.location: Связанное место
+profession.locations: Связанные места
+profession.associated: Другие похожие профессии
+profession.famous: Известность
+person.birthday: Дата рождения
+person.current_vehicle: В данный момент находится в
+organisation.leader.title: Название лидера
+organisation.culture: Культура
+location.species: Обитающие виды
+location.rank: Правящий ранг
+location.tourism: Туризм
+location.history: История
+landmark.vehicle: Отсек транспорта
+landmark.constructed: Дата построения
