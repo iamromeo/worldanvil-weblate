@@ -695,3 +695,31 @@ location.florafauna: Fauna y flora
 organisation.familyleader: Cabeza de la familia
 organisation.official_religion: Religión oficial
 person.year_of_death: Año de muerte
+vehicle.compartments: Compartimentos
+vehicle.manufacturer: Fabricante
+vehicle.crew: Tripulación
+vehicle.designation: Designación
+species.locations: Distribución geográfica
+species.discoverer: Descubridor
+settlement.founding: Fecha de fundación
+rank.weight: Importancia relativa
+rank.formofaddress: Tratamiento
+profession.relatedmaterials: Materiales relacionados
+profession.relatedtechnologies: Tecnologías relacionadas
+profession.relatedvehicles: Vehículos relacionados
+profession.ranks: Rangos y títulos
+profession.usedby: Usado por
+profession.locations: Ubicaciones relacionadas
+profession.location: Ubicaciones relacionadas
+profession.associated: Profesiones relacionadas
+profession.famous: Personajes célebres
+person.birthday: Fecha de nacimiento
+person.current_vehicle: Vehículo actual
+organisation.leader.title: Título del líder
+organisation.culture: Cultura
+location.species: Especies autóctonas
+location.rank: Título del dueño o gobernante
+location.tourism: Turismo
+location.history: Historia
+landmark.vehicle: Compartimento del vehículo
+landmark.constructed: Fecha de construcción
