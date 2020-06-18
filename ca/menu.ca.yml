@@ -101,3 +101,6 @@ campaign.npcs: NPCs
 campaign.parties: Grups
 go.to.create: Menú de creació
 stream: Publicacions
+community.shared.statblocks: Blocs compartits per la comunitat
+shared.statblocks: Blocs compartits
+account.apikeys: Gestió de claus API
