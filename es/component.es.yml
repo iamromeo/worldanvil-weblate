@@ -418,3 +418,6 @@ access.authors.advanced.writer.description: Da el poder para crear y gestionar t
   artículos, sean borradores o no. Esto permite al escritor hacer crecer el mundo
   con sus artículos. Es el tipo de autor perfecto para jugadores que quieran contribuir
   a un mundo o a una campaña de rol.
+map.marker.draggable.description.2: Puedes arrastras y colocar todos los marcadores
+  y etiquetas normales.
+statblocks: Bloques de estadísticas
