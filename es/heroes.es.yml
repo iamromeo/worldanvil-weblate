@@ -2,3 +2,4 @@ heroes: Héroes
 create.character: Crear un nuevo personaje
 create.journal: Crear una nueva entrada de diario
 create.campaign: Crear una nueva campaña
+character.view.in.world: Ver en el mundo
