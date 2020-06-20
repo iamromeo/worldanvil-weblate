@@ -695,3 +695,31 @@ location.florafauna: Flóra & Fauna
 organisation.familyleader: Családfő
 organisation.official_religion: Hivatalos Államvallás
 person.year_of_death: Halálozás Éve
+vehicle.compartments: Részek
+vehicle.manufacturer: Gyártó
+vehicle.crew: Személyzet
+vehicle.designation: Meghatározás
+species.locations: Földrajzi Megoszlás
+species.discoverer: 'Felfedezte:'
+settlement.founding: Alapítási Dátum
+rank.weight: Viszonylagos Súly
+rank.formofaddress: Megnevezés
+profession.relatedmaterials: Kapcsolódó Anyagok
+profession.relatedtechnologies: Kapcsolódó Technológiák
+profession.relatedvehicles: Kapcsolódó Járművek
+profession.ranks: Rangok és Titulusok
+profession.usedby: 'Használja:'
+profession.locations: Kapcsolódó Helyek
+profession.location: Kapcsolódó Helyszín
+profession.associated: Egyéb Kapcsolódó szakmák
+profession.famous: Híres a Területen
+person.birthday: Születési Dátum
+person.current_vehicle: Jelenleg Vezetett Jármű
+organisation.leader.title: Vezető Titulusa
+organisation.culture: Kultúra
+location.species: Őslakos Faj
+location.rank: Uralkodó/ Birtokló Rang
+location.tourism: Turizmus
+location.history: Történelem
+landmark.vehicle: Járműrész
+landmark.constructed: Építési Dátum
