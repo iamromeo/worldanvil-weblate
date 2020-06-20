@@ -101,3 +101,6 @@ suggest_feature: Funkció Javaslat
 ask_question: Kérdezz
 campaign.parties: Csoportok
 go.to.create: A Létrehozás menübe
+community.shared.statblocks: Közösségi Statblokkok
+shared.statblocks: Megosztott Statblokkok
+account.apikeys: API kulcsok kezelése
