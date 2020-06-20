@@ -414,3 +414,6 @@ access.authors.advanced.writer.description: Hozzáférés a bejegyzések létreh
   az íróknak, hogy hozzájáruljanak a még élő bejegyzésekhez.<br> Ez a legjobb szerzői
   hozzáférés azon játékosoknak, akik szeretnének hozzáadni egy élő világhoz, vagy
   kampányhoz.
+map.marker.draggable.description.2: A Húzogatás csak normál jelöléseknél és címkéknél
+  van bekapcsolva.
+statblocks: Statblokkok
