@@ -11,3 +11,60 @@ manuscript.world.activate.desc: No hi ha cap mon actiu i en cal un per crear un 
 manuscript.edit.upper: EDITA
 manuscript.view.upper: MOSTRA
 manuscript.settings.upper: CONFIGURACIÓ
+ui.cssRules: Regles CSS addicionals
+ui.lineHeight: Interliniat
+ui.paragraphPadding: Espai entre paràgrafs
+ui.paragraphIndent: Sagnat
+ui.paragraphSettings: Paràgrafs
+ui.fontTypeface: Font
+ui.fontSize: Mida
+ui.fontColor: Color
+ui.fontSettings: Configuració del text
+ui.backgroundColor: Color de fons
+ui.documentSettings: Configuració del document
+ui.notice: Quan estigui fet, refresqueu la pàgina per activar els canvis.
+ui.intro: Utilitzeu les següents opcions fins que l'editor tingui l'aspecte i funcionament
+  que vulgueu.
+ui.header: Configuració per defecte de la interfície
+scene.related.articles: Altres articles relacionats
+scene.related.items: Objectes relacionats
+scene.related.locations: Ubicacions relacionades
+scene.related.characters: Personatges relacionats
+scene.importance: Importància de l'escena
+scene.type: Tipus d'escena
+scene.duration: Duració de l'escena
+scene.time: Hora
+scene.pov: Personatge amb el punt de vista
+scene.notes: Notes
+pov.remove: Elimina el personatge amb el punt de vista
+pov.help: Per establir el personatge amb el punt de vista, teclegeu el títol de l'article
+  del personatge
+pov.character: Personatge amb el punt de vista
+edit.label.list: Modifica la llista d'etiquetes
+choose.label: Tria l'etiqueta
+edit.label: Modifica l'etiqueta
+change.label: Canvia l'etiqueta
+no.label: Sense etiqueta
+label.remove: Elimina l'etiqueta
+label: Etiqueta
+article.remove: Elimina l'article
+press.enter: Premeu Enter per afegir-la escollir-ne una de la llista.
+tag.remove: Elimina l'etiqueta
+tag.type: Escriviu l'etiqueta
+tags: Etiquetes
+saved: Desat
+read: Lectura
+review: Revisió
+write: Escriptura
+synopsis: Sinopsi
+title: Títol
+search_replace: Cerca i reemplaça
+search: Cerca al manuscrit
+text: Text
+new.text: Crea un nou text
+folder: Carpeta
+new.folder: Crea una carpeta nova
+search.results.manuscript: Resultats de la cerca al manuscrit
+search.results.world: Resultats de la cerca
+manuscript.advanced.settings: Configuració avançada del manuscrit
+manuscript.basic.settings: Configuració bàsica del manuscrit
