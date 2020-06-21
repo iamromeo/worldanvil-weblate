@@ -2,3 +2,4 @@ heroes: Heroes
 create.character: Új Karakter létrehozása
 create.journal: Új Naplóbejegyzés létrehozása
 create.campaign: Új Kampány Létrehozása
+character.view.in.world: Megtekintés a Világban
