@@ -11,3 +11,60 @@ manuscript.world.activate.desc: No tienes un mundo activo, y necesitas uno para 
 manuscript.world.activate: Tienes que activar uno de tus mundos
 manuscript.create: Crear un nuevo manuscrito
 manuscript.settings: Ajustes del manuscrito
+ui.cssRules: CSS extra
+ui.lineHeight: Interlineado
+ui.paragraphSettings: Párrafos
+ui.fontColor: Color
+ui.paragraphPadding: Espacio entre párrafos
+ui.fontSize: Tamaño
+ui.documentSettings: Opciones del documento
+ui.paragraphIndent: Sangría
+ui.fontTypeface: Fuente
+ui.intro: Juega con las siguientes opciones hasta que tu editor funcione como te sea
+  más cómodo y tenga el aspecto que tú quieras.
+ui.fontSettings: Opciones del texto
+ui.backgroundColor: Color de fondo
+ui.notice: Cuando hayas terminado, recarga la página para activar tus cambios.
+ui.header: Configuración por defecto de la interfaz
+scene.related.articles: Otros artículos relacionados
+scene.related.items: Objetos relacionados
+scene.related.locations: Ubicaciones relacionadas
+scene.related.characters: Personajes relacionados
+scene.importance: Importancia de la escena
+scene.type: Tipo de escena
+press.enter: Pulsa Enter para elegir de la lista de autocompletados.
+scene.duration: Duración de la escena
+scene.time: Hora
+scene.pov: Personaje punto de vista
+scene.notes: Notas
+pov.remove: Quitar personaje punto de vista
+pov.help: Para elegir desde el punto de vista de qué personaje vas a escribir, empieza
+  a escribir el título de cualquiera de tus artículos de personaje
+pov.character: Personaje punto de vista
+edit.label.list: Editar lista de etiquetas
+choose.label: Elegir etiqueta
+edit.label: Editar etiqueta
+change.label: Cambiar etiqueta
+no.label: Sin etiqueta
+label.remove: Eliminar etiqueta
+label: Etiqueta
+article.remove: Eliminar artículo
+tag.type: Escribe la etiqueta
+tag.remove: Eliminar etiqueta
+read: Leer
+review: Revisar
+write: Escribir
+tags: Etiquetas
+saved: Guardado
+synopsis: Sinopsis
+title: Título
+new.folder: Nueva carpeta
+search_replace: Buscar y reemplazar
+search: Buscar manuscrito
+text: Texto
+new.text: Nuevo texto
+search.results.world: Resultados de la búsqueda
+folder: Carpeta
+search.results.manuscript: Resultados de la búsqueda en el manuscrito
+manuscript.advanced.settings: Configuración avanzada
+manuscript.basic.settings: Configuración básica
