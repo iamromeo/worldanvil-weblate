@@ -11,3 +11,60 @@ manuscript.world.activate.desc: Nincs aktív világod, ami az új kézirat létr
 manuscript.world.activate: Aktiválnod kell valamely világodat
 manuscript.create: Új Kézirat Létrehozása
 manuscript.settings: Kézirat Beállítások
+ui.cssRules: CSS további szabályok
+ui.lineHeight: Sormagasság
+ui.paragraphPadding: Bejegyzés alsó Behúzása(?)
+ui.paragraphIndent: Bekezdés Behúzása
+ui.paragraphSettings: Bekezdés Beállítások
+ui.fontTypeface: Betűcsalád
+ui.fontColor: Betűszín
+ui.fontSize: Betűméret
+ui.fontSettings: Szövegbeállítások
+ui.backgroundColor: Háttérszín
+ui.documentSettings: Dokumentum Beállítások
+ui.notice: Amint készen vagy, frissítsd az oldalt, hogy a változtatásaid érvénybe
+  lépjenek.
+ui.intro: Változtasd meg az alábbi beállításokat, hogy a szerkesztőd személyre szabd.
+ui.header: Kezelőfelület Alapbeállításai
+scene.related.articles: Kapcsolódó más Cikkek
+scene.related.items: Kapcsolódó Tárgyak
+scene.related.locations: Kapcsolódó Helyek
+scene.related.characters: Kapcsolódó Karakterek
+scene.importance: Jelenet Fontossága
+scene.type: Jelenettípus
+scene.duration: Jelenet Időtartama
+scene.time: Napszak
+scene.pov: Szemszög Karakter
+scene.notes: Jegyzetek
+pov.remove: Szemszög Karakter eltávolítása
+pov.help: A Szemszög Karakter beállításához kezd beírni bármely karakter cikknek a
+  címét
+pov.character: Szemszög Karakter
+edit.label.list: Címkelista szerkesztése
+choose.label: Címke választása
+edit.label: Címke szerkesztése
+change.label: Címkecsere
+no.label: Nincs Címke
+label.remove: Címke eltávolítása
+label: Címke
+article.remove: Cikk eltávolítása
+press.enter: Nyomj Enter-t hogy választhass az autójavítási listából
+tag.remove: Címke eltávolítása
+tag.type: Írd be a Címke nevét
+tags: Címkék
+saved: Elmentve
+read: Olvasás
+review: Felülvizsgálat
+write: Írás
+synopsis: Szinopszis
+title: Cím
+search_replace: Keresés & Cserélés
+search: Kézirat keresése
+text: Szöveg
+new.text: Új Szöveg Létrehozása
+folder: Mappa
+new.folder: Új Mappa létrehozása
+search.results.manuscript: Kéziratkeresési eredmények
+search.results.world: Világkeresési eredmények
+manuscript.advanced.settings: Kézirat Speciális Beállításai
+manuscript.basic.settings: Kézirat Alapbeállításai
