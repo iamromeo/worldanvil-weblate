@@ -24,6 +24,22 @@ new.text: Creëer een nieuwe Tekst
 folder: Folder
 new.folder: Creëer een nieuwe Folder
 search.results.manuscript: Manuscript zoek resultaten
-review: Bekijk
+review: Recenseren
 write: Schrijf
 synopsis: Synopsis
+pov.help: Om je Point of View karakter in te stellen, typ je de titel van een van
+  je karakter artikelen
+pov.character: POV Karakter
+edit.label.list: Bewerk label lijst
+choose.label: Kies een label
+edit.label: Bewerk label
+change.label: Verander label
+no.label: Geen label
+label.remove: Verwijder label
+article.remove: Verwijder artikel
+press.enter: Druk op de invoertoets om toe te voegen of kies uit de lijst voor automatisch
+  aanvullen.
+tag.remove: Verwijder tag
+tag.type: Type tag naam
+saved: Opgeslagen
+read: Lees
