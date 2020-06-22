@@ -721,4 +721,5 @@ rank.formofaddress: Adresvorm
 profession.relatedmaterials: Gerelateerde Materialen
 profession.relatedtechnologies: Gerelateerde Technologieën
 profession.relatedvehicles: Gerelateerde Voertuigen
-vehicle.compartments: Onderdelen
+vehicle.compartments: Compartimenten
+landmark.constructed: Bouwdatum
