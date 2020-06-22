@@ -14,6 +14,13 @@ manuscript.settings.upper: INSTELLINGEN
 label: Label
 tags: Tags
 title: Titel
-search.results.world: Woordzoeker resultaten
+search.results.world: Wereld zoeker resultaten
 manuscript.advanced.settings: Manuscript Geavanceerde Instellingen
 manuscript.basic.settings: Manuscript Basis Instellingen
+search_replace: Zoek & Vervang
+search: Zoek Manuscript
+text: Tekst
+new.text: Creëer een nieuwe Tekst
+folder: Folder
+new.folder: Creëer een nieuwe Folder
+search.results.manuscript: Manuscript zoek resultaten
