@@ -65,5 +65,7 @@ ui.backgroundColor: Achtergrond Kleur
 ui.documentSettings: Document Instellingen
 ui.fontTypeface: Lettertypen
 ui.fontColor: Lettertype Kleur
-ui.paragraphIndent: Alinea In springing
+ui.paragraphIndent: Alinea Inspringing
 ui.paragraphSettings: Alinea Instellingen
+ui.lineHeight: Zin Hoogte
+ui.paragraphPadding: Alinea Bodem Vulling
