@@ -63,5 +63,7 @@ ui.fontSize: 'Lettertype Grootte'
 ui.fontSettings: Tekst Instellingen
 ui.backgroundColor: Achtergrond Kleur
 ui.documentSettings: Document Instellingen
-ui.fontTypeface: Lettertype Familie
+ui.fontTypeface: Lettertypen
 ui.fontColor: Lettertype Kleur
+ui.paragraphIndent: Alinea In springing
+ui.paragraphSettings: Alinea Instellingen
