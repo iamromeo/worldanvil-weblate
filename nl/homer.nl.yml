@@ -27,9 +27,9 @@ search.results.manuscript: Manuscript zoek resultaten
 review: Recenseren
 write: Schrijf
 synopsis: Synopsis
-pov.help: Om je Point of View karakter in te stellen, typ je de titel van een van
-  je karakter artikelen
-pov.character: POV Karakter
+pov.help: Om je Point of View teken in te stellen, typ je de titel van een van je
+  karakter artikelen
+pov.character: POV-teken
 edit.label.list: Bewerk label lijst
 choose.label: Kies een label
 edit.label: Bewerk label
@@ -43,3 +43,4 @@ tag.remove: Verwijder tag
 tag.type: Type tag naam
 saved: Opgeslagen
 read: Lees
+pov.remove: Verwijder POV Karakter
