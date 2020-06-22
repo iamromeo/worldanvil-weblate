@@ -43,4 +43,6 @@ tag.remove: Verwijder tag
 tag.type: Type tag naam
 saved: Opgeslagen
 read: Lees
-pov.remove: Verwijder POV Karakter
+pov.remove: Verwijder POV-teken
+scene.pov: P.O.V. Karakter
+scene.notes: Notities
