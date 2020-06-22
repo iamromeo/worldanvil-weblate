@@ -424,3 +424,5 @@ access.authors.advanced.writer.description: Toegang om uw artikelen te maken en 
 access.group.description.description: (optioneel) Om u eraan te herinneren wie en
   waarom in deze groep zitten.
 statblocks: Statistiek blokken
+map.marker.draggable.description.2: Verslepen is alleen ingeschakeld voor alle normale
+  (pin) markeringen en labels.
