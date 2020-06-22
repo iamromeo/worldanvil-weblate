@@ -59,7 +59,9 @@ scene.importance: Belang van de Scene
 scene.type: Scene Type
 scene.duration: Duur van de Scene
 scene.time: Tijd van de Dag
-ui.fontSize: 'Lettertype Grote '
+ui.fontSize: 'Lettertype Grootte'
 ui.fontSettings: Tekst Instellingen
 ui.backgroundColor: Achtergrond Kleur
 ui.documentSettings: Document Instellingen
+ui.fontTypeface: Lettertype Familie
+ui.fontColor: Lettertype Kleur
