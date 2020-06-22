@@ -67,5 +67,6 @@ ui.fontTypeface: Lettertypen
 ui.fontColor: Lettertype Kleur
 ui.paragraphIndent: Alinea Inspringing
 ui.paragraphSettings: Alinea Instellingen
-ui.lineHeight: Zin Hoogte
+ui.lineHeight: Regel Hoogte
 ui.paragraphPadding: Alinea Bodem Vulling
+ui.cssRules: CSS Extra Regels
