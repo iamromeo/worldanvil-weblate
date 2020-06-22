@@ -46,8 +46,8 @@ read: Lees
 pov.remove: Verwijder POV-teken
 scene.pov: P.O.V.-teken
 scene.notes: Notities
-ui.notice: Als u klaar bent, vernieuwt u de pagina zodat de instellingen van kracht
-  kunnen worden.
+ui.notice: Eenmaal u klaar bent, kan u de pagina vernieuwen zodat de instellingen
+  van kracht kunnen worden.
 ui.intro: Wijzig de onderstaande instellingen om in te stellen hoe u wilt dat uw editor
   eruitziet en aanvoelt.
 ui.header: Standaard Interface Instellingen
@@ -59,3 +59,7 @@ scene.importance: Belang van de Scene
 scene.type: Scene Type
 scene.duration: Duur van de Scene
 scene.time: Tijd van de Dag
+ui.fontSize: 'Lettertype Grote '
+ui.fontSettings: Tekst Instellingen
+ui.backgroundColor: Achtergrond Kleur
+ui.documentSettings: Document Instellingen
