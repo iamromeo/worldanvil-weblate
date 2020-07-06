@@ -185,3 +185,10 @@ language.morphology: "Morfologi"
 language.phonology: Fonologi
 language.alphabet: Alfabet
 landmark.contenders: Omstridd av
+law.type: typ
+language.sidebar.common.unisex.names: Vanliga könlösa namn
+language.sidebar.common.male.names: Vanliga manliga namn
+language.sidebar.common.female.names: Vanliga kvinnliga namn
+language.sidebar.common.phrases: Vanliga fraser
+language.phonetics: Fonetik
+language.vocabulary: Vokabulär
