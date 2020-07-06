@@ -197,3 +197,5 @@ location.fauna: Fauna
 location.flora: Flora
 location.geography: Geografi
 law.localization: Lokalisering
+location.type: Typ
+location.aternative_names: Alternativa namn
