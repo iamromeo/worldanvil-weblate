@@ -171,3 +171,10 @@ landmark.denizens: Invånare
 item.sidebar.rawmaterials.components: Råmaterial och komponenter
 item.sidebar.tools: Verktyg
 item.sidebar.related.myths: Relaterade myter
+landmark.organization: Ägande organisation
+landmark.owner: Ägare
+landmark.children: Inkluderade Platser
+landmark.architecture: Arkitektur
+landmark.alterations: Förändringar
+landmark.hazards: Fällor och faror
+landmark.valuables: Värdesaker
