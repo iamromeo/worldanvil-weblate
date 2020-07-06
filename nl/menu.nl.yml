@@ -94,7 +94,7 @@ character.edit.extended: Bewerk Uitgebreid Profiel
 character.view.sheet: Bekijk Blad
 character.edit.profile: Bewerk Profiel
 character.view.profile: Bekijk Profiel
-character.profiles: Karakter Profielen
+character.profiles: RPG Karakter Profielen
 character.profile: Karakter Profiel
 sponsoring: Sponsoring
 advertising: Adverteren
@@ -103,3 +103,5 @@ join.codex: World Anvil Documentatie Codex
 community.shared.statblocks: Gezelschap Gedeelde Statusblok
 shared.statblocks: Gedeelde Statusblok
 account.apikeys: Beheer van API Sleutels
+view.profile: Bekijk profiel
+profile.settings: Profiel Instellingen
