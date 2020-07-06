@@ -570,6 +570,7 @@ person.related_myths: "Related Myths"
 person.known_languages: "Known Languages"
 person.appears_in: "Appears in..."
 person.character_prototype: "Character Prototype"
+person.age: 'Age'
 
 # Plot
 plot.summary: Summary

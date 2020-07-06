@@ -64,7 +64,8 @@ private: Private
 open: Open 
 views: Views 
 favorites: Favorites 
-comments: Comments 
+comments: Comments
+notifications: 'Notifications'
 wip: Work In Progress
 author.notes: Author's Notes
 
@@ -91,7 +92,7 @@ dashboard.events: Events
 dashboard.worlds: Your Worlds
 dashboard.characters: Your Characters
 dashboard.campaigns: Your Campaigns
-dashboard.communities: Your Communities
+dashboard.world.memberships: World Memberships
 dashboard.dev.updates: Development Updates
 dashboard.in.news: In the News
 dashboard.videos: Recent Videos
