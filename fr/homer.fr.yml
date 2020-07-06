@@ -11,3 +11,61 @@ manuscript.world.activate.desc: Vous n'avez pas de monde actif, il vous en faut 
   pour démarrer un nouveau manuscrit
 manuscript.edit.upper: ÉDITER
 manuscript.view.upper: VOIR
+ui.cssRules: Règles CSS additionelles
+ui.lineHeight: Hauteur de ligne
+ui.paragraphPadding: Déplacement en dessous du Paragraphe
+ui.paragraphIndent: Indentation du paragraphe
+ui.paragraphSettings: Paramètres du paragraphe
+ui.fontTypeface: Police de Caractères
+ui.fontColor: Couleur de la Police
+ui.fontSize: Taille de la Police
+ui.fontSettings: Paramètres de Texte
+ui.backgroundColor: Couleur d'arrière plan
+ui.documentSettings: Paramètres de Document
+ui.notice: Une fois que vous avez terminé, rafraichissez la page pour que les paramètres
+  soit appliqués.
+ui.intro: Modifier les paramètres suivant pour altérer l'apparence et les fonctionnalitées
+  de l'éditeur.
+ui.header: Paramètres d'interface par défaut
+scene.related.articles: Autres Articles Associés
+scene.related.items: Objets Associés
+scene.related.locations: Lieux Associés
+scene.related.characters: Perssonages Associés
+scene.importance: Importance de la scène
+scene.type: Type de scène
+scene.duration: Durée de la scène
+scene.time: Moment de la journée
+scene.pov: Personnage Narrateur
+scene.notes: Notes
+pov.remove: Retirer le perssonage narrateur
+pov.help: Pour définir un perssonage narrateur, commencez de taper le titre de n'importe
+  quel article de perssonage
+pov.character: Personage Narrateur
+edit.label.list: Éditer la liste des Libellés
+edit.label: Éditer le Libellé
+choose.label: Choisir un Libellé
+change.label: Changer de Libellé
+no.label: Pas de Libellé
+label.remove: Supprimer le Libellé
+label: Libellé
+article.remove: Supprimer l'article
+press.enter: Appuyez sur Entrée pour ajouter ou choisissez parmis la liste de propositions.
+tag.remove: Enlever l'Étiquette
+tag.type: Entrer le nom de l'étiquette
+tags: Étiquettes
+saved: Sauvegardé
+read: Lire
+review: Relire
+write: Ecrire
+synopsis: Synopsis
+title: Titre
+search_replace: Rechercher & Remplacer
+search: Rechercher dans le manuscrit
+new.text: Créer un nouveau Texte
+text: Texte
+folder: Dossier
+new.folder: Créer un nouveau Dossier
+search.results.world: Résultats de recherche dans le monde
+search.results.manuscript: Résultats de recherche dans le manuscrit
+manuscript.advanced.settings: Paramètres Avancés du Manuscrit
+manuscript.basic.settings: Paramètres de Base du Manuscrit
