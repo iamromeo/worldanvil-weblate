@@ -431,3 +431,6 @@ access.authors.advanced.writer.description: Accès pour créer et gérer vos art
   de poursuivre directement l'écriture des articles dans le monde. <br>C'est le statut
   d'auteur idéal pour les joueurs qui souhaitent contribuer à un monde ou une campagne
   en cours.
+map.marker.draggable.description.2: Le déplacement n'est activé que pour les épingles
+  normales et les labels.
+statblocks: Blocs de Statistique
