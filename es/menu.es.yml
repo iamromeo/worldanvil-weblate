@@ -67,7 +67,7 @@ browse: Navegación
 advertising: Promoción
 sponsoring: Patrocinio
 character.profile: Perfil de personaje
-character.profiles: Perfiles de personaje
+character.profiles: Perfiles de personaje de rol
 character.view.profile: Ver perfil
 character.edit.profile: Editar perfil
 character.view.sheet: Ver ficha
@@ -93,7 +93,7 @@ community.statblocks: Bloques de la comunidad
 homepage: Inicio
 followed_worlds: Mundos que sigues
 your_reading_list: Tu lista de lectura
-stream: Stream
+stream: Stream de personajes
 gear_and_gifts: Tienda de regalos
 documentation: Documentación
 report_bug: Informar de errores
@@ -104,3 +104,6 @@ go.to.create: Ir al menú de creación
 community.shared.statblocks: Bloques compartidos en la Comunidad
 shared.statblocks: Bloques compartidos
 account.apikeys: Configuración de API Keys
+activated.features: Funciones activadas
+view.profile: Ver tu perfil
+profile.settings: Ajustes del perfil
