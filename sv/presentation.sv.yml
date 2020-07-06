@@ -178,8 +178,8 @@ landmark.architecture: Arkitektur
 landmark.alterations: Förändringar
 landmark.hazards: Fällor och faror
 landmark.valuables: Värdesaker
-landmark.materials: Relaterade Material
-landmark.professions: Rellaterade Yrken
+landmark.materials: Relaterade material
+landmark.professions: Relaterade yrken
 landmark.charactersinlocation: Karaktärer på Platsen
 language.morphology: "Morfologi"
 language.phonology: Fonologi
@@ -192,7 +192,7 @@ language.sidebar.common.female.names: Vanliga kvinnliga namn
 language.sidebar.common.phrases: Vanliga fraser
 language.phonetics: Fonetik
 language.vocabulary: Vokabulär
-location.natural_resources: naturtillgångar
+location.natural_resources: Naturtillgångar
 location.fauna: Fauna
 location.flora: Flora
 location.geography: Geografi
