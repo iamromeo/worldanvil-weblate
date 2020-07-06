@@ -695,3 +695,31 @@ location.florafauna: Faune et Flore
 organisation.familyleader: Chef de famille
 organisation.official_religion: Religion d'état
 person.year_of_death: Année de décès
+vehicle.compartments: Compartiments
+vehicle.manufacturer: Fabriquant
+vehicle.crew: Équipage
+vehicle.designation: Désignation
+species.locations: Distribution Géographique
+species.discoverer: Découvert par
+settlement.founding: Date de fondation
+rank.weight: Poids relatif
+rank.formofaddress: Type de salutation
+profession.relatedmaterials: Matériaux Associés
+profession.relatedtechnologies: Technologies Associées
+profession.relatedvehicles: Véhicules Associés
+profession.ranks: Titres et Grades
+profession.usedby: Utilisé par
+profession.locations: Lieux Associés
+profession.location: Lieux Associés
+profession.associated: Autre Professions Associées
+profession.famous: Domaine de renommé
+person.birthday: Date de Naissance
+person.current_vehicle: Véhicule Actuellement Occupé
+organisation.leader.title: Titre du Dirigeant
+organisation.culture: Culture
+location.species: Especes habitantes
+location.rank: Titre du Gouverneur / Posseseur
+location.tourism: Tourisme
+location.history: Histoire
+landmark.vehicle: Compartiment du Véhicule
+landmark.constructed: Date de Construction
