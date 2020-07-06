@@ -87,7 +87,7 @@ world.view: Voir le Monde
 campaign.settings: Paramètres
 news: Nouvelles
 images_and_files: Images et fichiers
-statblocks: Fiches de Statistiques
+statblocks: Blocs de Statistique
 your.statblocks: Vos Fiches
 community.statblocks: Fiches de la Communauté
 stream: Stream
@@ -101,3 +101,6 @@ suggest_feature: Suggérer une fonctionnalité
 ask_question: Poser une question
 campaign.parties: Groupes
 go.to.create: Aller au menu de création
+community.shared.statblocks: Blocs de données de la communauté
+shared.statblocks: Bloc de données partagés
+account.apikeys: Gestion des clefs API
