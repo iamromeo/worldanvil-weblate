@@ -30,7 +30,7 @@ scene.related.articles: Kapcsolódó más Cikkek
 scene.related.items: Kapcsolódó Tárgyak
 scene.related.locations: Kapcsolódó Helyek
 scene.related.characters: Kapcsolódó Karakterek
-scene.importance: Jelenet Fontossága
+scene.importance: Darab Fontossága
 scene.type: Jelenettípus
 scene.duration: Jelenet Időtartama
 scene.time: Napszak
@@ -59,7 +59,7 @@ write: Írás
 synopsis: Szinopszis
 title: Cím
 search_replace: Keresés & Cserélés
-search: Kézirat keresése
+search: Kézirat & Világ keresése
 text: Szöveg
 new.text: Új Szöveg Létrehozása
 folder: Mappa
@@ -68,3 +68,42 @@ search.results.manuscript: Kéziratkeresési eredmények
 search.results.world: Világkeresési eredmények
 manuscript.advanced.settings: Kézirat Speciális Beállításai
 manuscript.basic.settings: Kézirat Alapbeállításai
+html_export.description: Ezt kimásolhatod, hogy beilleszd bármely ismertebb szövegszerkesztőbe,
+  mint a Word, Open Office, GoogleDocs, vagy Pages
+html_export: Exportálás HTML-be
+exporting.header: Exportálás
+statistics.header: Statisztikák
+kofi: Ko-Fi.com Felhasználó
+patreon: Patreon.com Felhasználó
+monetization.custom_advert: Egyedi marketing Üzenet
+monetization.access_denied: Egyedi "Hozzáférés Megtagadva" Tartalom
+monetization.header: Bevételszerzési Opciók
+part.importance: Darab Fontossága
+part.type: Darab Tjpusa
+part.duration: Darab Hossza
+part.time: Időpont
+scene.rich_media_description: Illessz be ide egy Soundcloud, Spotify, YouTube URL
+  címet, vagy MP3/ Anchor.fm EMBED URL címet, hogy megjelenjen ezen rész tetején.
+  Ez egy kimondottan jó megoldás, hogy a munkád audiókönyv/ narrált verzióját elérhetővé
+  tedd, vagy csak hogy biztosíts némi hangulatot.
+scene.rich_media: Rich Media URL
+label.management: Címkerendezés
+view.description: A kézirat prezentációs verziójának megtekintése
+view: Megtekintés
+status: Kézirat Státusz
+subscriber_groups: Feliratkozó Csoportok
+access: Láthatósági Státusz
+publication: Kiadási Státusz
+genres.languages: 'Kattints az alant található zászlóra a kézirat nyelvének beállításához.
+  Ez a nyelv\ kódban jelenik meg. '
+genres.description: Ha szeretnéd az olvasókat figyelmeztetni érzékeny tartalomra,
+  mint mondjuk amik az ESRB (kábítószerek, vér, erőszak, stb.) jelöléseket képezik,
+  tag-eld őket. Így jól láthatóan meg lesznek jelölve a kézirat főoldalán.
+genres: Műfajok
+backcover: Kézirat Hátoldali Összegzése
+cover: Kézirat Borító
+caption: Képaláírás
+image_part: Képrészlet
+image: Kép
+start.reading: Olvasás Megkezdése
+manuscript.read.upper: OLVASÁS
