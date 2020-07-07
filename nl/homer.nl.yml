@@ -55,7 +55,7 @@ scene.related.articles: Gerelateerde Andere artikelen
 scene.related.items: Gerelateerde Voorwerpen
 scene.related.locations: Gerelateerde Locaties
 scene.related.characters: Gerelateerde Karakters
-scene.importance: Belang van de Scene
+scene.importance: Belang van Rol
 scene.type: Scene Type
 scene.duration: Duur van de Scene
 scene.time: Tijd van de Dag
@@ -72,7 +72,7 @@ ui.paragraphPadding: Alinea Bodem Vulling
 ui.cssRules: CSS Extra Regels
 view: Bekijk
 image: Afbeelding
-html_export: Export in HTML
+html_export: Exporteer naar HTML
 exporting.header: Exporteren
 statistics.header: Statistieken
 kofi: Ko-Fi.com gebruikersnaam
@@ -86,15 +86,15 @@ part.duration: Duur van het gedeelte
 part.time: Tijd van de dag
 scene.rich_media_description: Plak hier een Soundcloud-, Spotify-, YouTube-adresbalk-URL
   of MP3 URl of Anchor.fm EMBED-url om deze bovenaan dit deel te laten verschijnen.
-  Dit is een geweldige manier om een ​​audioboek / gesproken versie van je werk te
-  krijgen of om wat sfeer toe te voegen.
+  Dit is een geweldige manier om een audioboek/gesproken versie van je werk te krijgen
+  of om wat sfeer toe te voegen.
 scene.rich_media: Rijke media URL
 label.management: Labelbeheer
 view.description: Bekijk de presentatieversie van dit manuscript
 subscriber_groups: Abonnee groepen
 publication: Publicatie Status
-genres.languages: Klik op de onderstaande vlag om de taal van uw manuscript aan te
-  geven. Het zal verschijnen met de taal\`code.
+genres.languages: 'Klik op de onderstaande vlag om de taal van uw manuscript aan te
+  geven. Het zal verschijnen met de taal\`code. '
 genres.description: Als u uw lezers wilt waarschuwen voor gevoelig materiaal zoals
   elk van de ESRB-descriptoren (stoffen, bloed, bloedvergieten, geweld, enz.) Gebruik
   ze dan als tags. Ze worden gemarkeerd en duidelijk zichtbaar op de hoofdpagina van
@@ -106,3 +106,5 @@ caption: Afbeelding bijschrift
 image_part: Afbeelding gedeelte
 start.reading: Begin met lezen
 manuscript.read.upper: LEES
+html_export.description: U kunt deze export kopiëren en plakken in een van de grote
+  tekstverwerkers zoals Word, Open Office, GoogleDocs of Pagina's
