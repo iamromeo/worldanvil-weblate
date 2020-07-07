@@ -30,7 +30,7 @@ scene.related.articles: Otros artículos relacionados
 scene.related.items: Objetos relacionados
 scene.related.locations: Ubicaciones relacionadas
 scene.related.characters: Personajes relacionados
-scene.importance: Importancia de la escena
+scene.importance: Importancia de la parte
 scene.type: Tipo de escena
 press.enter: Pulsa Enter para elegir de la lista de autocompletados.
 scene.duration: Duración de la escena
@@ -60,7 +60,7 @@ synopsis: Sinopsis
 title: Título
 new.folder: Nueva carpeta
 search_replace: Buscar y reemplazar
-search: Buscar manuscrito
+search: Buscar manuscrito y mundo
 text: Texto
 new.text: Nuevo texto
 search.results.world: Resultados de la búsqueda
@@ -68,3 +68,40 @@ folder: Carpeta
 search.results.manuscript: Resultados de la búsqueda en el manuscrito
 manuscript.advanced.settings: Configuración avanzada
 manuscript.basic.settings: Configuración básica
+statistics.header: Estadísticas
+monetization.custom_advert: Mensaje publicitario personalizado
+monetization.header: Monetización
+part.importance: Importancia de la parte
+scene.rich_media: Multimedia
+view.description: Comprobar la vista de presentación del manuscrito
+status: Estado del manuscrito
+subscriber_groups: Grupos de suscriptores
+access: Nivel de acceso
+publication: Estado de publicación
+genres.languages: 'Selecciona la bandera que quieras para indicar el idioma de tu
+  manuscrito. '
+html_export.description: Puedes copiar y pegar este texto en cualquier procesador
+  como Word, Open Office, Google Docs o Pages
+html_export: Exportar en HTML
+exporting.header: Exportar
+kofi: Usuario de Ko-Fi
+patreon: Usuario de Patreon
+monetization.access_denied: Personalizar mensaje de acceso denegado
+part.type: Tipo de parte
+part.duration: Duración de la parte
+part.time: Hora
+scene.rich_media_description: Pega aquí una URL de Soundcloud, Spotify o YouTube,
+  la de un MP3 o una URL EMBED de Anchor.fm
+label.management: Etiquetas
+view: Vista previa
+genres.description: Si quieres avisar a tus lectores de contenido sensible como sustancias,
+  gore, violencia, etcétera, ponlas como etiquetas. Serán claramente visibles en la
+  página principal del manuscrito.
+genres: Géneros
+backcover: Texto de la contraportada
+cover: Portada del manuscrito
+caption: Pie de foto
+image_part: Parte de la imagen
+image: Imagen
+start.reading: Empieza a leer
+manuscript.read.upper: LEER
