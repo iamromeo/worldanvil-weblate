@@ -59,7 +59,7 @@ ask_question: Stel een vraag
 suggest_feature: Suggereer een functie
 report_bug: Geef een Bug aan
 documentation: Documenteren
-stream: Stream
+stream: RPG karakter stream
 your_reading_list: Jouw Literatuurlijst
 followed_worlds: Gevolgde Werelden
 homepage: Startpagina
@@ -105,3 +105,4 @@ shared.statblocks: Gedeelde Statusblok
 account.apikeys: Beheer van API Sleutels
 view.profile: Bekijk jouw Profiel
 profile.settings: Profiel Instellingen
+activated.features: Geactiveerde functies
