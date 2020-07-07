@@ -30,7 +30,7 @@ scene.related.articles: Altres articles relacionats
 scene.related.items: Objectes relacionats
 scene.related.locations: Ubicacions relacionades
 scene.related.characters: Personatges relacionats
-scene.importance: Importància de l'escena
+scene.importance: Importància de la part
 scene.type: Tipus d'escena
 scene.duration: Duració de l'escena
 scene.time: Hora
@@ -59,7 +59,7 @@ write: Escriptura
 synopsis: Sinopsi
 title: Títol
 search_replace: Cerca i reemplaça
-search: Cerca al manuscrit
+search: Cerca al manuscrit i al món
 text: Text
 new.text: Crea un nou text
 folder: Carpeta
@@ -68,3 +68,42 @@ search.results.manuscript: Resultats de la cerca al manuscrit
 search.results.world: Resultats de la cerca
 manuscript.advanced.settings: Configuració avançada del manuscrit
 manuscript.basic.settings: Configuració bàsica del manuscrit
+html_export.description: Podeu copiar i enganxar el resultat de l'exportació en la
+  majoria de processadors de text com Word, Open Office, Google Docs o Pages
+html_export: Exporta en HTML
+exporting.header: Exportació
+statistics.header: Estadístiques
+kofi: Usuari de Ko-Fi.com
+patreon: Usuari de Patreon.com
+monetization.custom_advert: Missatge publicitari personalitzat
+monetization.access_denied: Missatge d'accés denegat personalitzat
+monetization.header: Opcions de monetització
+part.importance: Importància de la part
+part.type: Tipus de part
+part.duration: Duració de la part
+part.time: Hora
+scene.rich_media_description: Podeu enganxar un enllaç de Soundcloud, Spotify, YouTube,
+  Anchor.fm o d'un fitxer MP3 perquè aparegui a l'inici d'aquesta part. És una bona
+  manera de tenir una versió narrada en veu alta del text o per acompanyar-lo d'una
+  atmosfera sonora.
+scene.rich_media: URL de multimèdia
+label.management: Gestió d'etiquetes
+view.description: Previsualitzeu el manuscrit abans de publicar
+view: Previsualització
+status: Estat del manuscrit
+subscriber_groups: Grups de subscriptors
+access: Nivell d'accés
+publication: Estat de publicació
+genres.languages: 'Seleccioneu la llengua del vostre manuscrit. '
+genres.description: Si voleu avisar els vostres lectors sobre contingut sensible com
+  substancies, sang i fetge, violència i altres, especifiqueu-ho com a etiquetes.
+  Si utilitzeu les paraules en anglès (substances, blood, gore, violence, etc.) seran
+  ressaltades clarament a la portada del manuscrit.
+genres: Gèneres
+backcover: Resum de la contraportada
+manuscript.read.upper: LLEGEIX
+cover: Portada del manuscrit
+caption: Peu d'imatge
+image_part: Part de la imatge
+image: Imatge
+start.reading: Comenceu a llegir
