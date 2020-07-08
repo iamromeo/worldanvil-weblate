@@ -60,7 +60,7 @@ write: Ecrire
 synopsis: Synopsis
 title: Titre
 search_replace: Rechercher & Remplacer
-search: Rechercher dans le manuscrit
+search: Rechercher un manuscrit ou un monde
 new.text: Créer un nouveau Texte
 text: Texte
 folder: Dossier
@@ -69,3 +69,17 @@ search.results.world: Résultats de recherche dans le monde
 search.results.manuscript: Résultats de recherche dans le manuscrit
 manuscript.advanced.settings: Paramètres Avancés du Manuscrit
 manuscript.basic.settings: Paramètres de Base du Manuscrit
+manuscript.read.upper: LIRE
+start.reading: Commencer la lecture
+genres.languages: 'Cliquez sur le drapeau ci-dessous pour indiquer la langue de votre
+  manuscrit. Elle apparaîtra avec le code de la langue. '
+genres.description: Si vous souhaitez avertir vos lecteurs de la présence de contenu
+  sensible tel que le contenu ESRB (drogues, sang, gore, violence, etc), indiquez-les
+  dans les tags. Ils seront marqués et visibles clairement sur la page d'accueil de
+  votre manuscrit.
+genres: Genres
+backcover: Quatrième de couverture
+cover: Couverture du manuscrit
+caption: Légende
+image_part: Partie d'image
+image: Image
