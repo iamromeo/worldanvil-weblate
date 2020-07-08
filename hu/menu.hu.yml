@@ -67,7 +67,7 @@ browse: Böngészés
 advertising: Reklámozás
 sponsoring: Szponzorálás
 character.profile: Karakter Profil
-character.profiles: Karakter Profilok
+character.profiles: RPG Karakter Profilok
 character.view.profile: Profil Megtekintése
 character.edit.profile: Profil Szerkesztése
 character.view.sheet: Lap Megtekintése
@@ -93,7 +93,7 @@ community.statblocks: Közösségi Statblokkok
 homepage: Főoldal
 followed_worlds: Követett Világok
 your_reading_list: Olvasólistád
-stream: Közvetítés
+stream: RPG Karakterközvetítés
 gear_and_gifts: Felszerelés & Ajándékok
 documentation: Dokumentáció
 report_bug: Bug jelentése
@@ -104,3 +104,6 @@ go.to.create: A Létrehozás menübe
 community.shared.statblocks: Közösségi Statblokkok
 shared.statblocks: Megosztott Statblokkok
 account.apikeys: API kulcsok kezelése
+activated.features: Aktivált Funkciók
+view.profile: Profilod Megtekintése
+profile.settings: Profilbeállítások

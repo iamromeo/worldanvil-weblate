@@ -68,7 +68,7 @@ world.view: Mostra el món
 advertising: Anuncieu-vos
 sponsoring: Patrocini
 character.profile: Perfil del personatge
-character.profiles: Perfils de personatges
+character.profiles: Perfils de personatges de rol
 character.view.profile: Mostra el perfil
 character.edit.profile: Modifica el perfil
 character.view.sheet: Mostra la fitxa
@@ -100,7 +100,10 @@ ask_question: Feu-nos una pregunta
 campaign.npcs: NPCs
 campaign.parties: Grups
 go.to.create: Menú de creació
-stream: Publicacions
+stream: Publicacions de personatges de rol
 community.shared.statblocks: Blocs compartits per la comunitat
 shared.statblocks: Blocs compartits
 account.apikeys: Gestió de claus API
+activated.features: Funcions activades
+view.profile: Mostra el perfil
+profile.settings: Opcions de perfil
