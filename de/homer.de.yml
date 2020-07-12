@@ -34,3 +34,5 @@ genres: Genres
 genres.description: Wenn du deine Leser vor delikaten Inhalten nach dem ESRB System
   (Drogen, Gewalt, Sex, Blut, ...) warnen möchtest dann verwende ESRB Beschreiber
   als Tags. Diese werden deutlich sichtbar auf der Startseite des Manuskript dargestellt.
+genres.languages: Klicke auf die unten stehende Länderflagge, um die Sprache deines
+  Manuskript hervorzuheben. Es wird der Ländercode angezeigt.
