@@ -65,7 +65,8 @@ pov.help: Um dein POV Charakter auszuwählen, gib den Titel des entsprechenden C
 pov.remove: POV Charakter entfernen
 scene.notes: Notizen
 scene.rich_media: Rich Media URL
-scene.rich_media_description: Füge hier eine Soundcloud, Spotify, YouTube URL, eine
-  MP3 URI oder eine Anchor.fm **embed** URL ein. Es wird am Anfang des Abschnitt erscheinen.
-  Dies bietet eine tolle Möglichkeit eine Hörbuch/Lesung des Inhalts hinzuzufügen
+scene.rich_media_description: Füge hier einen Soundcloud, Spotify, YouTube URL, einen
+  MP3 URL oder eine Anchor.fm EMBED URL um ihn am Anfang des Abschnitt anzeigen zu
+  lassen. Dies bietet eine tolle Möglichkeit eine Hörbuch/Lesung des Inhalts hinzuzufügen
   oder die Stimmung zu setzen.
+scene.pov: P.O.V Charakter
