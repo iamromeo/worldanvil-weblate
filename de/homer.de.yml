@@ -64,3 +64,4 @@ pov.help: Um dein POV Charakter auszuwählen, gib den Titel des entsprechenden C
   ein
 pov.remove: POV Charakter entfernen
 scene.notes: Notizen
+scene.rich_media: Rich Media URL
