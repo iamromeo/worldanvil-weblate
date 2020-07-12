@@ -47,3 +47,4 @@ view: Ansehen
 view.description: Präsentationsmodus des Manuskript ansehen
 saved: Gespeichert
 tags: Tags
+tag.type: Art des Tag
