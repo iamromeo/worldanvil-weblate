@@ -8,3 +8,5 @@ manuscript.advanced.settings: 'Manuskript: Erweiterte Einstellungen'
 manuscript.settings: 'Manuskript: Einstellungen'
 manuscript.create: Neues Manuskript erstellen
 manuscript.world.activate: Du musst eine deiner Welten aktivieren
+manuscript.world.activate.desc: Du hast keine aktive Welt. Du brauchst eine um ein
+  Manuskript zu beginnen
