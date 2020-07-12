@@ -60,3 +60,5 @@ edit.label: Label bearbeiten
 choose.label: Label wählen
 edit.label.list: Label Liste bearbeiten
 pov.character: POV Charakter
+pov.help: Um dein POV Charakter auszuwählen, gib den Titel des entsprechenden Charakterartikels
+  ein
