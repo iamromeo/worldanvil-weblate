@@ -62,4 +62,5 @@ edit.label.list: Label Liste bearbeiten
 pov.character: POV Charakter
 pov.help: Um dein POV Charakter auszuwählen, gib den Titel des entsprechenden Charakterartikels
   ein
-pov.remove: Entferne POV Charakter
+pov.remove: POV Charakter entfernen
+scene.notes: Notizen
