@@ -48,7 +48,7 @@ players.looking: Játékosokat keres
 players.full: A Kampány Megtelt
 authors: Szerzők
 author.page: A Szerző oldala
-author.since: Tag %startdate% óta
+author.since: 'Csatlakozás Dátuma:'
 author.interests: Érdeklődés & Hobbi
 author.movies: Kedvenc Filmek
 author.tv: Kedvenc TV Sorozatok
