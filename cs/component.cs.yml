@@ -100,7 +100,7 @@ historical.entries: Historické události
 layers: Vrstvy
 list.blocks: Seznam RPG materiálů
 list.layers: Seznam vrstev
-position: Pozice/Důležitost
+position: Pozice/Váha
 position.description: Důležitost je číslo, které určuje, v jakém pořadí se položka
   zobrazí na daném seznamu. Čím vyšší číslo, tím výše se položka zobrazí.
 status.description: Nastavte tuto položku jako veřejnou, aby ji všichni mohli zobrazit.
@@ -174,7 +174,7 @@ link: Otevřít na nové stránce
 polygon: Polygon
 popup: Otevřít ve vyskakovacím okně
 pin: Špendlík
-list.pins: Seznam špendlíků na mapě
+list.pins: Seznam zaznačených míst
 map.compass: Obrázek růžice kompasu
 map.compass.description: Vyber obrázek, který se zobrazí jako kompasová růžice v pravém
   dolním rohu tvé mapy. Obrázek s průhledným pozadím bude vypadat mnohem lépe.
