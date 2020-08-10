@@ -73,18 +73,18 @@ access: Přístup
 create.new.campaign: Vytvořit novou kampaň
 create.new.category: Vytvořit kategorii
 create.historical.entry: Vytvořit historickou událost
-create.player.character: Vytvořit hráčskou postavu
+create.player.character: Vytvořit hráčský charakter
 create.new.historical.entry: Vytvořit novou historickou událost
 create.new.player.character: Vytvořit novou hráčskou postavu
 edit.historical.entry: Upravit historickou událost
 delete.historical.entry: Smazat historickou událost
 historical.entry: Historická událost
 list.historical.entries: Seznam historických událostí
-access.description: Nastav svůj příspěvek jako veřejný, aby si ho mohl každý zobrazit.
-  Soukromé příspěvky jsou viditelné pouze tobě a spoluautorům tvého světa.
+access.description: Nastav tento příspěvek jako veřejný, aby jej mohli všichni zobrazit.
+  Soukromé příspěvky jsou viditelné pouze pro tebe a spoluautory tvého světa
 tag.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
   k jakémukoli obsahu, který bude díky nim snáze dohledatelný.
-create.block: Vytvořit RPG materiál
+create.block: Vytvořit RPG blok
 create.layer: Vytvořit vrstvu
 create.new.block: Vytvořit nový RPG materiál
 create.new.layer: Vytvořit novou vrstvu
@@ -103,11 +103,11 @@ list.layers: Seznam vrstev
 position: Pozice/Váha
 position.description: Váha určuje v jakém pořadí se zobrazí jednotlivé položky v daném
   seznamu. Čím vyšší číslo, tím výše bude položka na seznamu zobrazena.
-status.description: Nastavte tuto položku jako veřejnou, aby ji všichni mohli zobrazit.
-  Soukromé položky jsou viditelné pouze pro vás a vaše spoluautory a odběratele s
-  náležitým oprávněním k vašemu světu.
+status.description: Nastav tuto položku jako veřejnou, aby ji mohli všichni zobrazit.
+  Soukromé položky jsou viditelné pouze pro tebe, tvé spoluautory a odběratele s náležitým
+  oprávněním k vašemu světu
 subscriber.groups.description: Vyber jednu nebo více skupin, kterým chceš povolit
-  přístup k tomuto článku. Nastavení ovlivní pouze soukromé články.
+  přístup k tomuto článku. Tímto ovlivníš pouze soukromé články.
 display: Zobrazení
 display.homepage: Zobrazit tuto mapu na domovské stránce světa.
 tags.description: K oddělení jednotlivých štítků použij čárky. Štítky můžeš přidat
@@ -145,7 +145,7 @@ create.new.marker: Vytvořit novou značku
 create.new.marker.group: Vytvořit novou skupinu značek
 create.new.note: Vytvořit novou poznámku
 create.new.world: Vytvořit Svět
-subscriber.groups: Odběratelské skupiny
+subscriber.groups: Skupiny odběratelů
 group: Skupina
 map.image: Hlavní obrázek mapy
 map.legend: Legenda
@@ -201,9 +201,9 @@ map.marker.polygonPoints: Body polygonu
 map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelníku. Můžeš
   použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
   na začátku kódu.
-map.marker.colorFill.description: Barva plochy vyplňující kruh nebo polygon. Můžeš
-  použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
-  na začátku kódu.
+map.marker.colorFill.description: Barva vyplně kruhu nebo mnohoúhelník. Můžeš použít
+  CSS barvy jako např. modrou, červenou, žlutou atd, NEBO použij hexkód zvolené barvy
+  spolu s hashem na začátku kódu
 map.marker.opacityOutline.description: Neprůhlednost ohraničení v procentech. Použij
   čísla od 0 po 100. (např. 50)
 map.marker.opacityFill.description: Neprůhlednost plochy výplně v procentech. Použij
@@ -259,10 +259,9 @@ map.layers.max: Dosáhl jsi maximálního počtu vrstev, které můžeš na své
   text-pink" href="/worldbuilders-guild-membership">1Cech tvůrců světů</a>2
 map.marker.linePoints: Body čáry
 map.marker.lineColor: Barva čáry
-map.marker.lineColor.description: 'Barva čáry. Můžeš použít CSS barvy jako je "blue",
-  "red", "yellow" atd. NEBO můžeš využít hexkódu příslušné barvy včetně křížku # na
-  začátku'
-map.marker.lineWeight: Pozice čáry
+map.marker.lineColor.description: 'Barva čáry. Můžeš použít CSS barvy jako např. modrá,
+  červená, žlutý atd. NEBO použij hexkód zvolené barvy spolu s hashem na začátku kódu'
+map.marker.lineWeight: Váha čáry
 map.marker.lineOpacity: Neprůhlednost čáry
 map.marker.lineOpacity.description: Neprůhlednost čáry v procentech. Použij čísla
   od 0 do 100 % (např. 50%)
@@ -297,7 +296,7 @@ map.marker.lineDash.description: Toto je pokrkočilá funkce. Používá se k p�
   délek.
 map.marker.linePoints.check: Zaklikni toto pole a umísti novou značku abys vytvořil
   čáru.
-create.block.template: Vytvořit šablonu pro RPG materiál
+create.block.template: Vytvořit šablonu RPG bloku
 create.group: Vytvořit skupinu
 create.new.era: Vytvořit novou éru
 access.rights.notice: Funkce Skupin a Odběratelů jsou dostupné jen pro členy Cechu!
@@ -308,7 +307,7 @@ subscriber: Odběratel
 groups: Skupiny
 list.subscribers: Odběratelé
 access.rights.subscribers: Odběratelé
-access.rights.groups: Skupiny
+access.rights.groups: Skupiny odběratelů
 access.rights.authors: Autoři
 access.authors.revoke: Zrušit přístup
 access.authors.coowner: Spolumajitel
