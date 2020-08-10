@@ -101,8 +101,8 @@ layers: Vrstvy
 list.blocks: Seznam RPG materiálů
 list.layers: Seznam vrstev
 position: Pozice/Váha
-position.description: Důležitost je číslo, které určuje, v jakém pořadí se položka
-  zobrazí na daném seznamu. Čím vyšší číslo, tím výše se položka zobrazí.
+position.description: Váha určuje v jakém pořadí se zobrazí jednotlivé položky v daném
+  seznamu. Čím vyšší číslo, tím výše bude položka na seznamu zobrazena.
 status.description: Nastavte tuto položku jako veřejnou, aby ji všichni mohli zobrazit.
   Soukromé položky jsou viditelné pouze pro vás a vaše spoluautory a odběratele s
   náležitým oprávněním k vašemu světu.
