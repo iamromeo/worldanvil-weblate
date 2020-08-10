@@ -48,7 +48,7 @@ list.markers: Seznam značek
 list.marker.groups: Seznam skupin značek
 list.notes: Seznam poznámek
 list.secrets: Seznam tajemství
-list.worlds: Seznam světů
+list.worlds: ' Seznam všech světů'
 related.category: Související kategorie
 create.campaign: Vytvořit kampaň
 create.category: Vytvořit kategorii
@@ -373,3 +373,4 @@ edit.block.template: Upravit šablonu pro RPG materiál
 create.new.block.template: Vytvořit novou šablonu pro RPG materiál
 create.code: Vytvořit kód
 world.summary: Přehled
+statblocks: Statbloky
