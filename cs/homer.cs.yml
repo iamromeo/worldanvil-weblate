@@ -11,3 +11,47 @@ manuscript.world.activate.desc: Nemáš žádný aktivní svět, musíš nějak�
 manuscript.world.activate: Musíš zvolit jeden ze svých světů
 manuscript.create: Vytvořit nový rukopis
 manuscript.settings: Nastavení rukopisu
+pov.character: POV postava
+edit.label.list: Upravit seznam etiket
+choose.label: Vyber etiketu
+edit.label: Upravit etiketu
+change.label: Změnit etiketu
+no.label: Žádná etiketa
+label.remove: Odebrat etiketu
+label: Etiketa
+label.management: Správa etiket
+article.remove: Odebrat článek
+press.enter: Stiskni "Enter" pro přidání nebo vyber z automaticky dokončeného seznamu.
+tag.remove: Odebrat štítek
+tag.type: Napiš jméno štítku
+saved: Uloženo
+view.description: Zobrazit prezentační verzi tohoto rukopisu
+read: Číst
+review: Revize
+write: Psát
+status: Status rukopisu
+subscriber_groups: Skupiny odběratelů
+publication: Status publikace
+access: Status soukromí
+genres: Žánry
+synopsis: Přehled
+backcover: Shrnutí rukopisu
+cover: Obálka rukopisu
+search: Prohledat rukopis a svět
+caption: Popisek obrázku
+image_part: Část obrázku
+image: Obrázek
+text: Text
+new.text: Vytvořit nový text
+folder: Složka
+new.folder: Vytvořit novou složku
+start.reading: Začít číst
+search.results.world: Výsledky hledání světa
+search.results.manuscript: Výsledky hledání rukopisu
+manuscript.read.upper: ČÍST
+tags: Štítky
+view: Zobrazit
+title: Název
+search_replace: Najít a nahradit
+manuscript.advanced.settings: Pokročilé nastavení rukopisu
+manuscript.basic.settings: Základní nastavení rukopisu
