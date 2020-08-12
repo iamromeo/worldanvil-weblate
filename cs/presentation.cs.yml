@@ -13,7 +13,7 @@ secrets: Tajemství
 maps: Mapy
 image.gallery: Galerie
 articles: Články
-followers.all: Zobrazit sledující
+followers.all: Zobrazit všechny sledující
 featured.articles: Vybrané články
 uncategorized.articles: Nezařazené články
 tweets.by: Tweety od
@@ -92,7 +92,7 @@ material.geo: Zeměpis a geologie
 material.orign: Původ a zdroj
 powered.by: Sponzoři
 in: ve světě
-recent.articles: Nedávno upravované články
+recent.articles: Nedávné články
 support.kofi.user: Kup %username% kafe!
 join.discord.world: Přidej se na %worldname% Discord!
 following: Sledující %name%
@@ -164,3 +164,4 @@ item.sidebar.rarity: Vzácnost
 language.alphabet: Abeceda
 heroes: Hrdinové
 editorial.team: Redakční tým
+organization.tree: Organizační schéma
