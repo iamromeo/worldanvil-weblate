@@ -17,15 +17,15 @@ rpg.session.report: Zpráva ze sezení
 condition: Stav
 formation.military: Vojenský útvar
 myth.legend: Mýtus / Legenda
-building: Místo, stavba
+building: Budova
 location.geographic: Lokace, Zeměpisná
 geography: Krajina
 location.settlement: Místo, osada
-settlement: Místo, osada
+settlement: Osada
 law: Přírodní zákon
 species: Druh
-technology: Technologie / Věda
-tradition: Tradice / Obřad
+technology: Technologie
+tradition: Tradice
 rpg.report: Zpráva ze sezení
 description.building: '... nebo jiný významný orientační bod. Divy, přírodní i umělé,
   ruiny, podzemní prostory, chrámy, památné stromy, kovárny, hostince či hrady. Cokoli
@@ -91,7 +91,7 @@ description.historical.entry: Mezi historické události patří takové příb�
 description.secret: Skryté pravdy, věci šeptané ve stínech zapadlých uliček. Děsivé
   skutečnosti čekající na odhalení.
 character: Postava
-material: Zdroje
+material: Materiál
 description.ethnicity: Nikoli biologický druh, ale bytosti se společným kulturním
   původem. Nejedná se o obyvatele jednoho království, ale o skupinu se stejnými hodnotami
   a tradicemi.

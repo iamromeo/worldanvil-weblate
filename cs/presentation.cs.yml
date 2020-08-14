@@ -24,8 +24,8 @@ follow.action.remove: PŘESTAT SLEDOVAT
 follow.action.add: SLEDOVAT
 like.action.remove: UŽ SE MI TO NELÍBÍ
 like.action.add: TO SE MI LÍBÍ
-like.action.add.description: Dej autorovi vědět, že se ti líbí jeho práce. Tento článek
-  se nezařadí do tvého seznamu "ke čtení".
+like.action.add.description: Dej autorovi vědět, že se ti jeho práce líbila. Tento
+  článek nebude zařazen do tvého seznamu "přečíst později"
 reading.action.remove: ODSTRANIT ZE SEZNAMU KE ČTENÍ
 reading.action.add: PŘIDAT DO SEZNAMU KE ČTENÍ
 reading.action.add.description: Přidej tento článek do tvého seznamu ke čtení/uloženým
@@ -33,7 +33,7 @@ reading.action.add.description: Přidej tento článek do tvého seznamu ke čte
 goto.homepage: Přejít na domovskou stránku %name%
 article.love: Lidé, kterým se líbí tvůj článek
 article.love.return: Běž a opětuj tobě vyjádřenou lásku!
-article.likes.number: Tento článek se líbí %number% tvůrců světů
+article.likes.number: Tento článek se líbí %number% Světotvůrcům
 article.visibility: Tento článek je viditelný pro tyto skupiny odběratelů
 author.notes: Poznámky autora
 players.looking: Hledám hráče
@@ -93,7 +93,7 @@ material.orign: Původ a zdroj
 powered.by: Sponzoři
 in: ve světě
 recent.articles: Nedávné články
-support.kofi.user: Kup %username% kafe!
+support.kofi.user: Kup kávu pro %username%!
 join.discord.world: Přidej se na %worldname% Discord!
 following: Sledující %name%
 follow: Sledovat %name%
@@ -133,7 +133,7 @@ material.items: Související předměty
 material.technologies: Související technologie
 material.professions: Související povolání
 writers.team: Tým spisovatelů
-follow.action.unfollow.world: Přestaň sledovat tento svět
+follow.action.unfollow.world: Přestat sledovat tento svět
 campaign.world: Ve světě %world_name%
 campaign.storytellers: Tento příběh je vyprávěn
 campaign.watchlive: Sleduj kampaň živě na Twitchi
