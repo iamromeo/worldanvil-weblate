@@ -30,32 +30,31 @@ rpg.report: Zpráva ze sezení
 description.building: '... nebo jiný významný orientační bod. Divy, přírodní i umělé,
   ruiny, podzemní prostory, chrámy, památné stromy, kovárny, hostince či hrady. Cokoli
   co si zaslouží vlastní jméno a můžeš to ukázat na mapě.'
-description.character: Od králů a královen až po hrdiny, venkovany a bohy.
+description.character: Od králů a královen po hrdiny, venkovany a bohy.
 description.condition: Přirozené i nadpřirozené nemoci, choroby, mutace a proměny.
 description.document: Smlouvy, knihy, umělecká díla, příručky, průvodce, prohlášení
   a mnohem víc!
 description.formation: Typy různých bojových útvarů. Jak vypadají tvoje legie, falangy,
-  šermíři, kopiníci a rytíři? Jaké je jejich vybavení a taktika?
+  šermíři, pikenýři a rytíři? Jaké používají vybavení a taktiky?
 description.generic: Obecné články se dají využít pro jakýkoli doprovodný obsah, jako
   jsou vlastní RPG pravidla, úvody ke kapitolám, příběhům, dalším textům, apod.
-description.geography: Geografie světů a vesmírů. Patří sem galaxie, sluneční systémy,
-  planety, pohoří, údolí, moře, bažiny a jezera. Jedná se o veškerá další zeměpisná
-  místa.
+description.geography: Světy a vesmíry. Galaxie, hvězdné soustavy, planety, pohoří,
+  údolí, moře, bažiny a jezera. Zkrátka všechny zeměpisné lokace.
 description.item: Předměty každodenní potřeby, peníze, nástroje, zbraně a zbroje;
   od těch nejběžnějších až po ty nejvzácnější
-description.law: Možná, že ve tvém světě gravitace funguje trochu jinak, nebo je vzduch
-  plný magie, nebo světlo cestuje pomaleji. Sem patří jakýkoli přirozený či nadpřirozený
-  přírodní a fyzikální zákon.
+description.law: Možná ve tvém světě funguje gravitace trochu jinak, nebo je vzduch
+  plný magie, nebo světlo cestuje pomaleji. Sem patří všechny abnormální přirozené
+  či nadpřirozené přírodní a fyzikální zákony.
 description.language: Způsoby jakými se inteligentní bytosti ve tvém světě dorozumívají
-  a vzájemně si vyměňují svoje představy a myšlenky.
+  a vzájemně si vyměňují svoje představy či myšlenky.
 description.material: Suroviny, obchodní zboží a chemické prvky. Cokoli od Mithrilu
   a Adamantia po Uran a Unobtanium 2000.
 description.conflict: Války, bitvy, obléhání a jiné potyčky. Obecně, cokoli kde se
   střetnou dvě strany a každá z nich drží něco ostrého.
-description.legend: Sem patří folklór Tvého světa. Věci podobné králi Artušovi a jeho
-  rytířům, krokodýlům ve stokách New Yorku nebo třeba yettimu.
-description.organization: Království, baronství, církve (a další organizovaná náboženství),
-  tajné společnosti, skupiny nemilosrdných žoldnéřů nebo rytířské a kouzelnické řády.
+description.legend: Sem patří folklór Tvého světa. Legendy o králi Artušovi a jeho
+  rytířích, krokodýli v Newyorkských stokách, nebo třeba Yetty.
+description.organization: Království, hrabství, církve (a další organizovaná náboženství),
+  tajné společenství, bandy nemilosrdných žoldnéřů nebo rytířské a kouzelnické řády.
   Mohou být navázané na určité území ale nemusí.
 description.prose: Haiku, básně, povídky a kapitoly knih zobrazené v jednoduché formě
   zaměřené na srozumitelnost a čitelnost textu.
