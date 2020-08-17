@@ -8,6 +8,8 @@ state: State
 status: Status
 weight: Weight 
 help: Do you need Help?
+reference: Design Tags Reference
+advanced_options: Open Advanced Tools & Options
 home: Home
 class: CSS Class
 class.name: CSS Class Name

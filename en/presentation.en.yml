@@ -45,7 +45,8 @@ following: Following %name%
 follow: Follow %name%
 follow.action.remove: UNFOLLOW
 follow.action.unfollow.world: "Unfollow World"
-follow.action.add: FOLLOW
+follow.action.add: FOLLOW WORLD
+copy.article.block: COPY ARTICLE BLOCK
 follow.action.add.description: "Follow to get in your stream all the articles written by its authors in this world!"
 like.action.remove: "REMOVE LIKE"
 like.action.add: LIKE
@@ -336,8 +337,9 @@ location.related_myths: "Related Myths"
 
 
 # Material
-material.properties: Properties 
-material.characteristics: "Physical Characteristics"
+material.properties:  Properties
+material.physical.properties: "Physical & Chemical  Properties"
+material.characteristics: "Material Characteristics"
 material.compounds: Compounds 
 material.geo: "Geology & Geography"
 material.origin: "Origin & Source" 

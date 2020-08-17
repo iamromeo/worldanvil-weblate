@@ -16,6 +16,7 @@ manuscript.settings.upper: 'SETTINGS'
 
 search.results.world: World search results
 search.results.manuscript: Manuscript search results
+continue.reading: 'Continue Reading'
 start.reading: 'Start reading'
 
 new.folder: 'Create a new Folder'
@@ -35,7 +36,7 @@ title: 'Title'
 synopsis: 'Synopsis'
 genres: 'Genres'
 genres.description: 'If you wish to warn your readers for sensitive material like any under the ESRB descriptors (substances, blood, gore, violence etc) use them as tags. They will be marked and visible prominently on your manuscript`s homepage.'
-genres.languages: 'Click on the flag below to denote the language of your manuscript. It will appear with the language\` code. '
+genres.languages: 'Click on the language below to denote the language of your manuscript. It will appear with the language\` code. '
 publication: 'Publication Status'
 access: 'Privacy Status'
 subscriber_groups: 'Subscriber Groups'
