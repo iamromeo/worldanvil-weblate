@@ -85,3 +85,8 @@ image_part: Partie d'image
 image: Image
 publication: État de publication
 access: Confidentialité
+label.management: Gestion des labels
+view.description: Voir la version de présentation de ce Manuscrit
+view: Voir
+status: Statut du manuscrit
+subscriber_groups: Groupes d'abonnés
