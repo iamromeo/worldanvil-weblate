@@ -90,3 +90,14 @@ view.description: Voir la version de présentation de ce Manuscrit
 view: Voir
 status: Statut du manuscrit
 subscriber_groups: Groupes d'abonnés
+html_export.description: Vous pouvez copier-coller cet export dans n'importe quel
+  traitement de texte tel que Word, Open Office, Google Docs ou Pages
+statistics.header: Statistiques
+kofi: Nom d'utilisateur Ko-Fi.com
+patreon: Nom d'utilisateur Patreon.com
+monetization.custom_advert: Message de publicité personnalisé
+monetization.header: Options de monétisation
+scene.rich_media_description: Collez ici une adresse Soundcloud, Spotify, YouTube,
+  MP3, ou une adresse Anchor.fm intégrée pour qu'elle apparaisse au-dessus de cette
+  partie. C'est une très bonne manière d'ajouter un livre audio de votre travail,
+  ou d'ajouter une atmosphère.
