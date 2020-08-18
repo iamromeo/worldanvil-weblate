@@ -78,8 +78,7 @@ status: Estado del manuscrito
 subscriber_groups: Grupos de suscriptores
 access: Nivel de acceso
 publication: Estado de publicación
-genres.languages: 'Selecciona la bandera que quieras para indicar el idioma de tu
-  manuscrito. '
+genres.languages: 'Selecciona el idioma de tu manuscrito. '
 html_export.description: Puedes copiar y pegar este texto en cualquier procesador
   como Word, Open Office, Google Docs o Pages
 html_export: Exportar en HTML
@@ -105,3 +104,4 @@ image_part: Parte de la imagen
 image: Imagen
 start.reading: Empieza a leer
 manuscript.read.upper: LEER
+continue.reading: Seguir leyendo
