@@ -1,7 +1,7 @@
 world.anvil.header: World Anvil - Мастерская создания миров и Сообщество
 in: в
 follow.action.remove: ОТПИСКА
-follow.action.add: ПОДПИСКА
+follow.action.add: СЛЕДИТЬ ЗА МИРОМ
 follow.action.add.description: Подпишитесь, чтоб получать в ленте все статьи написанные
   автором этого мира!
 like.action.remove: ОТОЗВАТЬ ЛАЙК
@@ -109,7 +109,7 @@ landmark.architecture: Архитектура
 landmark.owner: Владелец
 landmark.charactersinlocation: Персонажи в локации
 material.properties: Свойства
-material.characteristics: Физические характеристики
+material.characteristics: Материальные характеристики
 material.compounds: Составные элементы
 material.geo: Геология и география
 material.origin: Происхождение и источник
@@ -724,3 +724,5 @@ location.history: История
 landmark.vehicle: Отсек транспорта
 landmark.constructed: Дата построения
 person.age: Возраст
+material.physical.properties: Физические и химические свойства
+copy.article.block: СКОПИРОВАТЬ БЛОК СТАТЕЙ

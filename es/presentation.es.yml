@@ -27,7 +27,7 @@ join.discord.world: ¡Únete al Discord de %worldname%!
 following: Siguiendo a %name%
 follow: Seguir a %name%
 follow.action.remove: DEJAR DE SEGUIR
-follow.action.add: SEGUIR
+follow.action.add: SEGUIR MUNDO
 follow.action.add.description: ¡Sigue este mundo para obtener las actualizaciones
   que sus autores hagan en él!
 like.action.remove: YA NO ME GUSTA
@@ -91,7 +91,7 @@ landmark.organization: Organización propietaria
 landmark.connectedrooms: Habitaciones adyacentes
 landmark.reportprimarylocations: Informe relacionado (localizaciones principales)
 landmark.reportsecondarylocations: Informe relacionado (localizaciones secundarias)
-material.characteristics: Características físicas
+material.characteristics: Características materiales
 material.compounds: Compuestos
 material.geo: Geología y geografía
 material.orign: Origen y fuente
@@ -724,3 +724,5 @@ location.history: Historia
 landmark.vehicle: Compartimento del vehículo
 landmark.constructed: Fecha de construcción
 person.age: Edad
+material.physical.properties: Propiedades físicas y/o químicas
+copy.article.block: COPIAR BLOQUE DEL ARTÍCULO
