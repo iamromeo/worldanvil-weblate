@@ -93,7 +93,7 @@ community.statblocks: Statbloky komunity
 homepage: Hlavní strana
 followed_worlds: Světy co sleduješ
 your_reading_list: Seznam četby
-stream: Stream
+stream: Sledované RPG postavy
 gear_and_gifts: Vybavení a dárky
 documentation: Dokumentace
 report_bug: Nahlas chybu
@@ -105,3 +105,5 @@ view.profile: Zobrazit vlastní profil
 profile.settings: Nastavení profilu
 activated.features: Aktivované Funkce
 account.apikeys: Správa klíčů API
+community.shared.statblocks: Komunitou sdílené Statbloky
+shared.statblocks: Sdílené Statbloky
