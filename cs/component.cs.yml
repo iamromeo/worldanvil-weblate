@@ -206,8 +206,8 @@ map.marker.colorFill.description: Barva vyplně kruhu nebo mnohoúhelník. Můž
   spolu s hashem na začátku kódu
 map.marker.opacityOutline.description: Neprůhlednost ohraničení v procentech. Použij
   čísla od 0 po 100. (např. 50)
-map.marker.opacityFill.description: Neprůhlednost plochy výplně v procentech. Použij
-  čísla od 0 po 100. (např. 50)
+map.marker.opacityFill.description: Percentuální neprůhlednost plochy vyplňující kruh
+  nebo mnohoúhelník. Od 0 do 100% (tj. 50)
 pin.shadow.description: Obrázek stínu špendlíku. Tento obrázek je volitelný. Při vložení
   musí být širší než obrázek špendlíku a rozprostírat se doprava.
 organization.and.access: Organizace a přístup
@@ -374,3 +374,4 @@ world.summary: Přehled
 statblocks: Statbloky
 map.marker.choice.functionality: K čemu je?
 map.marker.choice.type: Jaký je to typ ukazatele?
+dashboard: Nástěnka
