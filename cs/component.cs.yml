@@ -204,9 +204,9 @@ map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelní
 map.marker.colorFill.description: Barva vyplně kruhu nebo mnohoúhelník. Můžeš použít
   CSS barvy jako např. modrou, červenou, žlutou atd, NEBO použij hexkód zvolené barvy
   spolu s hashem na začátku kódu
-map.marker.opacityOutline.description: Neprůhlednost ohraničení v procentech. Použij
-  čísla od 0 po 100. (např. 50)
-map.marker.opacityFill.description: Percentuální neprůhlednost plochy vyplňující kruh
+map.marker.opacityOutline.description: Percentuální neprůhlednost ohraničení. Od 0
+  do 100%. (tj. 50)
+map.marker.opacityFill.description: Procentuální průhlednost plochy vyplňující kruh
   nebo mnohoúhelník. Od 0 do 100% (tj. 50)
 pin.shadow.description: Obrázek stínu špendlíku. Tento obrázek je volitelný. Při vložení
   musí být širší než obrázek špendlíku a rozprostírat se doprava.
@@ -226,8 +226,8 @@ map.marker.polygonPoints.description: Párově zapsaná zeměpisná délka a š�
   50,45.  Tip! Použij červený špendlík "nový bod" k zobrazení souřadnic.
 map.marker.colorOutline: Barva ohraničení
 map.marker.colorFill: Barva výplně
-map.marker.opacityOutline: Neprůhlednost ohraničení
-map.marker.opacityFill: Neprůhlednost výplně
+map.marker.opacityOutline: Průhlednost ohraničení
+map.marker.opacityFill: Průhlednost výplně
 pin.pinImage: Obrázek špendlíku
 pin.shadow: Obrázek stínu špendlíku
 functionality: Funkčnost
