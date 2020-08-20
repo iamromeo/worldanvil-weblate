@@ -122,7 +122,7 @@ map.legend.description: Toto pole se zobrazí v levém dolním rohu tvojí mapy.
 map.marker.new: Nový ukazatel místa
 map.marker.drag: Přetáhnutím nastavíš souřadnice nového ukazatele
 map.marker.fill: Skvělé! Teď vyplň formulář níže!
-map.display.homepage: Zobrazit tuto mapu na domovské stránce světa.
+map.display.homepage: Zobrazit tuto mapu na domovské stránce Světa.
 guild.access: Účty zdarma mají veškeré příspěvky veřejné. Přidej se do <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Cechu tvůrců světů (WBG)</a>,
   abys získal/a možnost nastavit si, které skupiny odběratelů budou mít přístup k
@@ -189,15 +189,15 @@ map.zoom.min.description: Jak daleko můžeš mapu oddálit. Nastav toto jako z�
 map.zoom.max: Maximální povolené přiblížení
 map.center.y: Výchozí bod pro osu Y
 map.center.x: Výchozí bod pro osu X
-map.marker.label: Text štítku
-map.marker.label.description: Text, který se na tvé mapě zobrazí u tohoto štítku.
+map.marker.label: Text etikety
+map.marker.label.description: Text, který se na tvé mapě zobrazí u této etikety.
 map.marker.choice: Vyber a vyplň jen jednu z následujících možností.
 map.marker.radius: Poloměr kruhu
-map.marker.radius.description: Poloměr kruhu v pixelech, tuto hodnotu vyplň jen, pokud
-  chceš vytvořit kruh a ne polygon.
-map.marker.link.description: Když tuto značku označíš jako značku s přímým odkazem,
+map.marker.radius.description: Poloměr kruhu v pixelech. Tuto hodnotu vyplň pouze
+  pokud chceš vytvořit kruh a ne mnohoúhelník.
+map.marker.link.description: Když tento ukazatel označíš jako ukazatel s přímým odkazem,
   tak po kliknutí přenese uživatele přímo na cílovou stránku.
-map.marker.polygonPoints: Body polygonu
+map.marker.polygonPoints: Body mnohoúhelníku
 map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelníku. Můžeš
   použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
   na začátku kódu.
