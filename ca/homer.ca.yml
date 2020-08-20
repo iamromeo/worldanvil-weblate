@@ -94,7 +94,8 @@ status: Estat del manuscrit
 subscriber_groups: Grups de subscriptors
 access: Nivell d'accés
 publication: Estat de publicació
-genres.languages: 'Seleccioneu la llengua del vostre manuscrit. '
+genres.languages: 'Seleccioneu la llengua del vostre manuscrit. Apareixerà amb el
+  codi de llengua. '
 genres.description: Si voleu avisar els vostres lectors sobre contingut sensible com
   substancies, sang i fetge, violència i altres, especifiqueu-ho com a etiquetes.
   Si utilitzeu les paraules en anglès (substances, blood, gore, violence, etc.) seran
@@ -107,3 +108,4 @@ caption: Peu d'imatge
 image_part: Part de la imatge
 image: Imatge
 start.reading: Comenceu a llegir
+continue.reading: Continua llegint
