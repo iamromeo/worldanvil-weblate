@@ -43,8 +43,9 @@ description.ethnicity: No l'espècie sinó la gent relacionada per avantpassats 
 description.formation: Prototips de formacions militars. Com són les teves legions,
   falanges, espadatxins, llancers i cavallers. Quines són les seves armes i estratègies
   militars?
-description.generic: Els articles genèrics poden utilitzar-se per contingut addicional,
-  normes casolanes de rol, introduccions a capítols, històries, prosa...
+description.generic: 'Escriu el que vulguis, sense guies ni apartats predefinits:
+  contingut addicional, normes casolanes de rol, introduccions a capítols, històries,
+  prosa...'
 description.geography: Mons i universos. Galàxies, sistemes solars, planetes, serralades,
   valls, grans mars, aiguamolls i llacs. Totes les ubicacions geogràfiques.
 description.item: Objectes d'ús diari, monedes, eines, armes, armadures... des dels

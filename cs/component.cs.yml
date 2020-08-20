@@ -200,7 +200,7 @@ map.marker.link.description: Když tento ukazatel označíš jako ukazatel s př
 map.marker.polygonPoints: Body mnohoúhelníku
 map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelníku. Můžeš
   použít CSS barvy jako modrou, červenou, žlutou atd, NEBO hex kód barvy spolu s mřížkou
-  na začátku kódu.
+  na začátku kódu
 map.marker.colorFill.description: Barva vyplně kruhu nebo mnohoúhelník. Můžeš použít
   CSS barvy jako např. modrou, červenou, žlutou atd, NEBO použij hexkód zvolené barvy
   spolu s hashem na začátku kódu
@@ -326,8 +326,8 @@ create: Vytvořit
 world.view: Zobrazit Svět
 characters: Postavy
 history: Historie
-map.marker.draggable.checkbox: Tato značka se dá přesunout.
-map.marker.draggable: Značka
+map.marker.draggable.checkbox: Tento ukazatel se dá posouvat.
+map.marker.draggable: Posouvatelný ukazatel
 map.settings: Nastavení mapy
 map.presentation: Otevřít prezentační mód
 list.orgcharts: Seznam obsahových schémat
@@ -375,3 +375,8 @@ statblocks: RPG materiály
 map.marker.choice.functionality: K čemu je?
 map.marker.choice.type: Jaký je to typ ukazatele?
 dashboard: Nástěnka
+map.marker.draggable.description.2: Přesouvání je zpřístupněné pouze pro všechny normální
+  značky a ukazatele.
+map.marker.draggable.description: Posouvatelný ukazatel mohou přesouvat všichni Autoři,
+  Editoři a Vlastníci Světa. Po přesunutí se uloží nová pozice ukazatele. Tato funkce
+  je k dispozici při používání celé mapy v režimu prezentace a průzkumu.

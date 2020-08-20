@@ -21,7 +21,7 @@ world.configure: Nastavení Světa
 configuration: Nastavení
 welcome: Vítej
 saved.articles: Uložené články
-notifications: Oznámení
+notifications: Upozornění
 world.browse: Procházet Světy
 campaign.home: Domů
 campaign.sessions: Sezení
@@ -81,13 +81,13 @@ aacount: Účet
 badges: Odznaky
 campaign: Kampaň
 campaign.npcs: NPC postavy
-campaign.primer: Primer
+campaign.primer: Podklady ke kampani
 campaign.page: Zobrazit kampaň
 campaign.settings: Nastavení
 accessibility: Přístupnost
 news: Novinky
 images_and_files: Obrázky a soubory
-statblocks: Statbloky
+statblocks: RPG materiály
 your.statblocks: Tvoje Statbloky
 community.statblocks: Statbloky komunity
 homepage: Hlavní strana
