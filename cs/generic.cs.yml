@@ -94,7 +94,7 @@ dashboard.create.first: Vytvoř svůj první svět!
 dashboard.page.title: Tvoje nástěnka
 goto.articles.list: Jdi k seznamu článků
 goto.account: Jdi k detailům účtu
-join.worldanvil.cta: Připoj se ke Guildě Stavitelů světů
+join.worldanvil.cta: Přidej se k cechu Světotvůrců
 join.discord.description: Zúčastni se vývoje World Anvil - připoj se k výzvám v budování
   světů - získej odměny a úžasné odznaky!
 join.discord: Přidej se na náš Discord
@@ -103,4 +103,4 @@ dismiss: Zahodit
 welcome: Vítej
 community: Komunita
 notifications: Oznámení
-dashboard.stream: Budoucí vysílání
+dashboard.stream: Nadcházející vysílání
