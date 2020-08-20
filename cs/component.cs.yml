@@ -76,7 +76,7 @@ create.historical.entry: Vytvořit historickou událost
 create.player.character: Vytvořit hráčský charakter
 create.new.historical.entry: Vytvořit nový historický záznam
 create.new.player.character: Vytvořit novou hráčskou postavu
-edit.historical.entry: Upravit historickou událost
+edit.historical.entry: Upravit historický záznam
 delete.historical.entry: Smazat historickou událost
 historical.entry: Historická událost
 list.historical.entries: Seznam historických událostí
@@ -204,8 +204,8 @@ map.marker.colorOutline.description: Barva ohraničení kruhu nebo mnohoúhelní
 map.marker.colorFill.description: Barva vyplně kruhu nebo mnohoúhelník. Můžeš použít
   CSS barvy jako např. modrou, červenou, žlutou atd, NEBO použij hexkód zvolené barvy
   spolu s hashem na začátku kódu
-map.marker.opacityOutline.description: Percentuální neprůhlednost ohraničení. Od 0
-  do 100%. (tj. 50)
+map.marker.opacityOutline.description: Procentuální průhlednost ohraničení. Od 0 do
+  100%. (tj. 50)
 map.marker.opacityFill.description: Procentuální průhlednost plochy vyplňující kruh
   nebo mnohoúhelník. Od 0 do 100% (tj. 50)
 pin.shadow.description: Obrázek stínu špendlíku. Tento obrázek je volitelný. Při vložení
@@ -256,7 +256,7 @@ map.marker.group.onload.description: Tato skupina bude viditelná při prvotním
   mapy
 map.layers.max: Dosáhl jsi maximálního počtu vrstev, které můžeš na svém účtu mít!
   Pokud chceš mít více vrstev na svých mapách, zvaž vylepšení svého účtu! <a class="m-t-10
-  text-pink" href="/worldbuilders-guild-membership">Cech tvůrců světů</a>
+  text-pink" href="/worldbuilders-guild-membership">Cech Světotvůrců</a>
 map.marker.linePoints: Body čáry
 map.marker.lineColor: Barva čáry
 map.marker.lineColor.description: 'Barva čáry. Můžeš použít CSS barvy jako např. modrá,
