@@ -1,30 +1,30 @@
-delete.map: Smazat mapu
+delete.map: Odstranit mapu
 world: Svět
 campaigns: Kampaně
 create.author.profile: Vytvořit profil
-edit.author.profile: Upravit profil
+edit.author.profile: Upravit Profil
 edit.category: Upravit kategorii
 edit.image: Upravit obrázek
 edit.map: Upravit mapu
-edit.marker: Upravit značku
-edit.marker.group: Upravit skupinu značek
+edit.marker: Upravit ukazatel
+edit.marker.group: Upravit skupinu ukazatelů
 edit.note: Upravit poznámku
 edit.secret: Upravit tajemství
-edit.world: Upravit svět
-delete.author.profile: Smazat profil
-delete.category: Smazat kategorii
-delete.image: Smazat obrázek
-delete.marker: Smazat značku
-delete.marker.group: Smazat skupinu značek
-delete.note: Smazat poznámku
-delete.secret: Smazat tajemství
-delete.world: Smazat svět
+edit.world: Upravit Svět
+delete.author.profile: Odstranit Profil
+delete.category: Odstranit kategorii
+delete.image: Odstranit obrázek
+delete.marker: Odstranit ukazatel
+delete.marker.group: Odstranit skupinu ukazatelů
+delete.note: Odstranit poznámku
+delete.secret: Odstranit tajemství
+delete.world: Odstranit Svět
 author.profile: Profil
 category: Kategorie
 image: Obrázek
 map: Mapa
-marker: Značka
-marker.group: Skupina značek
+marker: Ukazatel
+marker.group: Skupina ukazatelů
 note: Poznámka
 secret: Tajemství
 tag: Štítek
@@ -32,8 +32,8 @@ articles: Články
 categories: Kategorie
 images: Obrázky
 maps: Mapy
-markers: Značky
-marker.groups: Skupiny značek
+markers: Ukazatele
+marker.groups: Skupiny ukazatelů
 timelines: Časové osy
 notes: Poznámky
 secrets: Tajemství
@@ -44,11 +44,11 @@ list.categories: Seznam kategorií
 list.images: Seznam obrázků
 list.player.characters: Seznam hráčských postav
 list.maps: Seznam map
-list.markers: Seznam značek
-list.marker.groups: Seznam skupin značek
+list.markers: Seznam ukazatelů
+list.marker.groups: Seznam skupin ukazatelů
 list.notes: Seznam poznámek
 list.secrets: Seznam tajemství
-list.worlds: ' Seznam všech světů'
+list.worlds: ' Seznam všech Světů'
 related.category: Související kategorie
 create.campaign: Vytvořit kampaň
 create.category: Vytvořit kategorii
@@ -60,10 +60,10 @@ create.note: Vytvořit poznámku
 create.secret: Vytvořit tajemství
 create.world: Vytvořit svět
 create.new.image: Vytvořit nový obrázek
-edit.campaign: Upravit kampaň
-delete.campaign: Smazat kampaň
+edit.campaign: Upravit Kampaň
+delete.campaign: Odstranit Kampaň
 campaign: Kampaň
-list.campaigns: Seznam kampaní
+list.campaigns: Seznam Kampaní
 related.location: Související místo
 related.map: Související mapa
 related.organization: Související organizace
@@ -77,7 +77,7 @@ create.player.character: Vytvořit hráčský charakter
 create.new.historical.entry: Vytvořit nový historický záznam
 create.new.player.character: Vytvořit novou hráčskou postavu
 edit.historical.entry: Upravit historický záznam
-delete.historical.entry: Smazat historickou událost
+delete.historical.entry: Odstranit historickou událost
 historical.entry: Historická událost
 list.historical.entries: Seznam historických událostí
 access.description: Nastav tento příspěvek jako veřejný, aby jej mohli všichni zobrazit.
@@ -91,8 +91,8 @@ create.new.layer: Vytvořit novou vrstvu
 create.new.secret: Vytvořit nové tajemství
 edit.block: Upravit RPG materiál
 edit.layer: Upravit vrstvu
-delete.block: Smazat RPG materiál
-delete.layer: Smazat vrstvu
+delete.block: Odstranit RPG materiál
+delete.layer: Odstranit vrstvu
 block: RPG materiál
 layer: Vrstva
 blocks: RPG materiály
@@ -119,9 +119,9 @@ map.image.details: Předpokládané rozměry souboru jsou
 map.legend.description: Toto pole se zobrazí v levém dolním rohu tvojí mapy. Využij
   tento prostor k vytvoření legendy pro jednotlivé mapové značky, k sepsání krátkého
   popisku nebo k poskytnutí jakýchkoli dalších souvislostí.
-map.marker.new: Nová mapová značka
-map.marker.drag: Přesunutím ukazatele nastavíš souřadnice nové značky.
-map.marker.fill: Skvělé! Teď vyplň zbytek formuláře pod mapou!
+map.marker.new: Nový ukazatel místa
+map.marker.drag: Přetáhnutím nastavíš souřadnice nového ukazatele
+map.marker.fill: Skvělé! Teď vyplň formulář níže!
 map.display.homepage: Zobrazit tuto mapu na domovské stránce světa.
 guild.access: Účty zdarma mají veškeré příspěvky veřejné. Přidej se do <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Cechu tvůrců světů (WBG)</a>,
@@ -144,7 +144,7 @@ create.new.map: Vytvořit novou mapu
 create.new.marker: Vytvořit nový ukazatel
 create.new.marker.group: Vytvořit novou skupinu ukazatelů
 create.new.note: Vytvořit novou poznámku
-create.new.world: Vytvořit Svět
+create.new.world: Vytvořit nový Svět
 subscriber.groups: Skupiny odběratelů
 group: Skupina
 map.image: Hlavní obrázek mapy
@@ -155,9 +155,9 @@ map.marker.longitude: Zeměpisná délka
 map.marker.latitude: Zeměpisná šířka
 map.marker.height: Výška
 edit.player.character: Upravit hráčskou postavu
-edit.timeline: Upravit časovou osu
-delete.player.character: Smazat hráčskou postavu
-delete.timeline: Smazat časovou osu
+edit.timeline: Upravit Časovou osu
+delete.player.character: Odstranit hráčskou postavu
+delete.timeline: Odstranit časovou osu
 player.character: Hráčská postava
 timeline: Časová osa
 player.characters: Hráčské postavy
@@ -165,20 +165,20 @@ list.timelines: Seznam časových os
 subscribers: Odběratelé
 followers: Sledující
 create.pin: Vytvořit značku na mapě
-create.new.pin: Vytvořit nový špendlík na mapě
-edit.pin: Upravit špendlík na mapě
-delete.pin: Smazat špendlík na mapě
+create.new.pin: Vytvořit novou značku na mapě
+edit.pin: Upravit značku na mapě
+delete.pin: Odstranit značku na mapě
 circle: Kruh
 label: Etiketa
 link: Otevřít na nové stránce
-polygon: Polygon
+polygon: Mnohoúhelník
 popup: Otevřít ve vyskakovacím okně
 pin: Špendlík
 list.pins: Seznam zaznačených míst
 map.compass: Obrázek růžice kompasu
 map.compass.description: Vyber obrázek, který se zobrazí jako kompasová růžice v pravém
   dolním rohu tvé mapy. Obrázek s průhledným pozadím bude vypadat mnohem lépe.
-map.thumbnail: Náhled
+map.thumbnail: Náhledový obrázek
 map.zoom.initial: Počáteční přiblížení
 map.zoom.initial.description: Nastav přiblížení při prvotním zobrazení mapy. (Výchozí
   hodnota 0)
@@ -300,8 +300,8 @@ create.group: Vytvořit skupinu
 create.new.era: Vytvořit novou Epochu
 access.rights.notice: Funkce Skupin a Odběratelů jsou dostupné jen pro členy Cechu!
 edit.group: Upravit skupinu
-view.world: Zobrazit svět
-delete.group: Smazat skupinu
+view.world: Zobrazit Svět
+delete.group: Odstranit skupinu
 subscriber: Odběratel
 groups: Skupiny
 list.subscribers: Odběratelé
@@ -330,7 +330,7 @@ map.marker.draggable.checkbox: Tato značka se dá přesunout.
 map.marker.draggable: Značka
 map.settings: Nastavení mapy
 map.presentation: Otevřít prezentační mód
-list.orgcharts: Seznam obsahů
+list.orgcharts: Seznam obsahových schémat
 list.charts: Seznam schémat
 list.characters: Seznam postav
 article.templates: Šablony článků
@@ -338,10 +338,10 @@ calendars: Kalendáře
 events: Historické události
 timelines_and_calendars: Časové osy a kalendáře
 histories: Historie
-orgcharts: Obsahy
-charts: Schéma
-sheets.and.blocks: Tabulky a bloky
-map.pins: Špendlíky na mapě
+orgcharts: Obsahová schémata
+charts: Schémata
+sheets.and.blocks: Tabulky a materiály
+map.pins: Značky na mapě
 athena: Články a kategorie
 content: Obsah
 world.explorer: Průzkumník
@@ -349,8 +349,8 @@ world.explore: Prozkoumat
 orgchart.structure: Struktura obsahu
 orgchart: Obsah
 chart: Schéma
-delete.article.template: Smazat šablonu článku
-delete.orgchart: Smazat obsah
+delete.article.template: Odstranit šablonu článku
+delete.orgchart: Odstranit Obsahové schéma
 edit.orgchart.item: Upravit položku Obsahu
 edit.orgchart: Upravit Obsah
 create.new.orgchart: Vytvořit nové Obsahové schéma
@@ -365,13 +365,13 @@ Settings & Tools: Nastavení a nástroje
 list.block.templates: Seznam šablon pro RPG materiály
 block.templates: Šablony pro RPG materiály
 block.template: Šablona pro RPG materiál
-deete.code: Smazat kód
-delete.block.template: Smazat šablonu pro RPG materiál
+deete.code: Odstranit kód
+delete.block.template: Odstranit šablonu pro RPG materiál
 edit.block.template: Upravit šablonu pro RPG materiál
 create.new.block.template: Vytvořit novou šablonu pro RPG blok
 create.code: Vytvořit kód
 world.summary: Přehled
-statblocks: Statbloky
+statblocks: RPG materiály
 map.marker.choice.functionality: K čemu je?
 map.marker.choice.type: Jaký je to typ ukazatele?
 dashboard: Nástěnka
