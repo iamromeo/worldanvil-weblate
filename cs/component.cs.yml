@@ -390,11 +390,16 @@ access.authors.advanced.writer: Pokročilý Písař
 access.authors.writer.description: Přístup k vytváření návrhů článků. Tyto články
   pak mohou spravovat, organizovat a publikovat Editoři a členové s vyšším oprávněním.
 access.group.assets: Majetek Skupiny
-access.subscribers.purge: Vyčistit všechny nastavající Odběratele z listu před Importem
-access.subscribers.slots: Použité Místa pro Odběry
-access.authors.slots: Použité Místa pro Autory
-access.group.description.description: (nepovinné) Abys nezapomněl kým jsi a proč jsi
-  v této skupině.
-access.group.edit: Upravit skupiny odběratelů
-access.group.management: Správa skupin odběratelů
-access.subscribers.management: Správa odběratelů
+access.subscribers.purge: Zbavit se všech stávajících Odběratelů z listu před Importem
+access.subscribers.slots: Obsazené Odběratelské pozice
+access.authors.slots: Obsazené Autorské pozice
+access.group.description.description: (nepovinné) Abys věděl kdo je v této skupině
+  a proč tam je.
+access.group.edit: Upravit Skupiny Odběratelů
+access.group.management: Správa Skupin Odběratelů
+access.subscribers.management: Správa Odběratelů
+access.code.group: Skupina odběratelů
+access.group.position.description: (nepovinné) Abys mohl organizovat své skupiny podle
+  potřeby.
+access.code.code: Kód
+access.code.management: Správa Odběratelských Kódů
