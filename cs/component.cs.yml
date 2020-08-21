@@ -380,3 +380,6 @@ map.marker.draggable.description.2: Přesouvání je zpřístupněné pouze pro 
 map.marker.draggable.description: Posouvatelný ukazatel mohou přesouvat všichni Autoři,
   Editoři a Vlastníci Světa. Po přesunutí se uloží nová pozice ukazatele. Tato funkce
   je k dispozici při používání celé mapy v režimu prezentace a průzkumu.
+access.rights.codes: Přístupové kódy
+access.rights.management: Správa přístupových oprávnění
+access.authors.management: Správa Autorů
