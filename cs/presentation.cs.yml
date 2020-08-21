@@ -285,4 +285,8 @@ location.florafauna: Fauna a Flóra
 location.history: Historie
 location.tourism: Cestovní ruch
 location.natural_resources: Přírodní zdroje
-location.aternative_names: Další jména
+location.aternative_names: Jiné názvy
+location.included_locations: Obsažená místa
+location.owner_ruler: Vlastník/Vládce
+location.owning_organization: Organizace vlastnící tuto lokaci
+location.characters_in_location: "Přítomné postavy\n"
