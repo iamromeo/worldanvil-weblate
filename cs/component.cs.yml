@@ -385,3 +385,4 @@ access.rights.management: Správa přístupových oprávnění
 access.authors.management: Správa Autorů
 access.authors.coowner.description: Přístup ke všemu včetně nastavení světů, CSS kódů
   a správě jiných přístupů.
+access.authors.editor: Editor
