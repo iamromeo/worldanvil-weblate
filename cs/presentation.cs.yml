@@ -264,4 +264,21 @@ item.sidebar.tools: Nástroje
 item.sidebar.related.myths: Související mýty
 landmark.reportprimarylocations: Související Zpráva (Primární Lokace)
 landmark.reportsecondarylocations: Související Zpráva (Sekundární Lokace)
-landmark.vehicle: 'Úložný prostor vozidla '
+landmark.vehicle: 'Úložný prostor vozidla'
+language.geographical.distribution: Zeměpisné rozmístění
+language.phonology: Fonologie
+language.morphology: Morfologie
+language.syntax: Skladba
+language.vocabulary: Slovní zásoba
+language.phonetics: Fonetika
+language.sidebar.common.phrases: Běžné fráze
+language.sidebar.common.female.names: Běžná ženská jména
+language.sidebar.common.male.names: Běžná mužská jména
+language.sidebar.common.unisex.names: Běžná jména pro obě pohlaví
+law.manifestation: Projev
+law.localization: Lokalizace
+law.type: Třída
+location.geography: Geografie
+location.flora: Flora
+location.fauna: Fauna
+location.florafauna: Fauna & Flora
