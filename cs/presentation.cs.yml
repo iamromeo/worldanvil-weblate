@@ -21,7 +21,7 @@ twitch.live: Sleduj živě na Twitchi
 support.patreon: Podpoř projekt na Patreonu
 support.patreon.user: Podpoř %username% na Patreonu
 follow.action.remove: PŘESTAT SLEDOVAT
-follow.action.add: SLEDOVAT
+follow.action.add: SLEDOVAT SVĚT
 like.action.remove: UŽ SE MI TO NELÍBÍ
 like.action.add: TO SE MI LÍBÍ
 like.action.add.description: Dej autorovi vědět, že se ti jeho práce líbila. Tento
@@ -165,3 +165,23 @@ language.alphabet: Abeceda
 heroes: Hrdinové
 editorial.team: Redakční tým
 organization.tree: Organizační schéma
+campaign.competitors: Rivalové
+document.legal.status: Právní status
+explore: Procházet
+copy.article.block: KOPÍROVAT BLOK ČLÁNKU
+campaign.adversaries: Protivníci
+campaign.setting: Umístění
+document.caveats: Námitky
+document.references: Odkazy
+document.historical.details: Historické detaily
+document.purpose: Účel
+document.structure: Struktura dokumentu
+campaign.system: Hra využívající sytém %system_name%
+document.clauses: Doložky
+campaign.vtt: Virtuální Herní Plocha
+campaign.playedby: Hrají
+campaign.supporting.cast: Vedlejší Postavy
+campaign.sessions_archive: Archiv schůzí
+campaign.generic: Ostatní NPC
+campaign.maps_and_timelines: Mapy & Časové osy
+document.publication.status: Stav publikace
