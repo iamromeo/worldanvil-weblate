@@ -191,9 +191,10 @@ document.public.reaction: Reakce veřejnosti
 document.legacy: Odkaz
 document.modal.read.document: Přečíst dokument
 document.article.location: Lokace
-document.article.signatoriescharacters: Signatáři (postavy)
+document.article.signatoriescharacters: Signatáři (Postavy)
 document.modal.close: Zavřít
 document.article.medium: Médium
 document.article.authoringdate: Datum Publikace
 document.article.myth: Mýtus
 document.article.ratificationdate: Datum Schválení
+document.article.signatoriesorganizations: Signatáři (organizace)
