@@ -386,3 +386,15 @@ access.authors.management: Správa Autorů
 access.authors.coowner.description: Přístup ke všemu včetně nastavení světů, CSS kódů
   a správě jiných přístupů.
 access.authors.editor: Editor
+access.authors.advanced.writer: Pokročilý Písař
+access.authors.writer.description: Přístup k vytváření návrhů článků. Tyto články
+  pak mohou spravovat, organizovat a publikovat Editoři a členové s vyšším oprávněním.
+access.group.assets: Majetek Skupiny
+access.subscribers.purge: Vyčistit všechny nastavající Odběratele z listu před Importem
+access.subscribers.slots: Použité Místa pro Odběry
+access.authors.slots: Použité Místa pro Autory
+access.group.description.description: (nepovinné) Abys nezapomněl kým jsi a proč jsi
+  v této skupině.
+access.group.edit: Upravit skupiny odběratelů
+access.group.management: Správa skupin odběratelů
+access.subscribers.management: Správa odběratelů
