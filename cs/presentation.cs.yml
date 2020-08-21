@@ -173,7 +173,7 @@ campaign.adversaries: Protivníci
 campaign.setting: Umístění
 document.caveats: Námitky
 document.references: Odkazy
-document.historical.details: Historické detaily
+document.historical.details: Historické podrobnosti
 document.purpose: Účel
 document.structure: Struktura dokumentu
 campaign.system: Hra využívající sytém %system_name%
@@ -185,3 +185,15 @@ campaign.sessions_archive: Archiv schůzí
 campaign.generic: Ostatní NPC
 campaign.maps_and_timelines: Mapy & Časové osy
 document.publication.status: Stav publikace
+document.article.expirationdate: Datum platnosti
+document.background: Původ
+document.public.reaction: Reakce veřejnosti
+document.legacy: Odkaz
+document.modal.read.document: Přečíst dokument
+document.article.location: Lokace
+document.article.signatoriescharacters: Signatáři (postavy)
+document.modal.close: Zavřít
+document.article.medium: Médium
+document.article.authoringdate: Datum Publikace
+document.article.myth: Mýtus
+document.article.ratificationdate: Datum Schválení
