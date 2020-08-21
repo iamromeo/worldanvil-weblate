@@ -101,7 +101,7 @@ follow.action.add.description: Sleduj svět, a všechny články napsané pro te
   se ti zobrazí ve Sledovaných světech!
 condition.treatment: Léčba
 material.properties: Vlastnosti
-material.characteristics: Vlastnosti na první pohled
+material.characteristics: Materiální vlastnosti
 material.compounds: Sloučeniny
 material.halflife: Trvanlivost a rozklad
 material.discovery: Objevení
@@ -289,4 +289,120 @@ location.aternative_names: Jiné názvy
 location.included_locations: Obsažená místa
 location.owner_ruler: Vlastník/Vládce
 location.owning_organization: Organizace vlastnící tuto lokaci
-location.characters_in_location: "Přítomné postavy\n"
+location.characters_in_location: "Přítomné postavy"
+document.term: Doba trvání
+landmark.constructed: Datum dokončení výstavby
+material.physical.properties: Fyzikální a chemické vlastnosti
+organisation.culture: Kultura
+organisation.leader.title: Titul Vůdce
+person.birthday: Datum narození
+person.age: Věk
+location.type: Typ
+material.history_usage: Historie a použití
+military_conf.the_conflict: Název Konfliktu
+military_conf.prelude: Předcházející události
+military_conf.deployment: Rozmístění / nasazení vojenských sil
+military_conf.battlefield: Bojiště
+military_conf.conditions: Podmínky / Okolnosti Konfliktu
+military_conf.the_engagement: Střet
+military_conf.outcome: Výsledek
+military_conf.aftermath: Následky
+military_conf.historical_significance: Historický význam
+military_conf.legacy: Odkaz
+military_conf.in_literature: V literatuře
+military_conf.techological_advancement: Technologický pokrok
+military_conf.conflict_type: Typ Konfliktu
+military_conf.battlefield_type: Typ Bojiště
+military_conf.starting_date: Datum začátku
+military_conf.ending_date: Datum konce
+military_conf.conflict_result: Výsledek Konfliktu
+military_conf.location: Lokace
+military_conf.belligerents: Válčící strany
+military_conf.led_by: Vedeny (kým/čím)
+military_conf.strength: Síla
+military_conf.casualties: Ztráty
+military_conf.objectives: Cíle
+myth.summary: Shrnutí
+myth.historical_basis: Historický podklad
+myth.spread: Dosah / Rozšířenost
+myth.variations_mutation: Variace a jiné verze
+myth.cultural_reception: Kulturní ohlas
+myth.in_literature: V literatuře
+myth.in_art: V umění
+organisation.structure: Struktura
+organisation.public_agenda: Veřejná agenda
+organisation.assets: Prostředky
+organisation.history: Historie
+organisation.disbandment: Rozpuštění
+organisation.demography_and_population: Demografie a Populace
+organisation.territories: Teritoria
+organisation.military: Armáda / Vojsko
+organisation.technological_level: Technologická úroveň
+organisation.religion: Náboženství
+organisation.foreign_relations: Mezinárodní vztahy
+organisation.agriculture_industry: Zemědělství a průmysl
+organisation.trade_transport: Obchod a přeprava
+organisation.education: Vzdělání
+organisation.infrastructure: Infrastruktura
+organisation.tenets_of_faith: Principy víry
+organisation.ethics: Etnika
+organisation.sects: Sekty
+organisation.type: Typ
+organisation.capital: Hlavní sídlo
+organisation.alternative_names: Jiné názvy
+organisation.leader: Vůdce
+organisation.head_of_state: Hlava státu
+organisation.government_system: Vládní systém
+organisation.power_structure: Struktura moci
+organisation.economic_system: Ekonomický systém
+organisation.currency: Měna
+organisation.major_exports: Hlavní vývoz
+organisation.major_imports: Hlavní dovoz
+organisation.parent_organization: Rodičovská Organizace
+organisation.subsidiary_organizations: Dceřiná Společnost
+organisation.location: Lokace
+organisation.official_languages: Úřední jazyky
+organisation.controlled_territories: Ovládaná teritoria
+organisation.neighboring_nations: Sousedící země
+organisation.notable_members: Významní členové
+person.holy_books_codes: Svaté knihy a Zákoníky
+person.divine_symbols_sigils: Božské symboly a znaky
+person.holidays: Svátky
+person.special_abilities: Speciální schopnosti
+person.education: Vzdělání
+person.employment: Zaměstnání
+person.accomplishments_achievements: Dosažené úspěchy
+person.mental_trauma: Mentální traumata
+person.morality_philosophy: Morálka a filozofie
+person.taboos: Tabu
+person.motivation: Motivace
+person.hygiene: Hygiena
+person.religious_views: Náboženské názory
+person.wealth_financial_state: Bohatství a finanční stav
+person.species: Živočišný druh
+person.ethnicity: Etnická příslušnost
+person.year_of_birth: Rok narození
+person.circumstances_of_birth: Okolnosti porodu
+person.circumstances_of_death: Okolnosti úmrtí
+person.birthplace: Místo narození
+person.current_residence: Současné bydliště
+person.biological_sex: Biologické pohlaví
+person.sexuality: Sexuální orientace
+person.gender_identity: Gendrová identita
+person.eyes: Oči
+person.skin: Barva pleti
+person.hair: Vlasy
+person.height: Výška
+person.weight: Hmotnost
+person.appears_in: Objevuje se v...
+plot.summary: Shrnutí / Přehled
+profession.career: Profese
+profession.qualifications: Kvalifikace
+profession.career_progression: Kariérní postup
+profession.other_benefits: Další výhody
+organisation.familyleader: Vůdce rodiny
+person.year_of_death: Rok smrti
+location.related_reports_primary: Související hlášení (Hlavní)
+location.related_reports_secondary: Související hlášení (Vedlejší)
+location.related_myths: Související mýty
+material.origin: Původ a zdroj

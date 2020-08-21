@@ -403,4 +403,5 @@ access.group.position.description: (nepovinné) Abys mohl organizovat své skupi
   potřeby.
 access.code.code: Kód
 access.code.management: Správa Odběratelských Kódů
-access.code.expiryDate: Datum Spotřeby
+access.code.expiryDate: Datum platnosti
+access.code.edit: Pozměnit Odběratelský Kód

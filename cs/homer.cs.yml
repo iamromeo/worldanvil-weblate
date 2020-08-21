@@ -55,3 +55,33 @@ title: Název
 search_replace: Najít a nahradit
 manuscript.advanced.settings: Pokročilé nastavení rukopisu
 manuscript.basic.settings: Základní nastavení rukopisu
+html_export: Export v HTML
+exporting.header: Exportování
+statistics.header: Statistiky
+monetization.header: Možnosti zpeněžení
+ui.lineHeight: Výška řádku
+ui.paragraphSettings: Nastavení odstavce
+ui.paragraphIndent: Odsazení odstavce
+ui.fontColor: Barva písma
+ui.fontSize: Velikost písma
+ui.fontSettings: Nastavení textu
+ui.backgroundColor: Barva pozadí
+ui.documentSettings: Nastavení Dokumentu
+ui.header: Nastavení základního rozhraní
+scene.related.articles: Související jiné Články
+scene.related.items: Související Předměty
+scene.related.locations: Související Místa
+scene.related.characters: Související Postavy
+part.importance: Důležitost Části příběhu
+part.type: Typ Části příběhu
+part.duration: Délka Části příběhu
+part.time: Denní doba
+scene.importance: Důležitost Části příběhu
+scene.type: Typ Scény
+scene.duration: Délka Scény
+scene.time: Denní doba
+scene.pov: P.O.V. Postava
+scene.notes: Zápisky
+pov.help: Pro výběr POV postavy, začni psát název kteréhokoliv článku dané postavy
+pov.remove: Odebrat POV postavu
+continue.reading: Pokračovat ve čtení
