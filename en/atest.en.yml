@@ -1,0 +1,7 @@
+heroes: Heroes
+create: 
+  character: Create a new Character
+  journal: Create a new Journal Entry
+  campaign: Create a new Campaign
+
+character.view.in.world: 'View in World'
