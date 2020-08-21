@@ -68,7 +68,7 @@ condition.cycle: Cyklus
 condition.rarity: Vzácnost
 condition.species: Ovlivněné biologické druhy
 landmark.purpose: Účel, funkce
-landmark.design: Vzhled
+landmark.design: Design
 landmark.entries: Vchody
 landmark.sensory: Smyslové vjemy
 landmark.denizens: Obyvatelé
@@ -259,4 +259,9 @@ item.sidebar.base.price: Základní cena
 item.rpg.datasheet: souhrn RPG dat
 item.sidebar.subtype.model: Poddruh / Model
 item.sidebar.weight: Váha
-item.sidebar.rawmaterials.components: Nerostné Suroviny a Komponenty
+item.sidebar.rawmaterials.components: Suroviny a Komponenty
+item.sidebar.tools: Nástroje
+item.sidebar.related.myths: Související mýty
+landmark.reportprimarylocations: Související Zpráva (Primární Lokace)
+landmark.reportsecondarylocations: Související Zpráva (Sekundární Lokace)
+landmark.vehicle: 'Úložný prostor vozidla '
