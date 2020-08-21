@@ -48,7 +48,7 @@ no.label: Nincs Címke
 label.remove: Címke eltávolítása
 label: Címke
 article.remove: Cikk eltávolítása
-press.enter: Nyomj Enter-t hogy választhass az autójavítási listából
+press.enter: Nyomj Enter-t hogy választhass az autójavítási listából.
 tag.remove: Címke eltávolítása
 tag.type: Írd be a Címke nevét
 tags: Címkék
@@ -94,7 +94,7 @@ status: Kézirat Státusz
 subscriber_groups: Feliratkozó Csoportok
 access: Láthatósági Státusz
 publication: Kiadási Státusz
-genres.languages: 'Kattints az alant található zászlóra a kézirat nyelvének beállításához.
+genres.languages: 'Kattints az alant található nyelvre a kézirat nyelvének beállításához.
   Ez a nyelv\ kódban jelenik meg. '
 genres.description: Ha szeretnéd az olvasókat figyelmeztetni érzékeny tartalomra,
   mint mondjuk amik az ESRB (kábítószerek, vér, erőszak, stb.) jelöléseket képezik,
@@ -107,3 +107,4 @@ image_part: Képrészlet
 image: Kép
 start.reading: Olvasás Megkezdése
 manuscript.read.upper: OLVASÁS
+continue.reading: Olvasás Folytatása

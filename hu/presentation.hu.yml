@@ -27,7 +27,7 @@ join.discord.world: Csatlakozz %worldname% Discordjához!
 following: '%name% Követve'
 follow: Kövesd %name%
 follow.action.remove: Követés leállítása
-follow.action.add: Követés
+follow.action.add: Világ Követés
 follow.action.add.description: Kövesd ezt a szerzőt, hogy bekerüljenek az általa írt
   cikkek a hírfolyamodba!
 like.action.remove: Kedvelés Eltávolítása
@@ -102,7 +102,7 @@ landmark.contenders: Igényt fektet rá
 landmark.reportprimarylocations: Kapcsolódó Jelentés (Elsődleges Területek)
 landmark.reportsecondarylocations: Kapcsolódó Jelentés (Másodlagos Területek)
 material.properties: Tulajdonságok
-material.characteristics: Fizikai Tulajdonságok
+material.characteristics: Anyagi Tulajdonságok
 material.compounds: Összetétel
 material.geo: Geológia & Földrajz
 material.orign: Eredet & Forrás
@@ -724,3 +724,5 @@ location.history: Történelem
 landmark.vehicle: Járműrész
 landmark.constructed: Építési Dátum
 person.age: Kor
+copy.article.block: CIKK BLOKK MÁSOLÁSA
+material.physical.properties: Fizikai & Kémiai Tulajdonságok
