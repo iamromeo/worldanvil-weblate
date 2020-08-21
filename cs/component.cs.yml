@@ -398,8 +398,9 @@ access.group.description.description: (nepovinné) Abys věděl kdo je v této s
 access.group.edit: Upravit Skupiny Odběratelů
 access.group.management: Správa Skupin Odběratelů
 access.subscribers.management: Správa Odběratelů
-access.code.group: Skupina odběratelů
+access.code.group: Skupina Odběratelů
 access.group.position.description: (nepovinné) Abys mohl organizovat své skupiny podle
   potřeby.
 access.code.code: Kód
 access.code.management: Správa Odběratelských Kódů
+access.code.expiryDate: Datum Spotřeby
