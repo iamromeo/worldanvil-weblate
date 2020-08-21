@@ -279,6 +279,10 @@ law.manifestation: Projev
 law.localization: Lokalizace
 law.type: Třída
 location.geography: Geografie
-location.flora: Flora
+location.flora: Flóra
 location.fauna: Fauna
-location.florafauna: Fauna & Flora
+location.florafauna: Fauna a Flóra
+location.history: Historie
+location.tourism: Cestovní ruch
+location.natural_resources: Přírodní zdroje
+location.aternative_names: Další jména
