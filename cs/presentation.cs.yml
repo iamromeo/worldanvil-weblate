@@ -94,7 +94,7 @@ powered.by: Sponzoři
 in: ve světě
 recent.articles: Nedávné články
 support.kofi.user: Kup kávu pro %username%!
-join.discord.world: Přidej se na %worldname% Discord!
+join.discord.world: Přidej se k %worldname% Discordu!
 following: Sledující %name%
 follow: Sledovat %name%
 follow.action.add.description: Sleduj svět, a všechny články napsané pro tento svět
@@ -197,4 +197,22 @@ document.article.medium: Médium
 document.article.authoringdate: Datum Publikace
 document.article.myth: Mýtus
 document.article.ratificationdate: Datum Schválení
-document.article.signatoriesorganizations: Signatáři (organizace)
+document.article.signatoriesorganizations: Signatáři (Organizace)
+ethnicity.family.names: Přízviska
+ethnicity.naming.traditions: Tradiční jména
+ethnicity.feminine.names: Ženská jména
+ethnicity.masculine.names: Mužská jména
+ethnicity.unisex.names: Jména pro obě pohlaví
+ethnicity.other.names: Jiná jména
+ethnicity.culture: Kultura
+ethnicity.major.lang.groups.dialects: Hlavní jazykové skupiny a nářečí
+ethnicity.culture.cultural.heritage: Kultura a kulturní dědictví
+ethnicity.Average.technological.level: Průměrná technologická úroveň
+ethnicity.common.etiquette.rules: Obecná pravidla slušného chování
+ethnicity.common.dress.code: Obecná pravidla pro oblékání
+ethnicity.birth.baptismal.rites: Obřady pro narození a křest
+ethnicity.comingofage.rites: Obecné obřady dosažení dospělosti
+ethnicity.funerary.memorial.Customs: Zvyky při pohřbech a památných událostech
+ethnicity.shared.customary.codes.values: Sdílené zvyky a hodnoty
+ethnicity.common.customs.traditions.rituals: Obecné tradice, zvyky a rituály
+ethnicity.art.architecture: Umění a architektura
