@@ -244,5 +244,19 @@ formation.sidebar.ranks.titles: Hodnosti a tituly
 formation.auxilia: Podpora
 formation.upkeep: Údržba
 formation.sidebar.overall.training.level: Celková úroveň výcviku
-item.inner.workings: Vnitřní uspořádání
+item.inner.workings: ' Technické parametry a funkce'
 formation.manpower: Lidské Zdroje
+item.manufacturing.process: Výrobní proces
+item.significance: Důležitost
+item.sidebar.itemtype: Druh předmětu
+item.sidebar.usedby: Používáno
+item.sidebar.manufacturer: Výrobce
+item.sidebar.related.ethnicities: Související etnika
+item.sidebar.owning.organization: Organizace vlastnící tento předmět
+item.sidebar.related.condition: Související stav
+item.sidebar.dimensions: Rozměry
+item.sidebar.base.price: Základní cena
+item.rpg.datasheet: souhrn RPG dat
+item.sidebar.subtype.model: Poddruh / Model
+item.sidebar.weight: Váha
+item.sidebar.rawmaterials.components: Nerostné Suroviny a Komponenty
