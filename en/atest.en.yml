@@ -1,8 +1,104 @@
-heroes: Heroes
-create: 
-  character: Create a new Character.
-  # Test of context comment
-  journal: Create a new Journal Entry
-  campaign: Create a new Campaign
-
-character.view.in.world: 'View in World'
+title: "Heroes"
+#General heroes messages ---------------------------------------------------------------------
+join_worldbuilder_guild_link: "Join the Worldbuilders Guild"
+no_active_world: "It seems like you don't have an active world."
+go_to_world_list_btn: "Go the the worlds list"
+create:
+  character: "Create a new Character"
+  journal: "Create a new Journal Entry"
+  campaign: "Create a new Campaign"
+  world: "Create a new world"
+character:
+  view.in.world: "View in World"
+# Campaign Module ----------------------------------------------------------------------------
+campaign:
+# General
+  breadcrumb: "Campaigns"
+  invite:
+    box_title: "Invite your player characters in the campaign!"
+    description: "Send the invitation link to your players to invite them in your campaign. <br>
+    <strong>Your players must have a Heroes Character. <br>
+    That character should be the one active on their profile!</strong>"
+    no_acess_code: "This campaign has no access code. You will need to generate one in order to invite more players."
+    regenerate_code_btn: "Re-generate code"
+  cannot_create_campaign: "Cannot create new Campaign :"
+  codex_link: "Check out the Codex Guide on Creating and Managing a campaign"
+# Module Pages
+  menu:
+    home: "Home"
+    protagonists: "Protagonists (PCs)"
+    supporting_cast: "Supporting Cast (NPCs)"
+    parties: "Parties"
+    plots: "Plots"
+    sessions: "Sessions"
+    primer: "Primer"
+    settings: "Settings"
+    guild_features: "GUILD FEATURES"
+  character_list:
+    header: "%campaign_name% Characters List"
+    title: "Characters List"
+    invite:
+      alerte_info: "In order to get your players into your campaign, you will need to invite them. <br>
+      Give to your players the url below. This is a unique invitation for your campaign. <br>
+      They will need to choose the character they want to take part in your campaign and then go to that URL. <br>
+      The moment they do, their character will appear under your protagonists"
+    character_sheet:
+      edit_sheet_btn: "Edit Sheet"
+    expel_character_btn: "Expel Character"
+    create_npc_btn: "Create a new Supporting Cast Member (NPC)"
+    character_table:
+      name: "Name"
+      type: "Type"
+      visibility: "Visibility"
+      location: "Location"
+      edit_btn: "Edit"
+      delete_btn: "Delete"
+  dashboard:
+    streambox:
+      title: "Campaign Stream"
+    view_campaign_page_btn: "View Campaign Public Page"
+    edit_world_btn: "Edit World"
+    view_world_btn: "View World"
+    session:
+      current_session:
+        box_title: "Current Session"
+        end_session_btn: "END"
+        play_btn: "PLAY"
+      other_session:
+        scheduled_for: "Scheduled for %date%"
+        edit_session_btn: "Edit Session"
+        edit_report_btn: "Edit Report"
+        view_report_btn: "View Report"
+        add_report_btn: "Write Report"
+        upcoming_session: "Upcoming Sessions"
+        start_btn: "Start"
+        concluded_on: "Concluded %conclude_date%"
+        journal_box_title: "Journal Entries"
+        journal_by: "by"
+        schedule_new_session: "Schedule a new Session"
+    characters:
+      box_title: "The Protagonists"
+      characters_count: "There are %characters_count% characters in this campaign."
+      manage_btn: "Manage Characters"
+    parties:
+      box_title: "The Parties"
+      parties_count: "There are %parties_count% parties in this campaign. "
+      manage_btn: "Manage Parties"
+    codex_link: "Check out the Codex Article on Creating and managing your campaign"
+  list:
+    page_header: "Your Campaigns"
+    page_title: "RPG Campaigns"
+    breadcrumb: "Your Campaigns"
+    alert_info: "You have reached the maximum number of Campaigns <br>
+    you can have with your current membership!"
+  panel:
+    deleted_world_campaign: "This is a campaign of a deleted world."
+    delete_campaign_btn: "DELETE CAMPAIGN"
+  new_campaign_form:
+    header_title: "Campaign Name"
+    rpg_system: "RPG System"
+    privacy: "Privacy State"
+    cover_image: "Cover Image"
+    dropzone_message: "Click or Drag and Drop a single file here! <br>
+    <p><small>Suggested minimum size 1600x400px. You can always do it later!</small></p>
+    <p><small>Your current max filesize limit is %max_size%, and the allowed files types JPG, JPEG, PNG, GIF</small></p>"
