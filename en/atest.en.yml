@@ -1,6 +1,7 @@
 heroes: Heroes
 create: 
-  character: Create a new Character
+  character: Create a new Character.
+  # Test of context comment
   journal: Create a new Journal Entry
   campaign: Create a new Campaign
 
