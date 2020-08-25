@@ -17,7 +17,9 @@ campaign:
   menu:
     protagonists: 'Helden (PC''s)'
     home: Startpagina
-    supporting_cast: Overige karakters
+    supporting_cast: Ondersteunende Karakters (NPC's)
+    plots: Plot
+    parties: Partijen
   cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
 character:
   view.in.world: Bekijk Wereld
