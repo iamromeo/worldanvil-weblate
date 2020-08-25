@@ -3,3 +3,29 @@ create.character: Creëer een nieuw Karakter
 create.journal: Creëer een nieuwe vermelding in het Dagboek
 create.campaign: Creëer een nieuwe Campagne
 character.view.in.world: Bekijk in Wereld
+campaign:
+  invite:
+    regenerate_code_btn: Hergebruik code
+    no_access_code: 'Deze campagne heeft geen toegangscode. Je moet er een maken om
+      meer spelers uit te nodigen. '
+    description: Stuur de uitnodigingslink naar uw spelers om ze uit te nodigen voor
+      uw campagne. <br> <strong> Je spelers moeten een heldenkarakter hebben. <br>
+      Dat personage zou degene moeten zijn die actief is op zijn profiel! </strong>
+    box_title: Nodig jouw spelers karakters uit in de campagne!
+  codex_link: Lees het Codex-artikel over het maken en beheren van uw campagne
+  breadcrumbs: Campagnes
+character:
+  view.in.world: Bekijk Wereld
+create:
+  world: Creëer een nieuwe wereld
+  campaign: Creëer een nieuwe Campagne
+  journal: Creëer aan nieuwe Dagboek Inschrijving
+  character: Creëer een nieuwe Karakter
+go_to_world_list_btn: Ga naar werelden lijst
+no_active_world: Het lijkt erop dat je nog geen actieve wereld hebt.
+join_worldbuilder_guild_link: Kom bij onze Worldbuilders Gilde
+worldbuilder_guild_title: Help ons World Anvil levend en groeiend te houden!
+WA_default_page_description: World Anvil is een gemeenschap voor wereldopbouw en een
+  verzameling benodigdheden voor auteurs, rollenspellen, verhalenvertellers en liefhebbers
+  van wereldbouw
+title: Helden
