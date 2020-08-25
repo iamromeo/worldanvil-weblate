@@ -259,7 +259,7 @@ location.characters_in_location: Karakters in Locatie
 location.related_reports_primary: Gerelateerde Verslagen (Primair)
 location.related_reports_secondary: Gerelateerde Verslagen (Secondair)
 location.related_myths: Gerelateerde Mythes
-material.characteristics: 'Fysieke Eigenschappen'
+material.characteristics: 'Materialen Eigenschappen'
 material.useCultural: Culturele Betekenis en Gebruik
 material.reusability: Herbruikbaarheid & Recycling
 material.boiling: Kook/ Condensatie Punt
@@ -725,4 +725,4 @@ vehicle.compartments: Compartimenten
 landmark.constructed: Bouwdatum
 person.age: Leeftijd
 copy.article.block: KOPIEER ARTIKEL
-material.physical.properties: Fysiek en Chemisch Eigenschappen
+material.physical.properties: Fysieke en Chemische Eigenschappen
