@@ -23,7 +23,7 @@ join.discord.world: Entre no Discord de %worldname%!
 following: Seguindo %name%
 follow: Seguir %name%
 follow.action.remove: DEIXAR DE SEGUIR
-follow.action.add: SEGUIR
+follow.action.add: SEGUIR MUNDO
 follow.action.add.description: Siga para receber as atualizações de todos os artigos
   escritos pelo autor neste mundo!
 like.action.remove: REMOVER GOSTEI
@@ -100,7 +100,7 @@ landmark.contenders: Contestado por
 landmark.reportprimarylocations: Relatório Relacionado (Locais Primários)
 landmark.reportsecondarylocations: Relatórios Relacionados (Locais Secundários)
 material.properties: Propriedades
-material.characteristics: Características Físicas
+material.characteristics: Características Materiais
 material.compounds: Compostos
 material.geo: Geologia e Geografia
 material.orign: Origem e Fonte
