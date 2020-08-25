@@ -20,7 +20,24 @@ campaign:
     supporting_cast: Ondersteunende Karakters (NPC's)
     plots: Plot
     parties: Partijen
+    guild_features: GILDE KENMERKEN
+    settings: Instellingen
+    primer: Inleiding
+    sessions: Sessies
   cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
+  character_list:
+    create_npc_btn: Creëer een nieuwe Ondersteunde Karakter (NPC)
+    expel_character_btn: Verdrijf Karakter
+    character_sheet:
+      edit_sheet_btn: Bewerk Lijst
+    invite:
+      alert_info: Om uw spelers in uw campagne te krijgen, moet u ze uitnodigen. <br>
+        Geef je spelers de onderstaande url. Dit is een unieke uitnodiging voor uw
+        campagne. <br> Ze moeten het personage kiezen dat ze willen deelnemen aan
+        uw campagne en vervolgens naar die URL gaan. <br> Op het moment dat ze dat
+        doen, verschijnt hun personage onder je hoofdrolspelers
+    title: Personage Lijst
+    header: '%campaign_name% Karakterlijst'
 character:
   view.in.world: Bekijk Wereld
 create:
