@@ -69,7 +69,7 @@ organization.tree: Organisatie order
 article.likes.number: 'dit bericht is door %number% geliked'
 like.action.add: 'LIKE'
 like.action.remove: VERWIJDER LIKE
-follow.action.add: VOLG
+follow.action.add: VOLG WERELD
 following: Je volgt nu %name%
 author.badges: Badges & Medailles
 campaign.sessions_archive: Sessie Archief
@@ -724,3 +724,4 @@ profession.relatedvehicles: Gerelateerde Voertuigen
 vehicle.compartments: Compartimenten
 landmark.constructed: Bouwdatum
 person.age: Leeftijd
+copy.article.block: KOPIEER ARTIKEL
