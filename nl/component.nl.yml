@@ -72,7 +72,7 @@ list.maps: Lijst van Kaarten
 list.timelines: Lijst van Tijdlijnen
 list.notes: Lijst van Notities
 list.secrets: Lijst van Geheimen
-list.worlds: Lijst van Werelden
+list.worlds: ' Lijst van Werelden'
 status: Status
 create.marker: Creëer Markering
 create.marker.group: Creëer Markerings groep
@@ -426,3 +426,4 @@ access.group.description.description: (optioneel) Om u eraan te herinneren wie e
 statblocks: Statistiek blokken
 map.marker.draggable.description.2: Verslepen is alleen ingeschakeld voor alle normale
   (pin) markeringen en labels.
+dashboard: Dashboard
