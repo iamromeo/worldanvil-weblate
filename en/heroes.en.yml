@@ -1,6 +1,207 @@
-heroes: Heroes
-create.character: Create a new Character
-create.journal: Create a new Journal Entry
-create.campaign: Create a new Campaign
+title: "Heroes"
+WA_default_page_description: "World Anvil is a worldbuilding community and collection of tools for authors, role playing games storytellers and worldbuilding lovers"
+#General heroes messages ---------------------------------------------------------------------
+worldbuilder_guild_title: "Help us keep World Anvil alive and growing!"
+join_worldbuilder_guild_link: "Join the Worldbuilders Guild"
+no_active_world: "It seems like you don't have an active world."
+go_to_world_list_btn: "Go the the worlds list"
+create:
+  character: "Create a new Character"
+  journal: "Create a new Journal Entry"
+  campaign: "Create a new Campaign"
+  world: "Create a new world"
+character:
+  view.in.world: "View in World"
+# Campaign Module ----------------------------------------------------------------------------
+campaign:
+# General
+  breadcrumbs: "Campaigns"
+  codex_link: "Check out the Codex Article on Creating and managing your campaign"
+  invite:
+    box_title: "Invite your player characters in the campaign!"
+    description: "Send the invitation link to your players to invite them in your campaign. <br>
+    <strong>Your players must have a Heroes Character. <br>
+    That character should be the one active on their profile!</strong>"
+    no_access_code: "This campaign has no access code. You will need to generate one in order to invite more players."
+    regenerate_code_btn: "Re-generate code"
+  cannot_create_campaign: "Cannot create new Campaign :"
+  # Module Pages
+  menu:
+    home: "Home"
+    protagonists: "Protagonists (PCs)"
+    supporting_cast: "Supporting Cast (NPCs)"
+    parties: "Parties"
+    plots: "Plots"
+    sessions: "Sessions"
+    primer: "Primer"
+    settings: "Settings"
+    guild_features: "GUILD FEATURES"
+  character_list:
+    header: "%campaign_name% Characters List"
+    title: "Characters List"
+    invite:
+      alert_info: "In order to get your players into your campaign, you will need to invite them. <br>
+      Give to your players the url below. This is a unique invitation for your campaign. <br>
+      They will need to choose the character they want to take part in your campaign and then go to that URL. <br>
+      The moment they do, their character will appear under your protagonists"
+    character_sheet:
+      edit_sheet_btn: "Edit Sheet"
+    expel_character_btn: "Expel Character"
+    create_npc_btn: "Create a new Supporting Cast Member (NPC)"
+    character_table:
+      name: "Name"
+      type: "Type"
+      visibility: "Visibility"
+      location: "Location"
+      edit_btn: "Edit"
+      delete_btn: "Delete"
 
-character.view.in.world: 'View in World'
+
+  dashboard:
+    streambox:
+      title: "Campaign Stream"
+    view_campaign_page_btn: "View Campaign Public Page"
+    edit_world_btn: "Edit World"
+    view_world_btn: "View World"
+    session:
+      current_session:
+        box_title: "Current Session"
+        end_session_btn: "END"
+        play_btn: "PLAY"
+      other_session:
+        scheduled_for: "Scheduled for %date%"
+        edit_session_btn: "Edit Session"
+        edit_report_btn: "Edit Report"
+        view_report_btn: "View Report"
+        add_report_btn: "Write Report"
+        upcoming_session: "Upcoming Sessions"
+        start_btn: "Start"
+        concluded_on: "Concluded %conclude_date%"
+        journal_box_title: "Journal Entries"
+        journal_by: "by"
+        schedule_new_session: "Schedule a new Session"
+    characters:
+      box_title: "The Protagonists"
+      characters_count: "There are %characters_count% characters in this campaign."
+      manage_btn: "Manage Characters"
+    parties:
+      box_title: "The Parties"
+      parties_count: "There are %parties_count% parties in this campaign. "
+      manage_btn: "Manage Parties"
+  list:
+    page_header: "Your Campaigns"
+    page_title: "RPG Campaigns"
+    breadcrumb: "Your Campaigns"
+    alert_info: "You have reached the maximum number of Campaigns <br> you can have with your current membership!"
+  panel:
+    deleted_world_campaign: "This is a campaign of a deleted world."
+    delete_campaign_btn: "DELETE CAMPAIGN"
+  new_campaign_form:
+    title: "Campaign Name"
+    title_placeholder: "First name e.g. The Legacy of the Dark Banana'"
+    rpg_system: "RPG System"
+    rpg_system_placeholder: "Select RPG System"
+    privacy: "Privacy State"
+    cover_image: "Cover Image"
+    dropzone_message: "Click or Drag and Drop a single file here! <br><p><small>Suggested minimum size 1600x400px. You can always do it later!</small></p><p><small>Your current max filesize limit is %max_size%, and the allowed files types JPG, JPEG, PNG, GIF</small></p>"
+    details_box_title: "Additional details "
+    excerpt_placeholder: "One liner description of your campaign."
+    description_placeholder: "The longer version of your description, to inspire your players and entice the audience!"
+    save_btn: "Save changes"
+    alert_no_world:
+      title: "Hold on there partner!"
+      description: "In order to create a campaign you will need to have a World for the campaign to take place into!"
+  join:
+    breadcrumbs: "Campaign invitation"
+    invited_by: "You have been invited by %invite_sender% to join the %campaign_name% campaign!"
+    all_character_already_in_campaign: "All of your characters are currently in a campaign."
+    select_a_character: "Which of your characters do you want to join the campaign?"
+    character_select_btn: "Choose %character_name%"
+    remove_character_from_other_campaign: "Or, remove one of your characters from their current campaign. <br>(you will need to come back here to join the campaign)"
+    max_character_reached: "You have reached the maximum number of Characters<br>you can have with your current membership!"
+    create_character:
+      or: "... or, "
+      need_comeback: "(you will need to come back here to join the campaign)"
+    no_character: "You have no characters on your account."
+    joining_no_account: "In order to join %campaign_master_name%'s campaign you will need to have an account on world anvil and a created character."
+    after_account: "Once you login or register. Make sure you have a character created and then <br><strong>visit this page again in order to join the campaign!</strong>"
+    account_box_title: "I have an account already"
+    create_account_box_title: "Create a new account and character!"
+  reports:
+    breadcrumbs: "Reports"
+    page_title: "%article_title% Report"
+    edit_btn: "Edit Report"
+    protagonists: "Protagonists"
+  settings:
+    page_title: "%campaign_name% Settings"
+    breadcrumbs: "Settings"
+    title: "Campaign Settings"
+    general:
+      title: "General Settings"
+      name: "Name"
+      name_placeholder: "e.g. Heroes of Narnia"
+      excerpt: "Excerpt / Short description"
+      excerpt_placeholder: "e.g. 5 Heroes roaming the land beyond the Wardrobe"
+      description: "Introduction / Description"
+      rpg_system: "TTRPG System"
+      cover_image: "Campaign Cover Image"
+      group_status: "Group Status"
+    presentation:
+      title: "Presentation Settings"
+      info: "The information below affect the way that your campaign is displayed to the public."
+      twitch: "Twitch Channel"
+      twitch_info: "The <strong>username</strong> of the Twitch channel the campaign is broadcasted in. This will create a twitch embed on the campaign page."
+      vtt: "VTT Board URL"
+      vtt_info: "If you are using a VTT, put the URL to the board here. This will only be seen by your players."
+      discord: "Discord Server URL"
+      discord_info: "This should be the invitation link Discord provides. Don't forget to setting to not expiring."
+      timeline: "Timelines related to the Campaign"
+      timeline_info: "Keep in mind that only Parallel timelines can be used as a Campaign's timeline!"
+      maps: "Maps related to the Campaign"
+      start_date: "Starting Date"
+      start_date_info: "The date the campaign started."
+      end_date: "Ending Date"
+      end_date_info: "The date the campaign ended. Fill this if the campaign came to a close."
+    access:
+      title: "Access Settings"
+      subscriber: "Subscriber Groups"
+      member_only: "Only available to Guild Members"
+      state: "Access State"
+      world_homepage_visibility: "World Homepage Visibility"
+      save_btn: "Save changes"
+    storytellers:
+      title: "Storytellers"
+      remove_btn: "Remove storyteller"
+      owner_tag: "Owner"
+      select: "Select World Author as storyteller"
+      campaign_owner_tags: "(Owner)"
+      campaign_gm_tags: "(GM)"
+      add: "Add Storyteller to Campaign"
+    delete:
+      box_title: "Delete Campaign"
+      how_to: "In order to delete your campaign please type DELETE on the box below"
+      warning: "This process is IRREVERSIBLE."
+      delete_btn: "DELETE CAMPAIGN"
+  subscription:
+    page_header: "%campaign_name% Guild Features"
+    breadcrumbs: "Guild Features"
+    membership_level_display: "You are a %membership_level% of the Guild. As such, you and your heroes get access to some very special features! Enjoy!"
+    custom_url: "Custom URL"
+    custom_url_info: "This part of the url will appear like https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>- It must include only latin letters, numbers and dashes. <br>- It should be at least 10 and no bigger than 255 characters long. (including dashes)"
+    update_slug_btn: "Update URL slug"
+    view_public_page: "View Campaign Public Page"
+    custom_css: "Custom CSS"
+    update_css_btn: "Update CSS Styling"
+    css_guide:
+      title: "The Quick CSS Guide for Campaigns"
+      list_1: "All CSS rules in this box will automatically be wrapped under the <strong>.wrapper-content</strong> selector."
+      list_2: "Do not use commas ','. Using commas in your selectors will cause issues with your CSS."
+      list_3: "If you want to use comments, use /* this type */ and do in IN your selectors not out"
+      list_4: "You have the right to change anything you want in your character's page including World Anvil structure, but the Udans will take no responsibility for breaking your character!"
+      example: " <em>Examples</em><br><h6>To affect the <strong>.wrapper-content directly</strong> do not use any selector, the selector will be applied automatically.</h6><p>{ <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;    color: #ffffff; <br>} <br><br></p><h6>To change the background color of most of the boxes</h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color: #ff00ff !important; <br>} <br><br></p>"
+  view:
+    page_header: "%campaign_name% Homepage | World Anvil "
+    edit_btn: "Edit Campaign"
+    archive_expand_btn: "Click to Expand/Collapse"
+    read_report_btn: "Read the Report"
+    leave_btn: "Leave Campaign"
