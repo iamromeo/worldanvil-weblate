@@ -3,3 +3,232 @@ create.character: Crear un nuevo personaje
 create.journal: Crear una nueva entrada de diario
 create.campaign: Crear una nueva campaña
 character.view.in.world: Ver en el mundo
+campaign:
+  menu:
+    settings: Ajustes
+    sessions: Sesiones
+    plots: Tramas
+    home: Inicio
+    guild_features: FUNCIONALIDADES DEL GREMIO
+    primer: Resumen
+    parties: Grupos
+    supporting_cast: Personajes secundarios (NPCs)
+    protagonists: Personajes protagonista
+  invite:
+    no_access_code: Esta campaña no tiene código de acceso. Tendras que generar uno
+      para poder invitar a más jugadores.
+    box_title: ¡Invita a los personajes de tus jugadores a la campaña!
+    regenerate_code_btn: Generar un código nuevo
+    description: Dale a tus jugadores este enlace para invitarlos a tu campaña. Entrarán
+      con el personaje que tengan activo en Heroes, ¡así que deben crearlo primero!
+  codex_link: Consulta el artículo del Codex sobre cómo crear y administrar tu campaña
+  view:
+    leave_btn: Abandonar campaña
+    read_report_btn: Leer el informe
+    archive_expand_btn: Haz click para expandir o recoger
+    edit_btn: Editar campaña
+    page_header: 'Página principal de %campaign_name% | World Anvil '
+  subscription:
+    css_guide:
+      example: ' <em>Ejemplos</em><br><h6>Para afectar al selector <strong>.wrapper-content
+        directamente, </strong> no uses ningún selector. Se aplicará automáticamente.</h6><p>{
+        <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;    color: #ffffff;
+        <br>} <br><br></p><h6>Para cambiar el fondo de la mayoría de cajas.</h6><p>.ibox-content
+        { <br>&nbsp;&nbsp;    background-color: #ff00ff !important; <br>} <br><br></p>'
+      list_4: Cambia todo lo que quieras en la página de tu personaje, incluso la
+        propia estructura de World Anvil si te atreves, ¡pero los udans no se hacen
+        responsables si rompes algo!
+      list_3: Si quieres poner comentarios DENTRO DE TUS SELECTORES, usa /* este formato
+        */
+      list_2: No uses comas (,) en tus selectores. Causan problemas en el CSS.
+      list_1: Todas las reglas de CSS en esta caja se agruparán automáticamente en
+        el selector <strong>.wrapper-content.</strong>
+      title: Guía rápida de CSS para campañas
+    update_css_btn: Actualizar CSS
+    custom_css: CSS personalizado
+    view_public_page: Ver página pública de la campaña
+    update_slug_btn: Actualizar enlace
+    custom_url_info: Esto hará que el enlace sea algo como https://www.worldanvil.com/epic/<strong>el-team-rocket-despega-de-nuevo</strong>
+      <br>- Debe incluir solamente letras latinas, números y guiones. <br>- Debe medir
+      más de 10 caracteres y menos de 255, espacios y guiones incluidos
+    custom_url: Enlace personalizado
+    membership_level_display: Eres %membership_level% del Gremio, así que tú y tus
+      héroes podéis disfrutar de algunos beneficios especiales. ¡Pasadlo bien!
+    breadcrumbs: Funcionalidades del Gremio
+    page_header: Beneficios del Gremio de %campaign_name%
+  settings:
+    delete:
+      delete_btn: ELIMINAR CAMPAÑA
+      warning: Este proceso es IRREVERSIBLE.
+      how_to: Para eliminar esta campaña, por favor, escribe DELETE a continuación
+      box_title: Eliminar campaña
+    storytellers:
+      add: Añadir narrador a la campaña
+      campaign_gm_tags: (Máster)
+      campaign_owner_tags: (Dueño)
+      select: Selecciona un autor del mundo para hacerlo narrador de la campaña
+      owner_tag: Dueño
+      remove_btn: Eliminar narrador
+      title: Narradores
+    access:
+      save_btn: Guardar cambios
+      world_homepage_visibility: Visibilidad de la página principal del mundo
+      state: Accesibilidad
+      member_only: Disponible solamente para miembros del Gremio
+      subscriber: Grupos de suscriptores
+      title: Ajustes de acceso
+    presentation:
+      end_date_info: Fecha en la que terminó la campaña... Sólo si ha terminado, claro.
+      end_date: Fecha del fin.
+      start_date_info: Cuándo empezó la campaña.
+      start_date: Fecha de inicio
+      maps: Mapas de la campaña
+      timeline_info: ¡Recuerda que solamente las líneas paralelas (y no la principal
+        del mundo) pueden usarse como línea del tiempo de una campaña!
+      timeline: Líneas del tiempo relacionadas con la campaña
+      discord_info: No olvides poner un enlace de invitación que no caduque.
+      discord: Invitación al servidor de Discord
+      vtt_info: Si usáis una mesa virtual para jugar, deja aquí el enlace. Solamente
+        será visible para los jugadores
+      vtt: Enlace a la mesa virtual
+      twitch_info: El <strong>nombre</strong> del canal de Twitch en el que se retransmite
+        esta campaña. Esto creará un embed de Twitch en la página principal de la
+        campaña.
+      twitch: Canal de Twitch
+      info: Esto afectará a la vista pública de tu campaña.
+      title: Ajustes de presentación
+    general:
+      group_status: Estado del grupo
+      cover_image: Portada de la campaña
+      rpg_system: Sistema de rol
+      description: Introducción
+      excerpt_placeholder: Por ejemplo, cinco héroes salen de un armario y exploran
+        otro mundo
+      excerpt: Descripción breve
+      name_placeholder: Por ejemplo, los Héroes de Narnia
+      name: Nombre
+      title: Ajustes generales
+    title: Ajustes de la campaña
+    breadcrumbs: Ajustes
+    page_title: Ajustes de %campaign_name%
+  reports:
+    protagonists: Protagonistas
+    edit_btn: Editar informe
+    page_title: Informe de %article_title%
+    breadcrumbs: Informes
+  join:
+    create_account_box_title: ¡Quiero crear mi cuenta y mi personaje!
+    account_box_title: Ya tengo una cuenta
+    after_account: Una vez hayas iniciado sesión, asegúrate de haber creado un personaje
+      y<br><strong> vuelve a esta página para unirte a la campaña.</strong>
+    joining_no_account: Para poder unirte a la campaña de %campaign_master_name% vas
+      a necesitar una cuenta de World Anvil y un personaje en ella.
+    no_character: No tienes ningún personaje.
+    create_character:
+      need_comeback: (tendrás que volver aquí para poder unirte a la campaña)
+      or: '....o '
+    max_character_reached: ¡Has alcanzado el número máximo de personajes<br> de tu
+      suscripción!
+    remove_character_from_other_campaign: O puedes sacar a un personaje de su campaña
+      actual <br>(y luego volver aquí para poder unirte a esta)
+    character_select_btn: Escoger a %character_name%
+    select_a_character: ¿Qué personaje quieres que se una a la campaña?
+    all_character_already_in_campaign: Todos tus personajes están ya en una campaña.
+    invited_by: ¡%invite_sender% te ha invitado a unirte a la campaña %campaign_name%!
+    breadcrumbs: Invitación a una campaña
+  new_campaign_form:
+    alert_no_world:
+      description: ¡Para crear una campaña, tendrás que crear un mundo para que tenga
+        lugar ahí!  Vamos, digo yo.
+      title: ¡Quieto parao' ahí!
+    save_btn: Guardar cambios
+    description_placeholder: ¡Ahora en mucho más que una frase! ¡Inspira a tus jugadores
+      y emociona a la audiencia!
+    excerpt_placeholder: ¡Describe tu campaña en una frase!
+    details_box_title: 'Otros detalles '
+    dropzone_message: ¡Selecciona o arrastra un único archivo hasta aquí!<br><p><small>
+      Recomendamos un tamaño mínimo de 1600x400 píxeles. Recuerda que puedes hacer
+      esto más tarde.</small></p><p><small>El tamaño máximo para tus archivos es %max_size%
+      y puedes usar JPG, JPEG, PNG o GIF</small></p>
+    cover_image: Portada
+    privacy: Privacidad
+    rpg_system_placeholder: Selecciona un sistema
+    rpg_system: Sistema de rol
+    title_placeholder: Por ejemplo, "El Legado del Plátano Tenebroso"
+    title: Nombre de la campaña
+  panel:
+    delete_campaign_btn: ELIMINAR CAMPAÑA
+    deleted_world_campaign: Esta campaña pertenece a un mundo eliminado.
+  list:
+    alert_info: ¡Has alcanzado el número máximo de campañas <br> que incluye tu suscripción!
+    breadcrumb: Tus campañas
+    page_title: Campañas de rol
+    page_header: Tus campañas
+  dashboard:
+    parties:
+      manage_btn: Gestionar grupos
+      parties_count: 'Hay %parties_count% grupos en esta campaña. '
+      box_title: Grupos
+    characters:
+      manage_btn: Gestionar personajes
+      characters_count: Hay %characters_count% personajes jugador en esta campaña.
+      box_title: Los protagonistas
+    session:
+      other_session:
+        schedule_new_session: Programar una sesión
+        journal_by: por
+        journal_box_title: Entradas de diario
+        concluded_on: Terminada el %conclude_date%
+        start_btn: Inicio
+        upcoming_session: Próximas sesiones
+        add_report_btn: Escribir informe
+        view_report_btn: Ver informe
+        edit_report_btn: Editar informe
+        edit_session_btn: Editar sesión
+        scheduled_for: Prevista para el %date%
+      current_session:
+        play_btn: JUGAR
+        end_session_btn: FIN
+        box_title: Sesión actual
+    view_world_btn: Ver mundo
+    edit_world_btn: Editar mundo
+    view_campaign_page_btn: Visión pública de la campaña
+    streambox:
+      title: Noticias de la campaña
+  character_list:
+    character_table:
+      delete_btn: Eliminar
+      edit_btn: Editar
+      location: Ubicación
+      visibility: Visibilidad
+      type: Tipo
+      name: Nombre
+    create_npc_btn: Crear un NPC nuevo
+    expel_character_btn: Expulsar personaje
+    character_sheet:
+      edit_sheet_btn: Editar ficha
+    invite:
+      alert_info: Para que tus jugadores se unan a la campaña, tendrás que invitarlos.
+        <br>Para ello, dales el siguiente enlace. Es una invitación única para tu
+        campaña.<br> Deberán seleccionar el personaje que quieren usar de entre su
+        lista y entonces entrar en el enlace.<br> En cuanto lo hayan hecho, su personaje
+        aparecerá en tu lista de protagonistas.
+    title: Personajes
+    header: Lista de personajes en %campaign_name%
+  cannot_create_campaign: No puede crearse una nueva campaña
+  breadcrumbs: Campañas
+create:
+  world: Crear un mundo nuevo
+  campaign: Crear nueva campaña
+  character: Crear un nuevo personaje
+  journal: Crear una nueva entrada de diario
+go_to_world_list_btn: Ir a la lista de mundos
+no_active_world: Parece que no tienes un mundo activo.
+join_worldbuilder_guild_link: Únete al Gremio de Worldbuilders
+worldbuilder_guild_title: ¡Ayúdanos a seguir haciendo crecer World Anvil!
+title: Héroes
+character:
+  view.in.world: Ver en el mundo
+WA_default_page_description: World Anvil es una comunidad de creación de mundos y
+  una colección de herramientas para escritores, narradores y jugadores de juegos
+  de rol y amantes de la creatividad
