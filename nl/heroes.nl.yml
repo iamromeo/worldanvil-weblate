@@ -15,8 +15,9 @@ campaign:
   codex_link: Lees het Codex-artikel over het maken en beheren van uw campagne
   breadcrumbs: Campagnes
   menu:
-    protagonists: 'Held '
+    protagonists: 'Helden (PC''s)'
     home: Startpagina
+    supporting_cast: Overige karakters
   cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
 character:
   view.in.world: Bekijk Wereld
