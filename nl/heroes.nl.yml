@@ -5,7 +5,7 @@ create.campaign: Creëer een nieuwe Campagne
 character.view.in.world: Bekijk in Wereld
 campaign:
   invite:
-    regenerate_code_btn: Hergebruik code
+    regenerate_code_btn: Regenereer code
     no_access_code: 'Deze campagne heeft geen toegangscode. Je moet er een maken om
       meer spelers uit te nodigen. '
     description: Stuur de uitnodigingslink naar uw spelers om ze uit te nodigen voor
@@ -14,6 +14,10 @@ campaign:
     box_title: Nodig jouw spelers karakters uit in de campagne!
   codex_link: Lees het Codex-artikel over het maken en beheren van uw campagne
   breadcrumbs: Campagnes
+  menu:
+    protagonists: 'Held '
+    home: Startpagina
+  cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
 character:
   view.in.world: Bekijk Wereld
 create:
