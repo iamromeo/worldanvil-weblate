@@ -3,3 +3,20 @@ create.character: Créer un nouveau Personnage
 create.journal: Créer une nouvelle Entrée de Journal
 create.campaign: Créer une Campagne
 character.view.in.world: Voir dans le Monde
+campaign:
+  breadcrumbs: Campagnes
+join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
+title: Héros
+worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
+character:
+  view.in.world: Voir dans le Monde
+create:
+  world: Créer un nouveau monde
+  campaign: Créer une nouvelle Campagne
+  journal: Créer une nouvelle entrée au Journal
+  character: Créer un nouveau personnage
+go_to_world_list_btn: Vers la liste des mondes
+no_active_world: Il semblerait que vous n'ayez aucun monde actif.
+WA_default_page_description: World Anvil est une communauté de création de mondes,
+  ainsi qu'un ensemble d'outils pour auteurs, Maîtres du jeu et amateurs de création
+  de mondes
