@@ -48,7 +48,7 @@ campaign:
   dashboard:
     session:
       other_session:
-        schedule_new_session: Rooster een nieuwe Sessie
+        schedule_new_session: Plan een nieuwe Sessie
         journal_by: bij
         journal_box_title: Dagboek inschrijving
         concluded_on: Afgerond %conclude_date%
@@ -68,6 +68,57 @@ campaign:
     view_campaign_page_btn: Bekijk Campagnes publieke pagina
     streambox:
       title: Campagne Stream
+    parties:
+      manage_btn: Beheer Partijen
+      parties_count: Er zijn %parties_count% partijen in deze campagne
+      box_title: 'De Partijen '
+    characters:
+      manage_btn: Beheer Karakters
+      characters_count: 'Er zijn %characters_count% karakters in deze campagne. '
+      box_title: De Hoofdrolspelers
+  join:
+    create_character:
+      need_comeback: (je moet terugkomen om met de campagne mee te doen)
+      or: '... of,'
+    max_character_reached: Je hebt het maximale aantal karakters <br> bereikt dat
+      je kunt hebben met je huidige lidmaatschap!
+    remove_character_from_other_campaign: Of verwijder een van je personages uit hun
+      huidige campagne. <br> (je moet hier terugkomen om deel te nemen aan de campagne)
+    character_select_btn: Kies %character_name%
+    select_a_character: Welke van je karakter wil je mee laten doen met de campagne?
+    all_character_already_in_campaign: Al je karakters zitten in een campagne.
+    invited_by: U bent uitgenodigd door% invitation_sender% om deel te nemen aan de%
+      campaign_name% campagne!
+    breadcrumbs: Campagne uitnodiging
+  new_campaign_form:
+    alert_no_world:
+      description: Om een campagne te maken, heb je een wereld nodig om de campagne
+        te laten plaatsvinden!
+      title: Wacht even vriend!
+    save_btn: Sla veranderingen op
+    description_placeholder: De langere versie van je omschrijving, om je speler en
+      toeschouwers te inspireren!
+    excerpt_placeholder: Een zin omschrijving van je campagne
+    details_box_title: Extra details
+    dropzone_message: Klik of sleep hier een enkel bestand! <br> <p> <small> Aanbevolen
+      minimumgrootte 1600x400px. Je kunt het altijd later doen! </small> </p> <p>
+      <small> Je huidige maximale bestandsgrootte is% max_size%, en de toegestane
+      bestandstypen JPG, JPEG, PNG, GIF </small> </ p >
+    cover_image: Cover Afbeelding
+    privacy: Privacy Status
+    rpg_system_placeholder: Selecteer RPG Systeem
+    rpg_system: RPG Systeem
+    title_placeholder: Eerste naam e.g. The Legacy of the Dark Banana'
+    title: Campagne Naam
+  panel:
+    delete_campaign_btn: VERWIJDER CAMPAGNE
+    deleted_world_campaign: 'Dit is een campagne van een verwijderde wereld. '
+  list:
+    alert_info: U heeft het maximale aantal <br> campagnes bereikt dat u kunt hebben
+      met uw huidige lidmaatschap!
+    breadcrumb: Jouw Campagnes
+    page_title: RPG Campagne
+    page_header: Jouw Campagnes
 character:
   view.in.world: Bekijk Wereld
 create:
