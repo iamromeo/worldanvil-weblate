@@ -1,1 +1,237 @@
-{}
+campaign:
+  view:
+    leave_btn: Marxa de la campanya
+    read_report_btn: Llegiu l'informe
+    archive_expand_btn: Feu clic per expandir/ocultar
+    edit_btn: Edita la campanya
+    page_header: 'Portada de %campaign_name% | World Anvil '
+  subscription:
+    css_guide:
+      example: ' <em>Exemples</em><br><h6>Per afectar <strong>.wrapper-content directament</strong>
+        no utilitzeu cap seleccionador, el seleccionador serà aplicat automàticament.</h6><p>{
+        <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;    color: #ffffff;
+        <br>} <br><br></p><h6>Per canvia el color de fons de la majoria de caixes</h6><p>.ibox-content
+        { <br>&nbsp;&nbsp;    background-color: #ff00ff !important; <br>} <br><br></p>'
+      list_4: Podeu canviar tot el que vulgueu dins la pàgina del vostre personatge,
+        fins i tot l'estructura de World Anvil, però els Udans no es responsabilitzen
+        de possible errors que puguin trencar la pàgina del personatge!
+      list_3: Si voleu utilitzar comentaris, feu-los /* d'aquesta manera */ i feu-ho
+        DINS dels seleccionadors, no fora
+      list_2: No utilitzeu comes ','. L'ús de comes en els seleccionadors causarà
+        problemes amb el CSS.
+      list_1: Totes les declaracions CSS en aquesta caixa seran automàticament posades
+        dins del seleccionador <strong>.wrapper-content</strong>.
+      title: Guia ràpida de CSS per campanyes
+    update_css_btn: Actualitzat l'estil CSS
+    custom_css: CSS personalitzat
+    view_public_page: Pàgina pública de la campanya
+    update_slug_btn: Actualitza l'URL
+    custom_url_info: Aquesta part de l'URL apareixerà com a https://www.worldanvil.com/epic/<strong>les-llegendes-del-dema</strong><br>-
+      Només pot incloure lletres llatines bàsiques sense accents, números, i guionets.
+      <br>- Ha de tenir com a mínim 10 caràcters i com a màxim 255 (guionets inclosos).
+    custom_url: URL personalitzat
+    membership_level_display: Sou un %membership_level% del Gremi. Com a tal, teniu
+      accés a algunes opcions molt especial! Gaudiu-ne!
+    breadcrumbs: Opcions de Gremi
+    page_header: Opcions de Gremi de %campaign_name%
+  settings:
+    delete:
+      delete_btn: ELIMINA LA CAMPANYA
+      warning: Aquest procés és IRREVERSIBLE.
+      how_to: Per tal d'eliminar la campanya, escriviu DELETE a la següent caixa de
+        text
+      box_title: Elimina la campanya
+    storytellers:
+      add: Afegeix master a la campanya
+      campaign_gm_tags: (Master)
+      campaign_owner_tags: (Propietari)
+      select: Trieu l'autor del món com a director de joc
+      owner_tag: Propietari
+      remove_btn: Elimina director de joc
+      title: Directors de joc
+    access:
+      save_btn: Desa els canvis
+      world_homepage_visibility: Visibilitat de la portada del món
+      state: Accés
+      member_only: Només disponibles per membres del Gremi
+      subscriber: Grups de subscriptors
+      title: Opcions d'accés
+    presentation:
+      end_date_info: Data de final de la campanya, si la campanya va acabar.
+      end_date: Data final
+      start_date_info: La data d'inici de la campanya.
+      start_date: Data d'inici
+      maps: Mapes relacionats amb la campanya
+      timeline_info: Recordeu que només les línies del temps paral·leles poden ser
+        utilitzades per una campanya!
+      timeline: Línies del temps relacionades amb la campanya
+      discord_info: L'enllaç d'invitació de Discord. Recordeu de configurar-lo perquè
+        no caduqui.
+      discord: URL del servidor de Discord
+      vtt_info: Si utilitzeu un tauler virtual, poseu l'URL aquí. Només els jugadors
+        el podran veure.
+      vtt: URL del tauler virtual
+      twitch_info: El <strong>nom d'usuari</strong> del canal de Twitch en el qual
+        es transmetrà la campanya. Això generarà un reproductor de Twitch incrustat
+        a la pàgina de la campanya.
+      twitch: Canal de Twitch
+      info: La informació següent afecta com el públic veu la campanya.
+      title: Opcions de presentació
+    general:
+      group_status: Estat del grup
+      cover_image: Imatge de coberta de la campanya
+      rpg_system: Sistema de rol
+      description: Introducció / Descripció
+      excerpt_placeholder: p. ex. 5 herois exploren les terres més enllà de l'armari
+      excerpt: Descripció breu
+      name_placeholder: p. ex. Herois de Narnia
+      name: Títol
+      title: Opcions generals
+    title: Opcions de la campanya
+    breadcrumbs: Opcions
+    page_title: Opcions de %campaign_name%
+  reports:
+    protagonists: Protagonistes
+    edit_btn: Edita l'informe
+    page_title: Informe %article_title%
+    breadcrumbs: Informes
+  join:
+    create_account_box_title: Crea un nou compte i un personatge!
+    account_box_title: Ja tinc un compte
+    after_account: Un cop sigueu dins del compte, assegureu-vos de tenir un personatge
+      creat i després <br><strong>visiteu aquesta pàgina de nou per unir-vos a la
+      campanya!</strong>
+    joining_no_account: Per tal d'unir-vos a la campanya de %campaign_master_name%,
+      necessiteu un compte a World Anvil i un personatge creat.
+    no_character: No teniu cap personatge al vostre compte.
+    create_character:
+      need_comeback: (haureu de tornar per unir-vos a la campanya)
+      or: '... o, '
+    max_character_reached: Heu arribat al màxim de personatges<br>que podeu tenir
+      amb el vostre compte!
+    remove_character_from_other_campaign: Alternativament, elimineu un dels vostres
+      personatges de la seva campanya actual. <br>(haureu de tornar aquí per unir-vos
+      a la campanya)
+    character_select_btn: Tria %character_name%
+    select_a_character: Quin personatge voleu que s'uneixi a la campanya?
+    all_character_already_in_campaign: Ara mateix, tots els vostres personatges són
+      en una campanya.
+    invited_by: '%invite_sender% us convida a la campanya %campaign_name%!'
+    breadcrumbs: Invitació a la campanya
+  new_campaign_form:
+    alert_no_world:
+      description: Per crear una campanya, primer necessiteu tenir un món on la campanya
+        pugui tenir lloc!
+      title: No tan ràpid, amic!
+    save_btn: Desa els canvis
+    description_placeholder: Versió més llarga de la descripció, per inspirar els
+      vostres jugadors i temptar l'audiència!
+    excerpt_placeholder: Descripció d'una línia de la campanya.
+    details_box_title: 'Detalls addicionals. '
+    dropzone_message: Feu clic o arrossegueu un fitxer aquí! <br><p><small>Les dimensions
+      mínimes recomanades són 1600x400px. Sempre podeu fer-ho més tard!</small></p>
+      <p><small>El pes màxim d'un fitxer per tu és %max_size%, i el tipus de fitxer
+      permesos són JPG, JPEG, PNG, GIF</small></p>
+    cover_image: Imatge de coberta
+    privacy: Privacitat
+    rpg_system_placeholder: Seleccioneu un sistema de rol
+    rpg_system: Sistema de rol
+    title_placeholder: Títol (p.ex. El llegat del plàtan fosc)
+    title: Nom de la campanya
+  panel:
+    delete_campaign_btn: ELIMINA LA CAMPANYA
+    deleted_world_campaign: Aquesta campanya pertany a un món esborrat.
+  list:
+    alert_info: Hey arribat al màxim de campanyes <br> que podeu tenir amb la vostra
+      subscripció actual!
+    breadcrumb: Campanyes
+    page_title: Campanyes de rol
+    page_header: Els vostres campanyes
+  dashboard:
+    parties:
+      manage_btn: Opcions de grups
+      parties_count: 'Hi ha %parties_count% grups en aquesta campanya. '
+      box_title: Grups
+    characters:
+      characters_count: Hi ha %characters_count% personatges en aquesta campanya.
+      manage_btn: Opcions dels personatges
+      box_title: Protagonistes
+    session:
+      other_session:
+        schedule_new_session: Programa una nova sessió
+        journal_by: per
+        journal_box_title: Entrades de diari
+        concluded_on: Finalitzada a %conclude_date%
+        start_btn: Inici
+        upcoming_session: Properes sessions
+        add_report_btn: Escriu l'informe
+        view_report_btn: Llegeix l'informe
+        edit_report_btn: Edita l'informe
+        edit_session_btn: Edita al sessió
+        scheduled_for: Programada per %date%
+      current_session:
+        play_btn: JUGA
+        end_session_btn: FI
+        box_title: Sessió actual
+    view_world_btn: Visualitza el món
+    edit_world_btn: Edita el món
+    view_campaign_page_btn: Pàgina pública de la campanya
+    streambox:
+      title: Mur de la campanya
+  character_list:
+    character_table:
+      delete_btn: Esborra
+      edit_btn: Modifica
+      location: Ubicació
+      visibility: Visibilitat
+      type: Tipus
+      name: Nom
+    create_npc_btn: Crea un nou personatge secundari (NPC)
+    expel_character_btn: Expulsa el personatge
+    character_sheet:
+      edit_sheet_btn: Edita la fitxa
+    invite:
+      alert_info: Per tal que els jugadors s'uneixin a la campanya, cal que els convideu.
+        <br> Envieu el següent URL als vostres jugadors. És un enllaç d'invitació
+        únic per la vostra campanya. <br> Hauran de triar el personatge que voleu
+        afegir a la campanya i llavors accedir a l'URL. <br> Tan bon punt ho facin,
+        el seu personatge apareixerà a l'apartat de protagonistes
+    title: Personatges
+    header: Personatges de %campaign_name%
+  menu:
+    guild_features: OPCIONS DE GREMI
+    settings: Opcions
+    primer: Manual
+    sessions: Sessions
+    plots: Guions
+    parties: Grups
+    supporting_cast: Personatges secundaris (NPCs)
+    protagonists: Protagonistes (PCs)
+    home: Principal
+  cannot_create_campaign: 'No es pot crear la nova campanya:'
+  invite:
+    regenerate_code_btn: Regenerar codi
+    no_access_code: Aquesta campanya no té codi d'accés. Cal que en genereu un per
+      tal de poder convidar més jugadors.
+    description: Envieu l'enllaç d'invitació als vostres jugadors per convidar-los
+      a la campanya. <br> <strong>Els jugadors han de tenir un personatge de Heroes.
+      <br> Ha de ser el personatge actiu del seu perfil!</strong>
+    box_title: Convideu els vostres personatges jugadors a la campanya!
+  codex_link: Feu un cop d'ull a l'article del Codex sobre la creació i la gestió
+    d'una campanya
+  breadcrumbs: Campanyes
+character:
+  view.in.world: Pàgina del món
+create:
+  world: Crea un nou món
+  campaign: Crea una nova campanya
+  journal: Crea una nova entrada de diari
+  character: Crea un nou personatge
+go_to_world_list_btn: Llista de mons
+no_active_world: Sembla que no teniu cap món actiu.
+join_worldbuilder_guild_link: Uniu-vos al Gremi de Worldbuilders
+worldbuilder_guild_title: Ajudeu-nos a mantenir World Anvil i a fer-lo créixer!
+WA_default_page_description: World Anvil és una comunitat de worldbuilding i una caixa
+  d'eines per a escriptors, directors de jocs de rol i amants de la creació de mons
+  imaginaris
+title: Heroes
