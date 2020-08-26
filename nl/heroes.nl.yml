@@ -78,7 +78,7 @@ campaign:
       box_title: De Hoofdrolspelers
   join:
     create_character:
-      need_comeback: (je moet terugkomen om met de campagne mee te doen)
+      need_comeback: (je zal hier moeten terugkomen om met de campagne mee te doen)
       or: '... of,'
     max_character_reached: Je hebt het maximale aantal karakters <br> bereikt dat
       je kunt hebben met je huidige lidmaatschap!
@@ -90,6 +90,14 @@ campaign:
     invited_by: U bent uitgenodigd door% invitation_sender% om deel te nemen aan de%
       campaign_name% campagne!
     breadcrumbs: Campagne uitnodiging
+    create_account_box_title: Creëer een nieuwe account en karakter!
+    account_box_title: Ik heb al een account
+    after_account: Zodra u zich aanmeldt of registreert. Zorg ervoor dat je een personage
+      hebt gemaakt en <br> <strong> bezoek deze pagina opnieuw om deel te nemen aan
+      de campagne! </strong>
+    joining_no_account: Om deel te nemen aan de campagne van% campaign_master_name%
+      heb je een account op world anvil en een aangemaakt personage nodig.
+    no_character: Je hebt geen karakter op je account.
   new_campaign_form:
     alert_no_world:
       description: Om een campagne te maken, heb je een wereld nodig om de campagne
@@ -119,6 +127,8 @@ campaign:
     breadcrumb: Jouw Campagnes
     page_title: RPG Campagne
     page_header: Jouw Campagnes
+  reports:
+    breadcrumbs: Rapporten
 character:
   view.in.world: Bekijk Wereld
 create:
