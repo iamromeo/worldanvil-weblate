@@ -26,7 +26,7 @@ campaign:
     sessions: Sessies
   cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
   character_list:
-    create_npc_btn: Creëer een nieuwe Ondersteunde Karakter (NPC)
+    create_npc_btn: Creëer een nieuw Ondersteunde Karakter (NPC)
     expel_character_btn: Verdrijf Karakter
     character_sheet:
       edit_sheet_btn: Bewerk Lijst
@@ -38,6 +38,36 @@ campaign:
         doen, verschijnt hun personage onder je hoofdrolspelers
     title: Personage Lijst
     header: '%campaign_name% Karakterlijst'
+    character_table:
+      delete_btn: Verwijder
+      edit_btn: Bewerk
+      location: Locatie
+      visibility: Zichtbaarheid
+      type: Type
+      name: Naam
+  dashboard:
+    session:
+      other_session:
+        schedule_new_session: Rooster een nieuwe Sessie
+        journal_by: bij
+        journal_box_title: Dagboek inschrijving
+        concluded_on: Afgerond %conclude_date%
+        start_btn: Start
+        upcoming_session: Aankomende Sessies
+        add_report_btn: Schrijf Rapport
+        view_report_btn: Bekijk Rapport
+        edit_report_btn: Bewerk Rapport
+        edit_session_btn: Bewerk Sessie
+        scheduled_for: Ingeroosterd voor %date%
+      current_session:
+        play_btn: START
+        end_session_btn: EINDE
+        box_title: Huidige Sessie
+    view_world_btn: Bekijk Wereld
+    edit_world_btn: Bewerk Wereld
+    view_campaign_page_btn: Bekijk Campagnes publieke pagina
+    streambox:
+      title: Campagne Stream
 character:
   view.in.world: Bekijk Wereld
 create:
