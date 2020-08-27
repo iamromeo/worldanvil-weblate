@@ -129,6 +129,27 @@ campaign:
     page_header: Jouw Campagnes
   reports:
     breadcrumbs: Rapporten
+    protagonists: Hoofdpersonen
+    edit_btn: Bewerk Raport
+    page_title: '%article_title% Rapport'
+  settings:
+    presentation:
+      info: De informatie beneden heeft effect op de manier waarop je campagne te
+        zien is.
+      title: Presentatie Instellingen
+    general:
+      group_status: Groep Status
+      cover_image: Campagne Cover Afbeelding
+      rpg_system: TTRPG Systeem
+      description: Introductie/ Omschrijving
+      excerpt_placeholder: bijv. 5 Helden zwerven door het land achter de Kledingkast
+      excerpt: Uittreksel / Kleine omschrijving
+      name_placeholder: Bijv. Helden van Narnia
+      name: Naam
+      title: Algemene Instellingen
+    title: Campagne Instellingen
+    breadcrumbs: Instellingen
+    page_title: '%campaign_name% Instellingen'
 character:
   view.in.world: Bekijk Wereld
 create:
