@@ -7,7 +7,7 @@ campaign:
   invite:
     regenerate_code_btn: Regenereer code
     no_access_code: 'Deze campagne heeft geen toegangscode. Je moet er een maken om
-      meer spelers uit te nodigen. '
+      meer spelers uit te nodigen.'
     description: Stuur de uitnodigingslink naar uw spelers om ze uit te nodigen voor
       uw campagne. <br> <strong> Je spelers moeten een heldenkarakter hebben. <br>
       Dat personage zou degene moeten zijn die actief is op zijn profiel! </strong>
@@ -24,7 +24,7 @@ campaign:
     settings: Instellingen
     primer: Inleiding
     sessions: Sessies
-  cannot_create_campaign: 'Kan geen nieuwe Campagne creëren: '
+  cannot_create_campaign: 'Kan geen nieuwe Campagne creëren :'
   character_list:
     create_npc_btn: Creëer een nieuw Ondersteunde Karakter (NPC)
     expel_character_btn: Verdrijf Karakter
@@ -70,16 +70,16 @@ campaign:
       title: Campagne Stream
     parties:
       manage_btn: Beheer Partijen
-      parties_count: Er zijn %parties_count% partijen in deze campagne
-      box_title: 'De Partijen '
+      parties_count: 'Er zijn %parties_count% partijen in deze campagne. '
+      box_title: 'De Partijen'
     characters:
       manage_btn: Beheer Karakters
-      characters_count: 'Er zijn %characters_count% karakters in deze campagne. '
+      characters_count: 'Er zijn %characters_count% karakters in deze campagne.'
       box_title: De Hoofdrolspelers
   join:
     create_character:
       need_comeback: (je zal hier moeten terugkomen om met de campagne mee te doen)
-      or: '... of,'
+      or: '... of, '
     max_character_reached: Je hebt het maximale aantal karakters <br> bereikt dat
       je kunt hebben met je huidige lidmaatschap!
     remove_character_from_other_campaign: Of verwijder een van je personages uit hun
@@ -106,8 +106,8 @@ campaign:
     save_btn: Sla veranderingen op
     description_placeholder: De langere versie van je omschrijving, om je speler en
       toeschouwers te inspireren!
-    excerpt_placeholder: Een zin omschrijving van je campagne
-    details_box_title: Extra details
+    excerpt_placeholder: Een zin omschrijving van je campagne.
+    details_box_title: 'Extra details '
     dropzone_message: Klik of sleep hier een enkel bestand! <br> <p> <small> Aanbevolen
       minimumgrootte 1600x400px. Je kunt het altijd later doen! </small> </p> <p>
       <small> Je huidige maximale bestandsgrootte is% max_size%, en de toegestane
@@ -120,7 +120,7 @@ campaign:
     title: Campagne Naam
   panel:
     delete_campaign_btn: VERWIJDER CAMPAGNE
-    deleted_world_campaign: 'Dit is een campagne van een verwijderde wereld. '
+    deleted_world_campaign: 'Dit is een campagne van een verwijderde wereld.'
   list:
     alert_info: U heeft het maximale aantal <br> campagnes bereikt dat u kunt hebben
       met uw huidige lidmaatschap!
@@ -138,7 +138,7 @@ campaign:
         zien is.
       title: Presentatie Instellingen
       end_date_info: 'De datum dat de campagne eindigt. Vul dit pas in als de campagne
-        beëindigd is. '
+        beëindigd is.'
       end_date: Eind Datum
       start_date_info: De datum dat de campagne start.
       start_date: Begin Datum
@@ -192,7 +192,7 @@ campaign:
     membership_level_display: Je bent een% membership_level% van de Gilde. Als zodanig
       krijgen jij en je helden toegang tot een aantal zeer speciale functies! Genieten!
     breadcrumbs: Gilde Kenmerken
-    page_header: '%campaign_name%  Gilde Kenmerken'
+    page_header: '%campaign_name% Gilde Kenmerken'
     update_css_btn: Update CSS Styling
     custom_css: Aangepaste CSS
     view_public_page: Bekijk Campagnes Publieke Pagina
@@ -213,7 +213,11 @@ campaign:
         .wrapper-content </strong> selector.
       title: De Snelle CSS Gids voor Campagnes
   view:
-    page_header: '%campaign_name%  Startpagina| World Anvil'
+    page_header: '%campaign_name% Startpagina| World Anvil '
+    leave_btn: Verlaat Campagne
+    read_report_btn: Lees het Verslag
+    archive_expand_btn: Klik op Uitzetten/Inklappen
+    edit_btn: Bewerk Campagne
 character:
   view.in.world: Bekijk Wereld
 create:
