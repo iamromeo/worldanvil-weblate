@@ -134,9 +134,28 @@ campaign:
     page_title: '%article_title% Rapport'
   settings:
     presentation:
-      info: De informatie beneden heeft effect op de manier waarop je campagne te
+      info: De informatie hieronder heeft effect op de manier waarop je campagne te
         zien is.
       title: Presentatie Instellingen
+      end_date_info: 'De datum dat de campagne eindigt. Vul dit pas in als de campagne
+        beëindigd is. '
+      end_date: Eind Datum
+      start_date_info: De datum dat de campagne start.
+      start_date: Begin Datum
+      maps: Kaarten gerelateerd met de Campagne
+      timeline_info: Houd er rekening mee dat alleen parallelle tijdlijnen kunnen
+        worden gebruikt als tijdlijn van een campagne!
+      timeline: Tijdlijn gerelateerd met de Campagne
+      discord_info: Dit zou de uitnodigingslink moeten zijn die Discord biedt. Vergeet
+        niet in te stellen dat het niet verloopt.
+      discord: Discord Server URL
+      vtt_info: Als je een VTT gebruikt, plaats dan hier de URL naar het bord. Dit
+        is alleen zichtbaar voor uw spelers.
+      vtt: VTT bord URL
+      twitch_info: De <strong> gebruikersnaam </strong> van het Twitch-kanaal waarin
+        de campagne wordt uitgezonden. Hierdoor wordt een ingesloten twitch op de
+        campagnepagina geplaatst.
+      twitch: Twitch Kanaal
     general:
       group_status: Groep Status
       cover_image: Campagne Cover Afbeelding
@@ -150,6 +169,30 @@ campaign:
     title: Campagne Instellingen
     breadcrumbs: Instellingen
     page_title: '%campaign_name% Instellingen'
+    delete:
+      delete_btn: VERWIJDER CAMPAGNE
+      warning: Dit proces is ONOMKEERBAAR.
+      how_to: Om uw campagne te verwijderen, typt u DELETE in het onderstaande vak
+      box_title: Verwijder Campagne
+    storytellers:
+      add: Voeg Verteller aan Campagne toe
+      campaign_gm_tags: (GM)
+      campaign_owner_tags: (Eigenaar)
+      select: Selecteer Wereld Auteur als verteller
+      owner_tag: Eigenaar
+      remove_btn: Verwijder verhaalverteller
+      title: Verhalen vertellers
+    access:
+      save_btn: Sla veranderingen op
+      world_homepage_visibility: Wereld Startpagina Zichtbaarheid
+      state: Toegang Status
+      member_only: Alleen beschikbaar voor Gilde Leden
+      subscriber: Abonnee groepen
+  subscription:
+    membership_level_display: Je bent een% membership_level% van de gilde. Als zodanig
+      krijgen jij en je helden toegang tot een aantal zeer speciale functies! Genieten!
+    breadcrumbs: Gilde Kenmerken
+    page_header: '%campaign_name%  Gilde Kenmerken'
 character:
   view.in.world: Bekijk Wereld
 create:
