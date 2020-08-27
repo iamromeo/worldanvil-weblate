@@ -189,10 +189,18 @@ campaign:
       member_only: Alleen beschikbaar voor Gilde Leden
       subscriber: Abonnee groepen
   subscription:
-    membership_level_display: Je bent een% membership_level% van de gilde. Als zodanig
+    membership_level_display: Je bent een% membership_level% van de Gilde. Als zodanig
       krijgen jij en je helden toegang tot een aantal zeer speciale functies! Genieten!
     breadcrumbs: Gilde Kenmerken
     page_header: '%campaign_name%  Gilde Kenmerken'
+    update_css_btn: Update CSS Style
+    custom_css: Aangepaste CSS
+    view_public_page: Bekijk Campagnes Publieke Pagina
+    update_slug_btn: Update URL slug
+    custom_url_info: Dit deel van de url zal verschijnen als https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow
+      </strong> <br> - Het mag alleen Latijnse letters, cijfers en streepjes bevatten.
+      <br> - Het moet minimaal 10 en niet groter zijn dan 255 tekens. (inclusief streepjes)
+    custom_url: Eigen URL
 character:
   view.in.world: Bekijk Wereld
 create:
