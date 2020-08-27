@@ -193,7 +193,7 @@ campaign:
       krijgen jij en je helden toegang tot een aantal zeer speciale functies! Genieten!
     breadcrumbs: Gilde Kenmerken
     page_header: '%campaign_name%  Gilde Kenmerken'
-    update_css_btn: Update CSS Style
+    update_css_btn: Update CSS Styling
     custom_css: Aangepaste CSS
     view_public_page: Bekijk Campagnes Publieke Pagina
     update_slug_btn: Update URL slug
@@ -201,6 +201,19 @@ campaign:
       </strong> <br> - Het mag alleen Latijnse letters, cijfers en streepjes bevatten.
       <br> - Het moet minimaal 10 en niet groter zijn dan 255 tekens. (inclusief streepjes)
     custom_url: Eigen URL
+    css_guide:
+      list_4: Je hebt het recht om alles te veranderen wat je maar wilt op de pagina
+        van je personage, inclusief de structuur van de World Anvil, maar de Udans
+        nemen geen verantwoordelijkheid voor het breken van je personage!
+      list_3: Als je commentaar wilt gebruiken, gebruik dan / * dit type * / en doe
+        in IN je selectors niet uit
+      list_2: Gebruik geen komma's ','. Het gebruik van komma's in uw selectors veroorzaakt
+        problemen met uw CSS.
+      list_1: Alle CSS-regels in dit vak worden automatisch verpakt onder de <strong>
+        .wrapper-content </strong> selector.
+      title: De Snelle CSS Gids voor Campagnes
+  view:
+    page_header: '%campaign_name%  Startpagina| World Anvil'
 character:
   view.in.world: Bekijk Wereld
 create:
