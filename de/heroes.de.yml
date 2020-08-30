@@ -127,4 +127,6 @@ campaign:
     all_character_already_in_campaign: Alle deine Charaktere befinden sich aktuell
       in einer Kampagne.
     select_a_character: 'Mit welchem deiner Charaktere möchtest du der Kampagne beitreten?'
-    character_select_btn: Wähle %character_name%
+    character_select_btn: '%character_name% wählen'
+    remove_character_from_other_campaign: Oder entferne einen Charakter aus einer
+      bestehenden Kampagne. <br>(Du musst hierher zurückkehren um der Kampagne beizutreten)
