@@ -107,3 +107,7 @@ campaign:
     rpg_system_placeholder: Wähle dein RPG System
     privacy: Zugriffsstatus
     cover_image: Startseiten Bild
+    dropzone_message: 'Klicke oder ziehe eine einzelne Datei hier hin! <br><p><small>Vorgeschlagene
+      Minimalgröße 1600x400px. Du kannst dies auch später hinzufügen!</small></p><p><small>Deine
+      maximale Bildgröße ist aktuell %max_size% und die erlaubten Dateitypen sind:
+      JPG, JPEG, PNG, GIF</small></p>'
