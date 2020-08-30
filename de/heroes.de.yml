@@ -17,3 +17,5 @@ create:
   world: Erstelle eine neue Welt
 character:
   view.in.world: In der Welt ansehen
+campaign:
+  breadcrumbs: Kampangen
