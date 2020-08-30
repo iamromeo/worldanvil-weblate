@@ -133,4 +133,5 @@ campaign:
     max_character_reached: Du hast die maximale Anzahl an Charakteren erreicht, <br>
       die du mit deiner aktuellen Mitgliedschaft haben kannst!
     create_character:
-      or: '... oder,'
+      or: '... oder, '
+      need_comeback: (Du musst hierher zurückkommen um der Kampagne beizutreten)
