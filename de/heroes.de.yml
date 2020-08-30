@@ -43,3 +43,9 @@ campaign:
   character_list:
     header: '%campaign_name% Charakterliste'
     title: Charakterliste
+    invite:
+      alert_info: Um Spieler in deine Kampagne zu bekommen musst du sie einladen.
+        <br> Gib deinen Spielern die untenstehende URL. Sie ist eine einzigartige
+        Einladung für deine Kampagne. <br>  Sie müssen dann ihren Charakter auswählen,
+        mit dem sie an der Kampagne teilnehmen wollen und die URL öffnen. <br> Sobald
+        sie dies getan haben, tauchen ihre Charaktere unter den Protagonisten auf
