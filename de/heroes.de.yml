@@ -120,3 +120,5 @@ campaign:
       title: Warte kurz, Partner!
       description: Um eine neue Kampagne zu erstellen, brauchst du eine Welt, in der
         die Kampagne stattfinden soll!
+  join:
+    breadcrumbs: Kampagneneinladung
