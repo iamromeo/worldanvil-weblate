@@ -13,3 +13,4 @@ go_to_world_list_btn: Gehe zur Weltenliste
 create:
   character: Erstelle einen neuen Charakter
   journal: Erstelle einen neuen Tagebucheintrag
+  campaign: Erstelle eine neue Kampange
