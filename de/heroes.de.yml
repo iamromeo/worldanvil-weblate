@@ -81,3 +81,4 @@ campaign:
         start_btn: Start
         concluded_on: Beendet am %conclude_date%
         journal_box_title: Tagebucheinträge
+        journal_by: von
