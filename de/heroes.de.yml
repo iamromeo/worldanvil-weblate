@@ -19,3 +19,5 @@ character:
   view.in.world: In der Welt ansehen
 campaign:
   breadcrumbs: Kampangen
+  codex_link: Sieh dir den Codex Artikel zum Erstellen und Verwalten deiner Kampagne
+    an
