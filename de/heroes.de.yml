@@ -87,3 +87,5 @@ campaign:
       box_title: Die Protagonisten
       characters_count: Es sind %characters_count% Charaktere in der Kampagne.
       manage_btn: Charaktere verwalten
+    parties:
+      box_title: Die Gruppen
