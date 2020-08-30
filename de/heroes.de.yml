@@ -60,3 +60,6 @@ campaign:
       location: Aufenthaltsort
       edit_btn: Bearbeiten
       delete_btn: Löschen
+  dashboard:
+    streambox:
+      title: Kampagnen-Stream
