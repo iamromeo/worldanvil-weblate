@@ -111,4 +111,5 @@ campaign:
       Minimalgröße 1600x400px. Du kannst das auch jederzeit später machen!</small></p><p><small>Deine
       maximale Bildgröße ist aktuell %max_size% und die erlaubten Dateitypen sind
       JPG, JPEG, PNG, GIF</small></p>'
-    details_box_title: Weitere Details
+    details_box_title: 'Weitere Details '
+    excerpt_placeholder: Eine kurze Beschreibung deiner Kampagne.
