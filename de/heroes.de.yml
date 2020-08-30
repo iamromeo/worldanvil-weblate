@@ -85,3 +85,4 @@ campaign:
         schedule_new_session: Plane eine neue Sitzung
     characters:
       box_title: Die Protagonisten
+      characters_count: Es sind %characters_count% Charaktere in der Kampagne.
