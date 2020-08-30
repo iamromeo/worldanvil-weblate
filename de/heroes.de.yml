@@ -15,3 +15,5 @@ create:
   journal: Erstelle einen neuen Tagebucheintrag
   campaign: Erstelle eine neue Kampange
   world: Erstelle eine neue Welt
+character:
+  view.in.world: In der Welt ansehen
