@@ -55,3 +55,4 @@ campaign:
     create_npc_btn: Erstelle einen neuen Nebencharakter (NPC)
     character_table:
       name: Name
+      type: Typ
