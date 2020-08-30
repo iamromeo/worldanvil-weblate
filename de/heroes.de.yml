@@ -69,3 +69,4 @@ campaign:
     session:
       current_session:
         box_title: Aktuelle Sitzung
+        end_session_btn: ENDE
