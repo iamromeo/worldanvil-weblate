@@ -42,3 +42,4 @@ campaign:
     guild_features: GILDEN-FUNKTIONEN
   character_list:
     header: '%campaign_name% Charakterliste'
+    title: Charakterliste
