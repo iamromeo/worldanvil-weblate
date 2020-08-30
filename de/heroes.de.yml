@@ -27,4 +27,5 @@ campaign:
       <br> <strong>Deine Spieler brauchen einen Heldencharakter. <br> Dieser Charakter
       sollte auf ihrem Profil als aktiv eingestellt sein!</strong>
     no_access_code: 'Diese Kampagne hat keinen Zugangscode. Du musst einen generieren
-      um mehr Spieler einzuladen. '
+      um mehr Spieler einzuladen.'
+    regenerate_code_btn: Code neu generieren
