@@ -125,4 +125,6 @@ campaign:
     invited_by: Du wurdest von %invite_sender% eingeladen der Kampagne %campaign_name%
       beizutreten!
     all_character_already_in_campaign: Alle deine Charaktere befinden sich aktuell
-      in einer Kmapagne.
+      in einer Kampagne.
+    select_a_character: 'Mit welchem deiner Charaktere möchtest du in der Kampagne
+      beitreten? '
