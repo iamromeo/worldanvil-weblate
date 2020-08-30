@@ -32,3 +32,4 @@ campaign:
   cannot_create_campaign: 'Es kann keine weitere Kampagne erstellt werden :'
   menu:
     home: Hauptmenü
+    protagonists: Protagonisten (SCs)
