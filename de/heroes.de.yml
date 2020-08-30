@@ -66,3 +66,6 @@ campaign:
     view_campaign_page_btn: Öffentliche Kampagnenseite ansehen
     edit_world_btn: Welt bearbeiten
     view_world_btn: Welt ansehen
+    session:
+      current_session:
+        box_title: Aktuelle Sitzung
