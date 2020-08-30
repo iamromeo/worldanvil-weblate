@@ -102,3 +102,4 @@ campaign:
     delete_campaign_btn: KAMPAGNE LÖSCHEN
   new_campaign_form:
     title: Kampagnen Name
+    title_placeholder: Erster Name  z.B. Die Legende der dunklen Banane
