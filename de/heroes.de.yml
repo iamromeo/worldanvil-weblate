@@ -126,5 +126,5 @@ campaign:
       beizutreten!
     all_character_already_in_campaign: Alle deine Charaktere befinden sich aktuell
       in einer Kampagne.
-    select_a_character: 'Mit welchem deiner Charaktere möchtest du in der Kampagne
-      beitreten? '
+    select_a_character: 'Mit welchem deiner Charaktere möchtest du der Kampagne beitreten?'
+    character_select_btn: Wähle %character_name%
