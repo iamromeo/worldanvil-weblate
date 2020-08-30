@@ -30,3 +30,5 @@ campaign:
       um mehr Spieler einzuladen.'
     regenerate_code_btn: Code neu generieren
   cannot_create_campaign: 'Es kann keine weitere Kampagne erstellt werden :'
+  menu:
+    home: Hauptmenü
