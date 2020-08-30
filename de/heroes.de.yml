@@ -130,3 +130,5 @@ campaign:
     character_select_btn: '%character_name% wählen'
     remove_character_from_other_campaign: Oder entferne einen Charakter aus einer
       bestehenden Kampagne. <br>(Du musst hierher zurückkehren um der Kampagne beizutreten)
+    max_character_reached: Du hast die maximale Anzahl an Charakteren erreicht, <br>
+      die du mit deiner aktuellen Mitgliedschaft haben kannst!
