@@ -82,3 +82,4 @@ campaign:
         concluded_on: Beendet am %conclude_date%
         journal_box_title: Tagebucheinträge
         journal_by: von
+        schedule_new_session: Plane eine neue Sitzung
