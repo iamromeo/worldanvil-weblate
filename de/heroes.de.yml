@@ -59,3 +59,4 @@ campaign:
       visibility: Sichtbarkeit
       location: Aufenthaltsort
       edit_btn: Bearbeiten
+      delete_btn: Löschen
