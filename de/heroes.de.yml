@@ -135,3 +135,4 @@ campaign:
     create_character:
       or: '... oder, '
       need_comeback: (Du musst hierher zurückkommen um der Kampagne beizutreten)
+    no_character: Du hast noch keinen Charakter auf deinem Account.
