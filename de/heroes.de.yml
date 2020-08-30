@@ -100,3 +100,5 @@ campaign:
   panel:
     deleted_world_campaign: Diese Kampagne gehört zu einer gelöschten Welt.
     delete_campaign_btn: KAMPAGNE LÖSCHEN
+  new_campaign_form:
+    title: Kampagnen Name
