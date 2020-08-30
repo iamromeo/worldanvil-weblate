@@ -33,4 +33,5 @@ campaign:
   menu:
     home: Hauptmenü
     protagonists: Protagonisten (PCs)
-    supporting_cast: Nebencharaktere (NSCs)
+    supporting_cast: Nebencharaktere (NPCs)
+    parties: Gruppen
