@@ -89,3 +89,4 @@ campaign:
       manage_btn: Charaktere verwalten
     parties:
       box_title: Die Gruppen
+      parties_count: Es sind %parties_count% Gruppen in der Kampagne.
