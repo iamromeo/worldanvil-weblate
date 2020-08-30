@@ -105,3 +105,4 @@ campaign:
     title_placeholder: Erster Name, z.B. "Die Legende der dunklen Banane"
     rpg_system: RPG System
     rpg_system_placeholder: Wähle dein RPG System
+    privacy: Zugriffsstatus
