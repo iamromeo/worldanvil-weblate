@@ -63,5 +63,6 @@ campaign:
   dashboard:
     streambox:
       title: Kampagnen-Stream
-    view_campaign_page_btn: Betrachte die öffentliche Kampagnenseite
+    view_campaign_page_btn: Öffentliche Kampagnenseite ansehen
     edit_world_btn: Welt bearbeiten
+    view_world_btn: Welt ansehen
