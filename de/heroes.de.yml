@@ -83,3 +83,5 @@ campaign:
         journal_box_title: Tagebucheinträge
         journal_by: von
         schedule_new_session: Plane eine neue Sitzung
+    characters:
+      box_title: Die Protagonisten
