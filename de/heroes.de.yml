@@ -63,3 +63,4 @@ campaign:
   dashboard:
     streambox:
       title: Kampagnen-Stream
+    view_campaign_page_btn: Betrachte die öffentliche Kampagnenseite
