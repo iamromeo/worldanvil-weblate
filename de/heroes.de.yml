@@ -79,3 +79,4 @@ campaign:
         add_report_btn: Sitzungsbericht schreiben
         upcoming_session: Nächste Sitzungen
         start_btn: Start
+        concluded_on: Beendet am %conclude_date%
