@@ -74,3 +74,4 @@ campaign:
       other_session:
         scheduled_for: Geplant für %date%
         edit_session_btn: Sitzung bearbeiten
+        edit_report_btn: Bericht bearbeiten
