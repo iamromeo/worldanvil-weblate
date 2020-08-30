@@ -118,3 +118,5 @@ campaign:
     save_btn: Änderungen speichern
     alert_no_world:
       title: Warte kurz, Partner!
+      description: Um eine neue Kampagne zu erstellen, brauchst du eine Welt, in der
+        die Kampagne stattfinden soll!
