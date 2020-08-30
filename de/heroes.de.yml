@@ -23,6 +23,8 @@ campaign:
     an
   invite:
     box_title: Lade deine Spieler in die Kampange ein!
-    description: Sende den Einladungslink deinen Spielern um sie in die Kampagne einzuladen.  <br>
-      <strong>Deine Spieler brauchen einen Heldencharakter. <br> Dieser Charakter
+    description: Sende den Einladungslink deinen Spielern um sie in die Kampagne einzuladen.
+      <br> <strong>Deine Spieler brauchen einen Heldencharakter. <br> Dieser Charakter
       sollte auf ihrem Profil als aktiv eingestellt sein!</strong>
+    no_access_code: 'Diese Kampagne hat keinen Zugangscode. Du musst einen generieren
+      um mehr Spieler einzuladen. '
