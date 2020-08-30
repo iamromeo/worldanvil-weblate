@@ -51,3 +51,4 @@ campaign:
         sie das getan haben, tauchen ihre Charaktere unter den Protagonisten auf
     character_sheet:
       edit_sheet_btn: Charakterbogen bearbeiten
+    expel_character_btn: Charakter ausschließen
