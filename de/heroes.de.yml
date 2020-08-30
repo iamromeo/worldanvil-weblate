@@ -73,3 +73,4 @@ campaign:
         play_btn: SPIELEN
       other_session:
         scheduled_for: Geplant für %date%
+        edit_session_btn: Sitzung bearbeiten
