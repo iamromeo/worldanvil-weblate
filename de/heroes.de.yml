@@ -52,3 +52,4 @@ campaign:
     character_sheet:
       edit_sheet_btn: Charakterbogen bearbeiten
     expel_character_btn: Charakter ausschließen
+    create_npc_btn: Erstelle einen neuen Nebencharakter (NPC)
