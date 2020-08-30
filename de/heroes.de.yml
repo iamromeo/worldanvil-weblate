@@ -99,3 +99,4 @@ campaign:
       deiner aktuellen Mitgliedschaft haben kannst!'
   panel:
     deleted_world_campaign: Diese Kampagne gehört zu einer gelöschten Welt.
+    delete_campaign_btn: KAMPAGNE LÖSCHEN
