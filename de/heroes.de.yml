@@ -40,3 +40,5 @@ campaign:
     primer: Grundlagen
     settings: Einstellungen
     guild_features: GILDEN-FUNKTIONEN
+  character_list:
+    header: '%campaign_name% Charakterliste'
