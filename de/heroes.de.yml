@@ -58,3 +58,4 @@ campaign:
       type: Typ
       visibility: Sichtbarkeit
       location: Aufenthaltsort
+      edit_btn: Bearbeiten
