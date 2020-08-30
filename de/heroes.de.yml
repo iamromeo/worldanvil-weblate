@@ -57,3 +57,4 @@ campaign:
       name: Name
       type: Typ
       visibility: Sichtbarkeit
+      location: Aufenthaltsort
