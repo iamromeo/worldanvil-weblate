@@ -96,4 +96,6 @@ campaign:
     page_title: RPG Kampagnen
     breadcrumb: Deine Kampagnen
     alert_info: 'Du hast die maximale Anzahl an Kampagnen erreicht, <br> die du mit
-      deiner aktuellen Mitgliedschaft haben kannst. '
+      deiner aktuellen Mitgliedschaft haben kannst!'
+  panel:
+    deleted_world_campaign: Diese Kampagne gehört zu einer gelöschten Welt.
