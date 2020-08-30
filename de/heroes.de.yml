@@ -95,3 +95,5 @@ campaign:
     page_header: Deine Kampagnen
     page_title: RPG Kampagnen
     breadcrumb: Deine Kampagnen
+    alert_info: 'Du hast die maximale Anzahl an Kampagnen erreicht, <br> die du mit
+      deiner aktuellen Mitgliedschaft haben kannst. '
