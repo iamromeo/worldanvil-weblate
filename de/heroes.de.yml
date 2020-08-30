@@ -10,3 +10,5 @@ worldbuilder_guild_title: Hilf uns World Anvil am Leben zu erhalten und auszubau
 join_worldbuilder_guild_link: Tritt der Gilde der Weltenbauer bei
 no_active_world: Es scheint, als hättest du keine Welt aktiviert.
 go_to_world_list_btn: Gehe zur Weltenliste
+create:
+  character: Erstelle einen neuen Charakter
