@@ -56,3 +56,4 @@ campaign:
     character_table:
       name: Name
       type: Typ
+      visibility: Sichtbarkeit
