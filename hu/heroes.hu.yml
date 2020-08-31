@@ -4,3 +4,75 @@ create.journal: Új Naplóbejegyzés létrehozása
 create.campaign: Új Kampány Létrehozása
 character.view.in.world: Megtekintés a Világban
 title: Heroes
+campaign:
+  dashboard:
+    session:
+      other_session:
+        add_report_btn: Jelentés írása
+        view_report_btn: Jelentés megtekintése
+        edit_report_btn: Jelentés szerkesztése
+        edit_session_btn: Ülés szerkesztése
+        scheduled_for: Kezdés %date%-kor
+      current_session:
+        end_session_btn: VÉGE
+        box_title: Jelenlegi ülés
+        play_btn: INDÍTÁS
+    view_campaign_page_btn: Kampány nyilvános oldalának megtekintése
+    streambox:
+      title: Kampány közvetítés
+    view_world_btn: Világ Megtekintése
+    edit_world_btn: Világ Szerkesztése
+  character_list:
+    character_table:
+      location: Elhelyezkedés
+      delete_btn: Törlés
+      edit_btn: Szerkesztés
+      visibility: Láthatóság
+      type: Típus
+      name: Név
+    create_npc_btn: Új mellékszereplő (NPC) létrehozása
+    expel_character_btn: Karakter kirúgása
+    invite:
+      alert_info: Ha játékosokat szeretnél adni a kampányodhoz, előbb meg kell őket
+        hívni.<br> Add meg nekik ezt az URL-címet. Ez egy egyedi meghívó a kampányodhoz.
+        <br> Ki kell választaniuk melyik karakterrel szeretnének lenni, majd azt az
+        URL-t használni. <br> Amint ez megtörténik, a játékosok megjelennek a főszereplők
+        között
+    character_sheet:
+      edit_sheet_btn: Lap Szerkesztése
+    title: Karakter Lista
+    header: '%campaign_name% karakterlistája'
+  menu:
+    guild_features: CÉHFUNKCIÓK
+    settings: Beállítások
+    primer: Primer
+    sessions: Ülések
+    plots: Cselekmények
+    parties: Csoportok
+    supporting_cast: Mellékszereplők (NPC-k)
+    protagonists: Főszereplők (PC-k)
+    home: Kezdőlap
+  cannot_create_campaign: 'Az új kampány nem létrehozható:'
+  invite:
+    regenerate_code_btn: Kód újragenerálása
+    no_access_code: Ennek a kampánynak nincs hozzáférési kódja. Generálnod kell egyet,
+      hogy a játékosaid csatlakozhassanak.
+    description: Küldj egy meghívó linket a játékosaidnak, hogy csatlakozhassanak
+      a kampányodhoz. <br> <strong>A játékosoknak muszáj Heroes karakterekkel rendelkezniük..
+      <br> Ennek a karakternek kell aktívnak lenni a profiljukon!</strong>
+    box_title: Hívd meg a játékos karaktereid a kampányba!
+  codex_link: Nézd meg a Kódexet a kampányok létrehozásáról és szervezéséről
+  breadcrumbs: Kampányok
+character:
+  view.in.world: Megtekintés a világban
+create:
+  world: Új világ létrehozása
+  campaign: Új Kampány Létrehozása
+  journal: Új naplóbejegyzés létrehozása
+  character: Új karakter létrehozása
+go_to_world_list_btn: Ugrás a világlistához
+no_active_world: Úgy tűnik nincs aktív világod.
+join_worldbuilder_guild_link: Csatlakozz a Világépítők Céhébe
+worldbuilder_guild_title: Segíts a World Anvil-nak élni és nőni !
+WA_default_page_description: A World Anvil egy világépítő közösség és eszközkollekció
+  szerzőknek, szerepjáték mesélőknek, és világépítő szerelmeseknek
