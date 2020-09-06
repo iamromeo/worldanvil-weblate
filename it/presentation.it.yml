@@ -29,7 +29,7 @@ following: Stai seguendo %name%
 follow: Segui %name%
 follow.action.remove: NON SEGUIRE PIÙ
 follow.action.unfollow.world: Smetti di seguire Mondo
-follow.action.add: SEGUI
+follow.action.add: SEGUI MONDO
 follow.action.add.description: Segui per avere nel tuo stream tutti gli articoli scritti
   dagli autori di questo mondo!
 like.action.remove: RIMUOVI LIKE
@@ -116,7 +116,7 @@ landmark.effects: Effetti Ambientali
 landmark.alterations: Alterazioni
 landmark.architecture: Architettura
 landmark.ruined: STRUTTURA IN ROVINA
-landmark.children: Luoghi Interni
+landmark.children: Luoghi Inclusi
 landmark.owner: Proprietario
 landmark.organization: Organizzazione Proprietaria
 landmark.charactersinlocation: Personaggi in Loco
@@ -125,7 +125,7 @@ landmark.professions: Professioni Connesse
 landmark.materials: Materiali Correlati
 landmark.contenders: Contestato da
 material.properties: Proprietà
-material.characteristics: Caratteristiche Fisiche
+material.characteristics: Caratteristiche del Materiale
 material.compounds: Composti
 material.geo: Geologia e Geografia
 material.origin: Origine e Fonte
@@ -215,7 +215,7 @@ ethnicity.historical.figures: Personaggi storici
 ethnicity.ideals: Ideali
 ethnicity.beauty.ideals: Ideali di Bellezza
 ethnicity.gender.ideals: Ideali di Genere
-ethnicity.courtship.ideals: Ideali per il Corteggiamento
+ethnicity.courtship.ideals: Ideali di Corteggiamento
 ethnicity.relationship.ideals: Ideali di Relazione
 ethnicity.major.organizations: Organizzazioni Principali
 formation.manpower: Forza Lavoro
@@ -461,3 +461,263 @@ location.florafauna: Fauna e Flora
 campaign.lore_and_cast: Storia e Personaggi di Supporto
 organization.tree: Organigramma
 explore: Esplora
+profession.type: Tipo
+profession.alternative_names: Nomi Alternativi
+plot.past_events: Eventi Passati
+plot.encounters: Incontri
+profession.provided_services: Servizi Forniti
+plot.threats: Minacce
+profession.materials: Materiali
+plot.locations: Luoghi
+profession.tools: Strumenti
+ritual.observance: Osservanza
+plot.backdrops: Scenari
+report.secondary_location: Luogo Secondario
+report.primary_location: Luogo Primario
+report.report_date: Data Rapporto
+report.player_journals: Diario Giocatore
+report.protagonists: Protagonisti
+report.campaign: Campagna
+report.notes: Note
+report.related_reports: Rapporti Correlati
+report.created_content: Contenuto Creato
+rank.length_of_term: Durata dei Termini
+rank.equates_to: Equivale a
+rank.alternative_naming: Nomi Alternativi
+rank.creation: Creazione
+rank.benefits: Benefici
+rank.requirements: Requisiti
+person.age: Età
+ritual.related_ethnicities: Etnie Correlate
+ritual.related_location: Luoghi Correlati
+plot.competitors: Rivali
+ritual.participants: Partecipanti
+ritual.components_and_tools: Componenti e strumenti
+plot.allies: Alleati
+plot.protagonists: Protagonisti
+ritual.history: Storia
+plot.relations: Relazioni
+rank.history: Storia
+plot.red_herrings: Piste False
+profession.history: Storia
+plot.moral_quandaries: Dilemmi Morali
+plot.hooks: Agganci
+plot.goals: Obbiettivi
+plot.resolution: Risoluzione
+plot.conflict: Conflitto
+plot.structure: Struttura
+plot.themes: Temi
+person.appears_in: Appare in...
+person.known_languages: Lingue Conosciute
+person.other_affiliations: Altre Affiliazioni
+vehicle.speed: Velocità
+vehicle.weight: Peso
+vehicle.height: Altezza
+vehicle.length: Lunghezza
+vehicle.rarity: Rarità
+vehicle.owning_organization: Organizzazione Proprietaria
+vehicle.owner: Proprietario
+vehicle.motto: Motto
+vehicle.nickname: Soprannome
+vehicle.class: Classe
+vehicle.rpg_datasheet: Scheda GDR
+vehicle.sensors: Sensori
+vehicle.propulsion: Propulsione
+technology.related_items: Oggetti Correlati
+technology.discovery: Scoperta
+technology.complexity: Complessità
+technology.inventor_s: Inventore/i
+technology.manufacturing: Produzione
+spell.level: Livello
+spell.range: Gittata
+spell.related_element: Elemento Correlato
+spell.related_school: Scuola Correlata
+spell.related_discipline: Disciplina Correlata
+spell.material_components: Componenti Materiali
+spell.discovery: Scoperta
+spell.manifestation: Manifestazione
+spell.effect_side_secondary: Effetti Secondari/Collaterali
+spell.effect: Effetto
+species.related_myths: Miti Correlati
+species.related_ethnicities: Etnie Correlate
+species.average_length: Lunghezza Media
+species.average_weight: Peso Medio
+species.average_height: Altezza Media
+species.conservation_status: Stato di Conservazione
+species.lifespan: Longevità
+species.scientific_name: Nome Scientifico
+species.genetic_descendants: Discendenti Genetici
+species.rpg_datasheet: Scheda GDR
+species.historical_figures: Figure Storiche
+species.history: Storia
+species.common_taboos: Tabù Comuni
+species.common_dress_code: Codice di Abbigliamento Comune
+species.common_etiquette_rules: Regole di Etichetta Comuni
+species.average_technological_level: Livello Tecnologico Medio
+species.gender_ideals: Ideali di Genere
+species.beauty_ideals: Ideali di Bellezza
+species.major_organizations: Organizzazioni Principali
+species.average_intelligence: Intelligenza Media
+species.social_structure: Struttura Sociale
+species.additional_information: Informazioni Aggiuntive
+species.biological_cycle: Ciclo Biologico
+species.ecology_and_habitats: Ecologia e Habitat
+species.genetics_and_reproduction: Genetica e Riproduzione
+species.biological_traits: Tratti Biologici
+species.morphology: Morfologia
+species.anatomy: Anatomia
+settlement.characters_in_location: Personaggi in Loco
+settlement.infrastructure: Infrastrutture
+settlement.defences: Difese
+settlement.owning_organization: Organizzazione Proprietaria
+plot.cruel_tricks: Inganni Crudeli
+plot.falling_action: Scioglimento
+plot.rising_action: Crescendo
+settlement.demographics: Demografia
+settlement.government: Governo
+settlement.guilds_and_factions: Gilde e Fazioni
+settlement.natural_resources: Risorse Naturali
+settlement.geography: Geografia
+settlement.architecture: Architettura
+settlement.history: Storia
+technology.children_technologies: Tecnologie Derivate
+settlement.ruined_settlement: INSEDIAMENTO IN ROVINA
+rank.responsibilities: Responsabilità
+rank.duties: Doveri
+rank.appointment: Nomina
+settlement.population: Popolazione
+settlement.type: Tipo
+profession.demographics: Demografia
+profession.social_status: Stato Sociale
+profession.career: Carriera
+plot.related_organizations: Organizzazioni Correlate
+rank.status: Status
+plot.related_locations: Luoghi Correlati
+rank.type: Tipo
+plot.related_characters: Personaggi Correlati
+profession.legality: Legalità
+plot.subplots: Sottotrame
+profession.demand: Richiesta
+rank.notable_holders: Titolari Celebri
+plot.components: Componenti
+copy.article.block: COPIA BLOCCO ARTICOLO
+vehicle.compartments: Compartimenti
+vehicle.manufacturer: Produttore
+vehicle.crew: Equipaggio
+vehicle.designation: Impiego
+vehicle.complement: Complemento / Equipaggio
+vehicle.price: Prezzo
+vehicle.hangars_docked_vessels: Rimesse e navi ormeggiate
+vehicle.additional_auxiliary_systems: Sistemi ausiliari e aggiuntivi
+vehicle.communication_tools_systems: Mezzi e Sistemi di Comunicazione
+vehicle.armor_and_defense: Armatura e difesa
+vehicle.weapons_armament: Armi e Armamenti
+vehicle.power_generation: Fonte di Energia
+technology.access_availability: Accesso e Disponibilità
+technology.parent_technologies: Tecnologie Originarie
+technology.utility: Utilità
+spell.restriction_applied: Restrizioni Applicate
+spell.effect_duration: Durata Effetto
+spell.related_deity_power: Divinità/Potere Superiore Correlato
+spell.gestures_ritual: Gesti e Rituali
+spell.related_organizations: Organizzazione Correlata
+spell.source: Sorgente
+species.locations: Distribuzione Geografica
+species.discoverer: Scoperta da
+species.body_tint_colouring_marking: Tinte, Colorazione e Segni del Corpo
+species.average_physique: Corporatura Media
+species.origin_ancestry: Origine/Stirpe
+species.genetic_ancestor_s: Antenati Genetici
+species.extinct: ESTINTA
+species.interspecies_relations_assumptions: Relazioni Interspecie e Pregiudizi
+species.common_myths_and_legends: Miti e Leggende Comuni
+species.common_customs_traditions_rituals: Costumi, Tradizioni e Rituali Comuni
+species.culture_and_cultural_heritage: Cultura e Patrimonio Culturale
+species.major_language_groups_dialects: Gruppi Linguistici e Dialetti Principali
+species.relationship_ideals: Ideali di Relazione
+species.courtship_ideals: Ideali di Corteggiamento
+species.naming_traditions: Tradizioni di Nomenclatura
+species.civilization_and_culture: Civiltà e Cultura
+species.symbiotic_and_parasitic_organisms: Organismi Simbionti e Parassiti
+species.perception_and_sensory_capabilities: Percezione e Capacità Sensoriali
+species.geographic_origin_and_distribution: Origine Geografica e Distribuzione
+species.facial_characteristics: Caratteristiche Facciali
+species.uses_products_exploitation: Usi, Prodotti e Sfruttamento
+species.domestication: Domesticazione
+species.dietary_needs_and_habits: Bisogni e Abitudini Alimentari
+species.growth_rate_stages: Fasi e Tasso di Crescita
+species.Basic Information: Informazioni di Base
+settlement.related_reports_secondary: Rapporti Correlati (Secondari)
+settlement.related_reports_primary: Rapporti Correlati (Primari)
+settlement.owner_ruler: Proprietario/Sovrano
+settlement.included_locations: Luoghi Inclusi
+settlement.location_under: Luogo sotto
+settlement.inhabitant_demonym: Nome Abitanti
+settlement.alternative_names: Nomi Alternativi
+settlement.founding: Data di Fondazione
+settlement.assets: Risorse
+settlement.industry: Industria
+ritual.execution: Svolgimento
+report.characters_interacted_with: Personaggi con cui si ha interagito
+report.missions_quests_completed: Missioni/Imprese Completate
+report.rewards_granted: Ricompense Garantite
+report.general_summary: Riepilogo Generale
+rank.reports_directly_to: Risponde direttamente a
+rank.first_holder: Primo Titolare
+rank.source_of_authority: Fonte di Autorità
+rank.formofaddress: Modo di Rivolgersi
+rank.cultural_significance: Importanza Culturale
+rank.grounds_for_removal_dismissal: Motivi di Destituzione/Licenziamento
+rank.accoutrements_&_equipment: Attrezzatura ed Equipaggiamento
+rank.qualifications: Qualificazioni
+profession.relatedmaterials: Materiali Correlati
+profession.relatedtechnologies: Tecnologie Correlate
+profession.relatedvehicles: Veicoli Correlati
+profession.ranks: Ranghi e Titoli
+profession.usedby: Usati Da
+profession.locations: Luoghi Correlati
+profession.location: Luoghi Correlati
+profession.associated: Altre professioni Associate
+profession.famous: Celebri nel Campo
+profession.dangers_&_hazards: Rischi e Pericoli
+profession.workplace: Ambiente di Lavoro
+profession.operations: Operazioni
+profession.purpose: Scopo
+profession.perception: Percezione
+profession.other_benefits: Altri Benefici
+profession.payment_&_reimbursement: Pagamenti e Rimborsi
+profession.career_progression: Progressione di Carriera
+profession.qualifications: Qualificazioni
+plot.parent: Trama Principale
+plot.type: Tipologia trama
+plot.adversaries: Avversari
+plot.neutrals_bystanders: Parti Neutrali/Spettatrici
+plot.stakes: Posta in Gioco
+plot.climax: Climax
+plot.exposition: Ambientazione
+plot.plot_points_scenes: Eventi/Scene Chiave
+plot.summary: Riassunto
+person.character_prototype: Prototipo Personaggio
+person.related_myths: Miti Correlati
+person.aligned_organization: Organizzazione Affiliata
+person.quotes_catchphrases: Citazioni e Slogan
+location.history: Storia
+person.birthday: Data di Nascita
+organisation.culture: Cultura
+location.species: Specie Abitanti
+location.tourism: Turismo
+landmark.constructed: Data di Costruzione
+person.weight: Peso
+person.height: Altezza
+person.hair: Capelli
+person.eyes: Occhi
+person.sexuality: Sessualità
+person.biological_sex: Sesso Biologico
+person.current_residence: Residenza Attuale
+person.skin: Carnagione
+person.gender_identity: Identità di Genere
+person.birthplace: Luogo di Nascita
+person.circumstances_of_death: Causa del Decesso
+organisation.leader.title: Titolo Sovrano
+material.physical.properties: Proprietà Fisiche e Chimiche
+landmark.vehicle: Compartimento del Veicolo
