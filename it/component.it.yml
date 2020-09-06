@@ -136,7 +136,7 @@ list.timelines: Lista Timeline
 list.notes: Lista Note
 list.pins: Lista Pin Mappa
 list.secrets: Lista Segreti
-list.worlds: Lista Mondi
+list.worlds: ' Mostra tutti i Mondi'
 access: Accesso
 list.subscribers: Iscritti
 related.category: Categoria Correlata
@@ -419,3 +419,7 @@ access.authors.advanced.writer.description: Accedi per creare e gestire i tuoi a
   i giocatori che vogliono contribuire alla crescita di un mondo vivo o di una campagna.
 parent.item: Oggetto ...
 parent: Genitore
+map.marker.draggable.description.2: Il trascinamento è abilitato solo per tutti i
+  normali (pin) marcatori ed etichette.
+statblocks: Blocchi Statistiche
+dashboard: Pannello Principale

@@ -65,7 +65,7 @@ join.discord: Lasciati ispirare, ricevi TUTTO l'aiuto di cui hai bisogno!
 join.codex: Codex di Documentazione di World Anvil
 world.view: Vedi Mondo
 browse: Sfoglia
-stream: Stream
+stream: GDR Stream Personaggi
 your_reading_list: La Tua Lista di Lettura
 followed_worlds: Mondi Seguiti
 statblocks: Blocchi Statistiche
@@ -98,6 +98,12 @@ community.statblocks: Blocchi Statistiche della Community
 your.statblocks: I Tuoi Blocchi Statistiche
 images_and_files: Immagini e File
 campaign.npcs: PNGs
-character.profiles: Profili Personaggio
+character.profiles: GDR Profili Personaggio
 character.profile: Profilo Personaggio
 sponsoring: Sponsor
+community.shared.statblocks: Blocchi Statistiche Condivisi dalla Community
+shared.statblocks: Blocchi Statistiche Condivisi
+account.apikeys: Gestione Chiavi API
+activated.features: Funzionalità Avanzate
+view.profile: Visualizza il tuo Profilo
+profile.settings: Impostazioni Profilo
