@@ -1,7 +1,7 @@
 username: Nome Utente
 status: Status
 weight: Peso
-help: Aiuto
+help: Serve Aiuto?
 home: Home
 new: nuovo
 title: Titolo
@@ -107,3 +107,5 @@ upcoming.streams: Prossimi Stream
 dashboard.stream: Prossimi Stream
 notifications: Notifiche
 advanced_options: Apri Strumenti Avanzati e Opzioni
+reference: Specchietto Tag Editor
+dashboard.world.memberships: Iscrizioni Mondi
