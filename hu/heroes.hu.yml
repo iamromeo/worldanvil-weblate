@@ -13,6 +13,12 @@ campaign:
         edit_report_btn: Jelentés szerkesztése
         edit_session_btn: Ülés szerkesztése
         scheduled_for: Kezdés %date%-kor
+        journal_box_title: Naplóbejegyzések
+        concluded_on: 'Véget ért: %conclude_date%'
+        start_btn: Indítás
+        upcoming_session: Soron Következő Ülések
+        schedule_new_session: Új Ülés Szervezése
+        journal_by: 'Írta:'
       current_session:
         end_session_btn: VÉGE
         box_title: Jelenlegi ülés
@@ -22,6 +28,14 @@ campaign:
       title: Kampány közvetítés
     view_world_btn: Világ Megtekintése
     edit_world_btn: Világ Szerkesztése
+    parties:
+      manage_btn: Csapatok Kezelése
+      parties_count: Ebben a kampányban %parties_count% csapat vesz részt.
+      box_title: A Csapatok
+    characters:
+      manage_btn: Karakterek Kezelése
+      characters_count: Ebben a kampányban %characters_count% karakter vesz részt.
+      box_title: A Főszereplők
   character_list:
     character_table:
       location: Elhelyezkedés
@@ -63,6 +77,78 @@ campaign:
     box_title: Hívd meg a játékos karaktereid a kampányba!
   codex_link: Nézd meg a Kódexet a kampányok létrehozásáról és szervezéséről
   breadcrumbs: Kampányok
+  settings:
+    presentation:
+      twitch: Twitch Csatorna
+      info: Az alábbi információ befolyásolja azt, hogyan jelenik meg a kampányod
+        a nyilvánosság előtt.
+      title: Bemutató Beállításai
+    general:
+      group_status: Csapat Státusz
+      cover_image: Kampány Borítókép
+      rpg_system: Asztali Szerepjáték Rendszer
+      description: Bevezetés / Leírás
+      excerpt_placeholder: pl. Öt hős kalandjai a ruhásszekrényen túl
+      excerpt: Rövid leírás
+      name_placeholder: pl. Narnia Hősei
+      name: Név
+      title: Általános Beállítások
+    title: Kampány Beállítások
+    breadcrumbs: Beállítások
+    page_title: '%campaign_name% Beállításai'
+  reports:
+    protagonists: Főszereplők
+    edit_btn: Jelentés Szerkesztése
+    page_title: '%article_title% – Jelentés'
+    breadcrumbs: Jelentések
+  join:
+    create_account_box_title: Készíts új fiókot és karaktert!
+    account_box_title: Már rendelkezem fiókkal
+    after_account: Bejelentkezést vagy regisztrációt követően készíts egy karaktert
+      és<br><strong>térj vissza erre az oldalra, hogy csatlakozhass a kampányhoz!</strong>
+    joining_no_account: Ahhoz, hogy csatlakozhass %campaign_master_name% kampányához,
+      szükséged van egy World Anvil fiókra, és készítened kell egy karaktert.
+    no_character: A fiókodhoz jelenleg nem tartozik karakter.
+    create_character:
+      need_comeback: (vissza kell térned ide, hogy csatlakozhass a kampányhoz)
+      or: '... vagy,'
+    max_character_reached: Elérted a jelenlegi tagságoddal elérhető<br>karakterek
+      maximális számát!
+    remove_character_from_other_campaign: Vagy távolítsd el egyik karakteredet a jelenlegi
+      kampányából. <br>(ezután vissza kell térned ide, hogy csatlakozhass a kampányhoz)
+    character_select_btn: '%character_name% kiválasztása'
+    select_a_character: Melyik karaktereddel szeretnél csatlakozni a kampányhoz?
+    all_character_already_in_campaign: Jelenleg minden karaktered szerepel kampányban.
+    invited_by: '%invite_sender% meghívott, hogy csatlakozz a %campaign_name% kampányhoz!'
+    breadcrumbs: Kampány meghívó
+  new_campaign_form:
+    alert_no_world:
+      description: Ahhoz, hogy létrehozz egy kampányt, szükséged van egy világra,
+        amelyben játszódhat!
+    description_placeholder: Hosszabb leírás, mellyel inspirálhatod a játékosaidat
+      és lelkesítheted a közönséget!
+    excerpt_placeholder: Egy soros leírás a kampányodról.
+    details_box_title: További részletek
+    dropzone_message: 'Kattints ide, vagy húzz ide egy képfájlt! <br><p><small>Javasolt
+      legkisebb méret: 1600x400 px. A borítóképet később is bármikor beállíthatod.</small></p><p><small>A
+      jelenleg megengedett legnagyobb fájlméret %max_size%, az érvényes fájltípusok
+      pedig JPG, JPEG, PNG és GIF.</small></p>'
+    cover_image: Borítókép
+    privacy: Hozzáférés
+    rpg_system_placeholder: RPG Szabályrendszer Kiválasztása
+    rpg_system: RPG Szabályrendszer
+    title_placeholder: Kampány címe, pl. A Sötét Banán Hagyatéka
+    title: Kampány Neve
+    save_btn: Változások Mentése
+  panel:
+    delete_campaign_btn: KAMPÁNY TÖRLÉSE
+    deleted_world_campaign: Ez egy törölt világhoz tartozó kampány.
+  list:
+    alert_info: Elérted a jelenlegi tagságoddal elérhető <br> maximimális kampányok
+      számát!
+    breadcrumb: Kampányaid
+    page_title: RPG Kampányok
+    page_header: Kampányaid
 character:
   view.in.world: Megtekintés a világban
 create:
