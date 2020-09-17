@@ -3,3 +3,22 @@ create.character: Создать нового героя
 create.journal: Создать новую запись в журнале
 create.campaign: Создать новую кампанию
 character.view.in.world: Увидеть в мире
+campaign:
+  invite:
+    box_title: Пригласи своих игровых персонажей в кампанию!
+  codex_link: Проверь Кодекс Статей о том, как создавать и управлять кампаниями
+  breadcrumbs: Кампании
+character:
+  view.in.world: Посмотреть в мире
+create:
+  world: Создать новый мир
+  campaign: Создать новую кампанию
+  journal: Создать новую записку в журнале
+  character: Создать нового персонажа
+go_to_world_list_btn: Перейти к списку миров
+no_active_world: Похоже, что у тебя нет активных миров.
+join_worldbuilder_guild_link: Присоединиться к Гильдии Творцов
+worldbuilder_guild_title: Помоги нам поддерживать World Anvil живым и процветающим!
+WA_default_page_description: World Anvil - сообщество творителей миров, а также сборник
+  инструментов для авторов, ролевых игр, рассказчиков и любителей создавать миры
+title: Герои
