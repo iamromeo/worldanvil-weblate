@@ -125,6 +125,7 @@ campaign:
     alert_no_world:
       description: Ahhoz, hogy létrehozz egy kampányt, szükséged van egy világra,
         amelyben játszódhat!
+      title: Hoppá, valami lemaradt!
     description_placeholder: Hosszabb leírás, mellyel inspirálhatod a játékosaidat
       és lelkesítheted a közönséget!
     excerpt_placeholder: Egy soros leírás a kampányodról.
