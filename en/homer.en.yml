@@ -1,118 +1,120 @@
-manuscripts: 'Manuscripts'
-manuscripts.list: 'Manuscripts list'
-manuscript.edit: 'Edit Manuscript'
-manuscript.view: 'View Manuscript'
-manuscript.delete: 'Delete Manuscript'
-manuscript.basic.settings: 'Manuscript Basic Settings'
-manuscript.advanced.settings: 'Manuscript Advanced Settings'
-manuscript.settings: 'Manuscript Settings'
-manuscript.create: 'Create a new Manuscript'
-manuscript.world.activate: 'You need to Activate one of your worlds'
-manuscript.world.activate.desc: 'You have no active world, you need one to start a new manuscript'
-manuscript.edit.upper: 'EDIT'
-manuscript.view.upper: 'VIEW'
-manuscript.read.upper: 'READ'
-manuscript.settings.upper: 'SETTINGS'
+manuscripts: 
+  title: "Manuscripts"
+  edit: "Edit Manuscript"
+  view: "View Manuscript"
+  delete: "Delete Manuscript"
+  basic.settings: "Manuscript Basic Settings"
+  advanced.settings: "Manuscript Advanced Settings"
+  settings: "Manuscript Settings"
+  create: "Create a new Manuscript"
+  world.activate: "You need to Activate one of your worlds"
+  world.activate.desc: "You have no active world, you need one to start a new manuscript"
+  edit.upper: "EDIT"
+  view.upper: "VIEW"
+  read.upper: "READ"
+  settings.upper: "SETTINGS"
+manuscripts.list: "Manuscripts list"
 
-search.results.world: World search results
-search.results.manuscript: Manuscript search results
-continue.reading: 'Continue Reading'
-start.reading: 'Start reading'
 
-new.folder: 'Create a new Folder'
-folder: 'Folder'
-new.text: 'Create a new Text'
-text: 'Text'
-image: 'Image'
-image_part: 'Image Part'
-caption: 'Image Caption'
+search.results.world: "World search results"
+search.results.manuscript: "Manuscript search results"
+continue.reading: "Continue Reading"
+start.reading: "Start reading"
 
-search: 'Search Manuscript & World'
-search_replace: 'Search & Replace'
+new.folder: "Create a new Folder"
+folder: "Folder"
+new.text: "Create a new Text"
+text: "Text"
+image: "Image"
+image_part: "Image Part"
+caption: "Image Caption"
 
-cover: 'Manuscript Cover'
-backcover: 'Manuscript Backcover summary'
-title: 'Title'
-synopsis: 'Synopsis'
-genres: 'Genres'
-genres.description: 'If you wish to warn your readers for sensitive material like any under the ESRB descriptors (substances, blood, gore, violence etc) use them as tags. They will be marked and visible prominently on your manuscript`s homepage.'
-genres.languages: 'Click on the language below to denote the language of your manuscript. It will appear with the language\` code. '
-publication: 'Publication Status'
-access: 'Privacy Status'
-subscriber_groups: 'Subscriber Groups'
-status: 'Manuscript Status'
-write: 'Write'
-review: 'Review'
-read: 'Read'
-view: 'View'
-view.description: 'View the presentation version of this Manuscript'
-saved: 'Saved'
+search: "Search Manuscript & World"
+search_replace: "Search & Replace"
+
+cover: "Manuscript Cover"
+backcover: "Manuscript Backcover summary"
+title: "Title"
+synopsis: "Synopsis"
+genres: "Genres"
+genres.description: "If you wish to warn your readers for sensitive material like any under the ESRB descriptors (substances, blood, gore, violence etc) use them as tags. They will be marked and visible prominently on your manuscript`s homepage."
+genres.languages: "Click on the language below to denote the language of your manuscript. It will appear with the language\` code. "
+publication: "Publication Status"
+access: "Privacy Status"
+subscriber_groups: "Subscriber Groups"
+status: "Manuscript Status"
+write: "Write"
+review: "Review"
+read: "Read"
+view: "View"
+view.description: "View the presentation version of this Manuscript"
+saved: "Saved"
 # Tags
-tags: 'Tags'
-tag.type: 'Type tag name'
-tag.remove: 'Remove tag'
-press.enter: 'Press the enter key to add or choose from the autocomplete  list.'
+tags: "Tags"
+tag.type: "Type tag name"
+tag.remove: "Remove tag"
+press.enter: "Press the enter key to add or choose from the autocomplete  list."
 # Article
-article.remove: 'Remove article'
+article.remove: "Remove article"
 # Label
-label.management: 'Label Management'
-label: 'Label'
-label.remove: 'Remove label'
-no.label: 'No label'
-change.label: 'Change label'
-edit.label: 'Edit label'
-choose.label: 'Choose a label'
-edit.label.list: 'Edit labels list'
+label.management: "Label Management"
+label: "Label"
+label.remove: "Remove label"
+no.label: "No label"
+change.label: "Change label"
+edit.label: "Edit label"
+choose.label: "Choose a label"
+edit.label.list: "Edit labels list"
 # POV and Articles
-pov.character: 'POV Character'
-pov.help: 'To set your Point of View character, start typing the title of any of your character articles'
-pov.remove: 'Remove POV Character'
+pov.character: "POV Character"
+pov.help: "To set your Point of View character, start typing the title of any of your character articles"
+pov.remove: "Remove POV Character"
 # Metadata
-scene.notes: 'Notes'
-scene.rich_media: 'Rich Media URL'
-scene.rich_media_description: 'Paste here a Soundcloud, Spotify, YouTube address bar URL, or MP3 URl or Anchor.fm EMBED url to have it appear on the top of this part. This is a great way to get an audiobook/narrated version of your work or add some mood.'
-scene.pov: 'P.O.V. Character'
-scene.time: 'Time of Day'
-scene.duration: 'Duration of Scene'
-scene.type: 'Scene Type'
-scene.importance: 'Part Importance'
-part.time: 'Time of Day'
-part.duration: 'Duration of Part'
-part.type: 'Part Type'
-part.importance: 'Part Importance'
-scene.related.characters: 'Related Characters'
-scene.related.locations: 'Related Locations'
-scene.related.items: 'Related Items'
-scene.related.articles: 'Related Other articles'
+scene.notes: "Notes"
+scene.rich_media: "Rich Media URL"
+scene.rich_media_description: "Paste here a Soundcloud, Spotify, YouTube address bar URL, or MP3 URl or Anchor.fm EMBED url to have it appear on the top of this part. This is a great way to get an audiobook/narrated version of your work or add some mood."
+scene.pov: "P.O.V. Character"
+scene.time: "Time of Day"
+scene.duration: "Duration of Scene"
+scene.type: "Scene Type"
+scene.importance: "Part Importance"
+part.time: "Time of Day"
+part.duration: "Duration of Part"
+part.type: "Part Type"
+part.importance: "Part Importance"
+scene.related.characters: "Related Characters"
+scene.related.locations: "Related Locations"
+scene.related.items: "Related Items"
+scene.related.articles: "Related Other articles"
 
 
 # Interface
-ui.header: 'Default Interface Settings'
-ui.intro: 'Alter the settings below in order to set the way you want your editor to look and feel like.'
-ui.notice: 'Once you are done, refresh the page so the settings can take effect.'
-ui.documentSettings: 'Document Settings'
-ui.backgroundColor: 'Background Color'
-ui.fontSettings: 'Text Settings'
-ui.fontSize: 'Font Size'
-ui.fontColor: 'Font Color'
-ui.fontTypeface: 'Font Family'
-ui.paragraphSettings: 'Paragraph Settings'
-ui.paragraphIndent: 'Paragraph Indent'
-ui.paragraphPadding: 'Paragraph Bottom Padding'
-ui.lineHeight: 'Line Height'
-ui.cssRules: 'CSS Extra Rules'
+ui.header: "Default Interface Settings"
+ui.intro: "Alter the settings below in order to set the way you want your editor to look and feel like."
+ui.notice: "Once you are done, refresh the page so the settings can take effect."
+ui.documentSettings: "Document Settings"
+ui.backgroundColor: "Background Color"
+ui.fontSettings: "Text Settings"
+ui.fontSize: "Font Size"
+ui.fontColor: "Font Color"
+ui.fontTypeface: "Font Family"
+ui.paragraphSettings: "Paragraph Settings"
+ui.paragraphIndent: "Paragraph Indent"
+ui.paragraphPadding: "Paragraph Bottom Padding"
+ui.lineHeight: "Line Height"
+ui.cssRules: "CSS Extra Rules"
 
 # Monetization
-monetization.header: 'Monetization Options'
-monetization.access_denied: 'Custom Access Denied Content'
-monetization.custom_advert: 'Custom Marketing Message'
-patreon: 'Patreon.com  Username'
-kofi: 'Ko-Fi.com username'
+monetization.header: "Monetization Options"
+monetization.access_denied: "Custom Access Denied Content"
+monetization.custom_advert: "Custom Marketing Message"
+patreon: "Patreon.com  Username"
+kofi: "Ko-Fi.com username"
 
 # Statistics
-statistics.header: 'Statistics'
+statistics.header: "Statistics"
 
 # Exporting
-exporting.header: 'Exporting'
-html_export: 'Export in HTML'
-html_export.description: 'You can copy and paste this export to any of the major word processors like Word, Open Office, GoogleDocs or Pages'
+exporting.header: "Exporting"
+html_export: "Export in HTML"
+html_export.description: "You can copy and paste this export to any of the major word processors like Word, Open Office, GoogleDocs or Pages"
