@@ -149,6 +149,13 @@ markers: Markers
 marker.groups: Marker Groups
 timelines: 'Timelines'
 charts: 'Charts'
+inttables:
+  tables: 'Tables'
+  list: 'Tables list'
+  create: 'Create table'
+  create_new: 'Create new table'
+  edit: 'Edit table'
+  delete: 'Delete table'
 statblocks: 'Statblocks'
 orgcharts: 'Content Trees'
 histories: 'Histories'
@@ -199,7 +206,7 @@ related.history: Related Historical Entry
 
 BETA: 'BETA'
 position: Position/Weight
-position.description: Weight is a number that defines in which order an item will appear in a list of these items. The higher the number the higher the item will appear.
+position.description: Weight is a number that defines in which order an item will appear when these items are loaded. The higher the number the higher the item will appear.
 status: Status
 status.description: Set this item as public for everyone to be able to see. Private items are visible only to you and the co-authors  and subscribers with proper permissions of your world
 access: Access 

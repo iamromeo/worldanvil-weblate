@@ -6,6 +6,7 @@ save.changes: Save Changes
 update: Update
 view: 'View'
 copy: 'Copy'
+copy-into-world: 'Copy into %world_name'
 dismiss: 'Dismiss'
 delete: 'Delete'
 create: 'Create'

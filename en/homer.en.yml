@@ -13,6 +13,7 @@ manuscripts:
   view.upper: "VIEW"
   read.upper: "READ"
   settings.upper: "SETTINGS"
+  additive.test: "a test"
 manuscripts.list: "Manuscripts list"
 
 
