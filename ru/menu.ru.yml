@@ -107,3 +107,5 @@ account.apikeys: Управление ключами API
 activated.features: Активные возможности
 view.profile: Посмотреть свой профиль
 profile.settings: Настройки профиля
+goto_your_profile: Перейти в свой профиль
+edit.profile: Редактировать свой профиль
