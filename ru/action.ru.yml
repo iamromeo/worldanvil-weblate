@@ -31,3 +31,4 @@ manage: Управление
 attach: Присоединить
 download.resources: Скачать Ресурсы
 attach.to.world: Привязать к Миру
+copy-into-world: Скопировать в %world_name

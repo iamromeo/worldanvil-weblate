@@ -148,7 +148,8 @@ related.history: Voce Storica Correlata
 BETA: BETA
 position: Posizione/Peso
 position.description: Il peso è un numero che definisce in che ordine un oggetto apparirà
-  in una lista di questi oggetti. Più alto è il numero più in alto apparirà l'oggetto.
+  quando questi oggetti saranno caricati. Più alto è il numero più in alto apparirà
+  l'oggetto.
 status.description: Rendi questo oggetto pubblico in modo che tutti possano vederlo.
   Gli oggetti privati sono soltanto visibili da te e dai co-autori e iscritti con
   gli appositi permessi del tuo mondo
@@ -423,3 +424,10 @@ map.marker.draggable.description.2: Il trascinamento è abilitato solo per tutti
   normali (pin) marcatori ed etichette.
 statblocks: Blocchi Statistiche
 dashboard: Pannello Principale
+inttables:
+  delete: Elimina tabella
+  edit: Modifica tabella
+  create_new: Crea nuova tabella
+  create: Crea tabella
+  list: Lista tabelle
+  tables: Tabelle
