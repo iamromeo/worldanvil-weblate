@@ -5,6 +5,15 @@ create.campaign: Créer une Campagne
 character.view.in.world: Voir dans le Monde
 campaign:
   breadcrumbs: Campagnes
+  codex_link: Examinez l'Article du Codex relatif à la Création et à la gestion de
+    votre campagne
+  invite:
+    box_title: Inviter les personnages de vos joueurs dans la campagne !
+    description: Envoyez le lien à vos joueurs afin de les inviter à prendre part
+      à votre campagne. <br> <strong>Vos joueurs doivent disposer d'un personnage
+      Heroes. <br> Ce personnage doit être celui actif sur leur profil!</strong>
+    no_access_code: Cette campagne ne dispose pas de code d'accès. Vous devez en générer
+      un afin d'inviter d'autres joueurs.
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
