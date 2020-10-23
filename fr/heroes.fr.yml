@@ -12,8 +12,23 @@ campaign:
     description: Envoyez le lien à vos joueurs afin de les inviter à prendre part
       à votre campagne. <br> <strong>Vos joueurs doivent disposer d'un personnage
       Heroes. <br> Ce personnage doit être celui actif sur leur profil!</strong>
-    no_access_code: Cette campagne ne dispose pas de code d'accès. Vous devez en générer
-      un afin d'inviter d'autres joueurs.
+    no_access_code: Cette campagne ne dispose d'aucun code d'accès. Vous devez en
+      générer un afin d'inviter d'autres joueurs.
+    regenerate_code_btn: Re-générer un code.
+  menu:
+    sessions: Séances
+    guild_features: FONCTIONNALITÉS DE GUILDE
+    primer: Exposition
+    plots: Intrigues
+    parties: Equipes
+    supporting_cast: Personnages Secondaires (PNJs)
+    protagonists: Protagonistes (PJs)
+    home: Accueil
+    settings: 'Paramètres '
+  cannot_create_campaign: 'Impossible de créer une nouvelle Campagne : '
+  character_list:
+    title: Liste de Personnages
+    header: '%campaign_name% Liste des Personnages'
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
