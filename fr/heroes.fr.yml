@@ -13,7 +13,7 @@ character:
 create:
   world: Créer un nouveau monde
   campaign: Créer une nouvelle Campagne
-  journal: Créer une nouvelle entrée au Journal
+  journal: Ajouter une entrée au journal
   character: Créer un nouveau personnage
 go_to_world_list_btn: Vers la liste des mondes
 no_active_world: Il semblerait que vous n'ayez aucun monde actif.
