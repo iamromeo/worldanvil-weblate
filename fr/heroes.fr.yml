@@ -27,7 +27,7 @@ campaign:
     settings: 'Paramètres '
   cannot_create_campaign: 'Impossible de créer une nouvelle Campagne : '
   character_list:
-    title: Liste de Personnages
+    title: Liste des Personnages
     header: '%campaign_name% Liste des Personnages'
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
