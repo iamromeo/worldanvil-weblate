@@ -29,6 +29,14 @@ campaign:
   character_list:
     title: Liste des Personnages
     header: '%campaign_name% Liste des Personnages'
+    invite:
+      alert_info: Pour pouvoir intégrer vos joueurs à votre campagne, vous aurez besoin
+        de les inviter.<br>Donnez l'URL suivante à vos joueurs. Cette invitation à
+        votre campagne est à usage unique. <br> Ils devront choisir le personnage
+        qu'ils souhaitent voir intégrer votre campagne puis suivre cette URL.<br>
+        Au moment où ils l'auront fait, leur personnage apparaîtra sous vos protagonistes
+    character_sheet:
+      edit_sheet_btn: Editer une fiche de personnage
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
