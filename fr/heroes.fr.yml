@@ -36,7 +36,7 @@ campaign:
         qu'ils souhaitent voir intégrer votre campagne puis suivre cette URL.<br>
         Au moment où ils l'auront fait, leur personnage apparaîtra sous vos protagonistes
     character_sheet:
-      edit_sheet_btn: Editer une fiche de personnage
+      edit_sheet_btn: Editer une feuille de personnage
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
