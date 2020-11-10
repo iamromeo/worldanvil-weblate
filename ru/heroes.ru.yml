@@ -48,6 +48,9 @@ campaign:
   list:
     page_header: Твои кампании
     page_title: RPG Кампании
+    alert_info: Ты достиг максимального числа кампаний, <br> которое ты можешь иметь
+      с нынешней подпиской!
+    breadcrumb: Твои кампании
   dashboard:
     parties:
       parties_count: 'В этой кампании %parties_count% групп. '
@@ -79,6 +82,32 @@ campaign:
     view_campaign_page_btn: Публичная страница кампании
     streambox:
       title: Лог кампании
+  join:
+    all_character_already_in_campaign: Все твои персонажи уже в кампании.
+    invited_by: Тебя пригласил %invite_sender% в кампанию "%campaign_name%" !
+    breadcrumbs: Пригласить в кампанию
+  new_campaign_form:
+    alert_no_world:
+      description: Чтобы создать кампанию, тебе нужен мир, где она будет проходить!
+      title: Подожди немного!
+    save_btn: Сохранить изменения
+    description_placeholder: Подробное описание, способное завлечь игроков в свою
+      кампанию!
+    excerpt_placeholder: Краткое описание кампании.
+    details_box_title: 'Дополнительные детали '
+    dropzone_message: Кликни или перетащи единственное изображение сюда! <br><p><small>Предполагаем
+      минимальный размер 1600x400 пикселей. Ты всегда можешь сделать это позже!</small></p><p><small>Пока
+      что максимальный размер файла%max_size%, и можно загрузить файлы типа JPG, JPEG,
+      PNG, GIF</small></p>
+    privacy: Статус приватности
+    cover_image: Обложка
+    rpg_system_placeholder: Выбрать RPG Систему
+    rpg_system: RPG Система
+    title_placeholder: 'Заголовок, пр.: "Наследие Темного Банана"'
+    title: Имя Кампании
+  panel:
+    delete_campaign_btn: УДАЛИТЬ КАМПАНИЮ
+    deleted_world_campaign: Это - кампания мира, который был удален.
 character:
   view.in.world: Посмотреть в мире
 create:
