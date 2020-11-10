@@ -17,6 +17,23 @@ campaign:
   character_list:
     header: '%campaign_name% Список персонажей'
     title: Список персонажей
+    create_npc_btn: Создать нового неигрового персонажа (НИП)
+    invite:
+      alert_info: Тебе необходимо пригласить своих игроков в свою кампанию. <br> Отправь
+        своим игрокам ссылку ниже. Это уникальное приглашение в свою кампанию. <br>
+        Они должны будут выбрать персонажа, которым они будут играть в твоей кампании,
+        а затем перейти по этой ссылке. <br> Когда они это сделают, их персонажи появятся
+        в секции "Протагонисты"
+    character_table:
+      delete_btn: Удалить
+      edit_btn: Редактировать
+      type: Тип
+      name: Имя
+      location: Местоположение
+      visibility: Видимость
+    character_sheet:
+      edit_sheet_btn: Редактировать лист
+    expel_character_btn: Исключить персонажа
   menu:
     guild_features: ПРЕИМУЩЕСТВА ГИЛЬДИИ
     primer: Основатель
@@ -28,6 +45,40 @@ campaign:
     supporting_cast: Неигровые персонажи (НИПы)
     home: На главную
   cannot_create_campaign: 'Невозможно создать новую кампанию:'
+  list:
+    page_header: Твои кампании
+    page_title: RPG Кампании
+  dashboard:
+    parties:
+      parties_count: 'В этой кампании %parties_count% групп. '
+      manage_btn: Управление группами
+      box_title: Группы
+    characters:
+      characters_count: В этой кампании %characters_count% персонажей.
+      box_title: Протагонисты (ГГ)
+      manage_btn: Управление персонажами
+    session:
+      other_session:
+        edit_session_btn: Редактировать игровую сессию
+        schedule_new_session: Запланировать новую сессию
+        journal_by: выполнено
+        journal_box_title: Записи журнала
+        concluded_on: Завершено %conclude_date%
+        start_btn: Старт
+        upcoming_session: Предстоящие Сессии
+        add_report_btn: Написать отчет
+        view_report_btn: Просмотреть отчет
+        edit_report_btn: Редактировать отчет
+        scheduled_for: Запланировано на %date%
+      current_session:
+        box_title: Текущая сессия
+        play_btn: ИГРАТЬ
+        end_session_btn: КОНЕЦ
+    view_world_btn: Просмотреть мир
+    edit_world_btn: Редактировать мир
+    view_campaign_page_btn: Публичная страница кампании
+    streambox:
+      title: Лог кампании
 character:
   view.in.world: Посмотреть в мире
 create:
