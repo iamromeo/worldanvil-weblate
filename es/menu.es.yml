@@ -107,3 +107,6 @@ account.apikeys: Configuración de API Keys
 activated.features: Funciones activadas
 view.profile: Ver tu perfil
 profile.settings: Ajustes del perfil
+account.features: Funciones de tu cuenta
+goto_your_profile: Ir a tu perfil
+edit.profile: Editar tu perfil

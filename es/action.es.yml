@@ -31,3 +31,4 @@ update: Actualizar
 attach.to.world: Asignar a mundo
 attach: Asignar
 download.resources: Descargar recursos
+copy-into-world: Copiar a %world_name

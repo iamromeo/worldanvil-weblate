@@ -110,7 +110,7 @@ create.new.secret: Crear nuevo secreto
 create.new.world: Crear nuevo mundo
 position: Posición/peso
 position.description: El peso es un número que define en qué orden aparecerá un elemento
-  en una lista. Cuanto más alto sea el número el elemento aparecerá más arriba.
+  en una lista. Cuanto más alto sea el número, más arriba aparecerá el elemento.
 status: Visibilidad
 display: Mostrar
 display.homepage: Mostrar este mapa en la portada del mundo.
@@ -422,3 +422,10 @@ map.marker.draggable.description.2: Puedes arrastras y colocar todos los marcado
   y etiquetas normales.
 statblocks: Bloques de estadísticas
 dashboard: Panel de control
+inttables:
+  delete: Eliminar tabla
+  edit: Editar tabla
+  create_new: Crear nueva tabla
+  create: Crear tabla
+  list: Lista de tablas
+  tables: Tablas

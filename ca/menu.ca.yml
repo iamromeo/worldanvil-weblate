@@ -107,3 +107,6 @@ account.apikeys: Gestió de claus API
 activated.features: Funcions activades
 view.profile: Mostra el perfil
 profile.settings: Opcions de perfil
+account.features: Funcions del compte
+goto_your_profile: Ves al meu perfil
+edit.profile: Modifica el perfil

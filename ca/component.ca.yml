@@ -129,7 +129,8 @@ related.history: Esdeveniment històric relacionat
 BETA: BETA
 position: Posició/Pes
 position.description: El pes és el nombre que defineix en quin ordre apareix un element
-  en la seva llista. Com més gran el número, més amunt apareixerà l'element.
+  quan surt en una llista amb altres elements. Com més gran el número, més amunt apareixerà
+  l'element.
 status.description: Feu públic aquest element perquè tothom pugui veure'l. Els elements
   privats només seran visibles per a vós, els vostres coautors i pels subscriptors
   que tinguin permís.
@@ -426,3 +427,10 @@ map.marker.draggable.description.2: Només es poden arrossegar els marcadors i e
   normals.
 statblocks: Blocs d'estadístiques
 dashboard: Taulell de control
+inttables:
+  tables: Taules
+  delete: Elimina la taula
+  edit: Modifica la taula
+  create_new: Crea una nova taula
+  create: Crea una taula
+  list: Llista de taules
