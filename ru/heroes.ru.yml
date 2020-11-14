@@ -86,6 +86,24 @@ campaign:
     all_character_already_in_campaign: Все твои персонажи уже в кампании.
     invited_by: Тебя пригласил %invite_sender% в кампанию "%campaign_name%" !
     breadcrumbs: Пригласить в кампанию
+    create_account_box_title: Создать новый аккаунт и персонажа!
+    account_box_title: У меня уже есть аккаунт
+    after_account: Тебе нужно войти, или зарегистрироваться. Также тебе надо будет
+      создать персонажа, а затем<br><strong>зайди сюда снова, чтобы присоединится
+      к кампании!</strong>
+    joining_no_account: Чтобы присоединится к кампании %campaign_master_name%, тебе
+      нужен аккаунт World Anvil, и созданный персонаж.
+    no_character: На твоем аккаунте нет персонажей.
+    create_character:
+      need_comeback: (тебе надо будет вернутся сюда, чтобы присоединится к кампании)
+      or: '... или, '
+    max_character_reached: Ты достиг максимального числа персонажей,<br>которое у
+      тебя может быть с нынешней подпиской!
+    remove_character_from_other_campaign: Или удали одного из твоих персонажей из
+      их текущей кампании. <br>(Тебе придется вернутся сюда, чтобы присоединится к
+      кампании)
+    character_select_btn: 'Выбрать: %character_name%'
+    select_a_character: Какого из своих персонажей ты хочешь добавить в кампанию?
   new_campaign_form:
     alert_no_world:
       description: Чтобы создать кампанию, тебе нужен мир, где она будет проходить!
@@ -108,6 +126,8 @@ campaign:
   panel:
     delete_campaign_btn: УДАЛИТЬ КАМПАНИЮ
     deleted_world_campaign: Это - кампания мира, который был удален.
+  reports:
+    breadcrumbs: Сообщения об ошибках
 character:
   view.in.world: Посмотреть в мире
 create:
