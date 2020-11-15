@@ -128,6 +128,84 @@ campaign:
     deleted_world_campaign: Это - кампания мира, который был удален.
   reports:
     breadcrumbs: Сообщения об ошибках
+    protagonists: Протагонист (ГГ)
+    edit_btn: Редактировать отчет
+    page_title: Отчет о %article_title%
+  subscription:
+    css_guide:
+      list_3: Если вы хотите использовать комментарии, используйте/*этот тип*/ и используйте
+        это ВНУТРИ селектора
+      list_2: Не используйте ;'. Это может вызвать ошибки с CSS.
+      list_1: Все правила CSS в поле будут автоматический соединены под селектором<strong>.wrapper-content</strong>.
+      title: Краткий гайд по CSS для кампаний
+    update_css_btn: Обновить стиль CSS
+    custom_css: Кастомный CSS
+    view_public_page: Увидеть публичную страницу кампании
+    update_slug_btn: Обновить URL
+    custom_url_info: Эта часть ссылки будет выглядеть как https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>-Здесь
+      должны быть только латинские буквы, цифры и дефис.<br>-Как минимум 10 и не более
+      255 символов. (Черточки включительно)
+    custom_url: Кастомный URL
+    membership_level_display: 'Твой уровень в гильдии: %membership_level%. Поэтому
+      ты и твои герои получаете спец плюшки! Наслаждайся!'
+    breadcrumbs: Преимущества гильдии
+    page_header: Преимущества гильдии в %campaign_name%
+  settings:
+    delete:
+      delete_btn: УДАЛИТЬ КАМПАНИЮ
+      warning: Этот процесс НЕОБРАТИМ.
+      how_to: Чтобы удалить кампанию, напиши DELETE в поле ниже
+      box_title: Удалить кампанию
+    storytellers:
+      add: Добавить рассказчика в кампанию
+      campaign_gm_tags: (ИГРОК)
+      campaign_owner_tags: (Владелец)
+      select: Выбрать создателя мира как рассказчика
+      owner_tag: Владелец
+      remove_btn: Убрать рассказчиков
+      title: Рассказчики
+    access:
+      save_btn: Сохранить изменения
+      world_homepage_visibility: Видимость на странице мира
+      state: Статус доступа
+      member_only: Доступно только членам гильдии
+      subscriber: Группы подписчиков
+      title: Настройка доступа
+    presentation:
+      end_date_info: Дата окончания кампании. Заполни это, если у кампании есть лимит
+        времени.
+      end_date: Дата окончания
+      start_date_info: Время, когда началась кампания.
+      start_date: Время начала
+      maps: Карты кампании
+      timeline_info: Держи в уме, что только параллельные временные линии могут быть
+        использованы в кампании!
+      timeline: Временные линии кампании
+      discord_info: Это должна быть ссылка-приглашение на Discord сервер. Не забудь
+        сделать ссылку бесконечной.
+      discord: Ссылка на Discord сервер
+      vtt_info: Если ты используешь VTT, вставь URL-адрес здесь. Это увидят только
+        твои игроки.
+      vtt: URL-адрес VTT
+      twitch_info: <strong>Имя пользователя</strong> Twitch канала, который стримит
+        кампанию. Это позволит встроить Twitch в кампанию.
+      twitch: Канал на Twitch
+      info: Информация, приведенная ниже, повлияет на то, как остальные увидят твою
+        кампанию.
+      title: Настройки презентации
+    general:
+      group_status: Статус группы
+      cover_image: Изображение кампании
+      rpg_system: TTRPG система
+      description: Описание
+      excerpt_placeholder: напр. 5 героев отправляются за мир за шкафом
+      excerpt: Краткое описание
+      name: Название
+      name_placeholder: напр. Герои Нарнии
+      title: Основные настройки
+    title: Настройки кампании
+    breadcrumbs: Настройки
+    page_title: Настройки %campaign_name%
 character:
   view.in.world: Посмотреть в мире
 create:
