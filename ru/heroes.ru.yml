@@ -138,6 +138,9 @@ campaign:
       list_2: Не используйте ;'. Это может вызвать ошибки с CSS.
       list_1: Все правила CSS в поле будут автоматический соединены под селектором<strong>.wrapper-content</strong>.
       title: Краткий гайд по CSS для кампаний
+      list_4: Сейчас ты можешь менять в своем персонаже всё, что пожелает твоя душа,
+        даже структуру World Anvil, но Урданы на несут ответственности за то, что
+        ты сломаешь персонажа в случае чего!
     update_css_btn: Обновить стиль CSS
     custom_css: Кастомный CSS
     view_public_page: Увидеть публичную страницу кампании
@@ -206,6 +209,12 @@ campaign:
     title: Настройки кампании
     breadcrumbs: Настройки
     page_title: Настройки %campaign_name%
+  view:
+    leave_btn: Покинуть кампанию
+    read_report_btn: Прочитать отчет
+    page_header: '%campaign_name% Домашняя страница | World Anvil '
+    archive_expand_btn: Нажмите, чтобы Развернуть/Свернуть
+    edit_btn: Редактировать Кампанию
 character:
   view.in.world: Посмотреть в мире
 create:
