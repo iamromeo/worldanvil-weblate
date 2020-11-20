@@ -142,8 +142,12 @@ campaign:
         ici. Ceci ne sera visible que de vos joueurs.
       vtt: URL du Système de Jeux de Rôle Virtuel
       discord_info: Ceci devrait être le lien d'invitation que fournit Discord. N'oubliez
-        pas de le régler sur "n'expire pas"
+        pas de le régler sur "n'expire pas".
       discord: URL du Serveur Discord
+      maps: Cartes relatives à la Campagne
+      timeline_info: Gardez à l'esprit que seules les Lignes du temps parallèles peuvent
+        être utilisées comme ligne du temps de la Campagne!
+      timeline: Lignes du temps relatives à la Campagne
     general:
       group_status: Statut du Groupe
       cover_image: Couverture de la Campagne
