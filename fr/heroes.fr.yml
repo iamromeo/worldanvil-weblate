@@ -92,7 +92,7 @@ campaign:
     title_placeholder: Nom principal, par ex. "L'Héritage de la Banane Obsure"
     title: Nom de la Campagne
     alert_no_world:
-      description: Pour pouvoir créer une campagne vous devez créer un Monde dans
+      description: Pour pouvoir créer une campagne vous devez avoir un Monde dans
         lequel elle prendra place !
       title: Minute papillon !
     description_placeholder: La version plus longue de votre description, qui inspirera
@@ -106,6 +106,19 @@ campaign:
     page_header: Vos Campagnes
     alert_info: Vous avez atteint la limite de Campagnes disponibles avec votre abonnement
       actuel !
+  join:
+    remove_character_from_other_campaign: Ou, retirez l'un de vos personnages de leur
+      campagne actuelle. <br>(vous devrez revenir ici pour rejoindre la campagne)
+    character_select_btn: Choisir %character_name%
+    all_character_already_in_campaign: Tous vos personnages sont actuellement dans
+      une campagne.
+    breadcrumbs: Invitation à la Campagne
+    max_character_reached: Vous avez atteint le nombre maximum de Personnages dont
+      vous disposez avec votre abonnement actuel !
+    select_a_character: Lequel de vos personnages souhaitez-vous voir intégrer la
+      campagne ?
+    invited_by: Vous avez été invité par %invite_sender% à rejoindre la campagne %campaign_name%
+      !
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
