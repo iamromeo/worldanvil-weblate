@@ -76,7 +76,27 @@ campaign:
     parties:
       parties_count: "Il y'a %parties_count% Groupes dans cette campagne. "
       box_title: Les Groupes
-      manage_btn: Gérer les groupes
+      manage_btn: Gérer les Groupes
+  panel:
+    deleted_world_campaign: Cette Campagne est associé a un monde supprimé.
+    delete_campaign_btn: SUPPRIMER LA CAMPAGNE
+  new_campaign_form:
+    dropzone_message: 'Sélectionnez ou Glissez-Déposez ici un seul document! <br><p><small>
+      Taille minimum recomandée: 1600x400px. Il sera toujours temps de le faire ultérieurement!</small></p><p><small>Votre
+      limite autorisée de taille de fichiers actuelle est de %max_size%, et les types
+      de fichiers sont JPG, JPEG, PNG, GIF</small></p>'
+    cover_image: Image de Couverture
+    privacy: Confidentialité
+    rpg_system_placeholder: Sélectionner un Système de JDR
+    rpg_system: Système de JDR
+    title_placeholder: Nom principal, par ex. "L'Héritage de la Banane Obsure"
+    title: Nom de la Campagne
+  list:
+    breadcrumb: Vos Campagnes
+    page_title: Campagnes de JDR
+    page_header: Vos Campagnes
+    alert_info: Vous avez atteint la limite de Campagnes disponibles avec votre abonnement
+      actuel !
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
