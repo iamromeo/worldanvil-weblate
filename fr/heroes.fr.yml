@@ -123,13 +123,40 @@ campaign:
       need_comeback: (vous devrez revenir ici pour rejoindre la campagne)
       or: '...ou, '
     no_character: Vous n'avez pas de personnages sur votre compte.
-    create_account_box_title: Créez un nouveau compte et personnage!
+    create_account_box_title: Créez un nouveau compte et personnage !
     account_box_title: J'ai déjà un compte
     after_account: Une fois que vous aurez créé un compte ou vous serez connecté,
       assurez vous d'avoir créé un personnage puis <br><strong>revenez à cette page
       pour rejoindre la campagne!</strong>
     joining_no_account: Pour rejoindre la campagne de %campaign_master_name% vous
       devez disposer d'un compte sur World Anvil et créer un personnage.
+  settings:
+    presentation:
+      twitch_info: Le  <strong>nom d'utilisateur</strong> de la chaîne Twitch sur
+        laquelle la campagne sera diffusée. Ceci créera un lien Twitch sur la page
+        de la campagne
+      twitch: Chaîne Twitch
+      info: Les informations suivantes influenceront la manière dont votre campagne
+        sera affichée pour le public.
+      title: Paramètres de Présentation
+    general:
+      group_status: Statut du Groupe
+      cover_image: Couverture de la Campagne
+      description: Introduction/ Description
+      excerpt_placeholder: par ex. Des héros errant sur les terres au-delà de la Garde-robe
+      excerpt: Extrait/ Brève description
+      name_placeholder: par ex. Héros de Narnia
+      name: Nom
+      title: Paramètres généraux
+      rpg_system: Système de Jeu de Rôle
+    title: Paramètres de la Campagne
+    breadcrumbs: Paramètres
+    page_title: Paramètres de %campaign_name%
+  reports:
+    protagonists: Protagonistes
+    edit_btn: Editer le Compte-rendu
+    page_title: '%article_title% Compte-rendu'
+    breadcrumbs: Compte-rendus
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
