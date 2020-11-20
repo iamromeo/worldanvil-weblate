@@ -37,6 +37,45 @@ campaign:
         Au moment où ils l'auront fait, leur personnage apparaîtra sous vos protagonistes
     character_sheet:
       edit_sheet_btn: Editer une feuille de personnage
+    expel_character_btn: Expulser un personnage
+    character_table:
+      delete_btn: Supprimer
+      edit_btn: Editer
+      location: Emplacement
+      visibility: Visibilité
+      type: Type
+      name: Nom
+    create_npc_btn: Créer un nouveau Personnage Secondaire (PNJ)
+  dashboard:
+    characters:
+      manage_btn: Gérer les Personnages
+      characters_count: Il y'a %characters_count% personnages dans cette campagne.
+      box_title: Les Protagonistes
+    session:
+      other_session:
+        schedule_new_session: Programmer une nouvelle Session
+        journal_by: par
+        journal_box_title: Entrées du Journal
+        concluded_on: Conclue le %conclude_date%
+        start_btn: Commencer
+        upcoming_session: Prochaines Sessions
+        view_report_btn: Voir le Compte-rendu
+        edit_report_btn: Editer le Compte-rendu
+        edit_session_btn: Editer la Session
+        add_report_btn: Écrire un Compte-rendu
+        scheduled_for: Prévue pour %date%
+      current_session:
+        play_btn: JOUER
+        end_session_btn: TERMINER
+        box_title: Séance en cours
+    view_world_btn: Voir le Monde
+    edit_world_btn: Editer le Monde
+    view_campaign_page_btn: Voir la Page Publique de la Campagne
+    streambox:
+      title: Flux de la Campagne
+    parties:
+      parties_count: "Il y'a %parties_count% groupes dans cette campagne. "
+      box_title: Les Groupes
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
