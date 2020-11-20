@@ -31,3 +31,4 @@ copy.to.clipboard: Cliquer pour copier dans votre presse papier
 attach.to.world: Lier à un monde
 attach: Lier
 download.resources: Télécharger les ressources
+copy-into-world: Copier vers %world_name
