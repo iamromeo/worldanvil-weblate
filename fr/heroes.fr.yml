@@ -82,15 +82,24 @@ campaign:
     delete_campaign_btn: SUPPRIMER LA CAMPAGNE
   new_campaign_form:
     dropzone_message: 'Sélectionnez ou Glissez-Déposez ici un seul document ! <br><p><small>
-      Taille minimum recomandée: 1600x400px. Il sera toujours temps de le faire ultérieurement!</small></p><p><small>Votre
-      limite autorisée de taille de fichiers actuelle est de %max_size%, et les types
-      de fichiers sont JPG, JPEG, PNG, GIF</small></p>'
+      Taille minimum recomandée : 1600x400px. Il sera toujours temps de le faire ultérieurement
+      !</small></p><p><small>Votre limite autorisée de taille de fichiers actuelle
+      est de %max_size%, et les types de fichiers sont JPG, JPEG, PNG, GIF</small></p>'
     cover_image: Image de Couverture
     privacy: Confidentialité
     rpg_system_placeholder: Sélectionner un Système de JDR
     rpg_system: Système de JDR
     title_placeholder: Nom principal, par ex. "L'Héritage de la Banane Obsure"
     title: Nom de la Campagne
+    alert_no_world:
+      description: Pour pouvoir créer une campagne vous devez créer un Monde dans
+        lequel elle prendra place !
+      title: Minute papillon !
+    description_placeholder: La version plus longue de votre description, qui inspirera
+      vos joueurs et alléchera l'audience !
+    excerpt_placeholder: Courte description de votre campagne.
+    details_box_title: 'Détails supplémentaires '
+    save_btn: Enregistrer les modifications
   list:
     breadcrumb: Vos Campagnes
     page_title: Campagnes de JDR
