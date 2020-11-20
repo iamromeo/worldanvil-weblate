@@ -723,3 +723,6 @@ location.tourism: Tourisme
 location.history: Histoire
 landmark.vehicle: Compartiment du Véhicule
 landmark.constructed: Date de Construction
+material.physical.properties: Propriétés Physiques et chimiques
+copy.article.block: COPIER LE BLOC DE L'ARTICLE
+person.age: Âge
