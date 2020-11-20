@@ -122,7 +122,14 @@ campaign:
     create_character:
       need_comeback: (vous devrez revenir ici pour rejoindre la campagne)
       or: '...ou, '
-    no_character: Vous n'avez pas de personnage sur votre compte.
+    no_character: Vous n'avez pas de personnages sur votre compte.
+    create_account_box_title: Créez un nouveau compte et personnage!
+    account_box_title: J'ai déjà un compte
+    after_account: Une fois que vous aurez créé un compte ou vous serez connecté,
+      assurez vous d'avoir créé un personnage puis <br><strong>revenez à cette page
+      pour rejoindre la campagne!</strong>
+    joining_no_account: Pour rejoindre la campagne de %campaign_master_name% vous
+      devez disposer d'un compte sur World Anvil et créer un personnage.
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
