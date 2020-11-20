@@ -13,24 +13,24 @@ manuscript.edit.upper: ÉDITER
 manuscript.view.upper: VOIR
 ui.cssRules: Règles CSS additionelles
 ui.lineHeight: Hauteur de ligne
-ui.paragraphPadding: Déplacement en dessous du Paragraphe
+ui.paragraphPadding: Marge inférieure des paragraphes
 ui.paragraphIndent: Indentation du paragraphe
 ui.paragraphSettings: Paramètres du paragraphe
 ui.fontTypeface: Police de Caractères
 ui.fontColor: Couleur de la Police
-ui.fontSize: Taille de la Police
-ui.fontSettings: Paramètres de Texte
+ui.fontSize: Taille de la police
+ui.fontSettings: Paramètres de texte
 ui.backgroundColor: Couleur d'arrière plan
-ui.documentSettings: Paramètres de Document
+ui.documentSettings: Paramètres du document
 ui.notice: Une fois que vous avez terminé, rafraichissez la page pour que les paramètres
   soit appliqués.
-ui.intro: Modifier les paramètres suivant pour altérer l'apparence et les fonctionnalitées
+ui.intro: Modifier les paramètres suivants pour changer l'apparence et les fonctionnalitées
   de l'éditeur.
 ui.header: Paramètres d'interface par défaut
 scene.related.articles: Autres Articles Associés
 scene.related.items: Objets Associés
 scene.related.locations: Lieux Associés
-scene.related.characters: Perssonages Associés
+scene.related.characters: Personnages Associés
 scene.importance: Importance de la scène
 scene.type: Type de scène
 scene.duration: Durée de la scène
@@ -60,7 +60,7 @@ write: Ecrire
 synopsis: Synopsis
 title: Titre
 search_replace: Rechercher & Remplacer
-search: Rechercher dans le manuscrit & le monde
+search: Rechercher des Manuscrits & des monde
 new.text: Créer un nouveau Texte
 text: Texte
 folder: Dossier
@@ -101,3 +101,8 @@ scene.rich_media_description: Collez ici une adresse Soundcloud, Spotify, YouTub
   MP3, ou une adresse Anchor.fm intégrée pour qu'elle apparaisse au-dessus de cette
   partie. C'est une très bonne manière d'ajouter un livre audio de votre travail,
   ou d'ajouter une atmosphère.
+continue.reading: Continué la lecture
+manuscripts.title: Manuscripts
+scene.rich_media: URL multimédia
+part.time: Moment de la journée
+part.duration: Longueur de la scène
