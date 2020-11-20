@@ -201,7 +201,33 @@ campaign:
     custom_url_info: "Cette partie de l'url apparaîtra comme suit : https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>\
       \ - Elle doit uniquement contenir des lettres de l'alphabet latin, des nombres\
       \ et des tirets. <br>- Elle doit faire entre 10 et 255 caractères de long (tirets\
-      \ compris)."
+      \ compris)"
+    css_guide:
+      example: " <em>Exemples</em><br><h6>Pour attribuer le<strong>.wrapper-content\
+        \ directement</strong> n'utilisez pas de sélecteur, il sera appliqué automatiquement.\
+        \ </h6><p>{ <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;   \
+        \ color: #ffffff; <br>} <br><br></p><h6>To change the background color of\
+        \ most of the boxes</h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color:\
+        \ #ff00ff !important; <br>} <br><br></p>"
+      list_4: Vous pouvez changer ce que vous voulez dans votre page de personnage,
+        y compris la structure WorldAnvil, mais les Udans ne seront pas tenus responsables
+        si votre personnage est cassé !
+      list_3: Si vous voulez utiliser des commentaires, utilisez  /* ce type */ et
+        faites-le à l'intérieur de vos sélecteurs et non en dehors.
+      list_2: N'utilisez pas de virgules (",") au risque de poser des problèmes avec
+        le CSS.
+      list_1: 'Toutes les règles CSS dans cet encart seront automatiquement contenues
+        dans le sélecteur <strong>.wrapper-content</strong> '
+      title: Petit Guide du CSS pour les Campagnes
+    update_css_btn: Mettre à jour le style CSS
+    custom_css: CSS personnalisé
+    update_slug_btn: Mettre à jour le slug de l'url
+    view_public_page: Voir la Page Publique de la Campagne
+  view:
+    read_report_btn: Lire le Rapport
+    archive_expand_btn: Cliquez pour afficher/masquer
+    edit_btn: Editer la Campagne
+    page_header: "%campaign_name% Page d'accueil | World Anvil "
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
