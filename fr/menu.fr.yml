@@ -104,3 +104,7 @@ go.to.create: Aller au menu de création
 community.shared.statblocks: Blocs de données de la communauté
 shared.statblocks: Bloc de données partagés
 account.apikeys: Gestion des clefs API
+profile.settings: Paramètres du profil
+goto_your_profile: Aller à votre Profil
+edit.profile: Modifier votre Profil
+view.profile: Voir le Profil
