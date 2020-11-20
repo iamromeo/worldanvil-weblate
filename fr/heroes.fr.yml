@@ -14,7 +14,7 @@ campaign:
       Heroes. <br> Ce personnage doit être celui actif sur leur profil!</strong>
     no_access_code: Cette campagne ne dispose d'aucun code d'accès. Vous devez en
       générer un afin d'inviter d'autres joueurs.
-    regenerate_code_btn: Re-générer un code
+    regenerate_code_btn: Générer le code à nouveau
   menu:
     sessions: Séances
     guild_features: FONCTIONNALITÉS DE GUILDE
@@ -138,7 +138,7 @@ campaign:
       info: Les informations suivantes influenceront la manière dont votre campagne
         sera affichée pour le public.
       title: Paramètres de Présentation
-      vtt_info: Si vous utilisez un  Système de Jeux de Rôle Virtuel, Collez l'URL
+      vtt_info: Si vous utilisez un Système de Jeux de Rôle Virtuel, Collez l'URL
         ici. Ceci ne sera visible que de vos joueurs.
       vtt: URL du Système de Jeux de Rôle Virtuel
       discord_info: Ceci devrait être le lien d'invitation que fournit Discord. N'oubliez
@@ -205,10 +205,10 @@ campaign:
     css_guide:
       example: " <em>Exemples</em><br><h6>Pour attribuer le<strong>.wrapper-content\
         \ directement</strong> n'utilisez pas de sélecteur, il sera appliqué automatiquement.\
-        \ </h6><p>{ <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;   \
-        \ color: #ffffff; <br>} <br><br></p><h6>To change the background color of\
-        \ most of the boxes</h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color:\
-        \ #ff00ff !important; <br>} <br><br></p>"
+        \ </h6><p>{ <br> &nbsp ;&nbsp ;    background : #000000 ; <br>&nbsp ;&nbsp ;\
+        \    color : #ffffff ; <br>} <br><br></p><h6>To change the background color\
+        \ of most of the boxes</h6><p>.ibox-content { <br>&nbsp ;&nbsp ;    background-color :\
+        \ #ff00ff !important ; <br>} <br><br></p>"
       list_4: Vous pouvez changer ce que vous voulez dans votre page de personnage,
         y compris la structure WorldAnvil, mais les Udans ne seront pas tenus responsables
         si votre personnage est cassé !
