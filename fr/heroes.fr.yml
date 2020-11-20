@@ -146,8 +146,13 @@ campaign:
       discord: URL du Serveur Discord
       maps: Cartes relatives à la Campagne
       timeline_info: Gardez à l'esprit que seules les Lignes du temps parallèles peuvent
-        être utilisées comme ligne du temps de la Campagne!
+        être utilisées comme ligne du temps de la Campagne !
       timeline: Lignes du temps relatives à la Campagne
+      end_date_info: La date à laquelle la campagne s'est terminée. Remplissez ce
+        champ si la campagne s'est clôturée.
+      end_date: Date de fin
+      start_date_info: La date à laquelle la campagne a débuté.
+      start_date: Date de commencement
     general:
       group_status: Statut du Groupe
       cover_image: Couverture de la Campagne
@@ -161,11 +166,37 @@ campaign:
     title: Paramètres de la Campagne
     breadcrumbs: Paramètres
     page_title: Paramètres de %campaign_name%
+    delete:
+      delete_btn: SUPPRIMER LA CAMPAGNE
+      warning: Cette action est IRRÉVERSIBLE.
+      how_to: Pour supprimer la campagne, veuillez taper DELETE dans le champ ci-dessous
+      box_title: Supprimer la Campagne
+    storytellers:
+      add: Ajouter le Narrateur à la Campagne
+      campaign_gm_tags: (MJ)
+      campaign_owner_tags: (Propriétaire)
+      select: Définir l'Auteur du Monde comme narrateur
+      owner_tag: Propriétaire
+      remove_btn: Retirer le narrateur
+      title: Narrateurs
+    access:
+      save_btn: Enregistrer les changements
+      world_homepage_visibility: Visibilité de la Page d'accueil du Monde
+      state: Etat de l'accessibilité
+      member_only: Uniquement accessible aux Membres de la Guilde
+      subscriber: Groupes d'Abonnés
+      title: Paramètres d'accessibilité
   reports:
     protagonists: Protagonistes
     edit_btn: Editer le Compte-rendu
     page_title: '%article_title% Compte-rendu'
     breadcrumbs: Compte-rendus
+  subscription:
+    membership_level_display: Vous êtes un %membership_level% de la Guilde. En tant
+      que tel, vos héros et vous-même avez accès à des fonctionnalités très spéciales!
+      Bon amusement!
+    breadcrumbs: Fonctionnalités de Guilde
+    page_header: Fonctionnalités de Guilde de %campaign_name%
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
