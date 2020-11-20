@@ -74,8 +74,9 @@ campaign:
     streambox:
       title: Flux de la Campagne
     parties:
-      parties_count: "Il y'a %parties_count% groupes dans cette campagne. "
+      parties_count: "Il y'a %parties_count% Groupes dans cette campagne. "
       box_title: Les Groupes
+      manage_btn: Gérer les groupes
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
