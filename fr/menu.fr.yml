@@ -90,7 +90,7 @@ images_and_files: Images et fichiers
 statblocks: Blocs de Statistique
 your.statblocks: Vos Fiches
 community.statblocks: Fiches de la Communauté
-stream: Stream
+stream: Flux des personnages de JDR
 homepage: Page d'accueil
 your_reading_list: Liste de Lecture Personnelle
 gear_and_gifts: Boutique
@@ -105,6 +105,8 @@ community.shared.statblocks: Blocs de données de la communauté
 shared.statblocks: Bloc de données partagés
 account.apikeys: Gestion des clefs API
 profile.settings: Paramètres du profil
-goto_your_profile: Aller à votre Profil
+goto_your_profile: Aller au Profil
 edit.profile: Modifier votre Profil
 view.profile: Voir le Profil
+account.features: Fonctionnalités de compte
+activated.features: Fonctionnalités activées
