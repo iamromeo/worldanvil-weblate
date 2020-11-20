@@ -81,7 +81,7 @@ campaign:
     deleted_world_campaign: Cette Campagne est associé a un monde supprimé.
     delete_campaign_btn: SUPPRIMER LA CAMPAGNE
   new_campaign_form:
-    dropzone_message: 'Sélectionnez ou Glissez-Déposez ici un seul document! <br><p><small>
+    dropzone_message: 'Sélectionnez ou Glissez-Déposez ici un seul document ! <br><p><small>
       Taille minimum recomandée: 1600x400px. Il sera toujours temps de le faire ultérieurement!</small></p><p><small>Votre
       limite autorisée de taille de fichiers actuelle est de %max_size%, et les types
       de fichiers sont JPG, JPEG, PNG, GIF</small></p>'
