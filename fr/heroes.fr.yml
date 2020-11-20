@@ -193,10 +193,15 @@ campaign:
     breadcrumbs: Compte-rendus
   subscription:
     membership_level_display: Vous êtes un %membership_level% de la Guilde. En tant
-      que tel, vos héros et vous-même avez accès à des fonctionnalités très spéciales!
-      Bon amusement!
+      que tel, vos héros et vous-même avez accès à des fonctionnalités très spéciales
+       ! Bon amusement  !
     breadcrumbs: Fonctionnalités de Guilde
     page_header: Fonctionnalités de Guilde de %campaign_name%
+    custom_url: URL personnalisée
+    custom_url_info: "Cette partie de l'url apparaîtra comme suit : https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>\
+      \ - Elle doit uniquement contenir des lettres de l'alphabet latin, des nombres\
+      \ et des tirets. <br>- Elle doit faire entre 10 et 255 caractères de long (tirets\
+      \ compris)."
 join_worldbuilder_guild_link: Rejoignez la Guilde des Créateurs de mondes
 title: Héros
 worldbuilder_guild_title: Aidez nous à améliorer World Anvil !
