@@ -141,6 +141,11 @@ campaign:
       list_4: Сейчас ты можешь менять в своем персонаже всё, что пожелает твоя душа,
         даже структуру World Anvil, но Урданы на несут ответственности за то, что
         ты сломаешь персонажа в случае чего!
+      example: ' <em>Например</em><br><h6>Чтобы повлиять на <strong>.wrapper-content
+        напрямую</strong> не используй никакой селектор, он применится автоматически.</h6><p>{
+        <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;    color: #ffffff;
+        <br>} <br><br></p><h6>Чтобы поменять цвет заднего фона большинства полей</h6><p>.ibox-content
+        { <br>&nbsp;&nbsp;    background-color: #ff00ff !important; <br>} <br><br></p>'
     update_css_btn: Обновить стиль CSS
     custom_css: Кастомный CSS
     view_public_page: Увидеть публичную страницу кампании
