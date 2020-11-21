@@ -217,7 +217,7 @@ campaign:
       list_2: N'utilisez pas de virgules (",") au risque de poser des problèmes avec
         le CSS.
       list_1: 'Toutes les règles CSS dans cet encart seront automatiquement contenues
-        dans le sélecteur <strong>.wrapper-content</strong> '
+        dans le sélecteur <strong>.wrapper-content</strong>.'
       title: Petit Guide du CSS pour les Campagnes
     update_css_btn: Mettre à jour le style CSS
     custom_css: CSS personnalisé
