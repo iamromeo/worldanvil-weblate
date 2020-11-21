@@ -434,3 +434,11 @@ access.authors.advanced.writer.description: Accès pour créer et gérer vos art
 map.marker.draggable.description.2: Le déplacement n'est activé que pour les épingles
   normales et les labels.
 statblocks: Blocs de Statistique
+inttables:
+  delete: Supprimer la table
+  edit: Modifier la table
+  create_new: Créer une nouvelle table
+  create: Créer une Table
+  list: Liste des Tables
+  tables: Tables
+dashboard: Accueil

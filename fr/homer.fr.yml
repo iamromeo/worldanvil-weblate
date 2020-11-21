@@ -105,4 +105,9 @@ continue.reading: Continué la lecture
 manuscripts.title: Manuscripts
 scene.rich_media: URL multimédia
 part.time: Moment de la journée
-part.duration: Longueur de la scène
+part.duration: Durée de la scène
+html_export: Export HTML
+exporting.header: Export
+part.importance: Importance de la scène
+part.type: Type de scène
+monetization.access_denied: Restriction d'accès personnalisée
