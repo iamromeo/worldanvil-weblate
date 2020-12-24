@@ -1,5 +1,5 @@
 document: المستند
-character: الشخصيات
+character: شخصية
 ethnicity: الأصل العرقي
 formation.military: وحدة العسكرية
 settlement: ‎‎المنطقة
@@ -82,7 +82,9 @@ spell: سحر
 species: الأصناف
 plot: حبكة
 prose: نثر
-article.generic: مقالة عام
+article.generic: مقالة عامة
 technology.science: التكنولوجيا / العلوم
 rank.title: عنوان
 profession: مهنة
+condition: الحالة
+geography: الجغرافيا
