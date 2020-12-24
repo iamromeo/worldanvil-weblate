@@ -1,4 +1,16 @@
 document: المستند
 character: الشخصيات
 ethnicity: الأصل العرقي
-formation.military: وحدة الجيش
+formation.military: وحدة العسكرية
+settlement: ‎‎المنطقة
+location.settlement: الموقع، المنطقة
+building: المباني
+location.building: الموقع، المباني
+location.geographic: الموقع، الجغرافي
+military.conflict: النزاع
+myth.legend: خرافة \ أسطورة
+material: عنصر
+language: اللغة
+item: أداة
+organization: منظمة
+law: قانون الطبيعة
