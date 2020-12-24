@@ -2,3 +2,10 @@ go_to_world_list_btn: اذهب لقائمة العوالم
 no_active_world: يبدو أنه ليس لديك عالم نشط.
 join_worldbuilder_guild_link: انضم لنقابة صانعي العالم
 title: أبطال
+campaign:
+  invite:
+    regenerate_code_btn: إعادة إنشاء رمز
+  menu:
+    home: الرئيسية
+create:
+  character: اصنع شخصية جديدة
