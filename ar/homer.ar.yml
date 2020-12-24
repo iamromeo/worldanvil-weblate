@@ -8,4 +8,5 @@ manuscript.delete: احذف المخطوطة
 manuscript.view: شاهد المخطوطة
 manuscript.edit: تعديل المخطوطات
 manuscripts.title: المخطوطات
-manuscript.edit.upper: تعديل
+manuscript.edit.upper: عدل
+manuscript.view.upper: عرض
