@@ -1,1 +1,10 @@
-{}
+manuscript.world.activate.desc: ليس لديك عالم منشط، أنت بحاجة إلى واحد لبدء مخطوطة
+  جديدة
+manuscript.world.activate: تحتاج إلى تنشيط أحد عوالمك
+manuscript.create: انشئ مخطوطة جديدة
+manuscript.settings: إعدادات المخطوطة
+manuscript.basic.settings: إعدادات المخطوطةالاساسية
+manuscript.delete: احذف المخطوطة
+manuscript.view: شاهد المخطوطة
+manuscript.edit: تعديل المخطوطات
+manuscripts.title: المخطوطات
