@@ -80,4 +80,7 @@ dashboard.campaigns: حملاتك
 dashboard.characters: شخصياتك
 dashboard.worlds: عوالمك
 dashboard.events: الأحداث
-dashboard.world.memberships: أعضاء العالم
+dashboard.world.memberships: عضويات العالم
+dashboard.videos: أحدث مقاطع الفيديو
+dashboard.in.news: في الأخبار
+dashboard.dev.updates: تحديثات التطوير
