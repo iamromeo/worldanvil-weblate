@@ -72,5 +72,7 @@ access.activate.code: أدخل رمز التفعيل
 access.return: عُد من حيثُ أتيت!
 access.multipass: متعدد؟
 dashboard.page.title: لوحة التحكم العالمية الخاصة بك
-dashboard.features.mistake: 'هل قمت بتنشيط ميزات بناء العالم عن طريق الخطأ؟ '
+dashboard.features.mistake: 'هل قمت بتنشيط ميزات بناء العالم عن طريق الخطأ؟'
 dashboard.create.first: أنشئ عالمك الأول!
+dashboard.news: الأخبار
+dashboard.manage.features: إدارة ميزاتك النشطة
