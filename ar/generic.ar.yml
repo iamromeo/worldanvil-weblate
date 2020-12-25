@@ -76,3 +76,7 @@ dashboard.features.mistake: 'هل قمت بتنشيط ميزات بناء الع
 dashboard.create.first: أنشئ عالمك الأول!
 dashboard.news: الأخبار
 dashboard.manage.features: إدارة ميزاتك النشطة
+dashboard.campaigns: أحداثك
+dashboard.characters: شخصياتك
+dashboard.worlds: عوالمك
+dashboard.events: الأحداث
