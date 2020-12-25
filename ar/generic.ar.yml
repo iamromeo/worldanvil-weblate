@@ -53,6 +53,9 @@ creation.date: 'تاريخ الإنشاء '
 author: مؤلف
 category: الفئة
 favorites: المُفضلات
-author.notes: ملاحظات المؤلف
+author.notes: ملحوظات المؤلف
 notifications: 'الاشعارات '
 comments: التعليقات
+access.homepage: الانتقال للصفحة الرئيسية
+access.description: نحنُ نعتذر لكن لا يُمكنك الوصول الى هذه الصفحة. هذا على الارجع
+  لأن المقالة خاصة وليس لديك الحق لرؤيتها.
