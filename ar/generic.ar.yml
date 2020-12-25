@@ -90,5 +90,7 @@ dashboard.worldbuilding.disabled: تم تعطيل ميزات صانعي العا
 dashboard.recent.articles: مقالاتك الأخيرة
 dashboard.continue: إستمر في البناء
 dashboard.worlds.max: لقظ وصلتَ إلى الحد الأقصى من عدد العوالم
-dashboard.followed.worlds: العالم التي تُتعابعها
+dashboard.followed.worlds: العوالم التابعة لك
 dashboard.help.grow: ساعدنا في إبقاء World Anvil حيّ وينمو!
+dashboard.upcoming.sessions: الواقعة القادمة
+dashboard.followed.characters: الشخصيات التابعة لك
