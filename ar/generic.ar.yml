@@ -35,5 +35,6 @@ guild.required.master: تتطلب هذه الميزة عضوية الخبير و
 guild.required: تتطلب هذه الميزة عضوية النقابة!
 guild.required.grandmaster: تتطلب هذه الميزة عضوية العظيم في نقابة وما فوق.
 todo.your.list: 'قائمة المهام'
-todo.status.one: المقال أُنشئ، لم يتم نشرُه ومازال قيد العمل.
+todo.status.one: أُنشئ المقال، ما زال قيد العمل ولم يتم نشرُه
 todo.status.zero: انقر على العنوان لإنشاء مقالة!
+todo.status.two: المقال نُشر وما زال تحت العمل
