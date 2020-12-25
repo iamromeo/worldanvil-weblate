@@ -22,4 +22,7 @@ status: الحالة
 character: شخصية
 spell: سحر
 item: أداة
-Community: 'المجتمع '
+Community: 'المجتمع'
+parent.item: الأداة الرئيسية (الأصلية)
+parent: الأصل
+create.author.profile: انشئ حساب
