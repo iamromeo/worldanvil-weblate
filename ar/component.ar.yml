@@ -9,7 +9,7 @@ campaign: الحملة
 campaigns: حملات
 world.view: مشاهدة العالم
 worlds: عوالم
-world: عالم
+world: العالم
 characters: شخصيات
 browse: تصفح
 dashboard: لوحة التحكم
@@ -22,3 +22,4 @@ status: الحالة
 character: شخصية
 spell: سحر
 item: أداة
+Community: 'المجتمع '
