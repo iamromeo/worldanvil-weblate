@@ -41,4 +41,14 @@ todo.status.two: نُشر المقال وما زال قيد العمل
 todo.status.three: انتهى المقال!
 notes: ملحوظات
 theme: الطابع
-article.template: نموذج المادة
+article.template: قالب المقال
+views: الآراء
+open: افتح
+private: خاص
+public: عام
+visibility: الرؤية
+update.date: تاريخ آخر تحديث
+publication.date: تاريخ النشر
+creation.date: 'تاريخ الإنشاء '
+author: مؤلف
+category: الفئة
