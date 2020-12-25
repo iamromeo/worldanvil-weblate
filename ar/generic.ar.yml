@@ -1,6 +1,6 @@
 home: الرئيسية
 welcome: أهلا بك
-world: عالم
+world: العالم
 community: المجتمع
 dismiss: تجاهل
 description: الوصف
@@ -15,7 +15,7 @@ join.discord: انظم إلى ال Discord الخاص بنا.
 identifier: المُعرف
 reference: مرجع علامات التصميم
 help: هل تحتاج لمساعدة؟
-weight: وزن
+weight: الوزن
 status: الحالة
 state: حالة
 goto.articles.list: اذهب الى قائمة المقالات
@@ -27,9 +27,9 @@ studio.templates: 'استوديو المُنشىء: قوالب المقالات'
 studio.sheets: 'استوديو المُنشئ: جداول البيانات'
 studio.homepage: الصفحة الرئيسية لاستوديو المنشئ
 studio.description.text: "استوديو المُنشئئ هو موطِن كُل الخصائص المُتقدمة في World\
-  \ Anvil. الخبراء (عضوية مدفوعة) وما فوقهُم، سيتمكنون من إنشاء ومُشاركة أوراق الشخصيات،\
+  \ Anvil. الخبراء (عضوية مدفوعة) وما فوقهُم، سيتمكنون من إنشاء ومُشاركة جداول الشخصيات،\
   \ أدوات، علامات الخرائط المُخصصة والمزيد كُلما نمَونا."
-studio.pins: 'استوديو المُنشئين : ثبت'
+studio.pins: 'استوديو المُنشئين : المثبت'
 advanced_options: افتح الأدوات والخيارات المتقدمة
 guild.required.master: تتطلب هذه الميزة عضوية الخبير وأعلاها في النقابة.
 guild.required: تتطلب هذه الميزة عضوية النقابة!
@@ -50,7 +50,7 @@ visibility: الرؤية
 update.date: تاريخ آخر تحديث
 publication.date: تاريخ النشر
 creation.date: 'تاريخ الإنشاء'
-author: مؤلف
+author: المؤلف
 category: الفئة
 favorites: المُفضلات
 author.notes: ملحوظات المؤلف
@@ -66,3 +66,4 @@ access.activate: تفعيل الإشتراك
 access.passcode.description: هذهِ الصفحة محمية بكلمة مرور! إن كُنت تملك كلمة المرور
   رجاءً ضعها أدناه للوصول للمُحتوى.
 access.passcode: كلمة المرور مطلوبة
+wip: 'العمل قيد التنفيذ '
