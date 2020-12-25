@@ -87,5 +87,6 @@ dashboard.dev.updates: تحديثات التطوير
 dashboard.podcast.cta: استمع إلى بودكاست صانعي العالم الخاص بنا
 dashboard.stream: البثوث القادمة
 dashboard.worldbuilding.disabled: تم تعطيل ميزات صانعي العالم
-dashboard.recent.articles: مقالاتك مؤخرًا
+dashboard.recent.articles: مقالاتك الأخيرة
 dashboard.continue: إستمر في البناء
+dashboard.worlds.max: لقظ وصلتَ إلى أقصى عدد من العوالم
