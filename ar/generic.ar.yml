@@ -39,4 +39,6 @@ todo.status.one: أُنشئ المقال، ما زال قيد العمل ولم 
 todo.status.zero: انقر على العنوان لإنشاء مقالة!
 todo.status.two: نُشر المقال وما زال قيد العمل
 todo.status.three: انتهى المقال!
-notes: مُلاحظات
+notes: ملحوظات
+theme: الطابع
+article.template: نموذج المادة
