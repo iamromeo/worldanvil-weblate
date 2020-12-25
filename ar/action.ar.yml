@@ -1,2 +1,34 @@
-world.view: عرض العالم
-browse: التصفح
+world.view: مشاهدة العالم
+browse: تصفح
+download.resources: تنزيل المصادر
+attach: إرفاق
+attach.to.world: إرفاق بالعالم
+view.profile: مشاهدة الملف الشخصي
+edit.profile: تعديل الملف الشخصي
+delete.map: حذف الخريطة
+view.map: مشاهدة الخريطة
+edit.map: عدل الخريطة
+create a new...: إنشاء ...
+register: انشئ حسابك
+logout: تسجيل خروج
+login: تسجيل دخول
+copy.to.clipboard: انقر لنسخها في الحافظة الخاصة بك
+download: تنزيل
+edit.and.play: عدل والعب
+check.out: تحقق منه
+world.create: انشئ عالم جديد
+search.in: بحث في
+search: بحث
+replace: استبدل
+create: انشئ
+delete: حذف
+dismiss: تجاهل
+copy-into-world: نسخه إلى %world_name
+copy: نسخ
+view: مشاهدة
+update: تحديث
+save.changes: حفظ التغييرات
+save: حفظ
+manage: إدارة
+show: عرض
+edit: عدل

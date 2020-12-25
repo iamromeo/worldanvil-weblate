@@ -80,7 +80,7 @@ view.profile: عرض ملفك الشخصي
 edit.profile: تعديل ملفك الشخصي
 profile.settings: إعدادات الملف الشخصي
 profile: الملف الشخصي
-world.view: عرض العالم
+world.view: مشاهدة العالم
 worlds: عوالم
 world: عالم
 join.discord: احصل على الإلهام، احصل على كل المساعدة!
@@ -104,5 +104,6 @@ characters: شخصيات
 toggle: تبديل القائمة
 sponsoring: الرعاية
 advertising: إعلان
-browse: التصفح
+browse: تصفح
 dashboard: لوحة التحكم
+notifications: 'الاشعارات '

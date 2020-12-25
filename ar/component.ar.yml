@@ -7,9 +7,18 @@ timeline: الخط الزمني
 statblocks: الإحصائيات
 campaign: الحملة
 campaigns: حملات
-world.view: عرض العالم
+world.view: مشاهدة العالم
 worlds: عوالم
 world: عالم
 characters: شخصيات
-browse: التصفح
+browse: تصفح
 dashboard: لوحة التحكم
+delete.map: حذف الخريطة
+edit.map: عدل الخريطة
+create: انشئ
+category: الفئة
+notes: ملحوظات
+status: الحالة
+character: شخصية
+spell: سحر
+item: أداة

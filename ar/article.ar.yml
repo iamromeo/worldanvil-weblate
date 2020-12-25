@@ -4,7 +4,7 @@ ethnicity: الأصل العرقي
 formation.military: وحدة العسكرية
 settlement: ‎‎المنطقة
 location.settlement: الموقع، المنطقة
-building: المباني
+building: مباني
 location.building: الموقع، المباني
 location.geographic: الموقع، الجغرافي
 military.conflict: النزاع
@@ -12,7 +12,7 @@ myth.legend: خرافة \ أسطورة
 material: عنصر
 language: اللغة
 item: أداة
-organization: المنظمة
+organization: الكيان
 law: قانون الطبيعة
 religion: المعتقد
 country: الدولة
@@ -79,7 +79,7 @@ tradition: تقليد
 tradition.ritual: تقليد / طقوس
 technology: تكنولوجيا
 spell: سحر
-species: الأصناف
+species: أصناف
 plot: حبكة
 prose: نثر
 article.generic: مقالة عامة
@@ -87,4 +87,4 @@ technology.science: التكنولوجيا / العلوم
 rank.title: عنوان
 profession: مهنة
 condition: الحالة
-geography: الجغرافيا
+geography: جغرافيا

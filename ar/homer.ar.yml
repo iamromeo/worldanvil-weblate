@@ -10,4 +10,8 @@ manuscript.edit: تعديل المخطوطات
 manuscripts.title: المخطوطات
 manuscript.edit.upper: عدل
 manuscript.view.upper: مشاهدة
-manuscript.read.upper: 'اقرأ '
+manuscript.read.upper: 'اقرأ'
+view: مشاهدة
+title: عنوان
+manuscripts.list: قائمة المخطوطات
+manuscript.settings.upper: 'إعدادات '
