@@ -86,4 +86,6 @@ dashboard.in.news: في الأخبار
 dashboard.dev.updates: تحديثات التطوير
 dashboard.podcast.cta: استمع إلى بودكاست صانعي العالم الخاص بنا
 dashboard.stream: البثوث القادمة
-dashboard.worldbuilding.disabled: تم تعطيل ميزات بناء العالم
+dashboard.worldbuilding.disabled: تم تعطيل ميزات صانعي العالم
+dashboard.recent.articles: مقالاتك مؤخرًا
+dashboard.continue: إستمر في البناء
