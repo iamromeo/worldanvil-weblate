@@ -89,4 +89,6 @@ dashboard.stream: البثوث القادمة
 dashboard.worldbuilding.disabled: تم تعطيل ميزات صانعي العالم
 dashboard.recent.articles: مقالاتك الأخيرة
 dashboard.continue: إستمر في البناء
-dashboard.worlds.max: لقظ وصلتَ إلى أقصى عدد من العوالم
+dashboard.worlds.max: لقظ وصلتَ إلى الحد الأقصى من عدد العوالم
+dashboard.followed.worlds: العالم التي تُتعابعها
+dashboard.help.grow: ساعدنا في إبقاء World Anvil حيّ وينمو!
