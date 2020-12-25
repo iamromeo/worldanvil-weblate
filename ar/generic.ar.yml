@@ -34,4 +34,6 @@ advanced_options: افتح الأدوات والخيارات المتقدمة
 guild.required.master: تتطلب هذه الميزة عضوية الخبير وأعلاها في النقابة.
 guild.required: تتطلب هذه الميزة عضوية النقابة!
 guild.required.grandmaster: تتطلب هذه الميزة عضوية العظيم في نقابة وما فوق.
-todo.your.list: 'ما عليك فعلُه '
+todo.your.list: 'قائمة المهام'
+todo.status.one: المقال أُنشئ، لم يتم نشرُه ومازال قيد العمل.
+todo.status.zero: انقر على العنوان لإنشاء مقالة!
