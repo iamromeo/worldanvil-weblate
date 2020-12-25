@@ -18,4 +18,7 @@ help: هل تحتاج لمساعدة؟
 weight: وزن
 status: الحالة
 state: حالة
-goto.articles.list: انتقل الى قائمة المقالات
+goto.articles.list: اذهب الى قائمة المقالات
+world.designer: اجتماعات مصممي العالم
+private.club: نادٍ خاص. أعضاء النقابة فقط
+allies: الحلفاء والشركاء بالجريمة
