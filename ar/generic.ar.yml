@@ -66,4 +66,8 @@ access.activate: تفعيل الإشتراك
 access.passcode.description: هذهِ الصفحة محمية بكلمة مرور! إن كُنت تملك كلمة المرور
   رجاءً ضعها أدناه للوصول للمُحتوى.
 access.passcode: كلمة المرور مطلوبة
-wip: 'العمل قيد التنفيذ '
+wip: 'العمل قيد التنفيذ'
+access.activate.login: ستحتاج إلى تسجيل الدخول لتفعيل إشتراكك!
+access.activate.code: أدخل رمز التفعيل
+access.return: عُد من حيثُ أتيت!
+access.multipass: متعدد؟
