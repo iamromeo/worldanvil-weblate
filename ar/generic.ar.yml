@@ -52,4 +52,7 @@ publication.date: تاريخ النشر
 creation.date: 'تاريخ الإنشاء '
 author: مؤلف
 category: الفئة
-favorites: مُفضلة
+favorites: المُفضلات
+author.notes: ملاحظات المؤلف
+notifications: 'الاشعارات '
+comments: التعليقات
