@@ -19,6 +19,10 @@ weight: وزن
 status: الحالة
 state: حالة
 goto.articles.list: اذهب الى قائمة المقالات
-world.designer: اجتماعات مصممي العالم
+world.designer: لوحة تصميم العالم
 private.club: نادٍ خاص. أعضاء النقابة فقط
 allies: الحلفاء والشركاء بالجريمة
+studio.description.header: ما هو استوديو المُنشئين
+studio.templates: 'استوديو المُنشىء: قوالب المقالات'
+studio.sheets: 'استوديو المُنشئ: جداول البيانات'
+studio.homepage: الصفحة الرئيسية لاستوديو المنشئين.
