@@ -7,7 +7,7 @@ description: الوصف
 title: عنوان
 new: جديد
 username: اسم المستخدم
-goto.account: انتقل الى تفاصيل الحساب
+goto.account: اذهب الى تفاصيل الحساب
 join.worldanvil.cta: انظم إلى نقابة صانعي العوالم
 join.discord.description: شارك في تطوير World Anvil - إنظم إلي تحديات بناء العوالم
   - اربح جوائز وشارات رائعة!
@@ -18,3 +18,4 @@ help: هل تحتاج لمساعدة؟
 weight: وزن
 status: الحالة
 state: حالة
+goto.articles.list: انتقل الى قائمة المقالات
