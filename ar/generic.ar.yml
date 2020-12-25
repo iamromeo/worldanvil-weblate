@@ -42,7 +42,7 @@ todo.status.three: انتهى المقال!
 notes: ملحوظات
 theme: الطابع
 article.template: قالب المقال
-views: الآراء
+views: المشاهدات
 open: افتح
 private: خاص
 public: عام
@@ -52,3 +52,4 @@ publication.date: تاريخ النشر
 creation.date: 'تاريخ الإنشاء '
 author: مؤلف
 category: الفئة
+favorites: مُفضلة
