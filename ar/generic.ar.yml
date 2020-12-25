@@ -81,6 +81,8 @@ dashboard.characters: شخصياتك
 dashboard.worlds: عوالمك
 dashboard.events: الأحداث
 dashboard.world.memberships: عضويات العالم
-dashboard.videos: أحدث مقاطع الفيديو
+dashboard.videos: أحدث الفيديوهات
 dashboard.in.news: في الأخبار
 dashboard.dev.updates: تحديثات التطوير
+dashboard.podcast.cta: استمع إلى بودكاست بناء العالم الخاص بنا
+dashboard.stream: البثوث القادمة
