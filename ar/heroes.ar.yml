@@ -5,7 +5,31 @@ title: أبطال
 campaign:
   invite:
     regenerate_code_btn: إعادة إنشاء رمز
+    no_access_code: هذه الحملة ليس لها رمز دخول. ستحتاج إلى إنشاء واحد من أجل دعوة
+      المزيد من اللاعبين.
+    description: 'أرسل رابط الدعوة إلى لاعبيك لدعوتهم إلى حملتك. <br> <strong> يجب
+      أن يكون لدى لاعبيك شخصية أبطال. <br> يجب أن تكون تلك الشخصية هي الشخصية النشطة
+      في ملفهم الشخصي! </strong> '
   menu:
     home: الرئيسية
+    settings: إعدادات
+    plots: حبكة
+    guild_features: مميزات النقابة
+  cannot_create_campaign: 'لا يمكن إنشاء حملة جديدة :'
+  settings:
+    presentation:
+      discord: 'عنوان URL لخادم ال Discord '
+      vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
+  character_list:
+    expel_character_btn: طرد الشخصية
+    invite:
+      alert_info: من أجل إشراك لاعبيك في حملتك ، ستحتاج إلى دعوتهم. <br> امنح اللاعبين
+        عنوان url أدناه. هذه دعوة فريدة لحملتك. <br> سيحتاجون إلى اختيار الشخصية التي
+        يريدون مشاركتها في حملتك ثم الانتقال إلى عنوان URL هذا. <br> في اللحظة التي
+        يفعلون فيها ذلك ، ستظهر شخصيتهم تحت أبطال روايتك
+    title: قائمة الشخصيات
+    header: '%campaign_name% قائمة الشخصيات'
+  codex_link: تفقد مقالة دليل صنع وإدارة حملتك
 create:
   character: انشئ شخصية جديدة
+worldbuilder_guild_title: ساعدنا بإبقاء World Anvil حي وينمو!
