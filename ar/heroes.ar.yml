@@ -57,7 +57,7 @@ campaign:
         view_report_btn: مشاهدة التقرير
         edit_report_btn: ‮‮‮‮تعديل التقرير
         add_report_btn: اكتب تقرير
-        schedule_new_session: 'مقرر الحدث الجديد '
+        schedule_new_session: 'جدولة حدث جديد'
         journal_by: بواسطة
         start_btn: 'ابدأ '
         upcoming_session: الأحداث القادمة
@@ -66,6 +66,9 @@ campaign:
     streambox:
       title: بث الحملة
     view_world_btn: مشاهدة العالم
+    characters:
+      characters_count: هناك %characters_count% شخصيات في هذه الحملة.
+      box_title: الشخصية الرئيسية
   breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
