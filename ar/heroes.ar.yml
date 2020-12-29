@@ -21,7 +21,7 @@ campaign:
       discord: 'عنوان URL لخادم ال Discord '
       vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
   character_list:
-    expel_character_btn: طرد الشخصية
+    expel_character_btn: طرد شخصية
     invite:
       alert_info: من أجل إشراك لاعبيك في حملتك ، ستحتاج إلى دعوتهم. <br> امنح اللاعبين
         عنوان url أدناه. هذه دعوة فريدة لحملتك. <br> سيحتاجون إلى اختيار الشخصية التي
@@ -29,7 +29,22 @@ campaign:
         يفعلون فيها ذلك ، ستظهر شخصيتهم تحت أبطال روايتك
     title: قائمة الشخصيات
     header: '%campaign_name% قائمة الشخصيات'
+    character_table:
+      delete_btn: حذف
+      location: الموقع
+      visibility: الرؤية
+      name: اسم
   codex_link: تفقد مقالة دليل صنع وإدارة حملتك
+  dashboard:
+    session:
+      current_session:
+        end_session_btn: النهاية
+        box_title: الحدث الحالي
+    edit_world_btn: تحرير العالم
+    view_campaign_page_btn: عرض الصفحة العامة للحملة
+    streambox:
+      title: بث الحملة
 create:
   character: انشئ شخصية جديدة
+  world: اصنع عالماً جديد
 worldbuilder_guild_title: ساعدنا بإبقاء World Anvil حي وينمو!
