@@ -2,3 +2,7 @@ failure.deletion: عذرًا! هناك خطأ ما! هل توجد أي فرصة 
   ما؟
 Private: خاص
 Public: عام
+success.generic: قامت السندان بتسجيل طلبك بنجاح.
+success.deletion: قامت المطرقة بإلغاء طلبك كما أمرت.
+bbcode.embed: انسخ والصق the BBCod اسفل اي جزء من المقال التي تتضمن  the BBcod في
+  داخلها
