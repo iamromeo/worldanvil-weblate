@@ -36,7 +36,7 @@ campaign:
       start_date_info: تاريخ بداية الحملة.
       start_date: تاريخ البدء
       maps: الخرائط المتعلقة بالحملة
-      end_date_info: تاريخ انتهاء الحملة. املأ هذا إذا وصلت الحملة إلى نهايتها.
+      end_date_info: تاريخ نهاية الحملة. املأ هذا إذا وصلت الحملة إلى نهايتها.
       end_date: تاريخ الانتهاء
     page_title: 'اعدادات %campaign_name%'
     general:
@@ -49,6 +49,12 @@ campaign:
       cover_image: صورة غلاف الحملة
     title: اعدادت الحملة
     breadcrumbs: الاعدادات
+    access:
+      world_homepage_visibility: رؤية الصفحة الرئيسية العالمية
+      state: حالة الوصول
+      member_only: متاح فقط لأعضاء النقابة
+      subscriber: مجموعات المشتركين
+      title: إعدادات الوصول
   character_list:
     expel_character_btn: طرد شخصية
     invite:
