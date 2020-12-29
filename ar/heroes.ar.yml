@@ -54,8 +54,9 @@ campaign:
       other_session:
         edit_session_btn: تعديل الحدث
         scheduled_for: المقرر ل %date%
-        view_report_btn: شاهد التقرير
+        view_report_btn: مشاهدة التقرير
         edit_report_btn: ‮‮‮‮تعديل التقرير
+        add_report_btn: اكتب التقرير
     edit_world_btn: تحرير العالم
     view_campaign_page_btn: عرض الصفحة العامة للحملة
     streambox:
