@@ -15,6 +15,7 @@ campaign:
     settings: إعدادات
     plots: حبكة
     guild_features: مميزات النقابة
+    protagonists: الشخصية الرئيسية
   cannot_create_campaign: 'لا يمكن إنشاء حملة جديدة :'
   settings:
     presentation:
@@ -44,9 +45,10 @@ campaign:
     view_campaign_page_btn: عرض الصفحة العامة للحملة
     streambox:
       title: بث الحملة
+  breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
 worldbuilder_guild_title: ساعدنا بإبقاء World Anvil حي وينمو!
 character:
-  view.in.world: اكتشف العالم
+  view.in.world: مشاهدة العالم
