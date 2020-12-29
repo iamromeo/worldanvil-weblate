@@ -25,6 +25,7 @@ campaign:
     presentation:
       discord: 'عنوان URL لخادم ال Discord '
       vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
+    page_title: '%campaign_name% اعدادات'
   character_list:
     expel_character_btn: طرد شخصية
     invite:
@@ -125,7 +126,8 @@ campaign:
   reports:
     page_title: 'تقرير %article_title%'
     breadcrumbs: التقارير
-    edit_btn: عدل التقرير
+    edit_btn: تحرير التقرير
+    protagonists: الشخصيات الرئيسية
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
