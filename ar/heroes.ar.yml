@@ -58,8 +58,10 @@ campaign:
       save_btn: احفظ التغييرات
     storytellers:
       title: رواة القصص
-      owner_tag: مالك
+      owner_tag: المالك
       remove_btn: إزالة الراوي
+      campaign_owner_tags: '(مالك) '
+      select: حدد مؤلف العالم كراوي
   character_list:
     expel_character_btn: طرد شخصية
     invite:
