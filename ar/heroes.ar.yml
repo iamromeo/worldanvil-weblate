@@ -187,7 +187,7 @@ campaign:
     css_guide:
       list_1: سيتم تغليف جميع قواعد CSS في هذا المربع تلقائيًا تحت علامة.<strong>.wrapper-content</strong>
       title: دليل CSS السريع للحملات
-      example: '<em>أمثلة</em><br><h6> للتأثير على <strong>. غلاف المحتوى مباشرة </strong>
+      example: ' <em>أمثلة</em><br><h6> للتأثير على <strong>.wrapper-content directly</strong>
         لا تستخدم أي محدد، سيتم تطبيق المحدد تلقائيًا. </h6><p>{ <br> &nbsp;&nbsp;    background:
         #000000; <br>&nbsp;&nbsp;    color: #ffffff; <br>} <br><br></p><h6> لتغيير
         لون الخلفية لمعظم المربعات </h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color:
@@ -198,6 +198,8 @@ campaign:
         في المحددات الخاصة بك وليس خارجها
       list_2: لا تستخدم فواصل "،". سيؤدي استخدام الفواصل في المحددات إلى حدوث مشكلات
         في CSS.
+  view:
+    page_header: '%campaign_name% الصفحة الرئيسية | World Anvil '
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
