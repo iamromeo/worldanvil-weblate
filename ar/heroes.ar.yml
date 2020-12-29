@@ -182,7 +182,8 @@ campaign:
     custom_url_info: "سيظهر هذا الجزء من عنوان url بالشكل\nhttps://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>-\n\
       \ يجب أن يتضمن أحرفًا وأرقامًا وشرطات فقط. <br>- يجب ألا يقل طوله عن 10 أحرف\
       \ وألا يزيد عن 255 حرفًا. (بما في ذلك الشرطات) "
-    custom_css: مخصص CSS
+    custom_css: CSS مخصص
+    update_css_btn: تحديث أنماط CSS
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
