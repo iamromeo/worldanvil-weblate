@@ -72,7 +72,8 @@ campaign:
       manage_btn: إدارة الشخصيات
     parties:
       box_title: الأحزاب
-      parties_count: هناك  %parties_count% حفلات في الحملة.
+      parties_count: 'هناك %parties_count% أحزاب في الحملة. '
+      manage_btn: إدارة الحفلات
   breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
