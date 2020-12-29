@@ -69,6 +69,10 @@ campaign:
     characters:
       characters_count: هناك %characters_count% شخصيات في هذه الحملة.
       box_title: الشخصية الرئيسية
+      manage_btn: إدارة الشخصيات
+    parties:
+      box_title: الأحزاب
+      parties_count: هناك  %parties_count% حفلات في الحملة.
   breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
