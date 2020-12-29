@@ -13,9 +13,13 @@ campaign:
   menu:
     home: الرئيسية
     settings: إعدادات
-    plots: حبكة
+    plots: حبكات
     guild_features: مميزات النقابة
-    protagonists: الشخصية الرئيسية
+    protagonists: الشخصيات الرئيسية (القابلة للعب)
+    sessions: أحداث
+    parties: احزاب
+    supporting_cast: الشخصيات المساعدة (غير القابلة للعب)
+    primer: أولي
   cannot_create_campaign: 'لا يمكن إنشاء حملة جديدة :'
   settings:
     presentation:
@@ -35,6 +39,8 @@ campaign:
       location: الموقع
       visibility: الرؤية
       name: اسم
+    character_sheet:
+      edit_sheet_btn: تحرير الورقة
   codex_link: تفقد مقالة دليل صنع وإدارة حملتك
   dashboard:
     session:
