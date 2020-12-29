@@ -50,11 +50,16 @@ campaign:
     title: اعدادت الحملة
     breadcrumbs: الاعدادات
     access:
-      world_homepage_visibility: رؤية الصفحة الرئيسية العالمية
+      world_homepage_visibility: رؤية الصفحة العالم الرئيسية
       state: حالة الوصول
       member_only: متاح فقط لأعضاء النقابة
       subscriber: مجموعات المشتركين
       title: إعدادات الوصول
+      save_btn: احفظ التغييرات
+    storytellers:
+      title: رواة القصص
+      owner_tag: مالك
+      remove_btn: إزالة الراوي
   character_list:
     expel_character_btn: طرد شخصية
     invite:
