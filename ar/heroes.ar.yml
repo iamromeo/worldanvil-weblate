@@ -25,12 +25,12 @@ campaign:
     presentation:
       discord: 'عنوان URL لخادم ال Discord '
       vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
-      discord_info: هذا يجب أن يكون  رابط دعوة الDiscord . لا تنسى إعداد عدم إنتهاء
-        الصلاحية.
+      discord_info: يجب أن يكون هذا رابط دعوة الDiscord . لا تنسى جعله غير متنهي الصلاحية.
       title: إعدادات العرض
       info: المعلومات الواردة أدناه تؤثر على طريقة عرض حملتك للعامة.
       twitch_info: <strong> اسم المستخدم </strong> لقناة Twitch التي يتم بث الحملة
         فيها. سيؤدي ذلك إلى إنشاء تضمين twitch في صفحة الحملة.
+      timeline: الجداول الزمنية المُتعلقة بالحملة
     page_title: 'اعدادات %campaign_name%'
     general:
       description: مقدمة / وصف
