@@ -185,9 +185,19 @@ campaign:
     custom_css: CSS مخصص
     update_css_btn: تحديث نمط CSS
     css_guide:
-      list_1: سيتم تغليف جميع قواعد CSS في هذا المربع تلقائيًا تحت علامة<strong>.
-        غلاف المحتوى </ strong>.
+      list_1: سيتم تغليف جميع قواعد CSS في هذا المربع تلقائيًا تحت علامة.<strong>.wrapper-content</strong>
       title: دليل CSS السريع للحملات
+      example: '<em>أمثلة</em><br><h6> للتأثير على <strong>. غلاف المحتوى مباشرة </strong>
+        لا تستخدم أي محدد، سيتم تطبيق المحدد تلقائيًا. </h6><p>{ <br> &nbsp;&nbsp;    background:
+        #000000; <br>&nbsp;&nbsp;    color: #ffffff; <br>} <br><br></p><h6> لتغيير
+        لون الخلفية لمعظم المربعات </h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color:
+        #ff00ff !important; <br>} <br><br></p>'
+      list_4: لديك الحق في تغيير أي شيء تريده في صفحة شخصيتك بما في ذلك هيكل World
+        Anvil ، ولكن لن يتحمل Udans أي مسؤولية عن تحطيم شخصيتك!
+      list_3: إذا كنت تريد استخدام التعليقات، فاستخدم / * هذا النوع * / وافعل ذلك
+        في المحددات الخاصة بك وليس خارجها
+      list_2: لا تستخدم فواصل "،". سيؤدي استخدام الفواصل في المحددات إلى حدوث مشكلات
+        في CSS.
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
