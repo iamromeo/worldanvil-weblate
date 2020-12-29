@@ -82,9 +82,9 @@ campaign:
       مع عضويتك الحالية!
     breadcrumb: حملاتك
   new_campaign_form:
-    excerpt_placeholder: 'سطر واحد يصف حملتك. '
+    excerpt_placeholder: 'سطر واحد يصف حملتك.'
     details_box_title: 'تفاصيل إضافية '
-    dropzone_message: انقر أو اسحب وأفلت ملف واحد هنا!  <br><p><small> الحد الأدنى
+    dropzone_message: انقر أو اسحب وأفلت ملف واحد هنا! <br><p><small> الحد الأدنى
       المقترح للحجم 1600x400 بكسل. يمكنك دائمًا القيام بذلك لاحقًا! </small></p><p><small>الحد
       الأقصى الحالي للملفات هو%max_size% وأنواع الملفات المسموح بها JPG و JPEG و PNG
       و GIF </small></p>
@@ -94,9 +94,19 @@ campaign:
     rpg_system: نظام لعبة تقمص الادوار
     title_placeholder: 'الاسم الأول، على سبيل المثال "سليل الظلام" '
     title: اسم الحملة
+    alert_no_world:
+      description: من أجل صنع حملة، يجب أن يكون لديك عالم لتتم الحملة فيه!
+      title: انتظر هناك شريك!
+    save_btn: 'احفظ التغييرات '
+    description_placeholder: النسخة الأطول من وصفك، لإلهام اللاعبين وإغراء الجمهور!
   panel:
     delete_campaign_btn: 'حذف الحملة '
     deleted_world_campaign: هذه حملة لعالم محذوف.
+  join:
+    select_a_character: أي من شخصياتك تريد أن تنضم إلى الحملة؟
+    all_character_already_in_campaign: جميع شخصياتك حاليا في حملة.
+    invited_by: تمت دعوتك من قِبل ‌%invite_sender% للانضمام إلى حملة%campaign_name%!
+    breadcrumbs: دعوة الحملة
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
