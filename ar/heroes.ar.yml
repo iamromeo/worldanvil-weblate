@@ -60,8 +60,15 @@ campaign:
       title: رواة القصص
       owner_tag: المالك
       remove_btn: إزالة الراوي
-      campaign_owner_tags: '(مالك) '
+      campaign_owner_tags: '(المالك)'
       select: حدد مؤلف العالم كراوي
+      add: أضف راوي إلى الحملة
+      campaign_gm_tags: '(صانع اللعبة) '
+    delete:
+      delete_btn: حذف الحملة
+      warning: هذه العملية لا رجعة فيها.
+      how_to: لحذف حملتك ، يرجى كتابة DELETE في المربع أدناه
+      box_title: احذف الحملة
   character_list:
     expel_character_btn: طرد شخصية
     invite:
@@ -164,6 +171,11 @@ campaign:
     breadcrumbs: التقارير
     edit_btn: تحرير التقرير
     protagonists: الشخصيات الرئيسية
+  subscription:
+    membership_level_display: أنت تمثل %membership_level% من النقابة. على هذا النحو
+      ، يمكنك أنت وأبطالك الوصول إلى بعض الميزات الخاصة جدًا! استمتع!
+    breadcrumbs: ميزات النقابة
+    page_header: '%campaign_name% ميزات النقابة '
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
