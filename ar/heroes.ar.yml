@@ -46,5 +46,7 @@ campaign:
       title: بث الحملة
 create:
   character: انشئ شخصية جديدة
-  world: اصنع عالماً جديد
+  world: انشئ عالماً جديد
 worldbuilder_guild_title: ساعدنا بإبقاء World Anvil حي وينمو!
+character:
+  view.in.world: اكتشف العالم
