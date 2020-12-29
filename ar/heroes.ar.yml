@@ -176,7 +176,12 @@ campaign:
       النحو ، يمكنك أنت وأبطالك الوصول إلى بعض الميزات الخاصة جدًا! استمتع!
     breadcrumbs: ميزات النقابة
     page_header: '%campaign_name% ميزات النقابة '
-    custom_url: URL مخصص
+    custom_url: عنوان URL مخصص
+    view_public_page: عرض الصفحة العامة للحملة
+    update_slug_btn: تحديث رابط URL الثابت
+    custom_url_info: "سيظهر هذا الجزء من عنوان url بالشكل\nhttps://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>-\n\
+      \ يجب أن يتضمن أحرفًا وأرقامًا وشرطات فقط. <br>- يجب ألا يقل طوله عن 10 أحرف\
+      \ وألا يزيد عن 255 حرفًا. (بما في ذلك الشرطات) "
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
