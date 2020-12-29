@@ -76,8 +76,27 @@ campaign:
       manage_btn: إدارة الأحزاب
   breadcrumbs: حملات
   list:
-    page_title: حملة لعبة تقمص الادوار
+    page_title: حملات تقمص الادوار (RPG)
     page_header: حملاتك
+    alert_info: لقد وصلت إلى الحد الأقصى لعدد الحملات <br> التي يمكنك الحصول عليها
+      مع عضويتك الحالية!
+    breadcrumb: حملاتك
+  new_campaign_form:
+    excerpt_placeholder: 'سطر واحد يصف حملتك. '
+    details_box_title: 'تفاصيل إضافية '
+    dropzone_message: انقر أو اسحب وأفلت ملف واحد هنا!  <br><p><small> الحد الأدنى
+      المقترح للحجم 1600x400 بكسل. يمكنك دائمًا القيام بذلك لاحقًا! </small></p><p><small>الحد
+      الأقصى الحالي للملفات هو%max_size% وأنواع الملفات المسموح بها JPG و JPEG و PNG
+      و GIF </small></p>
+    cover_image: صورة الغلاف
+    privacy: 'حالة الخصوصية '
+    rpg_system_placeholder: حدد نظام لعبة تقمص الادوار
+    rpg_system: نظام لعبة تقمص الادوار
+    title_placeholder: 'الاسم الأول، على سبيل المثال "سليل الظلام" '
+    title: اسم الحملة
+  panel:
+    delete_campaign_btn: 'حذف الحملة '
+    deleted_world_campaign: هذه حملة لعالم محذوف.
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
