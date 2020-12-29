@@ -39,9 +39,11 @@ campaign:
       location: الموقع
       visibility: الرؤية
       name: اسم
+      type: النوع
+      edit_btn: تعديل
     character_sheet:
       edit_sheet_btn: تحرير الجدول
-    create_npc_btn: 'اصنع عضو فريق دعم جديد (غير قابل للعب) '
+    create_npc_btn: 'انشئ شخصية مساعدة  جديدة (غير قابلة للعب)'
   codex_link: تفقد مقالة دليل صنع وإدارة حملتك
   dashboard:
     session:
@@ -52,6 +54,7 @@ campaign:
     view_campaign_page_btn: عرض الصفحة العامة للحملة
     streambox:
       title: بث الحملة
+    view_world_btn: شاهد العالم
   breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
