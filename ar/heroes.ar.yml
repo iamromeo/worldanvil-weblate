@@ -73,8 +73,11 @@ campaign:
     parties:
       box_title: الأحزاب
       parties_count: 'هناك %parties_count% أحزاب في الحملة. '
-      manage_btn: إدارة الحفلات
+      manage_btn: إدارة الأحزاب
   breadcrumbs: حملات
+  list:
+    page_title: حملة لعبة تقمص الادوار
+    page_header: حملاتك
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
