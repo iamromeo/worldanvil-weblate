@@ -40,7 +40,8 @@ campaign:
       visibility: الرؤية
       name: اسم
     character_sheet:
-      edit_sheet_btn: تحرير الورقة
+      edit_sheet_btn: تحرير الجدول
+    create_npc_btn: 'اصنع عضو فريق دعم جديد (غير قابل للعب) '
   codex_link: تفقد مقالة دليل صنع وإدارة حملتك
   dashboard:
     session:
