@@ -25,7 +25,15 @@ campaign:
     presentation:
       discord: 'عنوان URL لخادم ال Discord '
       vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
-    page_title: '%campaign_name% اعدادات'
+    page_title: 'اعدادات %campaign_name%'
+    general:
+      description: مقدمة / وصف
+      excerpt: 'مقتطفات / وصف قصير '
+      name: الاسم
+      title: الاعدادات العامة
+      rpg_system: نظام لعب تقمص الأدوار على الطاولة
+    title: اعدادت الحملة
+    breadcrumbs: الاعدادات
   character_list:
     expel_character_btn: طرد شخصية
     invite:
