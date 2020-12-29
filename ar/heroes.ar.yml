@@ -50,11 +50,15 @@ campaign:
       current_session:
         end_session_btn: النهاية
         box_title: الحدث الحالي
+        play_btn: العب
+      other_session:
+        edit_session_btn: تعديل الحدث
+        scheduled_for: المقرر ل %date%
     edit_world_btn: تحرير العالم
     view_campaign_page_btn: عرض الصفحة العامة للحملة
     streambox:
       title: بث الحملة
-    view_world_btn: شاهد العالم
+    view_world_btn: مشاهدة العالم
   breadcrumbs: حملات
 create:
   character: انشئ شخصية جديدة
