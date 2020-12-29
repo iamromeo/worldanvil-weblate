@@ -56,7 +56,11 @@ campaign:
         scheduled_for: المقرر ل %date%
         view_report_btn: مشاهدة التقرير
         edit_report_btn: ‮‮‮‮تعديل التقرير
-        add_report_btn: اكتب التقرير
+        add_report_btn: اكتب تقرير
+        schedule_new_session: 'مقرر الحدث الجديد '
+        journal_by: بواسطة
+        start_btn: 'ابدأ '
+        upcoming_session: الأحداث القادمة
     edit_world_btn: تحرير العالم
     view_campaign_page_btn: عرض الصفحة العامة للحملة
     streambox:
