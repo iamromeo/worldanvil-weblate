@@ -123,8 +123,9 @@ campaign:
       <br> (ستحتاج إلى العودة هنا للانضمام إلى الحملة) '
     character_select_btn: 'اختر %character_name% '
   reports:
-    page_title: '%article_title% تقرير'
+    page_title: 'تقرير %article_title%'
     breadcrumbs: التقارير
+    edit_btn: عدل التقرير
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
