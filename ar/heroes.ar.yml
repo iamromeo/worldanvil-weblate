@@ -103,10 +103,25 @@ campaign:
     delete_campaign_btn: 'حذف الحملة '
     deleted_world_campaign: هذه حملة لعالم محذوف.
   join:
-    select_a_character: أي من شخصياتك تريد أن تنضم إلى الحملة؟
+    select_a_character: أي من شخصياتك تريد أن تنضمها إلى الحملة؟
     all_character_already_in_campaign: جميع شخصياتك حاليا في حملة.
     invited_by: تمت دعوتك من قِبل ‌%invite_sender% للانضمام إلى حملة%campaign_name%!
     breadcrumbs: دعوة الحملة
+    create_account_box_title: صنع حساب وشخصية جديدة!
+    account_box_title: لدي حساب بالفعل
+    after_account: بمجرد تسجيل الدخول أو التسجيل. تأكد من إنشاء شخصية ثم <br> <strong>
+      قم بزيارة هذه الصفحة مرة أخرى للانضمام إلى الحملة! </strong>
+    joining_no_account: للانضمام إلى حملة %campaign_master_name%، يجب أن يكون لديك
+      حساب على world anvil وشخصية تم صنعها.
+    no_character: ليس لديك أي شخصيات في حسابك.
+    create_character:
+      need_comeback: '(سوف تحتاج إلى العودة هنا للانضمام إلى الحملة) '
+      or: '... أو، '
+    max_character_reached: لقد وصلت إلى الحد الأقصى لعدد الشخصيات <br> التي يمكنك
+      الحصول عليها من خلال عضويتك الحالية!
+    remove_character_from_other_campaign: 'أو، قم بإزالة أحد شخصياتك من حملتهم الحالية.
+      <br> (ستحتاج إلى العودة هنا للانضمام إلى الحملة) '
+    character_select_btn: 'اختر %character_name% '
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
