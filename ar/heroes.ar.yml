@@ -33,9 +33,11 @@ campaign:
       timeline: الخطوط الزمنية المُتعلقة بالحملة
       timeline_info: ضع في اعتبارك أنه يمكن استخدام الخطوط الزمنية المتوازية فقط كخط
         زمني للحملة!
-      start_date_info: تاريخ بدء الحملة.
+      start_date_info: تاريخ بداية الحملة.
       start_date: تاريخ البدء
       maps: الخرائط المتعلقة بالحملة
+      end_date_info: تاريخ انتهاء الحملة. املأ هذا إذا وصلت الحملة إلى نهايتها.
+      end_date: تاريخ الانتهاء
     page_title: 'اعدادات %campaign_name%'
     general:
       description: مقدمة / وصف
