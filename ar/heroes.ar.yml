@@ -25,13 +25,21 @@ campaign:
     presentation:
       discord: 'عنوان URL لخادم ال Discord '
       vtt_info: إذا كُنت تستخدم VTT، ضع عنوان URL للوحة هُنا. سيراهُ فقط لاعبوك.
+      discord_info: هذا يجب أن يكون  رابط دعوة الDiscord . لا تنسى إعداد عدم إنتهاء
+        الصلاحية.
+      title: إعدادات العرض
+      info: المعلومات الواردة أدناه تؤثر على طريقة عرض حملتك للعامة.
+      twitch_info: <strong> اسم المستخدم </strong> لقناة Twitch التي يتم بث الحملة
+        فيها. سيؤدي ذلك إلى إنشاء تضمين twitch في صفحة الحملة.
     page_title: 'اعدادات %campaign_name%'
     general:
       description: مقدمة / وصف
       excerpt: 'مقتطفات / وصف قصير '
       name: الاسم
       title: الاعدادات العامة
-      rpg_system: نظام لعب تقمص الأدوار على الطاولة
+      rpg_system: نظام لعب تقمص الأدوار على الطاولة (TTRPG)
+      group_status: حالة المجموعة
+      cover_image: صورة غلاف الحملة
     title: اعدادت الحملة
     breadcrumbs: الاعدادات
   character_list:
@@ -77,7 +85,7 @@ campaign:
     view_world_btn: مشاهدة العالم
     characters:
       characters_count: هناك %characters_count% شخصيات في هذه الحملة.
-      box_title: الشخصية الرئيسية
+      box_title: الشخصيات الرئيسية
       manage_btn: إدارة الشخصيات
     parties:
       box_title: الأحزاب
