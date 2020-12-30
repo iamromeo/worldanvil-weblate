@@ -199,7 +199,10 @@ campaign:
       list_2: لا تستخدم فواصل "،". سيؤدي استخدام الفواصل في المحددات إلى حدوث مشكلات
         في CSS.
   view:
-    page_header: '%campaign_name% الصفحة الرئيسية | World Anvil '
+    page_header: 'صفحة %campaign_name% الرئيسية | World Anvil '
+    leave_btn: اترك الحملة
+    read_report_btn: اقرأ التقرير
+    edit_btn: تعديل الحملة
 create:
   character: انشئ شخصية جديدة
   world: انشئ عالماً جديد
