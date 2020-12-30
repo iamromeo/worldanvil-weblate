@@ -67,9 +67,20 @@ scene.type: نوع المشهد
 scene.duration: مدة المشهد
 scene.time: وقت اليوم
 scene.pov: وجهة نظر الشخصيه
-scene.related.items: الأصناف ذات الصلة
+scene.related.items: الأدوات ذات الصلة
 scene.related.locations: المواقع ذات الصلة
 scene.related.characters: الشخصيات ذات الصلة
 part.importance: أهمية الجزء
 part.type: نوع الجزء
 part.duration: مدة الجزء
+ui.fontTypeface: مجموعة الخطوط
+ui.notice: عند الإنتهاء، قم بتحديث الصفحة حتى يتم تنفيذ الإعدادات.
+ui.paragraphIndent: مسافة بادئة للفقرة
+ui.paragraphSettings: إعدادات الفقرة
+ui.fontColor: لون الخط
+ui.fontSize: حجم الخط
+ui.fontSettings: إعدادات النص
+ui.backgroundColor: لون الخلفية
+ui.documentSettings: إعدادات المستند
+ui.intro: عدّل الإعدادات أدناه لتعيين الطريقة التي تريد أن يظهر بها المحرر الخاص بك.
+scene.related.articles: مقالات أخرى ذات صلة
