@@ -1,7 +1,7 @@
 Public: Publiczne
 Private: Prywatne
-bbcode.embed: Skopiuj poniższy kod i wklej go w dowolną część artykułu z włączonym
-  BBCode aby umieścić w nim ten element!
+bbcode.embed: Skopiuj i wklej poniższe BBCode w dowolnym miejscu twojego artykułu
+  (o ile włączyłeś tam BBCode) by umieścić w nim ten obiekt!
 failure.deletion: Ups! Coś poszło nie tak! Być może spróbowałeś usunąć coś, co wciąż
   jest gdzieś używane?
 success.generic: Pomyślnie przekuto twoje zlecenie.
