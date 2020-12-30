@@ -55,7 +55,15 @@ create.new.image: أنشى صورة جديدة
 create.new.era: أنشئ حقبة جديدة
 create.new.orgchart: أنشى شجرة مُحتويات جديدة
 create.new.timeline: أنشئ مخطط زمني جديد
-create.new.marker.group: أنشئ علامة مجموعة جديدة
+create.new.marker.group: أنشئ مجموعة علامات جديدة
 create.new.marker: أنشئ علامة جديدة
 create.new.map: أنشئ خريطة جديدة
 create.new.layer: أنشئ طبقة جديدة
+create.new.pin: إنشاء دبوس خريطة جديد
+create.new.note: أنشئ مُلحوظة جديدة
+edit.image: 'تعديل الصور '
+edit.category: 'تعديل الفئة '
+edit.campaign: 'تعديل الحملة '
+edit.author.profile: تعديل الملف الشخصي
+create.new.world: انشاء عالم جديد
+create.new.secret: انشاء سر جديد
