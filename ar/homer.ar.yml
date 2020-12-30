@@ -31,4 +31,12 @@ folder: مجلد
 start.reading: ابدأ بالقراءة
 search.results.manuscript: نتائج بحث المخطوطة
 new.text: انشاء نص جديد
-genres.languages: انقر فوق اللغة أدناه للإشارة إلى لغة مخطوطتك. سيظهر مع رمز اللغة.
+genres.languages: 'انقر فوق اللغة أدناه للإشارة إلى لغة مخطوطتك. ستظهر مع رمز اللغة. '
+view.description: عرض نسخة العرض من هذه المخطوطة
+read: قراءة
+review: مراجعة
+write: كتابة
+status: حالة المخطوطة
+subscriber_groups: مجموعات المشتركين
+access: حالة الخصوصية
+publication: حالة النشر
