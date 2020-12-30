@@ -50,8 +50,12 @@ create.template: انشاء نموذج
 create.code: انشاء رمز
 create.group: 'انشاء مجموعة '
 create.article: 'انشاء مقالة '
-create.new.player.character: أنشى شخصية لاعب جديدة
+create.new.player.character: أنشى شخصية لاعبة جديدة
 create.new.image: أنشى صورة جديدة
 create.new.era: أنشئ حقبة جديدة
 create.new.orgchart: أنشى شجرة مُحتويات جديدة
 create.new.timeline: أنشئ مخطط زمني جديد
+create.new.marker.group: أنشئ علامة مجموعة جديدة
+create.new.marker: أنشئ علامة جديدة
+create.new.map: أنشئ خريطة جديدة
+create.new.layer: أنشئ طبقة جديدة
