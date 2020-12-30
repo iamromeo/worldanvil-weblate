@@ -34,7 +34,8 @@ create.image: 'انشاء صورة '
 create.category: انشاء فئة
 create.campaign: 'انشاء حملة '
 Settings & Tools: 'الاعدادات و الادوات '
-create.marker: 'انشاء الة طباعة '
+create.marker: 'انشاء علامة'
 create.map: 'انشاء خريطة '
 create.orgchart: انشاء مخطط هيكلي
 create.timeline: 'انشاء مخطط زمني '
+create.marker.group: 'انشاء مجموعة طباعية '
