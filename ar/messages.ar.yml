@@ -4,5 +4,5 @@ Private: خاص
 Public: عام
 success.generic: قامت السندان بتسجيل طلبك بنجاح.
 success.deletion: قامت المطرقة بإلغاء طلبك كما أمرت.
-bbcode.embed: انسخ والصق the BBCod اسفل اي جزء من المقال التي تتضمن  the BBcod في
-  داخلها
+bbcode.embed: انسخ والصق رمز لوحة النشرات (BBCode) اسفل اي جزء من المقال، حيث يمكن
+  تضمينه داخل المقال!
