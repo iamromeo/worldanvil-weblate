@@ -14,4 +14,20 @@ manuscript.read.upper: 'اقرأ'
 view: مشاهدة
 title: عنوان
 manuscripts.list: قائمة المخطوطات
-manuscript.settings.upper: 'إعدادات '
+manuscript.settings.upper: 'إعدادات'
+search.results.world: نتائج البحث العالم
+genres.description: إذا كنت ترغب في تحذير قرائك من المواد الحساسة مثل أي من واصفات
+  ESRB (الدم ، العنف ، إلخ) استخدمها كاوسمة. سيتم تمييزها وظهورها بشكل بارز على الصفحة
+  الرئيسية للمخطوطة الخاصة بك
+backcover: ملخص الغلاف الخلفي للمخطوطة
+cover: غلاف المخطوطة
+search_replace: بحث واستبدال
+search: بحث المخطوطة والعالم
+caption: عنوان الصورة
+image_part: جزء الصورة
+image: صورة
+text: نص
+folder: مجلد
+start.reading: ابدأ بالقراءة
+search.results.manuscript: نتائج بحث المخطوطة
+new.text: انشاء نص جديد
