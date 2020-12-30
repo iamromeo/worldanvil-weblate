@@ -75,7 +75,7 @@ part.type: نوع الجزء
 part.duration: مدة الجزء
 ui.fontTypeface: مجموعة الخطوط
 ui.notice: عند الإنتهاء، قم بتحديث الصفحة حتى يتم تنفيذ الإعدادات.
-ui.paragraphIndent: مسافة بادئة للفقرة
+ui.paragraphIndent: مسافة بدء الفقرة
 ui.paragraphSettings: إعدادات الفقرة
 ui.fontColor: لون الخط
 ui.fontSize: حجم الخط
@@ -84,3 +84,10 @@ ui.backgroundColor: لون الخلفية
 ui.documentSettings: إعدادات المستند
 ui.intro: عدّل الإعدادات أدناه لتعيين الطريقة التي تريد أن يظهر بها المحرر الخاص بك.
 scene.related.articles: مقالات أخرى ذات صلة
+ui.paragraphPadding: تذييل أسفل الفقرة
+patreon: اسم مستخدم Patreon.com
+monetization.custom_advert: رسالة تسويقية مخصصة
+monetization.access_denied: الوصول المخصص للمحتوى المرفوض
+monetization.header: خيارات تحقيق الدخل
+ui.cssRules: قواعد CSS الإضافية
+ui.lineHeight: ارتفاع الخط
