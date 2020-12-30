@@ -32,7 +32,7 @@ start.reading: ابدأ بالقراءة
 search.results.manuscript: نتائج بحث المخطوطة
 new.text: انشاء نص جديد
 genres.languages: 'انقر فوق اللغة أدناه للإشارة إلى لغة مخطوطتك. ستظهر مع رمز اللغة. '
-view.description: عرض نسخة العرض من هذه المخطوطة
+view.description: مشاهدة نسخة العرض من هذه المخطوطة
 read: قراءة
 review: مراجعة
 write: كتابة
@@ -40,3 +40,17 @@ status: حالة المخطوطة
 subscriber_groups: مجموعات المشتركين
 access: حالة الخصوصية
 publication: حالة النشر
+tag.remove: إزالة وسم
+tag.type: اكتب اسم الوسم
+tags: وسوم
+label: الصنف
+label.management: إدارة التصنيف
+article.remove: إزالة المقال
+press.enter: اضغط على مفتاح الإدخال للإضافة أو الاختيار من قائمة الإكمال التلقائي.
+saved: تم الحفظ
+pov.character: 'وجهة نظر الشخصيه '
+edit.label.list: تعديل قائمة الاصناف
+choose.label: اختيار صنف
+change.label: تغيير الصنف
+no.label: ليس مصنف
+label.remove: ازالة صنف
