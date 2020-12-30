@@ -38,4 +38,6 @@ create.marker: 'انشاء علامة'
 create.map: 'انشاء خريطة '
 create.orgchart: انشاء مخطط هيكلي
 create.timeline: 'انشاء مخطط زمني '
-create.marker.group: 'انشاء مجموعة طباعية '
+create.marker.group: 'انشاء مجموعة علامات'
+create.pin: 'انشاء مشبك خريطة '
+create.note: 'انشاء مذكرة '
