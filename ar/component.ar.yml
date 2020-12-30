@@ -39,5 +39,19 @@ create.map: 'انشاء خريطة '
 create.orgchart: انشاء مخطط هيكلي
 create.timeline: 'انشاء مخطط زمني '
 create.marker.group: 'انشاء مجموعة علامات'
-create.pin: 'انشاء مشبك خريطة '
+create.pin: 'انشاء دبوس خريطة'
 create.note: 'انشاء مذكرة '
+create.new.category: انشاء فئة جديدة
+create.new.campaign: انشاء حملة جديدة
+create.new.template: إنشاء قالب مقالي جديد
+create.todo: انشاء أداة المهام
+create.secret: انشاء سر
+create.template: انشاء نموذج
+create.code: انشاء رمز
+create.group: 'انشاء مجموعة '
+create.article: 'انشاء مقالة '
+create.new.player.character: أنشى شخصية لاعب جديدة
+create.new.image: أنشى صورة جديدة
+create.new.era: أنشئ حقبة جديدة
+create.new.orgchart: أنشى شجرة مُحتويات جديدة
+create.new.timeline: أنشئ مخطط زمني جديد
