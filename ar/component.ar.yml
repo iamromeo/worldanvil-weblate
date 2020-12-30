@@ -26,3 +26,11 @@ Community: 'المجتمع'
 parent.item: الأداة الرئيسية (الأصلية)
 parent: الأصل
 create.author.profile: انشئ حساب
+label: الصنف
+tags: وسوم
+image: صورة
+create.player.character: انشاء شخصية مسرحية
+create.image: 'انشاء صورة '
+create.category: انشاء فئة
+create.campaign: 'انشاء حملة '
+Settings & Tools: 'الاعدادات و الادوات '
