@@ -29,8 +29,12 @@ create.author.profile: انشئ حساب
 label: الصنف
 tags: وسوم
 image: صورة
-create.player.character: انشاء شخصية مسرحية
+create.player.character: انشاء شخصية لاعبة
 create.image: 'انشاء صورة '
 create.category: انشاء فئة
 create.campaign: 'انشاء حملة '
 Settings & Tools: 'الاعدادات و الادوات '
+create.marker: 'انشاء الة طباعة '
+create.map: 'انشاء خريطة '
+create.orgchart: انشاء مخطط هيكلي
+create.timeline: 'انشاء مخطط زمني '
