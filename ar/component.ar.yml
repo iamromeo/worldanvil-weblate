@@ -61,9 +61,13 @@ create.new.map: أنشئ خريطة جديدة
 create.new.layer: أنشئ طبقة جديدة
 create.new.pin: إنشاء دبوس خريطة جديد
 create.new.note: أنشئ مُلحوظة جديدة
-edit.image: 'تعديل الصور '
+edit.image: 'تعديل الصورة'
 edit.category: 'تعديل الفئة '
 edit.campaign: 'تعديل الحملة '
 edit.author.profile: تعديل الملف الشخصي
 create.new.world: انشاء عالم جديد
 create.new.secret: انشاء سر جديد
+delete.author.profile: مسح الصفحة الشخصية
+edit.group: تعديل المجموعة
+edit.marker: 'تعديل العلامة '
+edit.orgchart: 'تعديل شجرة المحتوى '
