@@ -48,9 +48,10 @@ label.management: إدارة التصنيف
 article.remove: إزالة المقال
 press.enter: اضغط على مفتاح الإدخال للإضافة أو الاختيار من قائمة الإكمال التلقائي.
 saved: تم الحفظ
-pov.character: 'وجهة نظر الشخصيه '
+pov.character: 'وجهة نظر الشخصية'
 edit.label.list: تعديل قائمة الاصناف
 choose.label: اختيار صنف
 change.label: تغيير الصنف
 no.label: ليس مصنف
 label.remove: ازالة صنف
+pov.help: لضبط وجهة نظر شخصيتك،اكتب عنوان اي من مقالات شخصيتك
