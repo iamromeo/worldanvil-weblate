@@ -23,5 +23,8 @@ created.by: انشأ من قِبل
 account.create: انشئ حسابك
 campaigns: حملات
 author.notes: ملحوظات المؤلف
-world.anvil.description: World Anvil هي منصة أدوات صانعي العوالم والمجتمع ، للكتاب
-  و RPG ولرواة القصص ولمحبي صناعه العوالم
+world.anvil.description: World Anvil هي منصة أدوات صانعي العالم والمجتمع للكتاب ورواة
+  العاب تقمص الشخصيات (RPG) ولمحبي صناعة العالم
+support.patreon.user: ادعم %username% على Patreon
+organization.tree: شجرة التنظيم
+support.kofi.user: 'اشتري ل %username% القهوة! '
