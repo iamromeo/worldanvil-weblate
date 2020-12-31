@@ -85,9 +85,15 @@ ui.documentSettings: إعدادات المستند
 ui.intro: عدّل الإعدادات أدناه لتعيين الطريقة التي تريد أن يظهر بها المحرر الخاص بك.
 scene.related.articles: مقالات أخرى ذات صلة
 ui.paragraphPadding: تذييل أسفل الفقرة
-patreon: اسم مستخدم Patreon.com
+patreon: اسم مستخدم  Patreon.com
 monetization.custom_advert: رسالة تسويقية مخصصة
 monetization.access_denied: الوصول المخصص للمحتوى المرفوض
 monetization.header: خيارات تحقيق الدخل
 ui.cssRules: قواعد CSS الإضافية
 ui.lineHeight: ارتفاع الخط
+statistics.header: الإحصائيات
+html_export.description: يمكنك نسخ هذا التصدير ولصقه في أي من معالجات النصوص الرئيسية
+  مثل Word أو Open Office أو GoogleDocs أو Pages
+html_export: تصدير بتنسيق HTML
+exporting.header: تصدير
+kofi: اسم مستخدم Ko-Fi.com

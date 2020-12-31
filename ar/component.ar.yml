@@ -67,7 +67,16 @@ edit.campaign: 'تعديل الحملة '
 edit.author.profile: تعديل الملف الشخصي
 create.new.world: انشاء عالم جديد
 create.new.secret: انشاء سر جديد
-delete.author.profile: مسح الصفحة الشخصية
+delete.author.profile: حذف الصفحة الشخصية
 edit.group: تعديل المجموعة
 edit.marker: 'تعديل العلامة '
 edit.orgchart: 'تعديل شجرة المحتوى '
+view.world: مشاهدة العالم
+access.code.edit: تعديل رمز المشتركين
+author.profile: 'الملف الشخصي '
+deete.code: 'حذف الرمز '
+delete.group: 'حذف المجموعة '
+delete.world: حذف العالم
+delete.secret: 'حذف السر '
+delete.orgchart: حذف شجرة المحتوى
+delete.category: حذف الفئة
