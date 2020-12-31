@@ -1,1 +1,147 @@
-{}
+title: Bohaterowie
+campaign:
+  new_campaign_form:
+    details_box_title: 'Dodatkowe informacje '
+    dropzone_message: Kliknij lub przeciągnij i upuść pojedynczy plik tutaj! <br><p><small>Proponowany
+      rozmiar minimalny wynosi 1600x400px. Zawsze możesz zrobić to później!</small></p><p><small>Twój
+      obecny limit maksymalnego rozmiaru pliku to %max_size%, a dozwolone typy plików
+      to JPG, JPEG, PNG, GIF</small></p>
+    alert_no_world:
+      description: Aby utworzyć kampanię, trzeba będzie stworzyć Świat, w którym będzie
+        się ona odbywać!
+      title: Wstrzymaj się, partnerze!
+    save_btn: Zapisz zmiany
+    description_placeholder: Dłuższa wersja twojego opisu, aby zainspirować twoich
+      graczy i zwabić publiczność!
+    excerpt_placeholder: Jednoliniowy opis twojej kampanii.
+    cover_image: Obraz Okładki
+    privacy: Stan Prywatności
+    rpg_system_placeholder: Wybierz System RPG
+    rpg_system: System RPG
+    title_placeholder: Tytuł, np. 'Dziedzictwo Mrocznego Banana'
+    title: Nazwa Kampanii
+  dashboard:
+    parties:
+      parties_count: 'W tej kampanii jest %parties_count% grup. '
+      manage_btn: Zarządzaj Grupami
+      box_title: Grupy
+    characters:
+      manage_btn: Zarządzaj Postaciami
+      characters_count: W tej kampanii jest %characters_count% postaci.
+      box_title: Protagoniści
+    session:
+      other_session:
+        schedule_new_session: Zaplanuj nową Sesję
+        journal_by: autorstwa
+        journal_box_title: Wpisy Dziennika
+        concluded_on: Zakończono %conclude_date%
+        start_btn: Start
+        upcoming_session: Nadchodzące Sesje
+        add_report_btn: Napisz Raport
+        view_report_btn: Zobacz Raport
+        edit_report_btn: Edytuj Raport
+        edit_session_btn: Edytuj Sesję
+        scheduled_for: Zaplanowane na %date%
+      current_session:
+        play_btn: START
+        end_session_btn: KONIEC
+        box_title: Trwająca Sesja
+    view_world_btn: Zobacz Świat
+    edit_world_btn: Edytuj Świat
+    view_campaign_page_btn: Zobacz stronę Kampanii
+    streambox:
+      title: Stream Kampanii
+  settings:
+    title: Ustawienia Kampanii
+    breadcrumbs: Ustawienia
+    page_title: Ustawienia %campaign_name%
+  reports:
+    protagonists: Protagoniści
+    edit_btn: Edytuj Raport
+    page_title: Raport %article_title%
+    breadcrumbs: Raporty
+  join:
+    create_account_box_title: Stwórz nowe konto, oraz postać!
+    account_box_title: Już posiadam konto
+    after_account: Po zalogowaniu się lub rejestracji. Upewnij się, że masz utworzoną
+      postać, a następnie <br><strong> odwiedź tę stronę ponownie, aby dołączyć do
+      kampanii! </strong>
+    joining_no_account: Aby dołączyć do kampanii %campaign_master_name% musisz posiadać
+      konto World Anvil, oraz stworzoną postać.
+    no_character: Nie posiadasz żadnych postaci na swoim koncie.
+    create_character:
+      need_comeback: (będziesz musiał wrócić tutaj, aby dołączyć do kampanii)
+      or: '... lub, '
+    max_character_reached: Osiągnąłeś maksymalną liczbę Postaci, <br> które możesz
+      mieć z obecnym członkostwem!
+    remove_character_from_other_campaign: Albo usuń jednego z twoich bohaterów z ich
+      obecnej kampanii. <br>(będziesz musiał wrócić tutaj, aby dołączyć do kampanii)
+    character_select_btn: Wybierz %character_name%
+    select_a_character: Których z twoich bohaterów chciałbyś dołączyć do kampanii?
+    all_character_already_in_campaign: Wszyscy twoi bohaterowie są obecnie w kampanii.
+    invited_by: Zostałeś zaproszony przez %invite_sender% do przyłączenia się do kampanii
+      %campaign_name%!
+    breadcrumbs: Zaproszenie do kampanii
+  panel:
+    delete_campaign_btn: USUŃ KAMPANIĘ
+    deleted_world_campaign: To jest kampania usuniętego świata.
+  list:
+    alert_info: Osiągnąłeś maksymalną liczbę Kampanii, <br> które możesz mieć z obecnym
+      członkostwem!
+    breadcrumb: Twoje Kampanie
+    page_title: Kampanie RPG
+    page_header: Twoje Kampanie
+  character_list:
+    character_table:
+      delete_btn: Usuń
+      edit_btn: Edytuj
+      location: Lokalizacja
+      visibility: Widoczność
+      type: Typ
+      name: Imię
+    create_npc_btn: Stwórz nowego członka Obsady pomocniczej (NPC)
+    expel_character_btn: Wyrzuć Postać
+    character_sheet:
+      edit_sheet_btn: Edytuj Arkusz
+    invite:
+      alert_info: Aby włączyć graczy do swojej kampanii, będziesz musiał ich zaprosić.
+        <br> Podaj swoim graczom adres URL poniżej. Jest to unikalne zaproszenie do
+        Twojej kampanii. <br> Gracze będą musieli wybrać postać, którą chcą wziąć
+        udział w Twojej kampanii, a następnie przejść do tego adresu URL. <br> W momencie
+        gdy to zrobią, ich postać pojawi się pod Twoimi Protagonistami
+    title: Lista Postaci
+    header: Lista Postaci %campaign_name%
+  menu:
+    guild_features: FUNKCJE GILDII
+    settings: Ustawienia
+    primer: Elementarz
+    sessions: Sesje
+    plots: Wątki
+    parties: Grupy
+    supporting_cast: Obsada pomocnicza (NPC)
+    protagonists: Protagoniści (PCs)
+    home: Strona Główna
+  cannot_create_campaign: 'Nie można stworzyć nowej Kampanii:'
+  invite:
+    regenerate_code_btn: Wygeneruj ponownie kod dostępu
+    no_access_code: Ta kampania nie ma kodu dostępu. Będziesz musiał wygenerować jeden,
+      aby zaprosić więcej graczy.
+    description: Wyślij link z zaproszeniem do swoich graczy, aby zaprosić ich do
+      swojej kampanii. <br> <strong>Twoi gracze muszą posiadać Postać Bohatera. <br>Postać
+      ta powinna być aktywna na ich profilu!</strong>
+    box_title: Zaproś swoich graczy do udziału w kampanii!
+  codex_link: Sprawdź Artykuł w Codexie o Tworzeniu i zarządzaniu swoją kampanią
+  breadcrumbs: Kampanie
+character:
+  view.in.world: Zobacz w Świecie
+create:
+  world: Stwórz nowy świat
+  campaign: Stwórz nową Kampanię
+  journal: Swórz nowy Wips Dziennika
+  character: Stwórz nową Postać
+go_to_world_list_btn: Przejdź do listy światów
+no_active_world: Wygląda na to, że nie posiadasz aktywnego świata.
+join_worldbuilder_guild_link: Dołącz do Gildii Światotwórców
+worldbuilder_guild_title: Pomóż nam w utrzymaniu i rozwijaniu World Anvil!
+WA_default_page_description: World Anvil jest społecznością worldbuildingową, jak
+  i zbiorem narzędzi dla autorów, narratorów gier fabularnych i miłośników worldbuildingu
