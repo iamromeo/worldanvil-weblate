@@ -188,6 +188,7 @@ campaign:
       state: Toegang Status
       member_only: Alleen beschikbaar voor Gilde Leden
       subscriber: Abonnee groepen
+      title: Toegangsinstellingen
   subscription:
     membership_level_display: Je bent een% membership_level% van de Gilde. Als zodanig
       krijgen jij en je helden toegang tot een aantal zeer speciale functies! Genieten!
