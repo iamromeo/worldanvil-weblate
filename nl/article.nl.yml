@@ -3,7 +3,7 @@ character: Karakter
 condition: Aandoening
 document: Document
 ethnicity: Etniciteit
-formation.military: Formatie (Militair)
+formation.military: Militaire Eenheid
 item: Item
 language: Taal
 material: Materiaal
@@ -12,7 +12,7 @@ military.conflict: Conflict
 location.building: Locatie, Gebouw
 location.geographic: Locatie, Geografisch
 location.settlement: Locatie, Nederzetting
-law: Natuur/magische wet
+law: Natuurwet
 organization: Organisatie
 prose: Proza
 profession: Beroep
@@ -31,15 +31,15 @@ technology: Technologie
 tradition: Traditie
 rpg.report: RPG-rapport
 description.building: '... of Bezienswaardigheden. Wonderen, natuurlijk en gebouwd,
-  ruïnes, kerkers, tempels, grote bomen, smederijen, herbergen, kastelen. Alles waar
-  je naartoe kunt wijzen, en wat men belangrijk acht om een naam te geven.'
-description.character: Van koningen en koninginnen, tot helden, boeren en goden.
+  ruïnes, kerkers, tempels, monumentale bomen, smederijen, herbergen, kastelen. Alles
+  waar je naartoe kunt wijzen, en wat men belangrijk acht om een naam te geven.'
+description.character: Van koningen en koninginnen tot helden, boeren en goden.
 description.condition: Natuurlijke en magische ziektes, mutaties en transformaties.
 description.document: Verdragen, boeken, kunstwerken, handleidingen, gidsen, verklaringen
   en zo veel meer!
 description.species: Dieren, planten, bewust of intelligent. Mensen, elven en aliens
   inbegrepen
-description.ethnicity: Niet het ras, maar de mensen die te maken hebben met gemeenschappelijke
+description.ethnicity: Niet de soort, maar de mensen die te maken hebben met gemeenschappelijke
   culturele voorouders. Niet de mensen van een koninkrijk, maar de mensen met dezelfde
   overtuigingen en tradities.
 description.generic: Schrijf wat je wilt, zonder opdrachten. Dit kan worden gebruikt
@@ -49,8 +49,9 @@ description.geography: Werelden en universa. Sterrenstelsels, zonnestelsels, pla
   bergketens, valleien, grote zeeën, moerassen en meren. Alle geografische locaties.
 description.item: Dagelijks gebruik, munten, gereedschappen, wapens, bepantsering
   van de meest voorkomende tot de unieke
-description.law: Misschien werkt de zwaartekracht in jouw wereld anders, of er is
-  magie in de lucht, of het licht reist langzamer.
+description.law: Misschien werkt de zwaartekracht in jouw wereld anders, of zit er
+  magie in de lucht, of het licht reist langzamer. Alles wat afwijkt van de op aarde
+  geldende natuurwetten.
 description.formation: Militaire formaties. Hoe zien jouw legioenen, fuseliers, zwaardvechters,
   mariniers of ridders eruit? Hoe ziet hun uitrusting eruit? Wat zijn hun tactieken?
 description.language: De manieren waarop intelligente wezens communiceren in jouw
@@ -58,7 +59,8 @@ description.language: De manieren waarop intelligente wezens communiceren in jou
 description.material: Grondstoffen, handelsbronnen, chemische elementen. Alles van
   Mythril en Adamantium tot Uranium en Unobtainium 2000.
 description.conflict: Oorlogen, Gevechten, Belegeringen en Schermutselingen. Over
-  het algemeen, wat gebeurt er als twee kanten elkaar ontmoeten met puntige stokjes.
+  het algemeen, wat er gebeurt als twee kanten tegenover elkaar komen te staan met
+  opgeheven vuisten.
 description.legend: De legendes en mythes van jouw wereld. Denk aan Koning Arthur,
   de Witte Wieven, de Bokkenrijders of Bigfoot.
 description.organization: Koninkrijken, Baronieën, Kerken van Goden (georganiseerde
