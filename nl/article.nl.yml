@@ -65,14 +65,14 @@ description.legend: De legendes en mythes van jouw wereld. Denk aan Koning Arthu
   de Witte Wieven, de Bokkenrijders of Bigfoot.
 description.organization: Koninkrijken, Baronieën, Kerken van Goden (georganiseerde
   religie), Geheime Genootschappen, Legers van meedogenloze huursoldaten, Ridder en
-  Tovenaars gildes, Banken, Handelsbedrijven en meer. Territoriaal en niet-territorial.
+  Tovenaars Ordes. Territoriaal en niet-territoriaal.
 description.profession: Van de loodgieter tot de mysterieuze hacker en de huursoldaat.
-  Beroepen voegen iets extras aan je wereld en de mensen erin.
-description.prose: Haiku's, gedichten, korte verhalen en hoofdstukken van uw boeken.
-  Worden netjes weergeven met aandacht voor leesbaarheid.
+  Beroepen voegen iets extras toe aan je wereld en de lieden die er wonen.
+description.prose: Haiku's, gedichten, korte verhalen en hoofdstukken van uw boeken,
+  netjes weergeven met de nadruk op leesbaarheid.
 description.rank: Koning van Endor, eerste Burger van de Federatie, Admiraal Michiel
   de Ruyter van de Nederlandse Marine, Schoolhoofd Albus Perkamentus van Zweinstein,
-  enzvoorts.
+  enz.
 description.settlement: Alles van de kleinste dorpen tot de meest bedrijvigste ruimtestations
 description.spell: Magische bezweringen, rituelen, psionics, superkrachten!
 description.technology: Wetenschap en technologieën. Van de uitvinding van landbouw
@@ -100,8 +100,8 @@ description.secret: De verborgen waarheden, de fluisteringen in de achterste ste
 country: Land
 religion: Geloof
 description.country: 'Landen zijn gespecialiseerde territoriale organisaties die zich
-  bezig houden met het beheren van de inwoners die in hun territorium wonen. (Dit
+  bezig houden met het besturen van de inwoners die in hun territorium wonen. (Dit
   is een secondaire link naar de Organisatie Template).'
 description.religion: 'Georganiseerde Religies zijn gespecialiseerde organisaties
-  die zich bezig houden met spirituele zaken en het beheer van hun volgers (Dit is
+  die zich bezig houden met spirituele zaken en het bestuur van hun volgers (Dit is
   een secondaire link naar de Organisatie Template).'
