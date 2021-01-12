@@ -1,4 +1,6 @@
 manuscripts: ''
-manuscript.view: Zobacz
+manuscript.view: Otwórz Manuskrypt
 manuscript.edit: Edytuj Manuskrypt
 manuscripts.title: Manuskrypty
+manuscript.basic.settings: Ustawiania Podstawowe
+manuscript.delete: Usuń Manuskrypt
