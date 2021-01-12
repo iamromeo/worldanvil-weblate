@@ -362,6 +362,8 @@ world.view: Pogląd Świata
 dashboard: Panel Zarządzania
 browse: Przeglądaj
 statblocks: Statystyki
-events: Wydarzenia historyczne
+events: Wydarzenia Historyczne
 world.explore: Odkrywaj
 world.summary: Podsumowanie
+list.characters: Lista postaci
+calendars: Kalendarze
