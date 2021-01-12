@@ -1,5 +1,5 @@
 manuscripts: ''
-manuscript.view: Otwórz Manuskrypt
+manuscript.view: Zobacz Manuskrypt
 manuscript.edit: Edytuj Manuskrypt
 manuscripts.title: Manuskrypty
 manuscript.basic.settings: Ustawiania Podstawowe Manuskryptu
@@ -29,7 +29,7 @@ start.reading: Zacznij czytać
 continue.reading: Kontynuuj czytanie
 cover: Okładka Manuskryptu
 search_replace: Szukaj i Zamień
-backcover: Opis/Streszczenie/Blurb
+backcover: Streszczenie Manuskryptu
 genres.description: Jeśli chcesz dodać ostrzeżenie o elementach nieodpowiednich dla
   dzieci/oglądania w pracy (narkotyki, krew, gore, przemoc, itp.) dodaj odpowiedni
   tag. Będą one oznaczone i dobrze widoczne na główniej stronie manuskryptu.
@@ -45,7 +45,7 @@ write: Pisz
 status: Status Manuskryptu
 subscriber_groups: Grupy Subskrybentów
 access: Prywatność
-publication: Status publikcaji
+publication: Status publikacji
 saved: Zapisano
 view.description: Obejrzyj Manuskrypt w widoku prezentacji
 press.enter: Naciśnij enter aby dodać lub wybrać z listy.
@@ -80,7 +80,7 @@ scene.related.characters: Powiążani bohaterowie
 part.time: Czas dnia
 scene.type: Typ sceny
 scene.duration: Czas trwania sceny
-scene.time: Czas
+scene.time: Czas dnia
 monetization.access_denied: Niestandardowy Dostęp do Niedostępnych Treści
 monetization.header: Opcje monetyzacji
 ui.fontColor: Kolor czcionki
@@ -89,4 +89,22 @@ ui.fontSettings: Ustawienia tekstu
 ui.backgroundColor: Kolor tła
 ui.documentSettings: Ustawienia dokumentu
 patreon: Nazwa użytkownika Patreon.com
-kofi: Ko-Fi.com Nazwa Użytkownika
+kofi: Nazwa użytkownika Ko-Fi.com
+html_export.description: Możesz skopiawać tekst do Word, Open Office, Google Docs
+  albo Pages
+html_export: Eksportuj do HTML
+exporting.header: Eksportuj
+statistics.header: Statystyki
+monetization.custom_advert: Własny komunikat marketingowy
+ui.cssRules: Dodatkowe reguły CSS
+ui.lineHeight: Wysokość linii
+ui.paragraphPadding: Dolny margines akapitu
+ui.paragraphIndent: Wcięcie akapitu
+ui.paragraphSettings: Ustawienia akapitu
+ui.fontTypeface: Rodzina czcionek
+ui.intro: Zmień poniższe ustawienia, aby ustawić sposób, w jaki chcesz, aby twój edytor
+  wyglądał i się zachowywał.
+ui.header: Domyślne ustawienia interfejsu
+scene.related.articles: Powiązane artykuły
+part.importance: Znaczenie części
+part.type: Typ części
