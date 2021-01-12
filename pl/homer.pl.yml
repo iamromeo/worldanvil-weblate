@@ -69,5 +69,15 @@ scene.rich_media_description: Wklej tutaj adres URL paska adresu Soundcloud, Spo
   to świetny sposób, aby uzyskać audiobook/narrację swojej pracy lub dodać trochę
   nastroju.
 scene.rich_media: URL multimediów
-scene.pov: Punkt Widzenia
+scene.pov: Postać Punktu Widzenia
 scene.notes: Notatki
+part.duration: Czas trwania części
+scene.importance: Znaczenie części
+ui.notice: Gdy skończysz odśwież stronę aby zapisać ustawienia
+scene.related.items: Powiążane przedmioty
+scene.related.locations: Powiążane lokalizacje
+scene.related.characters: Powiążani bohaterowie
+part.time: Czas dnia
+scene.type: Typ sceny
+scene.duration: Czas trwania sceny
+scene.time: Czas
