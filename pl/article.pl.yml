@@ -96,4 +96,7 @@ description.secret: Ukryte fakty, szepty w zacienionych uliczkach, straszliwe pr
 country: Państwo
 religion: Religia
 description.country: Państwa to organizacje terytorialne zajmujące się zarządzaniem
-  obywatelami żyjącymi na ich terytoriach (To jest dodatkowy link do wzory państwa)
+  obywatelami żyjącymi na ich terytoriach (To jest dodatkowy link do Wzoru Organizacji).
+description.religion: Zorganizowsne religie są specjalnymi organizacjami zajmującymi
+  się sprawami religiijnymi i zarządzaniem wiernymi (To jest dodatkowy link do wzoru
+  organizacji)
