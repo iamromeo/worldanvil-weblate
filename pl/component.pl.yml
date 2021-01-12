@@ -72,7 +72,7 @@ list.maps: Lista Map
 list.timelines: Lista Osi Czasu
 list.notes: Lista Notatek
 list.secrets: Lista Sekretów
-list.worlds: Lista Światów
+list.worlds: ' Listuj Światy'
 create.marker: Stwórz Znacznik
 create.marker.group: Stwórz Grupę znaczników
 create.new.block: Stwórz nowy Blok RPG
@@ -106,7 +106,7 @@ related.map: Powiązana Mapa
 related.organization: Powiązana Organizacja
 position: Pozycja/Waga
 position.description: Waga elementów to liczba definiująca kolejność w jakiej pojawiają
-  się one na liście. Im jest ona wyższa, tym wyżej pojawi się element.
+  się kiedy są załadowane. Im jest ona wyższa, tym wyżej pojawi się element.
 status: Status
 status.description: Ustaw ten element jako publiczny, aby wszyscy mogli go zobaczyć.
   Elementy prywatne widoczne są jedynie dla ciebie, twoich współautorów oraz subskrybentów
@@ -114,7 +114,7 @@ status.description: Ustaw ten element jako publiczny, aby wszyscy mogli go zobac
 access: Dostęp
 access.description: Ustaw swój wpis jako publiczny, aby wszyscy mogli go zobaczyć.
   Prywatne wpisy widoczne są jedynie dla ciebie oraz współautorów twojego świata
-subscriber.groups: Grupy subskrybentów
+subscriber.groups: Grupy Subskrybentów
 group: Grupa
 map.image: Główny Obraz Mapy
 map.edit.details: Edytuj Szczegóły Mapy
@@ -303,10 +303,10 @@ groups: Grupy
 view.world: Pogląd Świata
 list.subscribers: Subskrybenci
 access.rights.subscribers: Subskrybenci
-access.rights.groups: Grupy
+access.rights.groups: Grupy Subskrybentów
 access.rights.authors: Autorzy
 access.authors.coowner: Współwłaściciel
-create.block.template: Stwórz Szablon Bloku
+create.block.template: Stwórz Schemat Bloku
 create.code: Stwórz Kod
 create.new.block.template: Stwórz nowy Schemat Bloku
 create.new.era: Stwórz nową Erę
@@ -319,7 +319,7 @@ list.block.templates: Lista Schematów Bloków
 access.rights.notice: Funkcje Grup i Subskrybentów dostępne są tylko dla członków
   Gildii!
 access.rights.management: Zarządzanie prawami dostępu
-access.rights.codes: Kody dostępu Subskrybentów
+access.rights.codes: Kody Dostępu
 access.authors.management: Zarządzanie Autorami
 access.authors.coowner.description: Dostęp do wszystkiego, włącznie z konfiguracją
   świata, CSS i zarządzania dostępem.
@@ -353,7 +353,7 @@ access.group.position.description: (opcjonalnie) Jeśli chciałbyś zorganizowa�
 access.code.management: Zarządzanie Kodami Subskrybentów
 access.code.code: Kod
 access.code.group: Grupa Subskrybentów
-access.code.maxUses: Maksymalna Liczba Użytkowników
+access.code.maxUses: Maksymalna Liczba Użyć
 access.code.expiryDate: Data wygaśnięcia
 access.code.edit: Edytuj Kod Subskrybentów
 characters: Postacie
@@ -361,3 +361,4 @@ Community: Społeczność
 world.view: Pogląd Świata
 dashboard: Panel Zarządzania
 browse: Przeglądaj
+statblocks: Statystyki
