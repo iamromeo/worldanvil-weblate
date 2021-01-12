@@ -38,7 +38,7 @@ synopsis: Streszczenie
 title: Tytuł
 genres.languages: 'Wybierz język poniżej, aby określić język swojego manuskryptu.
   Pojawi się on wraz z kodem języka. '
-view: Obejrzyj
+view: Zobacz
 read: Czytaj
 review: Edytuj/Sprawdź
 write: Pisz
@@ -46,3 +46,5 @@ status: Status Manuskryptu
 subscriber_groups: Grupy Subskrybentów
 access: Prywatność
 publication: Status publikcaji
+saved: Zapisane
+view.description: Obejrzyj Manuskrypt w widoku prezentacji
