@@ -63,4 +63,11 @@ label: Etykieta
 label.management: Zarządzanie etykietą
 pov.help: Aby ustawić Postać punktu widzenia zacznij pisać tytuł artykułu postaci
 article.remove: Usuń artykuł
-pov.remove: Usuń punkt widzenia
+pov.remove: Usuń Postać punktu widzenia
+scene.rich_media_description: Wklej tutaj adres URL paska adresu Soundcloud, Spotify,
+  YouTube, MP3 URl lub Anchor.fm EMBED, aby wyświetlić go na górze tej części. Jest
+  to świetny sposób, aby uzyskać audiobook/narrację swojej pracy lub dodać trochę
+  nastroju.
+scene.rich_media: URL multimediów
+scene.pov: Punkt Widzenia
+scene.notes: Notatki
