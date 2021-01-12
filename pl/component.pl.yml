@@ -293,7 +293,7 @@ item: Przedmiot
 spell: Zaklęcie
 class: Klasa
 race: Rasa
-feat: Atut
+feat: Cecha
 npc: BN
 create.group: Stwórz Grupę
 edit.group: Edytuj Grupę
@@ -323,7 +323,7 @@ access.rights.codes: Kody Dostępu
 access.authors.management: Zarządzanie Autorami
 access.authors.coowner.description: Dostęp do wszystkiego, włącznie z konfiguracją
   świata, CSS i zarządzania dostępem.
-access.authors.revoke: Odmów Dostępu
+access.authors.revoke: Odbierz Dostęp
 access.authors.editor: Edytor
 access.authors.writer: Pisarz
 access.authors.writer.description: Dostęp do tworzenia artykułów ustawionych jako
@@ -345,11 +345,11 @@ access.group.management: Zarządzanie Grupami Subskrybentów
 access.group.assets: Zasoby Grupy
 access.group.description.description: (opcjonalnie) Aby przypomnieć Ci kto i dlaczego
   jest w tej grupie.
-access.authors.editor.description: Dostęp do tworzenia, przeglądania i edytowania
-  wszelkich treści.
+access.authors.editor.description: Dostęp do tworzenia, edytowania i oglądanie wszystkich
+  treści.
 access.group.edit: Edytuj Grupę Subskrybentów
-access.group.position.description: (opcjonalnie) Jeśli chciałbyś zorganizować swoje
-  grupy.
+access.group.position.description: (opcjonalne) Tylko abyś mógł organizować swoje
+  grupy, jeśli potrzebujesz.
 access.code.management: Zarządzanie Kodami Subskrybentów
 access.code.code: Kod
 access.code.group: Grupa Subskrybentów
@@ -370,4 +370,4 @@ calendars: Kalendarze
 map.presentation: Otwórz Tryb Prezentacji
 map.marker.choice.type: Jaki to rodzaj Znacznika?
 map.settings: Ustawienia mapy
-map.marker.choice.functionality: Co to robi?
+map.marker.choice.functionality: Jaka jest jego funkcja?
