@@ -300,7 +300,7 @@ edit.group: Edytuj Grupę
 delete.group: Usuń Grupę
 subscriber: Subskrybent
 groups: Grupy
-view.world: Zobacz Świat
+view.world: Pogląd Świata
 list.subscribers: Subskrybenci
 access.rights.subscribers: Subskrybenci
 access.rights.groups: Grupy
@@ -357,3 +357,7 @@ access.code.maxUses: Maksymalna Liczba Użytkowników
 access.code.expiryDate: Data wygaśnięcia
 access.code.edit: Edytuj Kod Subskrybentów
 characters: Postacie
+Community: Społeczność
+world.view: Pogląd Świata
+dashboard: Panel Zarządzania
+browse: Przeglądaj
