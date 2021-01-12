@@ -28,3 +28,5 @@ save: Zapisz
 dismiss: Odrzuć
 manage: Zarządzaj
 update: Aktualizuj
+copy-into-world: Skopiuj do %world_name
+attach.to.world: Dołącz do świata
