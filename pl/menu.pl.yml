@@ -2,7 +2,7 @@ toggle: Przełącz
 dashboard: Panel Zarządzania
 campaigns: Kampanie
 notebook: Notatnik
-srd: RPG SRD
+srd: Materiały RPG
 about: O Nas
 community: Społeczność
 challenges: Wyzwania
@@ -16,7 +16,7 @@ account.details: Szczegóły Konta
 announcements: Ogłoszenia
 world.select: Wybierz Świat
 world.summary: Podsumowanie Świata
-world.goto: Przejdź do...
+world.goto: Przejdź do Świata
 world.configure: Konfiguruj Świat
 configuration: Ustawienia
 welcome: Witaj
@@ -62,4 +62,8 @@ badges: Odznaki
 accessibility: Dostępność
 characters: Postacie
 join.codex: Kodeks Dokumentacji World Anvil
-world.view: Pogląd świata
+world.view: Pogląd Świata
+browse: Przeglądaj
+account: Szczegóły Konta
+character.profile: Profil bohatera
+sponsoring: Sponsorzy
