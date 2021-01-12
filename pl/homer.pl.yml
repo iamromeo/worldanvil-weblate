@@ -31,8 +31,18 @@ cover: Okładka Manuskryptu
 search_replace: Szukaj i Zamień
 backcover: Opis/Streszczenie/Blurb
 genres.description: Jeśli chcesz dodać ostrzeżenie o elementach nieodpowiednich dla
-  dzieci/oglądania w pracy użyj dodaj odpowiedni tag. Będę oznaczone i dobrze widoczne
-  na główniej stronie manuskryptu
+  dzieci/oglądania w pracy (narkotyki, krew, gore, przemoc, itp.) dodaj odpowiedni
+  tag. Będą one oznaczone i dobrze widoczne na główniej stronie manuskryptu.
 genres: Gatunki
 synopsis: Streszczenie
 title: Tytuł
+genres.languages: 'Wybierz język poniżej, aby określić język swojego manuskryptu.
+  Pojawi się on wraz z kodem języka. '
+view: Obejrzyj
+read: Czytaj
+review: Edytuj/Sprawdź
+write: Pisz
+status: Status Manuskryptu
+subscriber_groups: Grupy Subskrybentów
+access: Prywatność
+publication: Status publikcaji
