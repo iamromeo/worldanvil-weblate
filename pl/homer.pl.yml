@@ -46,5 +46,9 @@ status: Status Manuskryptu
 subscriber_groups: Grupy Subskrybentów
 access: Prywatność
 publication: Status publikcaji
-saved: Zapisane
+saved: Zapisano
 view.description: Obejrzyj Manuskrypt w widoku prezentacji
+press.enter: Naciśnij enter aby dodać lub wybrać z listy
+tag.remove: Usuń tag
+tag.type: Wpisz tag
+tags: Tagi
