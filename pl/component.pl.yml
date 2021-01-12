@@ -367,4 +367,7 @@ world.explore: Odkrywaj
 world.summary: Podsumowanie
 list.characters: Lista Postaci
 calendars: Kalendarze
-map.presentation: Otwórz tryb prezentacji
+map.presentation: Otwórz Tryb Prezentacji
+map.marker.choice.type: Jaki to rodzaj Znacznika?
+map.settings: Ustawienia mapy
+map.marker.choice.functionality: Co to robi?
