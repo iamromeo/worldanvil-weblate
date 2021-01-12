@@ -73,7 +73,7 @@ scene.pov: Postać Punktu Widzenia
 scene.notes: Notatki
 part.duration: Czas trwania części
 scene.importance: Znaczenie części
-ui.notice: Gdy skończysz odśwież stronę aby zapisać ustawienia
+ui.notice: Kiedy skończysz, odśwież stronę aby ustawienia zostały zastosowane.
 scene.related.items: Powiążane przedmioty
 scene.related.locations: Powiążane lokalizacje
 scene.related.characters: Powiążani bohaterowie
@@ -81,3 +81,10 @@ part.time: Czas dnia
 scene.type: Typ sceny
 scene.duration: Czas trwania sceny
 scene.time: Czas
+monetization.access_denied: Strona Zawartość Niedostępna
+monetization.header: Opcje monetyzacji
+ui.fontColor: Kolor czcionki
+ui.fontSize: Rozmiar czcionki
+ui.fontSettings: Ustawienia tekstu
+ui.backgroundColor: Kolor tła
+ui.documentSettings: Ustawienia dokumentu
