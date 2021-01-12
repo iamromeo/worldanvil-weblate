@@ -71,4 +71,8 @@ character.profiles: Profile bohaterów
 character.view.profile: Obejrzyj Profil
 character.edit.profile: Edytuj Profil
 character.view.sheet: Obejrzyj Arkusz
-character.edit.extended: Edytuj cały profil
+character.edit.extended: Edytuj Pełen Profil
+public.profile: Profil publiczny
+settings: Ustawienia
+worlds: Światy
+character.privacy: Prywatność
