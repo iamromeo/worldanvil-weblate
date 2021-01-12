@@ -72,7 +72,10 @@ character.view.profile: Obejrzyj Profil
 character.edit.profile: Edytuj Profil
 character.view.sheet: Obejrzyj Arkusz
 character.edit.extended: Edytuj Pełen Profil
-public.profile: Profil publiczny
+public.profile: Publiczny Profil
 settings: Ustawienia
 worlds: Światy
 character.privacy: Prywatność
+campaign.npcs: Postacie niegrywalne
+campaign: Kampania
+aacount: Konto
