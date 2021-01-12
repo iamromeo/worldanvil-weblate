@@ -61,5 +61,6 @@ no.label: Brak etykiety
 label.remove: Usuń etykietę
 label: Etykieta
 label.management: Zarządzanie etykietą
-pov.help: Aby ustawić punkt widzenia zacznij pisać tytuł artykułu
+pov.help: Aby ustawić Postać punktu widzenia zacznij pisać tytuł artykułu postaci
 article.remove: Usuń artykuł
+pov.remove: Usuń punkt widzenia
