@@ -38,8 +38,8 @@ description.condition: Naturalne i magiczne choroby, mutacje i transformacje.
 description.geography: Światy i wszechświaty. galaktyki, układy planetarne, planety,
   pasma górskie, doliny, wielkie rzeki, bagna i jeziora.
 description.document: Traktaty, książki, podręczniki, poradniki i wiele więcej!
-description.generic: 'W Artykułach Ogólnych możesz zawrzeć dodatkową treść: zbiór
-  domowych zasad RPG, wprowadzenia do rozdziałów, historii, prozy itd.'
+description.generic: 'Napisz dodatkową treść. Możesz tego użyć do napisania własnych
+  zasad RPG, wprowadzeń do rozdziałów, opowięści, prozy, itp.'
 description.item: Przedmioty codziennego użytku, monety, narzędzia, broń i zbroje,
   od najbardziej powszechnych do tych wyjątkowych.
 description.ethnicity: Nie gatunki, lecz ludzie połączeni wspólnym pochodzeniem kulturowym.
@@ -95,3 +95,5 @@ description.secret: Ukryte fakty, szepty w zacienionych uliczkach, straszliwe pr
   czekające na ujawnienie.
 country: Państwo
 religion: Religia
+description.country: Państwa to organizacje terytorialne zajmujące się zarządzaniem
+  obywatelami żyjącymi na ich terytoriach (To jest dodatkowy link do wzory państwa)
