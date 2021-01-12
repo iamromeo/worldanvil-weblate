@@ -67,7 +67,7 @@ browse: Przeglądaj
 account: Szczegóły Konta
 character.profile: Profil Postaci
 sponsoring: Sponsorzy
-character.profiles: Profile bohaterów
+character.profiles: Profile Postaci RPG
 character.view.profile: Obejrzyj Profil
 character.edit.profile: Edytuj Profil
 character.view.sheet: Obejrzyj Arkusz
@@ -87,4 +87,5 @@ followed_worlds: Obserwowane Światy
 your_reading_list: Twoja Lista Czytelnicza
 stream: Aktualności Postaci RPG
 report_bug: Zgłoś Błąd
-suggest_feature: Zaproponuj nową funkcję
+suggest_feature: Zaproponuj nową Funkcję
+ask_question: Zadaj pytanie
