@@ -48,7 +48,18 @@ access: Prywatność
 publication: Status publikcaji
 saved: Zapisano
 view.description: Obejrzyj Manuskrypt w widoku prezentacji
-press.enter: Naciśnij enter aby dodać lub wybrać z listy
+press.enter: Naciśnij enter aby dodać lub wybrać z listy.
 tag.remove: Usuń tag
 tag.type: Wpisz tag
 tags: Tagi
+pov.character: Postać punktu widzenia
+edit.label.list: Edytuj listę etykiet
+choose.label: Wybierz etykietę
+edit.label: Edytuj etykietę
+change.label: Zmień etykietę
+no.label: Brak etykiety
+label.remove: Usuń etykietę
+label: Etykieta
+label.management: Zarządzanie etykietą
+pov.help: Aby ustawić punkt widzenia zacznij pisać tytuł artykułu
+article.remove: Usuń artykuł
