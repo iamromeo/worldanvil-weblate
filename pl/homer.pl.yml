@@ -16,4 +16,14 @@ manuscript.edit.upper: EDYTUJ
 manuscript.world.activate.desc: Nie posiadasz aktywnego świata, który jest potrzebny
   do utworzenia manuskryptu
 manuscript.world.activate: Musisz aktywować jeden ze swoich światów
-search.results.manuscript: Wyniki szukania w manuskrypcie
+search.results.manuscript: Wyniki wyszukiwania w manuskrypcie
+caption: Podpis obrazu
+image_part: Część obrazu
+search: Szukaj w Manuskrypcie i Świecie
+image: Obraz
+text: Tekst
+new.text: Utwórz nowy tekst
+folder: Folder
+new.folder: Utwórz nowy folder
+start.reading: Zacznij czytać
+continue.reading: Kontynuuj czytanie
