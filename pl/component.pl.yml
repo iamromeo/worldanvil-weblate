@@ -1,35 +1,35 @@
 create.author.profile: Stwórz Profil
-create.block: Stwórz Blok RPG
+create.block: Stwórz Blok
 create.category: Stwórz Kategorię
-create.historical.entry: Stwórz Wydarzenie historyczne
+create.historical.entry: Stwórz Wydarzenie Historyczne
 create.image: Stwórz Obraz
-create.player.character: Stwórz Bohatera Gracza
+create.player.character: Stwórz Postać Gracza
 create.campaign: Stwórz Kampanię
-create.timeline: Stwórz Oś czasu
+create.timeline: Stwórz Oś Czasu
 create.map: Stwórz Mapę
 create.note: Stwórz Notatkę
 create.secret: Stwórz Sekret
 create.world: Stwórz Świat
 edit.author.profile: Edytuj Profil
-edit.block: Edytuj Blok RPG
+edit.block: Edytuj Blok
 edit.campaign: Edytuj Kampanię
 edit.category: Edytuj Kategorię
-edit.historical.entry: Edytuj Wydarzenie historyczne
+edit.historical.entry: Edytuj Wydarzenie Historyczne
 edit.image: Edytuj Obraz
-edit.player.character: Edytuj Bohatera Gracza
-edit.timeline: Edytuj Oś czasu
+edit.player.character: Edytuj Postać Gracza
+edit.timeline: Edytuj Oś Czasu
 edit.map: Edytuj Mapę
 edit.note: Edytuj Notatkę
 edit.secret: Edytuj Sekret
 edit.world: Edytuj Świat
 delete.author.profile: Usuń Profil
-delete.block: Usuń Blok RPG
+delete.block: Usuń Blok
 delete.campaign: Usuń Kampanię
 delete.category: Usuń Kategorię
-delete.historical.entry: Usuń Wydarzenie historyczne
+delete.historical.entry: Usuń Wydarzenie Historyczne
 delete.image: Usuń Obraz
-delete.player.character: Usuń Bohatera Gracza
-delete.timeline: Usuń Oś czasu
+delete.player.character: Usuń Postać Gracza
+delete.timeline: Usuń Oś Czasu
 delete.map: Usuń Mapę
 delete.note: Usuń Notatkę
 delete.secret: Usuń Sekret
@@ -38,10 +38,10 @@ author.profile: Profil
 block: Blok RPG
 campaign: Kampania
 category: Kategoria
-historical.entry: Wydarzenie historyczne
+historical.entry: Wydarzenie Historyczne
 image: Obraz
 player.character: Bohater Gracza
-timeline: Oś czasu
+timeline: Oś Czasu
 map: Mapa
 note: Notatka
 secret: Sekret
@@ -50,9 +50,9 @@ articles: Artykuły
 blocks: Bloki RPG
 campaigns: Kampanie
 categories: Kategorie
-historical.entries: Wydarzenia historyczne
+historical.entries: Wydarzenia Historyczne
 images: Obrazy
-player.characters: Bohaterowie Graczy
+player.characters: Postaci Graczy
 maps: Mapy
 timelines: Osie czasu
 notes: Notatki
@@ -65,38 +65,38 @@ list.articles: Lista Artykułów
 list.blocks: Lista Bloków RPG
 list.campaigns: Lista Kampanii
 list.categories: Lista Kategorii
-list.historical.entries: Lista Wydarzeń historycznych
+list.historical.entries: Lista Wydarzeń Historycznych
 list.images: Lista Obrazów
-list.player.characters: Lista Bohaterów Graczy
+list.player.characters: Lista Postaci Graczy
 list.maps: Lista Map
 list.timelines: Lista Osi Czasu
 list.notes: Lista Notatek
 list.secrets: Lista Sekretów
 list.worlds: ' Listuj Światy'
 create.marker: Stwórz Znacznik
-create.marker.group: Stwórz Grupę znaczników
-create.new.block: Stwórz nowy Blok RPG
+create.marker.group: Stwórz Grupę Znaczników
+create.new.block: Stwórz nowy Blok
 create.new.campaign: Stwórz nową Kampanię
 create.new.category: Stwórz nową Kategorię
-create.new.historical.entry: Stwórz nowe Wydarzenie historyczne
+create.new.historical.entry: Stwórz nowe Wydarzenie Historyczne
 create.new.image: Stwórz nowy Obraz
-create.new.player.character: Stwórz nowego Bohatera Gracza
-create.new.timeline: Stwórz nową Oś czasu
+create.new.player.character: Stwórz nowego Postać Gracza
+create.new.timeline: Stwórz nową Oś Czasu
 create.new.map: Stwórz nową Mapę
 create.new.marker: Stwórz nowy Znacznik
-create.new.marker.group: Stwórz nową Grupę znaczników
+create.new.marker.group: Stwórz nową Grupę Znaczników
 create.new.note: Stwórz nową Notatkę
 create.new.secret: Stwórz nowy Sekret
 create.new.world: Stwórz nowy Świat
 edit.marker: Edytuj Znacznik
-edit.marker.group: Edytuj Grupę znaczników
+edit.marker.group: Edytuj Grupę Znaczników
 delete.marker: Usuń Znacznik
-delete.marker.group: Usuń Grupę znaczników
+delete.marker.group: Usuń Grupę Znaczników
 marker: Znacznik
-marker.group: Grupa znaczników
+marker.group: Grupa Znaczników
 tag: Tag
 markers: Znaczniki
-marker.groups: Grupy znaczników
+marker.groups: Grupy Znaczników
 tags: Tagi
 list.markers: Lista Znaczników
 list.marker.groups: Lista Grup znaczników
@@ -173,7 +173,7 @@ label: Etykieta
 link: Bezpośredni link
 polygon: Wielokąt
 popup: Wyskakujące Okno
-pin: Pinezki
+pin: Pinezka
 list.pins: Lista Pinezek
 map.compass: Obraz Róży Wiatrów
 map.thumbnail: Miniatura
@@ -211,7 +211,7 @@ map.marker.colorFill: Kolor Wypełnienia
 map.marker.colorFill.description: Kolor wypełnienia koła lub wielokąta. Możesz korzystać
   z kolorów zdefiniowanych w CSS, np. blue, red, yellow, ALBO skorzystać z kodu szesnastkowego
   koloru włącznie ze znakiem hash na początku kodu.
-map.marker.opacityOutline: Nieprzezroczystość Konturu
+map.marker.opacityOutline: Przezroczystość Konturu
 map.marker.opacityOutline.description: Procentowa przezroczystość konturu. Od 0 do
   100% (np. 50)
 map.marker.opacityFill: Przezroczystość Wypełnienia
@@ -241,7 +241,7 @@ map.marker.label.description: Tekst, który pojawi się na mapie dla tej Etykiet
 map.marker.link.description: Jeśli ustawisz znacznik jako znacznik linku bezpośredniego,
   kliknięcie go przeniesie użytkownika bezpośrednio na wybraną stronę.
 related.article: Powiązany Artykuł
-related.history: Powiązane Wydarzenie historyczne
+related.history: Powiązane Wydarzenie Historyczne
 line: Linia
 map.marker.group.description: Grupy znaczników pozwalają zorganizować twoje znaczniki
   i warstwy mapy w kategorie, które możesz włączać, wyłączać i których widocznością
@@ -294,7 +294,7 @@ spell: Zaklęcie
 class: Klasa
 race: Rasa
 feat: Cecha
-npc: BN
+npc: Postać niezależna
 create.group: Stwórz Grupę
 edit.group: Edytuj Grupę
 delete.group: Usuń Grupę
@@ -318,19 +318,19 @@ block.templates: Schematy Bloków
 list.block.templates: Lista Schematów Bloków
 access.rights.notice: Funkcje Grup i Subskrybentów dostępne są tylko dla członków
   Gildii!
-access.rights.management: Zarządzanie prawami dostępu
+access.rights.management: Zarządzanie Prawami Dostępu
 access.rights.codes: Kody Dostępu
 access.authors.management: Zarządzanie Autorami
 access.authors.coowner.description: Dostęp do wszystkiego, włącznie z konfiguracją
-  świata, CSS i zarządzania dostępem.
+  Świata, CSS i Zarządzania Dostępem.
 access.authors.revoke: Odbierz Dostęp
 access.authors.editor: Edytor
 access.authors.writer: Pisarz
 access.authors.writer.description: Dostęp do tworzenia artykułów ustawionych jako
   Wersja robocza. Edytorzy i wyżej mogą wtedy zarządzać, organizować i publikować
   te artykuły.
-access.authors.slots: Użyte sloty Autorów
-access.subscribers.slots: Użyte sloty Subskrybentów
+access.authors.slots: Użyte Sloty Autorów
+access.subscribers.slots: Użyte Sloty Subskrybentów
 access.subscribers.purge: Wyczyść wszystkich aktualnych Subskrybentów z listy przed
   importowaniem
 access.subscribers.emails: Emaile Subskrybentów
@@ -343,18 +343,18 @@ access.subscribers.add: Dodaj Subskrybentów do Grupy
 access.subscribers.management: Zarządzanie Subskrybentami
 access.group.management: Zarządzanie Grupami Subskrybentów
 access.group.assets: Zasoby Grupy
-access.group.description.description: (opcjonalnie) Aby przypomnieć Ci kto i dlaczego
+access.group.description.description: (opcjonalnie) Aby przypomnieć kto i dlaczego
   jest w tej grupie.
-access.authors.editor.description: Dostęp do tworzenia, edytowania i oglądanie wszystkich
+access.authors.editor.description: Dostęp do tworzenia, edytowania i oglądania wszystkich
   treści.
 access.group.edit: Edytuj Grupę Subskrybentów
-access.group.position.description: (opcjonalne) Tylko abyś mógł organizować swoje
-  grupy, jeśli potrzebujesz.
+access.group.position.description: (opcjonalne) Tylko w celu organizacji swoich grup,
+  jeśli musisz.
 access.code.management: Zarządzanie Kodami Subskrybentów
 access.code.code: Kod
 access.code.group: Grupa Subskrybentów
 access.code.maxUses: Maksymalna Liczba Użyć
-access.code.expiryDate: Data wygaśnięcia
+access.code.expiryDate: Data Wygaśnięcia
 access.code.edit: Edytuj Kod Subskrybentów
 characters: Postacie
 Community: Społeczność
@@ -369,5 +369,59 @@ list.characters: Lista Postaci
 calendars: Kalendarze
 map.presentation: Otwórz Tryb Prezentacji
 map.marker.choice.type: Jaki to rodzaj Znacznika?
-map.settings: Ustawienia mapy
+map.settings: Ustawienia Mapy
 map.marker.choice.functionality: Jaka jest jego funkcja?
+inttables:
+  tables: Tabele
+  list: Lista Tabeli
+  create_new: Stwórz nową tabelę
+  edit: Edytuj tabelę
+  delete: Usuń tabelę
+  create: Stwórz tabelę
+map.marker.draggable.description.2: Funkcja poruszania jest włączona tylko dla wszystkich
+  zwykłych znaczników i etykiet.
+Settings & Tools: Ustawienia i Narzędzia
+create: Twórz
+parent: Nadrzędne
+parent.item: Nadrzędny Przedmiot
+create.orgchart: Stwórz Wykres Organizacyjny
+create.template: Stwórz Schemat
+create.todo: Dodaj do Listy "Do Zrobienia"
+create.new.template: Stwórz nowy Schemat Artykułu
+create.new.orgchart: Stwórz nowe Drzewo Treści
+edit.orgchart: Edytuj Drzewo Treści
+edit.orgchart.item: Edytuj Zawartość Drzewa Treści
+delete.orgchart: Usuń Drzewo Treści
+delete.article.template: Usuń Schemat Artykułu
+chart: Wykres
+orgchart: Drzewo Treści
+orgchart.structure: Struktura Drzewa Treści
+content: Treść
+world.explorer: Eksplorer
+athena: Artykuły i Kategorie
+map.pins: Znaczniki Mapy
+sheets.and.blocks: Arkusze i Bloki
+charts: Wykresy
+orgcharts: Drzewa Treści
+histories: Historie
+history: Historia
+timelines_and_calendars: Osie Czasu i Kalendarze
+article.templates: Schematy Artykułów
+list.charts: Lista Wykresów
+list.orgcharts: Lista Drzew Treści
+map.marker.draggable: Ruchomy Znacznik
+map.marker.draggable.checkbox: Ten znacznik jest ruchomy.
+map.marker.draggable.description: Ruchome Znaczniki mogą być przenoszone przez wszystkich
+  Pisarzy, Redaktorów i właścicieli na całym świecie. Po przeniesieniu, nowa lokalizacja
+  znacznika jest zapisywana. Funkcja ta jest włączona na pełnowymiarowej mapie prezentacji
+  i eksploratora.
+pin.tags.description: Użyj tyle słów, ile chcesz użyć żeby oznaczyć swój znacznik.
+  Pozwolą ci one bardzo szybko je przeszukiwać.
+pin.theme.description: Motywy są sposobem filtrowania przez znaczniki, np. Star Wars
+  Empire lub Star Wars Rebels itp.
+access.authors.advanced.writer: Zaawansowany Pisarz
+access.authors.advanced.writer.description: Dostęp do tworzenia i zarządzania swoimi
+  artykułami niezależnie od tego, czy są one w wersji roboczej czy nie.<br>To pozwoli
+  pisarzowi dalej rozwijać swoje artykuły na żywo w świecie. <br>Jest to idealny typ
+  tworzenia dla graczy, którzy chcą przyczynić się do tworzenia w żyjąceym świecie
+  lub kampanii.

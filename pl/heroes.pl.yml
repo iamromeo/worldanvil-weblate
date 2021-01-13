@@ -46,7 +46,7 @@ campaign:
         play_btn: START
         end_session_btn: KONIEC
         box_title: Trwająca Sesja
-    view_world_btn: Zobacz Świat
+    view_world_btn: Pogląd Świata
     edit_world_btn: Edytuj Świat
     view_campaign_page_btn: Zobacz stronę Kampanii
     streambox:
@@ -55,6 +55,58 @@ campaign:
     title: Ustawienia Kampanii
     breadcrumbs: Ustawienia
     page_title: Ustawienia %campaign_name%
+    delete:
+      delete_btn: USUŃ KAMPANIĘ
+      warning: Ten proces jest NIEODWRACALNY.
+      how_to: Aby usunąć swoją kampanię, proszę wpisać DELETE w polu poniżej
+      box_title: Usuń Kampanię
+    storytellers:
+      add: Dodaj Narratora do Kampanii
+      campaign_gm_tags: (MG)
+      campaign_owner_tags: (Właściciel)
+      select: Ustaw Autora Świata jako narratora
+      owner_tag: Właściciel
+      remove_btn: Usuń narratora
+      title: Narratorzy
+    access:
+      save_btn: Zapisz zmiany
+      world_homepage_visibility: Widoczność Strony Głównej Świata
+      state: Dostępność
+      member_only: Dostępne tylko dla Członków Gildii
+      subscriber: Grupy Subskrybentów
+      title: Ustawienia Dostępu
+    presentation:
+      end_date_info: Data zakończenia kampanii. Wypełnij to, jeśli kampania dobiegnie
+        końca.
+      end_date: Data końca
+      start_date_info: Data rozpoczęcia kampanii.
+      start_date: Data początku
+      maps: Mapy związane z Kampanią
+      timeline_info: Należy pamiętać, że tylko Równoległe linie czasowe mogą być używane
+        jako oś czasu Kampanii!
+      timeline: Linie czasowe związane z Kampanią
+      discord_info: Tu powinien znajdować się link do zaproszenia Discord. Nie zapomnij
+        ustawić go tak, aby nie wygasł.
+      discord: URL serwera Discord
+      vtt_info: Jeśli używasz VTT, umieść tutaj adres URL do tablicy. Będzie on widoczny
+        tylko dla Twoich graczy.
+      vtt: URL tablicy VTT
+      twitch_info: <strong>Nazwa użytkownika</strong> kanału Twitch, w którym kampania
+        jest nadawana. Utworzy to okienko Twitch osadzone na stronie kampanii.
+      twitch: Kanał Twitch
+      info: Poniższe informacje mają wpływ na sposób, w jaki twoja kampania jest wyświetlana
+        publicznie.
+      title: Ustawienia Prezentacji
+    general:
+      group_status: Status grup
+      cover_image: Obraz okładki Kampanii
+      rpg_system: System TTRPG
+      description: Wprowadzenie / Pełny opis
+      excerpt_placeholder: np. 5 bohaterów przemierzających świat za Szafą
+      excerpt: Streszczenie / Krótki opis
+      name_placeholder: np. Bohaterowie z Narnii
+      name: Tytuł
+      title: Ustawienia Ogólne
   reports:
     protagonists: Protagoniści
     edit_btn: Edytuj Raport
@@ -99,16 +151,16 @@ campaign:
       visibility: Widoczność
       type: Typ
       name: Imię
-    create_npc_btn: Stwórz nowego członka Obsady pomocniczej (NPC)
+    create_npc_btn: Stwórz nowego członka Obsady pomocniczej (Postaci niezależnych)
     expel_character_btn: Wyrzuć Postać
     character_sheet:
       edit_sheet_btn: Edytuj Arkusz
     invite:
       alert_info: Aby włączyć graczy do swojej kampanii, będziesz musiał ich zaprosić.
         <br> Podaj swoim graczom adres URL poniżej. Jest to unikalne zaproszenie do
-        Twojej kampanii. <br> Gracze będą musieli wybrać postać, którą chcą wziąć
-        udział w Twojej kampanii, a następnie przejść do tego adresu URL. <br> W momencie
-        gdy to zrobią, ich postać pojawi się pod Twoimi Protagonistami
+        twojej kampanii. <br> Gracze będą musieli wybrać postać, którą chcą wziąć
+        udział w twojej kampanii, a następnie przejść do tego adresu URL. <br> W momencie
+        gdy to zrobią, ich postaci pojawią się jako protagoniści
     title: Lista Postaci
     header: Lista Postaci %campaign_name%
   menu:
@@ -118,13 +170,13 @@ campaign:
     sessions: Sesje
     plots: Wątki
     parties: Grupy
-    supporting_cast: Obsada pomocnicza (NPC)
-    protagonists: Protagoniści (PCs)
+    supporting_cast: Obsada pomocnicza (Postaci niezależne)
+    protagonists: Protagoniści (Postaci Graczy)
     home: Strona Główna
-  cannot_create_campaign: 'Nie można stworzyć nowej Kampanii:'
+  cannot_create_campaign: 'Nie można stworzyć nowej Kampanii :'
   invite:
-    regenerate_code_btn: Wygeneruj ponownie kod dostępu
-    no_access_code: Ta kampania nie ma kodu dostępu. Będziesz musiał wygenerować jeden,
+    regenerate_code_btn: Wygeneruj kod dostępu ponownie
+    no_access_code: Ta kampania nie ma kodu dostępu. Będziesz musiał go wygenerować,
       aby zaprosić więcej graczy.
     description: Wyślij link z zaproszeniem do swoich graczy, aby zaprosić ich do
       swojej kampanii. <br> <strong>Twoi gracze muszą posiadać Postać Bohatera. <br>Postać
@@ -132,6 +184,42 @@ campaign:
     box_title: Zaproś swoich graczy do udziału w kampanii!
   codex_link: Sprawdź Artykuł w Codexie o Tworzeniu i zarządzaniu swoją kampanią
   breadcrumbs: Kampanie
+  subscription:
+    css_guide:
+      list_3: Jeśli chcesz używać komentarzy, użyj /* tego typu */ i rób w swoich
+        selektorach nie wychodząc
+      example: ' <em>Przykłady</em><br><h6>Aby bezpośrednio wpłynąć na zawartość <strong>.wrapper-content
+        bezpośrednio</strong> nie należy używać żadnego selektora, selektor zostanie
+        zastosowany automatycznie.</h6><p>{ <br> &nbsp;&nbsp;    background: #000000;
+        <br>&nbsp;&nbsp;    color: #ffffff; <br>} <br><br></p><h6>Aby zmienić kolor
+        tła większości okien</h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color:
+        #ff00ff !important; <br>} <br><br></p>'
+      list_4: Masz prawo do zmiany wszystkiego, co chcesz na stronie swojej postaci,
+        w tym struktury World Anvil, ale Udanowie nie wezmą na siebie odpowiedzialności
+        za uszkodzenie Twojej postaci!
+      list_2: Nie używaj przecinków (","). Używanie przecinków w twoich selektorach
+        spowoduje problemy z twoim CSS.
+      list_1: Wszystkie wartości CSS w tym polu zostaną automatycznie zawinięte pod
+        selektorem <strong>.wrapper-content</strong>.
+      title: Szybki Przewodnik CSS dla Kampanii
+    update_css_btn: Zaktualizuj stylizację CSS
+    custom_css: Spersonalizowany CSS
+    view_public_page: Zobacz stronę Kampanii
+    update_slug_btn: Zaktualizuj URL
+    custom_url_info: Ta część adresu URL będzie wyglądać jak https://www.worldanvil.com/epic/<strong>the-legends
+      of-tomorrow</strong><br>- Musi zawierać tylko łacińskie litery, cyfry i myślniki.
+      <br>- Powinien mieć co najmniej 10 i nie więcej niż 255 znaków. (wliczając kreski)
+    custom_url: Spersonalizowany URL
+    membership_level_display: Jesteś %membership_level% Gildii. Jako taki, ty i twoi
+      bohaterowie macie dostęp do kilku bardzo specjalnych funkcji! Dobrej zabawy!
+    breadcrumbs: Funkcje Gildii
+    page_header: Funkcje Gildii %campaign_name%
+  view:
+    leave_btn: Opuść Kampanię
+    read_report_btn: Przeczytaj Raport
+    archive_expand_btn: Kliknij, aby rozwinąć/zwinąć
+    edit_btn: Edytuj Kampanię
+    page_header: 'Strona Główna %campaign_name% | World Anvil '
 character:
   view.in.world: Zobacz w Świecie
 create:
@@ -143,5 +231,5 @@ go_to_world_list_btn: Przejdź do listy światów
 no_active_world: Wygląda na to, że nie posiadasz aktywnego świata.
 join_worldbuilder_guild_link: Dołącz do Gildii Światotwórców
 worldbuilder_guild_title: Pomóż nam w utrzymaniu i rozwijaniu World Anvil!
-WA_default_page_description: World Anvil jest społecznością worldbuildingową, jak
-  i zbiorem narzędzi dla autorów, narratorów gier fabularnych i miłośników worldbuildingu
+WA_default_page_description: World Anvil jest społecznością worldbuildingową, oraz
+  zbiorem narzędzi dla autorów, narratorów gier fabularnych i miłośników worldbuildingu
