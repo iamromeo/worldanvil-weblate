@@ -90,10 +90,11 @@ ui.backgroundColor: Kolor tła
 ui.documentSettings: Ustawienia dokumentu
 patreon: Nazwa użytkownika Patreon.com
 kofi: Nazwa użytkownika Ko-Fi.com
-html_export.description: Możesz skopiawać tekst do Word, Open Office, Google Docs
-  albo Pages
+html_export.description: Możesz skopiować i wkleić ten eksportowany tekst do dużej
+  części większych edytorów tekstu, takich jak Word, Open Office, Google Docs albo
+  Pages
 html_export: Eksportuj do HTML
-exporting.header: Eksportuj
+exporting.header: Eksportowanie
 statistics.header: Statystyki
 monetization.custom_advert: Własny komunikat marketingowy
 ui.cssRules: Dodatkowe reguły CSS
