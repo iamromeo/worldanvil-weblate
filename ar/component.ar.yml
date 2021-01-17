@@ -33,7 +33,7 @@ create.player.character: انشاء شخصية لاعبة
 create.image: 'انشاء صورة '
 create.category: انشاء فئة
 create.campaign: 'انشاء حملة '
-Settings & Tools: 'الاعدادات و الادوات '
+Settings & Tools: 'الاعدادات و الادوات'
 create.marker: 'انشاء علامة'
 create.map: 'انشاء خريطة '
 create.orgchart: انشاء مخطط هيكلي
@@ -81,3 +81,4 @@ delete.secret: 'حذف السر '
 delete.orgchart: حذف شجرة المحتوى
 delete.category: حذف الفئة
 history: تاريخ
+edit.player.character: تعديل الشخصية المسرحية
