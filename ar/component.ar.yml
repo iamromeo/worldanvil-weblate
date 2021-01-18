@@ -14,7 +14,7 @@ characters: شخصيات
 browse: تصفح
 dashboard: لوحة التحكم
 delete.map: حذف الخريطة
-edit.map: عدل الخريطة
+edit.map: تعديل الخريطة
 create: انشئ
 category: الفئة
 notes: ملحوظات
@@ -81,4 +81,6 @@ delete.secret: 'حذف السر '
 delete.orgchart: حذف شجرة المحتوى
 delete.category: حذف الفئة
 history: تاريخ
-edit.player.character: تعديل الشخصية المسرحية
+edit.player.character: تعديل الشخصية اللاعبة
+edit.orgchart.item: تعديل محتوى شجرة الأداة
+edit.layer: تعديل الطبقة
