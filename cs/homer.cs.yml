@@ -85,3 +85,5 @@ scene.notes: Zápisky
 pov.help: Pro výběr POV postavy, začni psát název kteréhokoliv článku dané postavy
 pov.remove: Odebrat POV postavu
 continue.reading: Pokračovat ve čtení
+manuscripts.title: Rukopis
+ui.fontTypeface: Přidružené písemné fonty
