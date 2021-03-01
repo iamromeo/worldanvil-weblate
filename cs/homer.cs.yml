@@ -22,8 +22,8 @@ label: Etiketa
 label.management: Správa etiket
 article.remove: Odebrat článek
 press.enter: Stiskni "Enter" pro přidání nebo vyber z automaticky dokončeného seznamu.
-tag.remove: Odebrat štítek
-tag.type: Napiš jméno štítku
+tag.remove: Odebrat tag
+tag.type: Napiš jméno tagu
 saved: Uloženo
 view.description: Zobrazit prezentační verzi tohoto rukopisu
 read: Číst
@@ -49,7 +49,7 @@ start.reading: Začít číst
 search.results.world: Výsledky hledání světa
 search.results.manuscript: Výsledky hledání rukopisu
 manuscript.read.upper: ČÍST
-tags: Štítky
+tags: Tagy
 view: Zobrazit
 title: Název
 search_replace: Najít a nahradit
@@ -68,7 +68,7 @@ ui.fontSettings: Nastavení textu
 ui.backgroundColor: Barva pozadí
 ui.documentSettings: Nastavení Dokumentu
 ui.header: Nastavení základního rozhraní
-scene.related.articles: Související jiné Články
+scene.related.articles: Související Jiné články
 scene.related.items: Související Předměty
 scene.related.locations: Související Místa
 scene.related.characters: Související Postavy
@@ -82,7 +82,7 @@ scene.duration: Délka Scény
 scene.time: Denní doba
 scene.pov: P.O.V. Postava
 scene.notes: Zápisky
-pov.help: Pro výběr POV postavy, začni psát název kteréhokoliv článku dané postavy
+pov.help: Pro nastavení POV postavy, začni psát název kteréhokoliv článku dané postavy
 pov.remove: Odebrat POV postavu
 continue.reading: Pokračovat ve čtení
 manuscripts.title: Rukopis
