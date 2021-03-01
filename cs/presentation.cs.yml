@@ -406,4 +406,9 @@ location.related_reports_primary: Související hlášení (Hlavní)
 location.related_reports_secondary: Související hlášení (Vedlejší)
 location.related_myths: Související mýty
 material.origin: Původ a zdroj
-location.rank: Vládnoucí/Vlastnická hodnost
+location.rank: Vládnoucí/Vlastnická pozice
+location.species: Druhy obývající oblast
+myth.related_ethnicities: Související etnika
+myth.related_species: Související druhy / rasy
+myth.related_locations: Související místa
+myth.date_of_first_recording: Datum první zmínky
