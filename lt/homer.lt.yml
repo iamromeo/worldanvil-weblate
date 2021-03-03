@@ -11,3 +11,102 @@ manuscript.world.activate.desc: Nėra aktyvių pasaulių, tam, kad sukurtum rank
 manuscript.world.activate: Reikia aktyvuoti vieną iš turimų pasaulių
 manuscript.create: Kurti naują rankraštį
 manuscript.settings: Rankraščio nustatymai
+backcover: Rankraščio nugarėlės santrauka
+monetization.custom_advert: Pasirinktinis rinkodaros pranešimas
+monetization.access_denied: Prieiga neleista
+scene.rich_media: Raiškiosios medijos nuoroda
+title: Pavadinimas
+search: Naršyti rankraštį ir pasaulį
+html_export.description: 'Tai gali nukopijuoti ir įklijuoti į bet kurį iš pagrindinių
+  teksto redaktorių, pvz.: „Word“, „Open Office“, „GoogleDocs“ ar „Pages“'
+html_export: Eksportuoti į HTML
+exporting.header: Eksportavimas
+statistics.header: Statistika
+kofi: Ko-Fi.com paskyros vardas
+patreon: Patreon.com paskyros vardas
+monetization.header: Apmokestinimo galimybės
+ui.cssRules: Papildomos CSS taisyklės
+ui.lineHeight: Linijos aukštis
+ui.paragraphPadding: Pastraipos apačios užpildymas
+ui.paragraphIndent: Pastraipos įtrauka
+ui.paragraphSettings: Pastraipų nustatymai
+ui.fontTypeface: Šrifto šeima, rūšis
+ui.fontColor: Šrifto spalva
+ui.fontSize: Šrifto dydis
+ui.fontSettings: Teksto nustatymai
+ui.backgroundColor: Fono spalva
+ui.documentSettings: Dokumento nustatymai
+ui.notice: Baigus reikia atnaujinti puslapį, kad nustatymai būtų pritaikyti.
+ui.intro: Pakeisk toliau pateiktus nustatymus, kad nusistatytum teksto redagavimo
+  įrankį taip, kaip patinka.
+ui.header: Numatytieji sąsajos nustatymai
+part.importance: Vaidmens svarba
+part.duration: Vaidmens trukmė
+scene.importance: Vaidmens svarba
+scene.related.articles: Kiti susiję straipsniai
+scene.related.items: Susiję daiktai
+scene.related.locations: Susijusios vietos
+scene.related.characters: Susiję veikėjai
+part.type: Vaidmens tipas
+part.time: Dienos metas
+scene.type: Scenos tipas
+scene.duration: Scenos trukmė
+scene.time: Dienos metas
+scene.pov: Personažo požiūris
+scene.rich_media_description: Čia įklijuok „Soundcloud“, „Spotify“, „YouTube“ ar dar
+  kurią nuorodą. Gali naudoti MP3 URL arba Anchor.fm EMBED URL. Tai bus rodoma šios
+  dalies viršuje. Tai puikus būdas gauti audioknygos/pasakojimo stiliaus versiją arba
+  sustiprinti reikiamą nuotaiką.
+scene.notes: Užrašai
+pov.remove: Pašalinti personažo požiūrio kampą (POV)
+pov.help: Pradėjus rašyti bet kurio straipsnio pavadinimą bus galima priskirti personažo
+  požiūrio kampą (POV)
+pov.character: Personažo požiūrio kampas (POV)
+edit.label.list: Redaguoti žymas
+choose.label: Rinktis žymą
+edit.label: Redaguoti žymą
+change.label: Keisti žymą
+no.label: Be žymos
+label.remove: Pašalinti žymą
+label: Žyma
+label.management: Ženklinimas
+article.remove: Pašalinti straipsnį
+press.enter: Spausk Enter klavišą, jei nori pridėti arba pasirinkti iš automatinio
+  sąrašo.
+tag.remove: Pašalinti žymą
+tag.type: Įvesti žymą
+tags: Žymos
+saved: Išsaugota
+view.description: Peržiūrėti pateiktą rankraščio versiją
+view: Peržiūrėti
+read: Skaityti
+review: Peržvelgti
+write: Rašyti
+status: Rankraščio statusas
+subscriber_groups: Prenumeratorių grupės
+access: Privatumo statusas
+publication: Paskelbimo statusas
+genres.languages: 'Kad pažymėtum rankraščio kalbą, spustelėk vieną iš žemiau esančių
+  kalbų. Ji bus rodoma kartu su kalbos kodu. '
+genres.description: Jei nori perspėti savo skaitytojus apie neskelbtiną medžiagą (pvz.
+  narkotikus, kraują, smurtą ir kt.), Naudokite jas kaip žymes. Jos bus atskirai pažymėtos
+  rankraščio pagrindiniame puslapyje, gerai matomoje vietoje.
+genres: Žanrai
+synopsis: Trumpa apžvalga
+cover: Rankraščio viršelis
+search_replace: Ieškoti ir pakeisti
+caption: Iliustracijos antraštė
+image_part: Iliustracijos dalis
+image: Iliustracija
+text: Tekstas
+new.folder: Kurti naują aplanką
+new.text: Kurti naują tekstą
+folder: Aplankas
+start.reading: Pradėti skaityti
+continue.reading: Tęsti skaitymą
+search.results.manuscript: Rankraščių paieškos rezultatai
+search.results.world: Pasaulio paieškos rezultatai
+manuscript.read.upper: SKAITYTI
+manuscript.advanced.settings: Išplėstiniai rankraščių nustatymai
+manuscript.basic.settings: Paprasti rankraščių nustatymai
+manuscripts.title: Rankraščiai
