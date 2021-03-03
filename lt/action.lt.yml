@@ -31,3 +31,4 @@ attach.to.world: Prijungti prie pasaulio
 attach: Prikabinti
 download.resources: Parsisiųsti išteklius
 edit.and.play: Redaguoti ir žaisti
+copy-into-world: Kopijuoti į %world_name
