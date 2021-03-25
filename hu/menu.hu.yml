@@ -107,3 +107,6 @@ account.apikeys: API kulcsok kezelése
 activated.features: Aktivált Funkciók
 view.profile: Profilod Megtekintése
 profile.settings: Profilbeállítások
+edit.profile: Profil Szerkesztése
+account.features: Felhasználói Funkciók
+goto_your_profile: Saját profilhoz

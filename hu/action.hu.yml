@@ -31,3 +31,4 @@ update: Frissítés
 attach.to.world: Világhoz Csatolás
 attach: Csatolás
 download.resources: Anyagok Letöltése
+copy-into-world: Másolás %world_name nevű világba

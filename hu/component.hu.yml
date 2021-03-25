@@ -112,8 +112,9 @@ related.map: Kapcsolódó Térkép
 related.organization: Kapcsolódó Szervezet
 BETA: Béta
 position: Elhelyezkedés/ Súly
-position.description: A Súly egy számadat, ami meghatározza milyen sorrendben tűnnek
-  fel a tételek egy listán. Minél nagyobb a szám, annál fentebb lesz a tétel.
+position.description: A Súly egy számadat, ami meghatározza, hogy milyen sorrendben
+  jelennek meg az egyes elemek, ha egy lista részei lesznek. Minél nagyobb a szám,
+  annál magasabban fog megjelenni az adott elem.
 status: Állapot
 status.description: Állítsd be ezt a tételt Nyilvánosra, hogy mindenki láthassa. A
   privát tételek csak neked, a társ-szerzőidnek, és a feliratkozóidnak lesz látható,
@@ -418,3 +419,10 @@ map.marker.draggable.description.2: A Húzogatás csak normál jelöléseknél �
   van bekapcsolva.
 statblocks: Statblokkok
 dashboard: Vágólap
+inttables:
+  tables: Táblázatok
+  list: Táblázatok listája
+  create: Táblázat létrehozása
+  create_new: Új táblázat létrehozása
+  edit: Táblázat Szerkesztése
+  delete: Táblázat Törlése
