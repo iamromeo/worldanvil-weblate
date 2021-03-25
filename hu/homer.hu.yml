@@ -95,10 +95,10 @@ subscriber_groups: Feliratkozó Csoportok
 access: Láthatósági Státusz
 publication: Kiadási Státusz
 genres.languages: 'Kattints az alant található nyelvre a kézirat nyelvének beállításához.
-  Ez a nyelv\ kódban jelenik meg. '
-genres.description: Ha szeretnéd az olvasókat figyelmeztetni érzékeny tartalomra,
-  mint mondjuk amik az ESRB (kábítószerek, vér, erőszak, stb.) jelöléseket képezik,
-  tag-eld őket. Így jól láthatóan meg lesznek jelölve a kézirat főoldalán.
+  Ez a nyelv kódjában jelenik meg. '
+genres.description: Ha az olvasókat szeretnéd érzékeny témákra figyelmeztetni, mint
+  például bármelyik ESRB tartalomleírás alá eső dologra (kábítószer, vér, erőszak
+  stb.), tag-eld őket. Így jól láthatóan meg lesznek jelölve a kézirat főoldalán.
 genres: Műfajok
 backcover: Kézirat Hátoldali Összegzése
 cover: Kézirat Borító
@@ -108,3 +108,4 @@ image: Kép
 start.reading: Olvasás Megkezdése
 manuscript.read.upper: OLVASÁS
 continue.reading: Olvasás Folytatása
+manuscripts.title: Kéziratok
