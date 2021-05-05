@@ -51,7 +51,7 @@ list.images: Список Изображений
 list.maps: Список Карт
 list.layers: Список Слоев
 list.notes: Список Заметок
-list.worlds: Список Миров
+list.worlds: ' Список Миров'
 subscribers: Подписчики
 related.category: Связанная Категория
 related.location: Связанное Место
