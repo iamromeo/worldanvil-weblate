@@ -20,7 +20,7 @@ join.discord.world: Dołącz do Discorda %worldname%!
 following: Obseruje %name%
 follow: Obserwuj %name%
 follow.action.remove: PRZESTAŃ OBSERWOWAĆ
-follow.action.add: OBSERWUJ
+follow.action.add: OBSERWUJ ŚWIAT
 follow.action.add.description: Obserwuj by mieć łatwiejszy dostęp do wszystkich artykułów
   napisanych przez pisarzy w tym świecie!
 like.action.add.description: Daj znać autorowi, że lubisz jego pracę. Ten artykuł
@@ -129,7 +129,7 @@ landmark.contents: Zawartość i umeblowanie
 landmark.connectedrooms: Sąsiednie pomieszczenia
 landmark.reportprimarylocations: Powiązany Raport (miejsca główne)
 landmark.reportsecondarylocations: Powiązany Raport (miejsca drugorzędne)
-material.characteristics: Cechy fizyczne
+material.characteristics: Cechy materialne
 material.compounds: Związki i połączenia
 material.commonState: Powszechny stan skupienia
 landmark.alterations: Zmiany
@@ -171,7 +171,7 @@ ethnicity.unisex.names: Imiona bezpłciowe
 ethnicity.family.names: Nazwiska rodowe
 ethnicity.major.lang.groups.dialects: Główne grupy językowe i dialekty
 ethnicity.shared.customary.codes.values: Współdzielone wartości i zasady
-campaign.generic: Inni BN
+campaign.generic: Inni BN (Bohaterowie Niezależni)
 document.purpose: Cel
 document.structure: Struktura Dokumentu
 document.clauses: Paragrafy
