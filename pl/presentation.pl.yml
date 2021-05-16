@@ -120,7 +120,7 @@ material.color: Kolor
 material.boiling: Temperatura wrzenia / kondensacji
 material.melting: Temperatura topnięcia / zamarzania
 material.density: Gęstość
-landmark.sensory: Wygląd i odczucia zmysłowe
+landmark.sensory: Wygląd i atmosfera
 landmark.parent: Znajduje się w
 landmark.children: Zawiera
 landmark.organization: Organizacja nadrzędna
@@ -147,7 +147,7 @@ writers.team: Zespół Pisarzy
 campaign.system: Gra %system_name%
 campaign.world: W świecie %world_name%
 campaign.storytellers: Historia opowiadana przez
-campaign.watchlive: Oglądaj kampanię na żywo na Twitch.tv
+campaign.watchlive: Oglądaj kampanię na żywo na Twitchu
 campaign.protagonists: Protagoniści
 campaign.playedby: Rozgrywane przez
 campaign.full: Pełna
@@ -160,18 +160,18 @@ campaign.adversaries: Przeciwnicy
 campaign.competitors: Rywale
 campaign.neutral: Grupy Neutralne
 campaign.explore.world: Zwiedzaj świat %world_name%
-campaign.vtt: Wirtualny Stół
+campaign.vtt: Wirtualny Stolik
 material.origin: Źródło i pochodzenie
-campaign.allies: Sojusznicy
+campaign.allies: Sprzymierzeńcy
 campaign.journal.session.report: Raport z Sesji
 document.historical.details: Historyczne szczegóły
 ethnicity.feminine.names: Imiona żeńskie
 ethnicity.masculine.names: Imiona męskie
 ethnicity.unisex.names: Imiona bezpłciowe
 ethnicity.family.names: Nazwiska rodowe
-ethnicity.major.lang.groups.dialects: Główne grupy językowe i dialekty
-ethnicity.shared.customary.codes.values: Współdzielone wartości i zasady
-campaign.generic: Inni BN (Bohaterowie Niezależni)
+ethnicity.major.lang.groups.dialects: Większe grupy językowe i dialekty
+ethnicity.shared.customary.codes.values: Współdzielone wartości i kody zwyczajowe
+campaign.generic: Inni NPC
 document.purpose: Cel
 document.structure: Struktura Dokumentu
 document.clauses: Paragrafy
@@ -179,7 +179,7 @@ document.caveats: Zastrzeżenia
 document.references: Odniesienia
 document.publication.status: Status publikacji
 document.legal.status: Status prawny
-document.background: Tło historyczne
+document.background: Przyczyna
 document.history: Historia
 document.public.reaction: Reakcja publiki
 document.legacy: Dziedzictwo
@@ -203,15 +203,15 @@ campaign.setting: Tło Kampanii
 ethnicity.art.architecture: Sztuka i Architektura
 ethnicity.common.customs.traditions.rituals: Powszechne zwyczaje, tradycje i obrzędy
 ethnicity.birth.baptismal.rites: Obrzędy porodowe i chrzcielne
-ethnicity.comingofage.rites: Obrzędy dojrzewania
-ethnicity.funerary.memorial.Customs: Obrzędy pogrzebowe i upamiętniające
+ethnicity.comingofage.rites: Obrzędy dorastania
+ethnicity.funerary.memorial.Customs: Obrzędy pogrzebowe i pamięciowe
 ethnicity.common.taboos: Powszechne tabu
 ethnicity.common.myths.legends: Powszechne mity i legendy
 ethnicity.historical.figures: Postacie historyczne
 ethnicity.ideals: Ideały
 ethnicity.beauty.ideals: Ideały piękna
 ethnicity.gender.ideals: Ideały płci
-ethnicity.courtship.ideals: Ideały konkurów
+ethnicity.courtship.ideals: Ideały zalotów
 ethnicity.relationship.ideals: Ideały związków
 ethnicity.major.organizations: Główne organizacje
 formation.manpower: Zasoby ludzkie
@@ -232,13 +232,13 @@ formation.sidebar.assumed.veterancy: Zakładane doświadczenie
 formation.sidebar.parent.formation: Formacja macierzysta
 formation.sidebar.usedby: Używana przez
 formation.sidebar.ranks.titles: Stopnie i Tytuły
-item.manufacturing.process: Proces produkcji
+item.manufacturing.process: Proces tworzenia
 item.significance: Znaczenie
 item.rpg.datasheet: Karta statyskyk RPG
 item.sidebar.itemtype: Typ przedmiotu
 item.sidebar.subtype.model: Podtyp / Model
 item.sidebar.usedby: Używany przez
-item.sidebar.manufacturer: Wytwórca
+item.sidebar.manufacturer: Producent
 item.sidebar.related.technologies: Powiązane Technologie
 item.sidebar.related.ethnicities: Powiązane etniczności
 item.sidebar.weight: Waga
@@ -246,9 +246,9 @@ item.sidebar.dimensions: Wymiary
 item.sidebar.base.price: Cena bazowa
 item.sidebar.rawmaterials.components: Surowce i składniki
 formation.historical.loyalties: Przynależność historyczna
-follow.action.unfollow.world: Przestań Obserwować
-campaign.supporting.cast: Obsada Wspierająca
-ethnicity.common.dress.code: Powszechne zasady ubioru
+follow.action.unfollow.world: Przestań obserwować ten Świat
+campaign.supporting.cast: Ekipa Wspierająca
+ethnicity.common.dress.code: Powszechny kod ubioru
 document.article.authoringdate: Data autorstwa
 document.article.ratificationdate: Data zatwierdzenia
 formation.training: Trening
@@ -256,8 +256,8 @@ formation.auxilia: Wsparcie
 formation.sidebar.founding: Założenie
 item.sidebar.related.condition: Powiązany Stan
 item.sidebar.rarity: Rzadkość
-item.sidebar.owning.organization: Organizacja nadrzędna
-item.inner.workings: ' Mechaniki i wewnętrzne funkcjonowanie'
+item.sidebar.owning.organization: Organizacja Posiadająca
+item.inner.workings: 'Mechaniki i Wewnętrzne funkcjonowanie'
 item.sidebar.tools: Narzędzia
 item.sidebar.related.myths: Powiązane mity
 language.alphabet: Alfabet
@@ -280,7 +280,7 @@ location.geography: Geografia
 location.flora: Flora
 location.fauna: Fauna
 location.natural_resources: Surowce naturalne
-campaign.lore: Fabuła
+campaign.lore: Folklor
 law.type: Rodzaj
 location.type: Rodzaj
 location.related_myths: Powiązane mity
