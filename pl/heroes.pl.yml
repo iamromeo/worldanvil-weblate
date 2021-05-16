@@ -78,9 +78,9 @@ campaign:
     presentation:
       end_date_info: Data zakończenia kampanii. Wypełnij to, jeśli kampania dobiegnie
         końca.
-      end_date: Data końca
+      end_date: Data Końca
       start_date_info: Data rozpoczęcia kampanii.
-      start_date: Data początku
+      start_date: Data Startu
       maps: Mapy związane z Kampanią
       timeline_info: Należy pamiętać, że tylko Równoległe linie czasowe mogą być używane
         jako oś czasu Kampanii!
