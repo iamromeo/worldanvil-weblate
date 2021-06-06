@@ -1,1 +1,59 @@
-{}
+description.conflict: Savaşlar, Muharabeler, Kuşatmalar ve Çatışmalar. Genellikle,
+  iki tarafın sivri çubuklarla karşılaştığında meydana gelen şeyler.
+description.material: Ham maddeler, ticari kaynaklar, kimyasal elementler. Efsaneden
+  ve adamantiyumdan uranyum ve elde edilemeyen 2000'e.
+description.language: Dünyandaki akıllı türlerin iletişim kurduğu, fikir ve düşünce
+  alışverişi yaptığı yollar.
+description.law: Belki senin dünyanda yerçekimi farklı işliyor, ya da etrafta büyü
+  var, veya ışık daha yavaş hareket ediyor. Normalin dışındaki herhangi bir şey veya
+  doğanın doğaüstü kanunları ve fizikleri.
+description.item: Günlük kullanım, paralar, araçlar, silahlar, en yaygından en eşsize
+  zırhlar
+rpg.session.report: Oturum Bilgisi
+rank.title: Başlık
+condition: Durum
+species: Türler
+item: Eşya
+tradition: Gelenek
+character: Karakter
+tradition.ritual: Gelenek / Ritüel
+technology: Teknoloji
+profession: Meslek
+technology.science: Teknoloji / Bilim
+language: Dil
+description.generic: Sınırlama olmadan istediğin içeriği yaz. Bu, ek içerik, rol yapma
+  oyunu içki yapım kural kitapçıkları, bölümlere tanıtımlar, hikayeler, düz yazılar
+  için kullanılabilir.
+description.formation: Askeri birlik prototipleri. Lejyonların, Falanksların, Silahşörlerin,
+  Mızraklıların ve Şövalyelerin nasıl görünüyor? Ekipmanları ve tatikleri neler?
+description.ethnicity: Türler değil ama aynı kültürel atalarla ilişkili insanlar.
+  Bir krallığın insanları değil, ama aynı inançları ve gelenekleri taşıyan insanların.
+description.document: Antlaşmalar, Kitaplar, Resim Çalışmaları, Kılavuzlar, Rehberler,
+  Bildiriler ve çok daha fazlası!
+description.condition: Doğal ve Esrarlı Felaketler, Hastalıklar, Mutasyonlar ve Değişimler.
+description.character: Krallar ve Kraliçelerden, kahramanlara, köylülere ve Tanrılara.
+description.building: '...veya yer işareti. Harikalar, doğal ve inşa edilmiş, yıkıntılar,
+  zindanlar, tapınaklar, yüce ağaçlar, demirci, han, kale. İma edebileceğin ve insanların
+  önemli olduğunu düşüneceği herhangi bir şey.'
+rpg.report: Kısım Bilgisi
+vehicle: Araç
+spell: Sihir
+plot: Tema
+prose: Düz Yazı
+organization: Organizasyon
+law: Doğa Kanunu
+settlement: Yerleşim
+location.settlement: Yer, Yerleşim
+geography: Yer Şekilleri
+location.geographic: Yer, Coğrafi
+building: Yapı
+location.building: Yer, Yapı
+military.conflict: Çelişki
+myth.legend: Mit / Efsane
+material: Materyal
+formation.military: Askeri Birlik
+ethnicity: Köken
+document: Döküman
+article.generic: Genel Yazı
+description.geography: Dünyalar ve Evrenler. Galaksiler, güneş sistemleri, gezegenler,
+  sıradağlar, vadiler, engin denizler, bataklıklar ve göller. Tüm coğrafi bölgeler.

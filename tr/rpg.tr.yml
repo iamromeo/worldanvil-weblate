@@ -1,1 +1,11 @@
-{}
+rpg.statblock.copy: Bu istatistik blok'unu kopyala
+rpg.add.to.world: Bu sistemi Dünyana ekle
+rpg.systems.list: RPG Sistemleri Listesi
+rpg.world.systems: Senin Dünyanın Sistem(leri)
+rpg.resources.welcome.intro2: Burada barındırılan her "Blok" (istatistik blok'u) kopyalayıp
+  dünyanda kullanabileceğin veya oynarken kullanabileceğin BBcode'a sahip. Burada
+  barındırılan tüm kaynaklar ya lisanslı ya da yazarların isteği çerçevesinde paylaşılmıştır.
+rpg.resources.welcome.intro1: Burası World Anvil topluluğu ve SRDs (Sistem Referans
+  Dökümanları) tarafından oluşturulan tüm kaynakların bulunabileceği yer!
+rpg.resources.welcome.header: World Anvil'in RPG Kaynakları Sayfasına Hoşgeldin
+rpg.resources: RPG Kaynakları

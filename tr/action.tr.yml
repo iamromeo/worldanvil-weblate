@@ -1,1 +1,33 @@
-{}
+view.map: Haritayı Görüntüle
+delete: Sil
+save: Kaydet
+edit.map: Haritayı Düzenle
+copy.to.clipboard: Panona kopyalamak için tıkla
+copy: Kopyala
+manage: Yönet
+view.profile: Profilini Görüntüle
+download: İndir
+edit: Düzenle
+edit.profile: Profilini Düzenle
+search: Ara
+update: Güncelle
+delete.map: Haritayı Sil
+save.changes: Değişiklikleri Kaydet
+attach: Ekle
+attach.to.world: Dünyana Ekle
+create a new...: Yeni bir oluştur...
+register: Hesabını Oluştur
+logout: Çıkış
+login: Giriş
+browse: Araştır
+edit.and.play: Düzenle & Oynat
+check.out: Kontrol Et
+world.view: Dünyayı Görüntüle
+world.create: Yeni bir Dünya oluştur
+search.in: İçinde ara
+replace: Yer Değiştir
+create: Yarat
+dismiss: Reddet
+copy-into-world: '%dünya_ismine kopyala'
+view: Görünüm
+show: Görüntüle
