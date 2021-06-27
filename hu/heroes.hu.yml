@@ -205,8 +205,17 @@ campaign:
       title: Gyors CSS Útmutató a Kampányokhoz
       list_1: Minden CSS szabály ebben a dobozban automatikusan a <strong>.wrapper-content</strong>
         elválasztón belül lesz elhelyezve.
-      list_3: Ha szeretnél megjegyzéseket használni, használd ezt /* szöveg */ a cimkéiden
-        BELÜL és nem kívül.
+      list_3: Ha szeretnél megjegyzéseket használni, használd ezt /* szöveg */ a címkéiden
+        BELÜL és nem kívül
+      list_4: Jogod van, hogy megváltoztass bármit amit akarsz a karaktered oldalán,
+        beleértve a World Anvil szerkezetet is, de Udans semmi felelősséget nem ha
+        tönkreteszed a karaktered!
+      example: ' <em>Példák</em><br><h6>Ahhoz, hogy a  <strong>.wrapper-content</strong>-et
+        közvetlenül módosítsd, ne használj semmilyen selectort, a selector automatikusan
+        fog rákerülni.</h6><p>{ <br> &nbsp;&nbsp;    background: #000000; <br>&nbsp;&nbsp;    color:
+        #ffffff; <br>} <br><br></p><h6>Ahhoz, hogy a legtöbb doboz hátterét megváltoztasd
+        </h6><p>.ibox-content { <br>&nbsp;&nbsp;    background-color: #ff00ff !important;
+        <br>} <br><br></p>'
     update_css_btn: CSS Stílus Frissítése
     custom_css: Egyedi CSS
 character:
