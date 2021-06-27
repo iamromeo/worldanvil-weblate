@@ -200,11 +200,13 @@ campaign:
     view_public_page: Kampány Nyilvános Oldalának Megtekintése
     update_slug_btn: Rövid URL Frissítése
     css_guide:
-      list_2: Ne használj vesszőket ','. Vessző használata a cimkéidben hibákat okozhat
-        a CSS-edben.
+      list_2: Ne használj vesszőket ','. A vesszők használata a címkéidben hibákat
+        okozhat a CSS-edben.
       title: Gyors CSS Útmutató a Kampányokhoz
       list_1: Minden CSS szabály ebben a dobozban automatikusan a <strong>.wrapper-content</strong>
         elválasztón belül lesz elhelyezve.
+      list_3: Ha szeretnél megjegyzéseket használni, használd ezt /* szöveg */ a cimkéiden
+        BELÜL és nem kívül.
     update_css_btn: CSS Stílus Frissítése
     custom_css: Egyedi CSS
 character:
