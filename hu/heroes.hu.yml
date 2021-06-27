@@ -218,6 +218,8 @@ campaign:
         <br>} <br><br></p>'
     update_css_btn: CSS Stílus Frissítése
     custom_css: Egyedi CSS
+  view:
+    page_header: '%campaign_name% Kezdőoldal | World Anvil '
 character:
   view.in.world: Megtekintés a világban
 create:
