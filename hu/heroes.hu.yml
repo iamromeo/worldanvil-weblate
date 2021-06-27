@@ -30,7 +30,7 @@ campaign:
     edit_world_btn: Világ Szerkesztése
     parties:
       manage_btn: Csapatok Kezelése
-      parties_count: Ebben a kampányban %parties_count% csapat vesz részt.
+      parties_count: 'Ebben a kampányban %parties_count% csapat vesz részt. '
       box_title: A Csapatok
     characters:
       manage_btn: Karakterek Kezelése
@@ -149,7 +149,7 @@ campaign:
     no_character: A fiókodhoz jelenleg nem tartozik karakter.
     create_character:
       need_comeback: (vissza kell térned ide, hogy csatlakozhass a kampányhoz)
-      or: '... vagy,'
+      or: '... vagy, '
     max_character_reached: Elérted a jelenlegi tagságoddal elérhető<br>karakterek
       maximális számát!
     remove_character_from_other_campaign: Vagy távolítsd el egyik karakteredet a jelenlegi
@@ -167,7 +167,7 @@ campaign:
     description_placeholder: Hosszabb leírás, mellyel inspirálhatod a játékosaidat
       és lelkesítheted a közönséget!
     excerpt_placeholder: Egy soros leírás a kampányodról.
-    details_box_title: További részletek
+    details_box_title: 'További részletek '
     dropzone_message: 'Kattints ide, vagy húzz ide egy képfájlt! <br><p><small>Javasolt
       legkisebb méret: 1600x400 px. A borítóképet később is bármikor beállíthatod.</small></p><p><small>A
       jelenleg megengedett legnagyobb fájlméret %max_size%, az érvényes fájltípusok
@@ -183,7 +183,7 @@ campaign:
     delete_campaign_btn: KAMPÁNY TÖRLÉSE
     deleted_world_campaign: Ez egy törölt világhoz tartozó kampány.
   list:
-    alert_info: Elérted a jelenlegi tagságoddal elérhető <br> maximimális kampányok
+    alert_info: Elérted a jelenlegi tagságoddal elérhető <br> maximális kampányok
       számát!
     breadcrumb: Kampányaid
     page_title: RPG Kampányok
@@ -220,8 +220,10 @@ campaign:
     custom_css: Egyedi CSS
   view:
     page_header: '%campaign_name% Kezdőlap | World Anvil '
-    archive_expand_btn: Többet/Kevesebbet mutat
+    archive_expand_btn: Kattints hogy Többet/Kevesebbet mutasson
     edit_btn: Kampány Szerkesztése
+    leave_btn: Kampány Elhagyása
+    read_report_btn: Jelentés elolvasása
 character:
   view.in.world: Megtekintés a világban
 create:
