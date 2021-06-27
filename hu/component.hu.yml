@@ -112,9 +112,9 @@ related.map: Kapcsolódó Térkép
 related.organization: Kapcsolódó Szervezet
 BETA: Béta
 position: Elhelyezkedés/ Súly
-position.description: A Súly egy számadat, ami meghatározza, hogy milyen sorrendben
-  jelennek meg az egyes elemek, ha egy lista részei lesznek. Minél nagyobb a szám,
-  annál magasabban fog megjelenni az adott elem.
+position.description: A Súly egy számadat, ami meghatározza milyen sorrendben tűnnek
+  fel a tételek egy listán betöltéskor. Minél nagyobb a szám, annál fentebb lesz a
+  tétel.
 status: Állapot
 status.description: Állítsd be ezt a tételt Nyilvánosra, hogy mindenki láthassa. A
   privát tételek csak neked, a társ-szerzőidnek, és a feliratkozóidnak lesz látható,
