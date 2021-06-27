@@ -83,6 +83,24 @@ campaign:
       info: Az alábbi információ befolyásolja azt, hogyan jelenik meg a kampányod
         a nyilvánosság előtt.
       title: Bemutató Beállításai
+      start_date: Kezdés Ideje
+      maps: A kampányhoz kapcsolódó térképek
+      timeline_info: Tartsd szem előtt, hogy csak Párhuzamos típusú idővonalakat tudsz
+        a kampány idővonalaként használni!
+      timeline: A kampányhoz kapcsolódó idővonalak.
+      discord_info: A Discord Szerver meghívója. Ne felejtds el beállítani, hogy ne
+        járjon le.
+      discord: Discord Szerver URL-je
+      vtt_info: Amennyiben VTT-t használsz. illeszd be ide az URL-jét. Ezt csak a
+        játékosaid fogják látni.
+      vtt: VTT URL-je
+      twitch_info: Ahhoz a Twitch csatornához kapcsolódó <strong>felhasználónév</strong>,
+        amelyen a kampányt közvetíted. Ez egy twitch beágyazást hoz létre a kampány
+        oldalán.
+      start_date_info: A kampány kezdetének dátuma.
+      end_date: Befejezés Ideje
+      end_date_info: A dátum, amikor a kampány befejeződött. Akkor töltsd ki, ha a
+        kampány véget ért.
     general:
       group_status: Csapat Státusz
       cover_image: Kampány Borítókép
@@ -96,6 +114,26 @@ campaign:
     title: Kampány Beállítások
     breadcrumbs: Beállítások
     page_title: '%campaign_name% Beállításai'
+    storytellers:
+      campaign_owner_tags: (Birtokos)
+      owner_tag: Birtokos
+      select: A világ szerzőjének kiválasztása mesélőként
+      remove_btn: Mesélő eltávolítása
+      title: Mesélők
+      add: Mesélő hozzáadása a Kampányhoz
+      campaign_gm_tags: (KM)
+    access:
+      subscriber: Feliratkozó Csoportok
+      save_btn: Változtatások mentése
+      world_homepage_visibility: Világ Kezdőlapjának Láthatósága
+      state: Hozzáférési Státusz
+      member_only: Csak Céhtagoknak elérhető
+      title: Hozzáférési Beállítások
+    delete:
+      delete_btn: KAMPÁNY TÖRLÉSE
+      warning: Ez a folyamat VISSZAFORDÍTHATATLAN.
+      how_to: Ha ki akarod törölni a kampányodat, írd be az alábbi dobozba, hogy DELETE
+      box_title: Kampány Törlése
   reports:
     protagonists: Főszereplők
     edit_btn: Jelentés Szerkesztése
@@ -150,6 +188,15 @@ campaign:
     breadcrumb: Kampányaid
     page_title: RPG Kampányok
     page_header: Kampányaid
+  subscription:
+    custom_url_info: Az URL ezen része így fog kinézni https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>-
+      Csak a Latin betűket, számokat és gondolatjeleket tartalmazhat. Legalább 10,
+      és legfeljebb 255 karakter hosszú lehet. (Gondolatjelekkel együtt.)
+    custom_url: Egyedi URL
+    membership_level_display: '%membership_level% vagy a Céhben. Így te és a hőseid
+      különleges funkcióhoz férhettek hozzá! Jó szórakozást!'
+    breadcrumbs: Céh Funkciók
+    page_header: '%campaign_name% Céh Funkciók'
 character:
   view.in.world: Megtekintés a világban
 create:
