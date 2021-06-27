@@ -190,13 +190,15 @@ campaign:
     page_header: Kampányaid
   subscription:
     custom_url_info: Az URL ezen része így fog kinézni https://www.worldanvil.com/epic/<strong>the-legends-of-tomorrow</strong><br>-
-      Csak a Latin betűket, számokat és gondolatjeleket tartalmazhat. Legalább 10,
-      és legfeljebb 255 karakter hosszú lehet. (Gondolatjelekkel együtt.)
+      Csak a Latin betűket, számokat és gondolatjeleket tartalmazhat. <br> Legalább
+      10, és legfeljebb 255 karakter hosszú lehet. (Gondolatjelekkel együtt.)
     custom_url: Egyedi URL
     membership_level_display: '%membership_level% vagy a Céhben. Így te és a hőseid
       különleges funkcióhoz férhettek hozzá! Jó szórakozást!'
     breadcrumbs: Céh Funkciók
     page_header: '%campaign_name% Céh Funkciók'
+    view_public_page: Kampány Publikus Oldalának Megtekintése
+    update_slug_btn: Rövid URL Frissítése
 character:
   view.in.world: Megtekintés a világban
 create:
