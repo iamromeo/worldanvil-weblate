@@ -310,7 +310,7 @@ military_conf.techological_advancement: Technológiai Fejlettség
 military_conf.conflict_type: Konfliktus Típusa
 military_conf.battlefield_type: Csatatér Típusa
 military_conf.starting_date: Kezdődátum
-military_conf.ending_date: Végdátum
+military_conf.ending_date: Befejezés ideje
 military_conf.conflict_result: Konfliktus Eredménye
 military_conf.location: Hely
 military_conf.belligerents: Hadviselő Felek
