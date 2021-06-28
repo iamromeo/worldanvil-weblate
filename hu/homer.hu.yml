@@ -13,7 +13,7 @@ manuscript.create: Új Kézirat Létrehozása
 manuscript.settings: Kézirat Beállítások
 ui.cssRules: CSS további szabályok
 ui.lineHeight: Sormagasság
-ui.paragraphPadding: Bejegyzés alsó Behúzása(?)
+ui.paragraphPadding: Bejegyzés alsó Behúzása
 ui.paragraphIndent: Bekezdés Behúzása
 ui.paragraphSettings: Bekezdés Beállítások
 ui.fontTypeface: Betűcsalád
