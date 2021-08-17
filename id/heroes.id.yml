@@ -1,3 +1,93 @@
 WA_default_page_description: World Anvil adalah komunitas pembangunan dunia dan kumpulan
   alat untuk penulis, pendongeng permainan peran, dan pecinta pembangunan dunia
 title: Pahlawan
+campaign:
+  list:
+    alert_info: Kamu telah mencapai jumlah kampanye maksimal <br> yang kamu bisa dengan
+      keanggotaanmu sekarang!
+    breadcrumb: Kampanyemu
+    page_title: Kampanye RPG
+    page_header: Kampanyemu
+  dashboard:
+    parties:
+      manage_btn: Atur Kelompok
+      parties_count: 'Ada %parties_count% kelompok dalam kampanye ini. '
+      box_title: Kelompok
+    characters:
+      manage_btn: Atur Karakter
+      characters_count: Ada %characters_count% karakter dalam kampanye ini.
+      box_title: Protagonis
+    session:
+      other_session:
+        schedule_new_session: Jadwalkan Sesi baru
+        journal_by: oleh
+        journal_box_title: Catatan Jurnal
+        concluded_on: Menyimpulkan %conclude_date%
+        start_btn: Memulai
+        upcoming_session: Sesi Selanjutnya
+        add_report_btn: Tulis Laporan
+        view_report_btn: Lihat Laporan
+        edit_report_btn: Sunting Laporan
+        edit_session_btn: Sunting Sesi
+        scheduled_for: Terjadwal untuk %date%
+      current_session:
+        play_btn: BERMAIN
+        end_session_btn: SELESAI
+        box_title: Sesi Mutakhir
+    view_world_btn: Lihat Dunia
+    edit_world_btn: Sunting Dunia
+    view_campaign_page_btn: Lihat Halaman Publik Kampanye
+    streambox:
+      title: Aliran Kampanye
+  character_list:
+    character_table:
+      delete_btn: Hapus
+      edit_btn: Sunting
+      location: Lokasi
+      visibility: Visibilitas
+      type: Tipe
+      name: Nama
+    create_npc_btn: Membuat Pemain Pembantu yang baru (NPC)
+    expel_character_btn: Keluarkan Karakter
+    character_sheet:
+      edit_sheet_btn: Sunting Lembaran
+    invite:
+      alert_info: Untuk memasukkan pemainmu ke dalam kampanye, kamu harus mengundang
+        mereka. <br>Berikan url di bawah ini pada pemainmu. Undangan ini unik untuk
+        kampanyemu. <br> Mereka harus memilih karakter yang ingin mereka gunakan dan
+        pergi ke URL tersebut. <br> Saat mereka melakukannya, karakter mereka akan
+        muncul di bawah protagonismu
+    title: Daftar Karakter
+    header: '%nama_kampanye% Daftar Karakter'
+  menu:
+    guild_features: FITUR SERIKAT
+    settings: Pengaturan
+    primer: Pokok
+    sessions: Sesi
+    plots: Plot
+    parties: Kelompok
+    supporting_cast: Pemain Pembantu (NPC)
+    protagonists: Protagonis (Pemain)
+    home: Beranda
+  cannot_create_campaign: 'Tidak bisa membuat kampanye baru :'
+  invite:
+    regenerate_code_btn: Mengadakan kembali kode
+    no_access_code: Kampanye ini tidak memiliki kode akses. Kamu harus mengadakannya
+      untuk mengundang lebih banyak pemain.
+    description: Kirim tautan undangan kepada pemainmu untuk mengundang mereka ke
+      dalam kampanye. <br> <strong>Pemainmu harus memiliki Karakter Pahlawan. <br>
+      Karakter tersebut harus karakter yang aktif di profil mereka!</strong>
+    box_title: Undang pemain karaktermu ke dalam kampanye!
+  codex_link: Lihat Artikel Kodeks tentang Menciptakan dan mengatur kampanyemu
+  breadcrumbs: Kampanye
+character:
+  view.in.world: Lihat dalam dunia
+create:
+  world: Membuat dunia baru
+  campaign: Membuat kampanye baru
+  journal: Membuat Catatan Jurnal baru
+  character: Membuat karakter baru
+go_to_world_list_btn: Pergi ke daftar dunia
+no_active_world: Kelihatannya kamu tidak memiliki dunia yang aktif.
+join_worldbuilder_guild_link: Bergabung dengan serikat pembangunan dunia
+worldbuilder_guild_title: Bantu kami menjaga World Anvil agar tetap hidup dan berkembang!
