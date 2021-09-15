@@ -19,7 +19,7 @@ players.looking: Поиск игроков
 players.full: Кампания полна
 authors: Авторы
 author.page: Страница автора
-author.since: Участник на протяжении
+author.since: Участник начиная с
 author.interests: Интересы и хобби
 author.movies: Любимые фильмы
 author.tv: Любимые сериалы
@@ -47,7 +47,7 @@ timelines: Хронологии
 world.anvil.description: World Anvil это платформа с инструментами для создания миров
   и сообщество для писателей, рассказчиков историй в настольных ролевых играх и любителей
   создавать новые миры
-account.create: Создай свою учетную запись
+account.create: 'Создайте Вашу учетную запись '
 created.by: Автор -
 powered.by: С помощью -
 toc: Оглавление
@@ -65,7 +65,7 @@ support.patreon: Поддержать проект на Patreon
 support.patreon.user: Поддержать %username% на Patreon
 support.kofi.user: Купить %username% кофе!
 join.discord.world: Присоединится к Discord серверу %worldname%!
-followers: Наблюдающие
+followers: Наблюдатели
 reading.action.remove: УДАЛИТЬ ИЗ СПИСКА ПРОЧИТАННОГО
 reading.action.add: ДОБАВИТЬ В СПИСОК ПРОЧИТАННОГО
 article.visibility: Эта статья видна таким группам подписчиков
@@ -74,7 +74,7 @@ condition.cycle: Цикл
 followers.all: Просмотреть всех наблюдающих
 following: Наблюдает за %name%
 follow: Наблюдать за %name%
-type: Тип
+type: Вид
 condition.transmission: Распространение и носители
 condition.reception: Культурное восприятие
 campaign.system: Игра %system_name%
@@ -134,8 +134,8 @@ material.boiling: Температура кипения / испарения
 material.melting: Температура плавления / затвердевания
 material.density: Плотность
 material.commonState: Обычное состояние
-editorial.team: Редакция
-writers.team: Писатели
+editorial.team: Команда Редакторов
+writers.team: Команда писателей
 campaign.sessions: Список сессий
 campaign.vtt: Виртуальный стол
 follow.action.unfollow.world: Отписаться от Мира
