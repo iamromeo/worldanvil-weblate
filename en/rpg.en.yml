@@ -4,6 +4,8 @@ rpg.resources.welcome.intro1: This is where all the resources created by the Wor
 rpg.resources.welcome.intro2: Each "block" (stat block) hosted here has a BBcode that you can copy and use in your world or use it while playing. All resources hosted here are either under licence or willingly shared by their authors.  
 rpg.world.systems: Your World's System(s)
 rpg.systems.list: RPG Systems List
+rpg.your.systems.list: Your RPG Systems List
+rpg.heroes.systems.list: RPG Systems with Character Sheets
 rpg.add.to.world: Add this system to your World
 
 

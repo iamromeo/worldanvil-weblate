@@ -4,13 +4,14 @@ WA_default_page_description: "World Anvil is a worldbuilding community and colle
 worldbuilder_guild_title: "Help us keep World Anvil alive and growing!"
 join_worldbuilder_guild_link: "Join the Worldbuilders Guild"
 no_active_world: "It seems like you don't have an active world."
-go_to_world_list_btn: "Go the the worlds list"
+go_to_world_list_btn: "Go the worlds list"
 create:
   character: "Create a new Character"
   journal: "Create a new Journal Entry"
   campaign: "Create a new Campaign"
   world: "Create a new world"
 character:
+  view_profile: "View Profile"
   view.in.world: "View in World"
 # Campaign Module ----------------------------------------------------------------------------
 campaign:
@@ -18,12 +19,14 @@ campaign:
   breadcrumbs: "Campaigns"
   codex_link: "Check out the Codex Article on Creating and managing your campaign"
   invite:
+    email: "Via eMail Address"
+    manual: "Manually"
     box_title: "Invite your player characters in the campaign!"
-    description: "Send the invitation link to your players to invite them in your campaign. <br>
-    <strong>Your players must have a Heroes Character. <br>
-    That character should be the one active on their profile!</strong>"
+    description: "1. Make sure your players have a World Anvil  account <br>
+    2. Get them to create their character <br>
+    3. Send them the link below to join your campaign"
     no_access_code: "This campaign has no access code. You will need to generate one in order to invite more players."
-    regenerate_code_btn: "Re-generate code"
+    regenerate_code_btn: "Generate new code"
   cannot_create_campaign: "Cannot create new Campaign :"
   # Module Pages
   menu:
@@ -46,7 +49,8 @@ campaign:
       The moment they do, their character will appear under your protagonists"
     character_sheet:
       edit_sheet_btn: "Edit Sheet"
-    expel_character_btn: "Expel Character"
+    expel_character_btn: "Expel"
+    expel_character_info: "Remove this character from this campaign and world."
     create_npc_btn: "Create a new Supporting Cast Member (NPC)"
     character_table:
       name: "Name"
@@ -81,11 +85,11 @@ campaign:
         journal_by: "by"
         schedule_new_session: "Schedule a new Session"
     characters:
-      box_title: "The Protagonists"
+      box_title: "The Protagonists (PCs)"
       characters_count: "There are %characters_count% characters in this campaign."
       manage_btn: "Manage Characters"
     parties:
-      box_title: "The Parties"
+      box_title: "Parties"
       parties_count: "There are %parties_count% parties in this campaign. "
       manage_btn: "Manage Parties"
   list:
@@ -103,7 +107,7 @@ campaign:
     rpg_system_placeholder: "Select RPG System"
     privacy: "Privacy State"
     cover_image: "Cover Image"
-    dropzone_message: "Click or Drag and Drop a single file here! <br><p><small>Suggested minimum size 1600x400px. You can always do it later!</small></p><p><small>Your current max filesize limit is %max_size%, and the allowed files types JPG, JPEG, PNG, GIF</small></p>"
+    dropzone_message: "Click or Drag and Drop a single file here! <br><p><small>Suggested minimum size 1600x400px/.</small></p><p><small>The allowed files types JPG, JPEG, PNG, GIF, Webp</small></p>"
     details_box_title: "Additional details "
     excerpt_placeholder: "One liner description of your campaign."
     description_placeholder: "The longer version of your description, to inspire your players and entice the audience!"
@@ -111,6 +115,9 @@ campaign:
     alert_no_world:
       title: "Hold on there partner!"
       description: "In order to create a campaign you will need to have a World for the campaign to take place into!"
+    alert_not_any_campaign_slot:
+      title: "Hold on there partner!"
+      description: "Sadly you do not have enough campaign slots to create a new campaign."
   join:
     breadcrumbs: "Campaign invitation"
     invited_by: "You have been invited by %invite_sender% to join the %campaign_name% campaign!"
@@ -168,6 +175,7 @@ campaign:
       member_only: "Only available to Guild Members"
       state: "Access State"
       world_homepage_visibility: "World Homepage Visibility"
+      storage: "Storage Status"
       save_btn: "Save changes"
     storytellers:
       title: "Storytellers"

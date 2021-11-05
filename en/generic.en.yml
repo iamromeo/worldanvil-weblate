@@ -1,3 +1,4 @@
+homepage: Homepage
 community: Community
 username: Username
 welcome: Welcome
@@ -9,6 +10,7 @@ status: Status
 weight: Weight 
 help: Do you need Help?
 reference: Design Tags Reference
+show_advanced_options: Show advanced options
 advanced_options: Open Advanced Tools & Options
 home: Home
 class: CSS Class
@@ -19,6 +21,7 @@ upcoming.streams: 'Upcoming Streams'
 join.discord: Join our Discord
 join.discord.description: Take part on the development of World Anvil - join world building challenges - win prizes and awesome badges!
 join.worldanvil.cta: Join the Worldbuilders Guild
+welcome-to-the-guild: "Welcome to the Guild!"
 
 goto.account: Go to Account details
 goto.articles.list: Go to Articles List
@@ -73,7 +76,7 @@ author.notes: Author's Notes
 
 
 access.multipass: Multipass?
-access.description: I am so sorry but you don't have access to this page. This is most probably because the article is private and you don't have the necessary rights to view it.
+access.description: Sorry, you don't have access to this page. This is most probably because the article is private and you don't have the necessary rights to view it.
 access.return: Head back where you came from!
 access.homepage: Go to Homepage
 access.passcode: Password Required
@@ -92,11 +95,13 @@ dashboard.manage.features: Manage your activated features
 dashboard.news: News
 dashboard.events: Events
 dashboard.worlds: Your Worlds
-dashboard.characters: Your Characters
+dashboard.characters: Your RPG Characters
 dashboard.campaigns: Your Campaigns
+dashboard.manuscripts: Your Manuscripts
 dashboard.world.memberships: World Memberships
 dashboard.dev.updates: Development Updates
 dashboard.in.news: In the News
+dashboard.user.stream: User Stream
 dashboard.videos: Recent Videos
 dashboard.stream: Upcoming Streams
 dashboard.podcast.cta: Listen to our Worldbuilding Podcast
@@ -109,3 +114,4 @@ dashboard.followed.worlds: Your Followed Worlds
 dashboard.followed.characters: Followed Characters
 dashboard.upcoming.sessions: Upcoming Sessions
 dashboard.upcoming.stream: Upcoming Streams & Events
+dashboard.feature_voting: Suggest & Vote for Features

@@ -1,5 +1,6 @@
 show: 'Show'
 edit: 'Edit'
+advanced.edit: 'Advanced Edit'
 manage: 'Manage'
 save: Save
 save.changes: Save Changes
@@ -7,6 +8,7 @@ update: Update
 view: 'View'
 copy: 'Copy'
 copy-into-world: 'Copy into %world_name'
+duplicate-into-world: 'Make a duplicate  into %world_name'
 dismiss: 'Dismiss'
 delete: 'Delete'
 create: 'Create'

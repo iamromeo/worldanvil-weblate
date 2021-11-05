@@ -19,7 +19,7 @@ in: in # name/link of category or world
 timeline: Timeline
 timelines: Timelines 
 explore: Explore
-toc: "Table of Contents"
+toc: "World Codex"
 followers: Followers 
 followers.all: "See all followers"
 campaigns: Campaigns
@@ -47,6 +47,8 @@ follow.action.remove: UNFOLLOW
 follow.action.unfollow.world: "Unfollow World"
 follow.action.add: FOLLOW WORLD
 copy.article.block: COPY ARTICLE BLOCK
+copy.world.block: COPY WORLD BLOCK
+
 follow.action.add.description: "Follow to get in your stream all the articles written by its authors in this world!"
 like.action.remove: "REMOVE LIKE"
 like.action.add: LIKE
@@ -97,7 +99,7 @@ campaign.support.patreon: "Support this Campaign on Patreon"
 campaign.sessions: "Sessions List"
 campaign.sessions_archive: "Sessions Archive"
 campaign.sessions.scheduled: "Scheduled Sessions"
-campaign.sessions.past: "Past Session"
+campaign.sessions.past: "Sessions Archive"
 campaign.session.live: LIVE
 campaign.supporting.cast: "Supporting Cast"
 campaign.adversaries: Adversaries 
@@ -107,6 +109,7 @@ campaign.neutral: "Neutral Parties"
 campaign.generic: "Other NPCs"
 campaign.setting: The Setting
 campaign.explore.world: Explore the world of %world_name%
+campaign.links: Useful Links
 campaign.timelines: Timelines 
 campaign.maps: Maps
 campaign.vtt: "Virtual Tabletop" 
@@ -115,11 +118,16 @@ campaign.journal.campaign: Campaign
 campaign.journal.player: Player 
 campaign.journal.character: Character
 campaign.journal.session.report: "Session Report"
+campaign.journal.session.report.read: "Read Session Report"
 campaign.lore: Lore
 campaign.lore_and_cast: Lore & Supporting Cast
 campaign.maps_and_timelines: Maps & Timelines
 
 # Templates
+# Global
+article.related_plots: "Related Plots"
+
+# Condition
 condition.transmission: "Transmission & Vectors"
 condition.causes: Causes 
 condition.symptoms: Symptoms 
@@ -192,33 +200,73 @@ document.article.signatoriesorganizations: "Signatories (Organizations)"
 # dsts.biography: "Biography"
 
 # Ethnicity
-ethnicity.naming.traditions: "Naming Traditions"
-ethnicity.feminine.names: "Feminine names"
-ethnicity.masculine.names: "Masculine names"
-ethnicity.unisex.names: "Unisex names"
-ethnicity.family.names: "Family names"
-ethnicity.other.names: "Other names"
-ethnicity.culture: Culture
-ethnicity.major.lang.groups.dialects: "Major language groups and dialects"
-ethnicity.culture.cultural.heritage: "Culture and cultural heritage"
-ethnicity.shared.customary.codes.values: "Shared customary codes and values"
-ethnicity.Average.technological.level: "Average technological level"
-ethnicity.common.etiquette.rules: "Common Etiquette rules"
-ethnicity.common.dress.code: "Common Dress code"
-ethnicity.art.architecture: "Art & Architecture"
-ethnicity.common.customs.traditions.rituals: "Common Customs, traditions and rituals"
-ethnicity.birth.baptismal.rites: "Birth & Baptismal Rites"
-ethnicity.comingofage.rites: "Coming of Age Rites"
-ethnicity.funerary.memorial.Customs: "Funerary and Memorial customs"
-ethnicity.common.taboos: "Common Taboos"
-ethnicity.common.myths.legends: "Common Myths and Legends"
-ethnicity.historical.figures: "Historical figures"
-ethnicity.ideals: Ideals
-ethnicity.beauty.ideals: "Beauty Ideals"
-ethnicity.gender.ideals: "Gender Ideals"
-ethnicity.courtship.ideals: "Courtship Ideals"
-ethnicity.relationship.ideals: "Relationship Ideals"
-ethnicity.major.organizations: "Major organizations"
+ethnicity:
+    naming:
+        traditions: "Naming Traditions"
+    feminine:
+        names: "Feminine names"
+    masculine:
+        names: "Masculine names"
+    unisex:
+        names: "Unisex names"
+    family:
+        names: "Family names"
+    other:
+        names: "Other names"
+    culture: "Culture"
+    major:
+        lang:
+            groups:
+                dialects: "Major language groups and dialects"
+    cultural:
+        heritage: "Culture and cultural heritage"
+    shared:
+        customary:
+            codes:
+                values: "Shared customary codes and values"
+    Average:
+        technological:
+            level: "Average technological level"
+    common:
+        etiquette:
+            rules: "Common Etiquette rules"
+        dress:
+            code: "Common Dress code"
+        customs:
+            traditions:
+                rituals: "Common Customs, traditions and rituals"       
+        taboos: "Common Taboos"
+        myths:
+            legends: "Common Myths and Legends"
+    art:
+        architecture: "Art & Architecture"
+    birth:
+        baptismal:
+            rites: "Birth & Baptismal Rites"
+    comingofage:
+        rites: "Coming of Age Rites"
+    funerary:
+        memorial:
+            Customs: "Funerary and Memorial customs"
+    historical:
+        figures: "Historical figures"
+    ideals: Ideals
+    beauty:
+        ideals: "Beauty Ideals"
+    gender:
+        ideals: "Gender Ideals"
+    courtship:
+        ideals: "Courtship Ideals"
+    relationship:
+        ideals: "Relationship Ideals"
+    major:
+        organizations: "Major organizations"
+    locations:
+        name: "Related Locations"
+        placeholder: ""
+        description: "In which location can the people of this ethnicity be found?"
+        reflexive: 
+            name: "Related Ethnicities"
 
 # Formation
 formation.manpower: Manpower
@@ -264,6 +312,20 @@ item.sidebar.base.price: "Base Price"
 item.sidebar.rawmaterials.components: "Raw materials & Components"
 item.sidebar.tools: Tools
 item.sidebar.related.myths: "Related Myths"
+item:
+  fields:
+    history:
+      name: "History"
+      placeholder: "e.g. The Argon sword was forged in..."
+      description: "What is the history of this object, who where the previous owners."
+    itemCreationDate:
+      name: "Creation Date"
+      placeholder: "e.g. 454 before Bob"
+      description: "When this object have been created."
+    itemDestructionDate:
+      name: "Destruction Date"
+      placeholder: "e.g. Sol 2452 around midnight"
+      description: "When this object have been destroyed."
 
 # Landmark
 landmark.purpose: "Purpose / Function"
@@ -292,15 +354,22 @@ landmark.contenders: "Contested By"
 landmark.reportprimarylocations: "Related Report (Primary Locations)"
 landmark.reportsecondarylocations: "Related Report (Secondary Locations)"
 landmark.vehicle: "Compartment of Vehicle"
+landmark:
+    defences: "Defenses"
 
 # Language
-language.alphabet: Alphabet
+language.alphabet: Writing System
 language.geographical.distribution: "Geographical Distribution"
 language.phonology: Phonology
 language.morphology: Morphology
 language.syntax: Syntax
 language.vocabulary: Vocabulary
 language.phonetics: Phonetics
+language:
+  tenses: "Tenses"
+  sentenceStructure: "Sentence Structure"
+  adjectiveOrder: "Adjective Order"
+  structuralMarkers: "Structural Markers"
 language.sidebar.common.phrases: "Common Phrases"
 language.sidebar.common.female.names: "Common Female Names"
 language.sidebar.common.male.names: "Common Male Names"
@@ -316,6 +385,9 @@ location.geography: Geography
 location.flora: Flora
 location.fauna: Fauna
 location.florafauna: "Fauna & Flora"
+location.ecosystem: "Ecosystem"
+location.ecosystemCycles: "Ecosystem Cycles"
+location.localizedPhenomena: "Localized Phenomena"
 location.natural_resources: "Natural Resources"
 location.history: "History"
 location.tourism: "Tourism"
@@ -451,6 +523,10 @@ organisation.dissolution_date: "Dissolution Date"
 organisation.type: "Type"
 organisation.capital: "Capital"
 organisation.alternative_names: "Alternative Names"
+organisation.predecessor: "Predecessor Organization"
+organisation.successor: "Successor Organization"
+organisation.predecessors: "Predecessor Organizations"
+organisation.successors: "Successor Organizations"
 organisation.formation_type: "Formation Type"
 organisation.training_level: "Training Level"
 organisation.veterancy_level: "Veterancy Level"
@@ -467,6 +543,7 @@ organisation.major_exports: "Major Exports"
 organisation.major_imports: "Major Imports"
 organisation.legislative_body: "Legislative Body"
 organisation.judicial_body: "Judicial Body"
+organisation.executive_body: "Executive Body"
 organisation.parent_organization: "Parent Organization"
 organisation.subsidiary_organizations: "Subsidiary Organizations"
 organisation.permeated_organizations: "Permeated Organizations"
@@ -489,6 +566,7 @@ organisation.leader.title: "Leader Title"
 # Person - Divine
 person.divine_domains: "Divine Domains"
 person.holy_books_codes: "Holy Books & Codes"
+person.artifacts: "Artifacts"
 person.divine_symbols_sigils: "Divine Symbols & Sigils"
 person.tenets_faith: "Tenets of Faith"
 person.holidays: "Holidays"
@@ -538,11 +616,14 @@ person.wealth_financial_state: "Wealth & Financial state"
 person.rpg_character_sheet: "RPG Character sheet"
 person.divine_classification: "Divine Classification"
 person.alignment: Alignment
+person.currentstatus: "Current Status"
 person.current_location: "Current Location"
 person.current_vehicle: "Currently Boarded Vehicle"
 person.species: Species
 person.conditions: Conditions
 person.ethnicity: Ethnicity
+person.otherethnicities: Other Ethnicities/Cultures
+person.family: Family
 person.realm: Realm
 person.church_cult: "Church/Cult"
 person.honorary_occupational_titles: "Honorary & Occupational Titles"
@@ -552,27 +633,41 @@ person.life: Life
 person.year_of_birth: "Year of Birth"
 person.year_of_death: "Year of Death"
 person.birthday: "Date of Birth"
+person.death: "Date of Death"
 
 person.circumstances_of_birth: "Circumstances of Birth"
 person.circumstances_of_death: "Circumstances of Death"
 person.birthplace: Birthplace
+person.deathplace: Place of Death
 person.current_residence: "Current Residence"
 person.biological_sex: "Biological Sex"
 person.sexuality: Sexuality
 person.gender_identity: "Gender Identity"
 person.eyes: Eyes
-person.skin: Skin Tone
+person.skin: Skin Tone/Pigmentation
 person.hair: Hair
 person.height: Height
 person.weight: Weight
+person.deity: Belief/Deity
 person.quotes_catchphrases: "Quotes & Catchphrases"
 person.aligned_organization: "Aligned Organization"
 person.other_affiliations: "Other Affiliations"
 person.related_myths: "Related Myths"
+
 person.known_languages: "Known Languages"
 person.appears_in: "Appears in..."
 person.character_prototype: "Character Prototype"
 person.age: 'Age'
+
+person:
+    parents: 'Parents'
+    parents_adopting: 'Parents (Adopting)'
+    relationships: 'Relationships'
+    founded_settlements: "Founded Settlements"
+    reign:
+        name: "Reign"
+        placeholder: "The Reign of King Arthur was a period of peace..."
+        description: "What were this person reign memorable moments and how long did it last"
 
 # Plot
 plot.summary: Summary
@@ -609,7 +704,8 @@ plot.parent: "Parent Plot"
 plot.subplots: Subplots
 plot.related_characters: "Related Characters"
 plot.related_locations: "Related Locations"
-plot.related_organizations: Related Organizations
+plot.related_organizations: "Related Organizations"
+plot.related_reports: "Related Session Reports"
 
 # Profession
 profession.career: "Career"
@@ -655,6 +751,7 @@ rank.grounds_for_removal_dismissal: "Grounds for Removal/Dismissal"
 rank.history: "History"
 rank.cultural_significance: "Cultural Significance"
 rank.notable_holders: "Notable Holders"
+rank.related_formations: "Related Military Formations"
 rank.type: "Type"
 rank.status: "Status"
 rank.creation: "Creation"
@@ -668,20 +765,28 @@ rank.first_holder: "First Holder"
 rank.reports_directly_to: "Reports directly to"
 
 # Report
-report.general_summary: "General Summary"
-report.rewards_granted: "Rewards Granted"
-report.missions_quests_completed: "Missions/Quests Completed"
-report.characters_interacted_with: "Character(s) interacted with"
-report.created_content: "Created Content"
-report.related_reports: "Related Reports"
-report.notes: Notes
+report:
+    general_summary: "General Summary"
+    rewards_granted: "Rewards Granted"
+    missions_quests_completed: "Missions/Quests Completed"
+    characters_interacted_with: "Character(s) interacted with"
+    created_content: "Created Content"
+    related_reports: "Related Reports"
+    notes: Notes
 # Report - Side Bar
-report.campaign: Campaign
-report.protagonists: Protagonists
-report.player_journals: "Player Journals"
-report.report_date: "Report Date"
-report.primary_location: "Primary Location"
-report.secondary_location: "Secondary Location"
+    campaign: Campaign
+    protagonists: Protagonists
+    player_journals: "Player Journals"
+    report_date: "Report Date"
+    primary_location: "Primary Location"
+    secondary_location: "Secondary Location"
+    related_plots: "Related Plots"
+    relatedPersons:
+        name: "Related Characters"
+        placeholder: ""
+        description: "Characters present in this report"
+        reflexive:
+            name: "Related Reports"
 
 # Ritual
 ritual.history: "History"
@@ -696,7 +801,7 @@ ritual.related_ethnicities: "Related Ethnicities"
 settlement.demographics: "Demographics"
 settlement.government: "Government"
 settlement.defences: "Defences"
-settlement.industry: "Industry"
+settlement.industry: "Industry & Trade"
 settlement.infrastructure: "Infrastructure"
 settlement.assets: "Assets"
 settlement.guilds_and_factions: "Guilds and Factions"
@@ -706,6 +811,16 @@ settlement.geography: "Geography"
 settlement.natural_resources: "Natural Resources"
 settlement.ruined_settlement: "RUINED SETTLEMENT"
 settlement.founding: "Founding Date"
+settlement:
+    founders: "Founders"
+    district:
+      name: "Districts"
+      placeholder: "The city of Margol was famous for it's patchwork of specialised districts..."
+      description: "What district is open to the wanderer in this settlement, what are the formal and informal sub-division of power in this settlement ?"
+    pointOfInterest:
+      name: "Points of interest"
+      placeholder: "Probably the most notable building of Markiv had to be the Great Imperial Library..."
+      description: "What are the main interest of this settelment, what quirk of geography, impressive building or deadly trading hall make the fortune of the city ?"
 settlement.alternative_names: "Alternative Name(s)"
 settlement.type: "Type"
 settlement.population: "Population"
@@ -803,32 +918,69 @@ technology.access_availability: "Access & Availability"
 technology.complexity: "Complexity"
 technology.discovery: "Discovery"
 technology.related_items: "Related Items"
-
+technology:
+    relatedSpecies:
+        name: "Related Species"
+        reflexive:
+            name: "Related Technologies"
+        placeholder: ''
+        description: "Which species are related with this technology"
 # Vehicle
-vehicle.power_generation: "Power Generation"
-vehicle.propulsion: "Propulsion"
-vehicle.weapons_armament: "Weapons & Armament"
-vehicle.armor_and_defense: "Armor and defense"
-vehicle.communication_tools_systems: "Communication Tools & Systems"
-vehicle.sensors: "Sensors"
-vehicle.additional_auxiliary_systems: "Additional & auxiliary systems"
-vehicle.hangars_docked_vessels: "Hangars & docked vessels"
-vehicle.rpg_datasheet: "RPG Datasheet"
-vehicle.class: "Class"
-vehicle.nickname: "Nickname"
-vehicle.motto: "Motto"
-vehicle.owner: "Owner"
-vehicle.owning_organization: "Owning Organization"
-vehicle.price: "Price"
-vehicle.rarity: "Rarity"
-vehicle.length: "Length"
-vehicle.beam: "Beam"
-vehicle.height: "Height"
-vehicle.weight: "Weight"
-vehicle.speed: "Speed"
-vehicle.complement: "Complement / Crew"
-vehicle.cargo_passengers_capacity: "Cargo & Passengers Capacity"
-vehicle.designation: "Designation"
-vehicle.crew: "Crew"
-vehicle.manufacturer: "Manufacturer"
-vehicle.compartments: "Compartments"
+vehicle:
+    power_generation: "Power Generation"
+    propulsion: "Propulsion"
+    weapons_armament: "Weapons & Armament"
+    armor_and_defense: "Armor and defense"
+    communication_tools_systems: "Communication Tools & Systems"
+    sensors: "Sensors"
+    additional_auxiliary_systems: "Additional & auxiliary systems"
+    hangars_docked_vessels: "Hangars & docked vessels"
+    rpg_datasheet: "RPG Datasheet"
+    class: "Class"
+    nickname: "Nickname"
+    motto: "Motto"
+    owner: "Owner"
+    owning_organization: "Owning Organization"
+    price: "Price"
+    rarity: "Rarity"
+    length: "Length"
+    beam: "Beam"
+    height: "Height"
+    weight: "Weight"
+    speed: "Speed"
+    complement: "Complement / Crew"
+    cargo_passengers_capacity: "Cargo & Passenger Capacity"
+    designation: "Designation"
+    crew: "Crew"
+    creationDate:
+        name: "Creation Date"
+        placeholder: "Built in January 985"
+        description: "Date of the vehicule creation"
+    decommissionDate:
+        name: "Decommission Date"
+        placeholder: "7944 after the battle of Selene"
+        description: "Date of the vehicule end of service duty"
+    destructionDate:
+        name: "Destruction Date"
+        placeholder: "7946 during the war of the lilas"
+        description: "Date of the vehicule destruction"
+    location:
+        name: "Current location"
+        reflexive:
+            name: "Vehicles Present"
+        placeholder: "last known location was decelerating toward the sun..."
+        description: "Where the vehicule is today, where was its last know ?"
+    formationsUsage:
+        name: "Military Formation Usage"
+        reflexive:
+            name: "Vehicles Used"
+        placeholder: ""
+        description: "Nothing here? You will need to create a formation first!."
+    manufacturer: "Manufacturer"
+    compartments: "Compartments"
+    technologiesUsed:
+        name: "Related Technologies"
+        reflexive:
+            name: "Related Vehicles"
+        placeholder: ''
+        description: "Nothing here? You will need to create a technology first!."

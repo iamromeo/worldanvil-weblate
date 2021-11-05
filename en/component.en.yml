@@ -1,6 +1,10 @@
 Settings & Tools: 'Settings & Tools'
+settings: 'Settings'
+world.settings: 'World Settings'
+tools: 'Tools'
 dashboard: 'Dashboard'
-Community: 'Community'
+Community: 'World Community'
+discussion_boards: 'Discussion Boards'
 browse: 'Browse'
 create: 'Create'
 parent: 'Parent'
@@ -15,8 +19,9 @@ create.image: 'Create Image'
 create.player.character: 'Create Player Character'
 create.timeline: 'Create Timeline'
 create.orgchart: 'Create Organization Chart'
-create.layer: Create Layer
+create.layer: 'Create Layer'
 create.map: 'Create Map'
+create.board: 'Create Discussion Board'
 create.marker: Create Marker
 create.marker.group: Create Marker Group
 create.note: 'Create Note'
@@ -42,6 +47,7 @@ create.new.image: 'Create a new Image'
 create.new.player.character: 'Create a new Player Character'
 create.new.layer: Create a new Layer
 create.new.map: 'Create a new Map'
+create.new.board: 'Create a new Discussion Board'
 create.new.marker: Create a new Marker
 create.new.marker.group: Create a new Marker Group
 create.new.note: 'Create a new Note'
@@ -64,6 +70,7 @@ edit.orgchart: 'Edit Content Tree'
 edit.orgchart.item: 'Edit Content Tree Item'
 edit.layer: Edit Layer
 edit.map: 'Edit Map'
+edit.board: 'Edit Discussion Board'
 edit.marker: Edit Marker
 edit.marker.group: Edit Marker Group
 edit.note: 'Edit Note'
@@ -84,6 +91,7 @@ delete.timeline: 'Delete Timeline'
 delete.orgchart: 'Delete Content Tree'
 delete.layer: Delete Layer
 delete.map: 'Delete Map'
+delete.board: 'Delete Discussion Board'
 delete.marker: Delete Marker
 delete.marker.group: Delete Marker Group
 delete.note: 'Delete Note'
@@ -115,6 +123,7 @@ layer: Layer
 label: Label 
 link: Opens a New Page
 map: 'Map'
+board: 'Discussion Board'
 marker: Marker
 marker.group: Marker Group
 note: 'Note'
@@ -124,6 +133,7 @@ secret: 'Secret'
 tag: Tag
 world: 'World'
 subscriber: Subscriber
+subscriber.group: 'Subscriber Group'
 
 
 
@@ -131,6 +141,7 @@ world.summary: Summary
 world.view: View World
 world.explore: Explore
 world.explorer: Explorer
+world.meta: Meta
 content: Content
 articles: 'Articles'
 athena: 'Articles & Categories'
@@ -143,11 +154,13 @@ images: 'Images'
 player.characters: 'Player Characters'
 layers: Layers
 maps: 'Maps'
+boards: 'Discussion Boards'
 map.pins: 'Map Pins'
 sheets.and.blocks: 'Sheets & Blocks'
-markers: Markers
-marker.groups: Marker Groups
+markers: 'Markers'
+marker.groups: 'Marker Groups'
 timelines: 'Timelines'
+chronicles: 'Chronicles'
 charts: 'Charts'
 inttables:
   tables: 'Tables'
@@ -163,6 +176,7 @@ history: 'History'
 timelines_and_calendars: Timelines & Calendars
 events: "Historical Events"
 calendars: "Calendars"
+world_variable: "Variables"
 notes: 'Notes'
 pin: Pin
 secrets: 'Secrets'
@@ -170,6 +184,7 @@ tags: Tags
 worlds: 'Worlds'
 groups: Groups
 article.templates: Article Templates
+generators: Generators
 
 list.articles: 'Articles List'
 list.blocks: 'Blocks List'
@@ -181,6 +196,7 @@ list.historical.entries: 'Historical Entries  List'
 list.images: 'Images List'
 list.player.characters: 'Player Characters  List'
 list.maps: 'Maps List'
+list.boards: 'Discussion Boards List'
 list.markers: 'Markers List'
 list.marker.groups: Marker Groups List
 list.layers: 'Layers List'
@@ -209,18 +225,18 @@ position: Position/Weight
 position.description: Weight is a number that defines in which order an item will appear when these items are loaded. The higher the number the higher the item will appear.
 status: Status
 status.description: Set this item as public for everyone to be able to see. Private items are visible only to you and the co-authors  and subscribers with proper permissions of your world
-access: Access 
+access: "Subscribers & Authors"
 access.description: Set your post as public for everyone to be able to see. Private posts are visible only to you and co-authors of your world
 subscriber.groups: Subscriber Groups
 subscriber.groups.description: Select one or more groups that you want to allow access to this article.This only affects private articles.
 display: Display 
 display.homepage: Display this map on the World's homepage.
 tags.description: Use commas to separate your tags. Adding tags to any piece of content will help you search for it using any of the tags.
-group: Group
+group: Marker Group
 tag.description: Use commas to separate your tags. Adding tags to any piece of content will help you search for it using any of the tags.
 
 # Specific Component: Map
-map.presentation: Open Presentation Mode
+map.presentation: Open in Presentation Mode
 map.settings: Map Settings
 map.image: Map Primary Image
 map.image.secondary: Layer Image
@@ -239,7 +255,7 @@ map.zoom.max: Maximum Allowed Zoom
 map.zoom.max.description: How far in/deep you can zoom in. 0 means zoom to the 1:1 dimensions of the map. Anything above 0 will mean that the image will start to get blurry. (0 by Default)
 map.center.y: Initial Center point (Y Axis)
 map.center.x: Initial Center point (X Axis)
-map.center.description: The initial coordinates of the center of the map when it's first loaded. Normally this is calculated to be the center of your map. The bottom left of your map is point 0:0.
+map.center.description: The initial coordinates of the center of the map when it's first loaded. Normally this is calculated to be the center of your map. The bottom left of your map is point 1:1.
 map.legend.description: This will appear on the bottom left of your map. Use it to create a legend for your markers, write a short description or give any other context.
 map.marker.style: Style 
 map.marker.color: Color
@@ -322,6 +338,9 @@ item: Item
 spell: Spell
 class: Class
 race: Race
+weapon: Weapon
+armor: Armor
+settlement: Settlement
 
 # Guild Advert
 guild.access:  All items on free accounts are public. Join the <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a> to give permissions to specific subscriber groups to access the content that you want and help the development of World Anvil.
@@ -374,3 +393,17 @@ access.code.group: Subscriber Group
 access.code.maxUses: Maximum Number of Uses 
 access.code.expiryDate: Expiry Date 
 access.code.edit: Edit Subscribers Code
+
+chronicle:
+  chronicle: 'Chronicle'
+  list: 'Chronicles List'
+  new: 'Create new Chronicle'
+  chronicles: 'Chronicles'
+  delete: 'Delete Chronicle'
+  edit: 'Edit Chronicle'
+  create: 'Create Chronicle'
+
+prompts:
+  title: 'Worldbuilding Prompts'
+  list: 'Worldbuilding Prompts List'
+  prompt: 'Prompt Details'

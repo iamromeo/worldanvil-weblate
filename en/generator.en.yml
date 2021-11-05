@@ -1,0 +1,6 @@
+template:
+    plural: "Templates"
+generator:
+    plural: "Generators"
+router:
+    plural: "Routers"

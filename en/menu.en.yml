@@ -1,5 +1,6 @@
 dashboard: 'Dashboard'
 browse: 'Browse'
+browse.community: 'Browse Community'
 advertising: 'Advertising'
 sponsoring: 'Sponsoring'
 toggle: 'Toggle Menu'
@@ -8,12 +9,24 @@ character.profile: 'Character Profile'
 character.profiles: 'RPG Character Profiles'
 character.view.profile: 'View Profile'
 character.edit.profile: 'Edit Profile'
-character.view.sheet: 'View Sheet'
+character.view.sheet: 'Character Sheet'
+character.sheet: 'Sheet'
 character.edit.extended: 'Edit Extended Profile'
 character.privacy: 'Privacy'
-character.display: 'Display'
+character.display: 'Edit Profile Display'
+quests: 'Quests'
+assets: 'Party Assets'
+equipment: 'Equipment'
+party: 'Party'
+journal: 'Journals'
+maps: 'Maps'
+timeline: 'Timeline'
+timelines: 'Timelines'
+
+
 notebook: 'Notebook'
-studio: 'Studio'
+memories: 'Memories'
+studio: 'Creative Studio'
 todo.list: 'TODO List'
 srd: 'RPG Resources'
 about: 'About'
@@ -28,6 +41,13 @@ join.codex: World Anvil Documentation Codex
 world: 'World'
 worlds: 'Worlds'
 world.view: 'View World'
+
+worldbuilding_prompts: "Worldbuilding Prompts"
+random_generators: "Random Generators"
+articles: "Articles"
+manuscripts: "Manuscripts"
+showcase: "Best of World Anvil Showcase"
+voting: Feature Suggestion & Voting
 profile: 'Profile'
 profile.settings: 'Profile Settings'
 edit.profile: 'Edit your Profile'
@@ -37,7 +57,7 @@ activated.features: 'Activated Features'
 go.to.create: 'Go to the Create menu'
 
 settings: 'Settings'
-interface.settings: 'Interface & Accessibility'
+interface.settings: 'Interface Settings'
 account.details: 'Account Details'
 account.features: 'Account Features'
 account.apikeys: 'API Keys Management'
@@ -55,6 +75,7 @@ world.goto: 'Go to World'
 world.configure: 'Configure World'
 
 configuration: 'Configuration'
+styling: 'Styling'
 welcome: 'Welcome'
 your.stream: 'Your stream'
 saved.articles: 'Saved Articles'
@@ -113,4 +134,3 @@ documentation: 'Documentation'
 report_bug: 'Report a Bug'
 suggest_feature: 'Suggest a Feature'
 ask_question: 'Ask a question'
-
