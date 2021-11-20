@@ -119,7 +119,7 @@ status: Állapot
 status.description: Állítsd be ezt a tételt Nyilvánosra, hogy mindenki láthassa. A
   privát tételek csak neked, a társ-szerzőidnek, és a feliratkozóidnak lesz látható,
   akiknek megfelelő engedélyeik vannak a világra
-access: Hozzáférés
+access: Feliratkozók & Szerzők
 access.description: Állítsd be ezt a posztot Nyilvánosra, hogy mindenki láthassa.
   A privát posztjaid csak neked, és a társ-szerzőidnek lesz látható, akiknek megfelelő
   engedélyeik vannak a világra
@@ -130,7 +130,7 @@ display: Megjelenítés
 display.homepage: Jelenítsd meg ezt a térképet a Világ kezdőoldalán.
 tags.description: Használj vesszőket a címkéid elválasztására. Címkék hozzáadásával
   megkönnyítheted bármely tartalom megkeresését, azok használatával.
-group: Csoport
+group: Jelzőcsoport
 tag.description: Használj vesszőket a címkéid elválasztására. Címkék hozzáadásával
   megkönnyítheted bármely tartalom megkeresését, azok használatával.
 map.image: Fő Térkép Ábrázolás
@@ -192,7 +192,7 @@ map.zoom.max.description: Milyen közelre tudsz nagyítani a térképen. A 0 az 
 map.center.y: Kezdeti Középpont (Y Tengely)
 map.center.x: Kezdeti Középpont (X tengely)
 map.center.description: A térkép közepének kezdeti koordinátái az első betöltéskor.
-  Általában ez a térképed közepén lesz kiszámítva. A Bal alsó sarok koordinátái 0:0.
+  Általában ez a térképed közepén lesz kiszámítva. A Bal alsó sarok koordinátái 1:1.
 map.marker.lng: Hossz
 map.marker.lat: Szél
 map.marker.label: Címke Szövege
@@ -364,12 +364,12 @@ characters: Karakterek
 world.explore: Felfedezés
 events: Történelmi Események
 calendars: Naptárak
-map.presentation: Prezentáció Mód Megnyitása
+map.presentation: Megnyitás Prezentáció Módban
 map.settings: Térkép Beállítások
 map.marker.choice.type: Milyen fajta jelölés ez?
 map.marker.choice.functionality: Mit csinál?
 Settings & Tools: Beállítások & Eszközök
-Community: Közösség
+Community: Világ Közösség
 browse: Böngészés
 create: Létrehozás
 parent: Fő Bejegyzés
@@ -426,3 +426,34 @@ inttables:
   create_new: Új táblázat létrehozása
   edit: Táblázat Szerkesztése
   delete: Táblázat Törlése
+prompts:
+  prompt: Súgó Részletek
+  list: Világépítési Súgó Lista
+  title: Világépítési Súgó
+chronicle:
+  create: Krónika Létrehozása
+  edit: Krónika Szerkesztése
+  delete: Krónika Törlése
+  chronicles: Krónikák
+  new: Új Krónika Létrehozása
+  list: Krónika Lista
+  chronicle: Krónika
+settlement: Település
+armor: Páncél
+weapon: Fegyver
+list.boards: Vita Lap Lista
+generators: Generátorok
+world_variable: Változók
+chronicles: Krónikák
+boards: Vita Lapok
+world.meta: Meta
+subscriber.group: Feliratkozó Csoport
+board: Vita Lap
+delete.board: Vita Lap Törlése
+edit.board: Vita Lap Szerkesztése
+create.new.board: Új Vita Lap Létrehozása
+create.board: Vita Lap Létrehozása
+discussion_boards: Vita Lapok
+tools: Eszközök
+world.settings: Világ Beállítások
+settings: Beállítások
