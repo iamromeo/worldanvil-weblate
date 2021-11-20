@@ -103,3 +103,38 @@ description.country: Az országok olyan területi szerveződések, melyek fő fe
   a benne élő lakosainak irányítása (ez egy másodlagos link a Szervezeti Sablonhoz).
 description.religion: A szervezett vallások olyasféle szervezetek, melyek a híveik
   spirituális és egyéb irányításával foglalatoskodnak (ez része a Szervezeti Sablonnak).
+description:
+  country: Az Országok specializált territoriális szervezetek, melyek a területeiken
+    belül élő lakosok vezetésével foglalkoznak (Ez egy másodlagos link a Szervezeti
+    Sablonhoz).
+  organization: Királyságok, Bárói Birtokok, Istenek Egyházai (Szervezett Vallások),
+    Titkos Társaságok, Könyörtelen Zsoldosseregek, Lovagi és Mágusrendek. Territoriális
+    és Nem-territoriális jellegűek.
+  legend: A világod története. Gondolj Artúr Királyra, New York Csatorna-Krokodiljaira,
+    vagy a Nagylábúra.
+  conflict: Háborúk, Csaták, Ostromok és Előcsatározások. Általánosságban minden ami
+    akkor történik, ha két oldal megtalálja egymást a hegyes botjaik végével.
+  material: Nyersanyagok, Árucikkek, Kémiai elemek. Minden a Mitriltől és Adamantiumtól
+    kezdve az Urániumig és Megszerezhetetlenium 2000-ig.
+  language: Az intelligens fajok kommunikációs módja a világodban, az ötletek és gondolatok
+    cseréjére.
+  law: Talán a világodban máshogy működik a gravitáció, vagy mágia itatja át a levegőt,
+    vagy a fény lassabban terjed. Bármi normálistól eltérő vagy természetfeletti törvényei
+    a természetnek és a fizikának.
+  item: Mindennapi használatra való érmék, eszközök, fegyverek, páncélok, a leggyakoribbtól
+    az egyediig
+  geography: Világok és Univerzumok. Galaxisok, naprendszerek, bolygók, hegyláncok,
+    völgyek, nagy tengerek, mocsarak és tavak. Mindenféle földrajzi helyszín.
+  formation: Katonai alakzatoknak a prototípusai. Hogyan néznek ki a Légióid, Falanxjaid,
+    Kardosaid, Pikásaid, Lovagjaid. Mi a felszerelésük és a taktikájuk?
+  ethnicity: Nem a faj, hanem azon emberek akiket összeköt a közös kulturális származás.
+    Nem egy királyság lakói, hanem olyan emberek, akik ugyanazt a hitet és tradíciót
+    vallják.
+  document: Értekezések, Könyvek, Művészeti Tárgyak, Kézikönyvek, Útmutatók, Nyilatkozatok,
+    és még sok minden más!
+  condition: Természetes és Mágikus Kórok, Betegségek, Mutációk, és Átváltozások.
+  character: Királyoktól és Királynéktól kezdve, a Hősökig, Parasztokig, és Istenekig
+    bármi.
+  building: '... vagy Tájékozódási Pont. Csodák -természetes vagy mesterséges-, romok,
+    kazamaták, templomok, hatalmas fák, Kovácsműhely, Fogadó, Kastély. Bármi amire
+    rámutathatsz, és az emberek elég jelentősnek találnak hogy elnevezzék.'
