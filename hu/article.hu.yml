@@ -138,3 +138,41 @@ description:
   building: '... vagy Tájékozódási Pont. Csodák -természetes vagy mesterséges-, romok,
     kazamaták, templomok, hatalmas fák, Kovácsműhely, Fogadó, Kastély. Bármi amire
     rámutathatsz, és az emberek elég jelentősnek találnak hogy elnevezzék.'
+  generic: Írj le bármilyen tartalmat promptok nélkül. Felhasználhatod ezt további
+    tartalomhoz, Szerepjátékos házi szabályzatokhoz, Fejezetek, Történetek, Prózák
+    és egyebek bevezetéséhez.
+  secret: A titkolt igazságok, a sustorgás a sikátorokban, a felfedésre váró rettegett
+    valóságok.
+  historical.entry: A Történelmi bejegyzések vagy események azok, amik a T-t rakják
+    a Történelembe. Ezek azok az egyedi pillanatok és időszakok, melyek a világodat
+    a jelenlegi alakjára formálták.
+  timeline: Az idővonalak segíthetnek elmondani a világod történeteit, és leírni azon
+    eseményeket, melyek a formálásában szerepet játszottak.
+  map: Használhatsz térképeket a világod földrajzi adottságainak bemutatására, vagy
+    alternatív navigációs eszközként.
+  image: Azt mondják egy kép többet ér ezer szónál. Nos, kivéve a szószámlálónak,
+    de az mindegy.
+  category: A Kategóriák segítenek a tartalmad rendezésében és felbontásában. Ugyanúgy
+    mint a könyvek fejezetei.
+  vehicle: Két lábon járó dínó-féle hátasok, vitorláshajók, repülő kalózhajók, vagy
+    űrhajók. Neves vagy anélküli.
+  tradition: Szokások, Tradíciók, és Rituálék. Szüreti bálok, Megemlékezések, titkos
+    kézfogások és az egyes orcákra adott csókok pontos száma.
+  technology: Tudomány és Technika. A földművelés feltalálásától, a gőzgépeken át,
+    a lézerfegyverekig.
+  plot: A Történeti Cselekmények az Átfogó Cselekményeid, Aktusaid, Jeleneteid, Ütemeid,
+    vagy aminek hívod. Használd őket a prózádhoz, vagy az RPG kampányod körvonalazására.
+  spell: Mágikus ráolvasások, rituálék, Pszionikák, Szuper erők!
+  species: Állatok, Növények, Érző vagy Értelmes, beleértve az Embereket, Tündéket
+    és Űrlényeket.
+  settlement: Minden a legkisebb falutól kezdve a legnyüzsgőbb, hatalmas űrállomásokig.
+  report: Szerepjátékos Ülések Jelentései, kövesd mi történt a játék során, hogy legyen
+    támpontod a következő ülés kezdetén.
+  rank: Endor Királya, A Föderáció Első számú Polgára, Az Obaku Föderációs Flotta
+    Admirálisa, A Lobutas Főmágusa, stb.
+  prose: Haikuk, Versek, Rövid történetek, Fejezetek a könyveidből, tisztán tálalva
+    az olvashatóság érdekében.
+  profession: A vízvezeték-szerelőtől az extravagáns hekkerig és zsoldos kardforgatóig,
+    az emberek szakmái határozzák meg a világ által keltett érzést.
+  religion: A Szervezett Vallások olyan specializált szervezetek, melyek a követőik
+    vezetésével és lelki ügyeivel foglalkoznak (Ez egy másodlagos link a Szervezethez
