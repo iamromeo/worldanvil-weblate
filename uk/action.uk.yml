@@ -11,3 +11,10 @@ copy: Копіювати
 search.in: Шукати в
 world.create: Створити новий світ
 world.view: Продивитись Світ
+dismiss: Відхилити
+manage: Керувати
+update: Оновити
+save: Зберегти
+delete: 'Видалити '
+save.changes: Зберегти зміни
+copy-into-world: Скопіювати в %world_name
