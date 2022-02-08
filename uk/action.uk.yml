@@ -1,13 +1,13 @@
 edit: Редагувати
 search: Пошук
-view: Оглянути
+view: Переглянути
 edit.and.play: Редагувати та грати
 browse: Завантажити
 download: Завантажити
 login: Авторизація
 logout: Вийти
 show: Показати
-copy: Копіювати
+copy: 'Копіювати '
 search.in: Шукати в
 world.create: Створити новий світ
 world.view: Продивитись Світ
@@ -29,3 +29,6 @@ view.map: Переглянути мапу
 delete.map: 'Видалити мапу'
 edit.profile: 'Редагувати профіль'
 view.profile: Переглянути профіль
+download.resources: Завантажити матеріали
+attach: Прикріпити
+attach.to.world: Прикріпити до Світу
