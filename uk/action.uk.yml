@@ -18,5 +18,8 @@ save: Зберегти
 delete: 'Видалити'
 save.changes: Зберегти зміни
 copy-into-world: Скопіювати в %world_name
-replace: 'Замінити '
+replace: 'Замінити'
 create: Створити
+check.out: Перевірити
+copy.to.clipboard: Натисніть, щоби скопіювати до буфера обміну
+register: 'Створити аккаунт '
