@@ -26,4 +26,5 @@ register: 'Створити аккаунт'
 create a new...: Створити ...
 edit.map: 'Редагувати мапу'
 view.map: Переглянути мапу
-delete.map: 'Видалити мапу '
+delete.map: 'Видалити мапу'
+edit.profile: 'Редагувати профіль '
