@@ -22,4 +22,5 @@ replace: 'Замінити'
 create: Створити
 check.out: Перевірити
 copy.to.clipboard: Натисніть, щоби скопіювати до буфера обміну
-register: 'Створити аккаунт '
+register: 'Створити аккаунт'
+create a new...: Створити ...
