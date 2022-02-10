@@ -1,0 +1,71 @@
+create.new.pin: Створити нову Шпильку для Мапи
+create.new.board: Створити новий Дискусійний Майданчик
+create.new.layer: Створити новий Шар
+create.new.orgchart: Створити нове Дерево Вмісту
+create.todo: Створити Елемент "ЗАВДАННЯ"
+create.note: Створити Нотатку
+create.board: Створити Дискусійний Майданчик
+create.layer: Створити Шар
+discussion_boards: Дискусійні майданчики
+dashboard: Панель керування
+edit.player.character: Редагувати Персонажа Гравця
+edit.image: Редагувати Зображення
+edit.historical.entry: Редагувати Історичний Запис
+edit.category: Редагувати Категорію
+edit.campaign: Редагувати Кампанію
+edit.block.template: Редагувати Шаблон Блоку
+edit.block: Редагувати Блок
+edit.author.profile: Редагувати Профіль
+edit.article: Редагувати Статтю
+create.new.world: Створити новий Світ
+create.new.secret: Створити новий Секрет
+delete.map: Видалити Мапу
+edit.map: Редагувати Мапу
+browse: Переглянути
+world.view: Переглянути Світ
+spell: Заклинання
+settlement: Поселення
+item: Елемент
+character: Персонаж
+create.new.note: Створити нову Нотатку
+create.new.marker.group: Створити нову Групу Маркерів
+create.new.marker: Створити новий Маркер
+create.new.map: Створити нову Мапу
+create.new.player.character: Створити нового Персонажа Гравця
+create.player.character: Створити Персонажа Гравця
+create.new.image: Створити нове Зображення
+create.new.era: Створити нову Еру
+create.new.historical.entry: Створити новий Історичний Запис
+create.new.timeline: Створити нову Хронологію
+create.new.category: Створити нову Категорію
+create.new.campaign: Створити нову Кампанію
+create.new.block: Створити новий Блок
+create.new.template: Створити новий Шаблон Статті
+create.new.block.template: Створити новий Шаблон Блоку
+create.template: Створити Шаблон
+create.code: Створити Код
+create.group: Створити Групу
+create.article: Створити Статтю
+create.world: Створити Світ
+create.secret: Створити Секрет
+create.pin: Створити Шпильку для Мапи
+create.marker.group: Створити Групу Маркерів
+create.marker: Створити Маркер
+Community: Спільнота Світу
+create.map: Створити Мапу
+create.orgchart: Створити Організаційну Схему
+create.timeline: Створити Хронологію
+create.image: Створити Зображення
+create.historical.entry: Створити Історичний Запис
+create.category: Створити Категорію
+create.campaign: Створити Кампанію
+create.block.template: Створити Шаблон Блоку
+create.block: Створити Блок
+create.author.profile: Створити Профіль
+parent.item: Батьківський елемент
+parent: Батьківський
+create: Створити
+tools: Інструменти
+world.settings: Налаштування Світу
+settings: Налаштування
+Settings & Tools: Налаштування та Інструменти
