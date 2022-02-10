@@ -107,3 +107,6 @@ description.country: Els països són organitzacions territorials especialitzade
 description.religion: Les religions organitzades són organitzacions especialitzades
   que s'encarreguen dels assumptes espirituals i la gestió dels seus seguidors. Això
   és un enllaç secundari a la plantilla d'organització.
+description:
+  condition: Malalties màgiques o naturals, mutacions i transformacions.
+  character: Des de reis i reines fins a herois, pagesos i déus.

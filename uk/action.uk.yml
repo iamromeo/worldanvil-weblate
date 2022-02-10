@@ -1,16 +1,16 @@
 edit: Редагувати
 search: Пошук
 view: Переглянути
-edit.and.play: Редагувати та грати
-browse: Завантажити
+edit.and.play: Редагувати та Грати
+browse: Переглянути
 download: Завантажити
-login: Авторизація
+login: Увійти
 logout: Вийти
 show: Показати
-copy: 'Копіювати '
+copy: 'Копіювати'
 search.in: Шукати в
-world.create: Створити новий світ
-world.view: Продивитись Світ
+world.create: Створити новий Світ
+world.view: Переглянути Світ
 dismiss: Відхилити
 manage: Керувати
 update: Оновити
@@ -24,11 +24,11 @@ check.out: Перевірити
 copy.to.clipboard: Натисніть, щоби скопіювати до буфера обміну
 register: 'Створити аккаунт'
 create a new...: Створити ...
-edit.map: 'Редагувати мапу'
-view.map: Переглянути мапу
-delete.map: 'Видалити мапу'
+edit.map: 'Редагувати Мапу'
+view.map: Переглянути Мапу
+delete.map: 'Видалити Мапу'
 edit.profile: 'Редагувати профіль'
-view.profile: Переглянути профіль
+view.profile: Переглянути Профіль
 download.resources: Завантажити матеріали
 attach: Прикріпити
 attach.to.world: Прикріпити до Світу
