@@ -101,8 +101,8 @@ layers: Vrstvy
 list.blocks: Seznam RPG materiálů
 list.layers: Seznam vrstev
 position: Pozice/Váha
-position.description: Váha určuje v jakém pořadí se zobrazí jednotlivé položky v daném
-  seznamu. Čím vyšší číslo, tím výše bude položka na seznamu zobrazena.
+position.description: Váha určuje v jakém pořadí se zobrazí jednotlivé položky, když
+  jsou načteny. Čím vyšší číslo, tím výše bude položka na seznamu zobrazena.
 status.description: Nastav tuto položku jako veřejnou, aby ji mohli všichni zobrazit.
   Soukromé položky jsou viditelné pouze pro tebe, tvé spoluautory a odběratele s náležitým
   oprávněním k vašemu světu
@@ -146,7 +146,7 @@ create.new.marker.group: Vytvořit novou skupinu ukazatelů
 create.new.note: Vytvořit novou poznámku
 create.new.world: Vytvořit nový Svět
 subscriber.groups: Skupiny odběratelů
-group: Skupina
+group: Skupina ukazatelů
 map.image: Hlavní obrázek mapy
 map.legend: Legenda
 map.marker.style: Styl
@@ -218,7 +218,7 @@ map.marker.link.relation.description: Vyber jeden z následujících vztahů jak
   odkaz pro přesměrování. Když vybereš víc než jeden, bude se počítat jen ten první.
 map.center.description: Počáteční souřadnice středu mapy při jejím prvním načtení.
   Ve výchozím nastavení jsou vypočítány jako střed tvé mapy. Levý spodní bod tvé mapy
-  je bod 0:0.
+  je bod 1:1.
 map.marker.lng: z. d.
 map.marker.lat: z. š.
 map.marker.polygonPoints.description: Párově zapsaná zeměpisná délka a šířka každého
@@ -329,7 +329,7 @@ history: Historie
 map.marker.draggable.checkbox: Tento ukazatel se dá posouvat.
 map.marker.draggable: Posouvatelný ukazatel
 map.settings: Nastavení mapy
-map.presentation: Otevřít prezentační mód
+map.presentation: Otevřít v prezentačním módu
 list.orgcharts: Seznam obsahových schémat
 list.charts: Seznam schémat
 list.characters: Seznam postav
@@ -405,3 +405,7 @@ access.code.code: Kód
 access.code.management: Správa Odběratelských Kódů
 access.code.expiryDate: Datum platnosti
 access.code.edit: Pozměnit Odběratelský Kód
+tools: Nástroje
+settings: Nastavení
+settlement: Osada
+discussion_boards: Diskuzní nástěnky
