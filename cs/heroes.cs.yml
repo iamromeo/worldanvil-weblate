@@ -9,4 +9,6 @@ WA_default_page_description: World Anvil je komunita tvůrců světů a sada ná
 worldbuilder_guild_title: Pomoz nám udržovat World Anvil naživu a rozrůstat ho!
 join_worldbuilder_guild_link: Přidej se k cechu Světotvůrců
 no_active_world: Vypadá to, že nemáš aktivní svět.
-go_to_world_list_btn: Přejít do seznamu světů
+go_to_world_list_btn: Přejít k seznamu světů
+create:
+  character: Vytvoř nový charakter
