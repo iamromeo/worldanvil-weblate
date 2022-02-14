@@ -409,3 +409,12 @@ tools: Nástroje
 settings: Nastavení
 settlement: Osada
 discussion_boards: Diskuzní nástěnky
+pin.tags.description: Na označení značky použij tolik slov, kolik jen chceš. Umožní
+  ti rychlejší vyhledávání.
+inttables:
+  delete: Vymazat tabulku
+  edit: Upravit tabulku
+  create_new: Vytvořit novou tabulku
+  create: Vytvořit tabulku
+  list: Seznam tabulek
+  tables: Tabulky
