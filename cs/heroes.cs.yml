@@ -17,7 +17,22 @@ create:
   world: Vytvořit nový svět
 campaign:
   invite:
-    box_title: Pozvi hráče do kampaně!
+    box_title: Pozvi své hráčské postavy do kampaně!
+    regenerate_code_btn: Znovu vygenerovat kód
   breadcrumbs: Kampaně
+  character_list:
+    title: Seznam postav
+    expel_character_btn: Vyloučit charakter
+    header: Seznam postav kampaně %campaign_name%
+  menu:
+    primer: Podklady
+    home: Domů
+    settings: Nastavení
+    sessions: Sezení
+    supporting_cast: Podpůrné postavy (NPCčka)
+    protagonists: Protagonisté (PCs)
+    plots: Dějové linky
+    parties: Družiny
+  cannot_create_campaign: 'Nemůžeš vytvořit novou kampaň :'
 character:
   view.in.world: Zobrazit ve světě
