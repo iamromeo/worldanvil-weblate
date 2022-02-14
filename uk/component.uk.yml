@@ -343,3 +343,97 @@ edit.secret: Редагувати Секрет
 edit.note: Редагувати Нотатку
 edit.marker.group: Редагувати Групу Маркерів
 edit.marker: Редагувати Маркер
+access.subscribers.emails: Адреси електронних скриньок Підписників
+functionality: Функціональність
+organization.and.access: Організація та Доступ
+pin.value.notzero: Будь ласка, переконайтеся, що це значення не порожнє або не 0.
+pin.template.description: Використовуйте файли в цьому zip-файлі, щоб створювати Значки,
+  подібні до тих, які надає World Anvil.
+pin.template.header: Шаблон стандартних Значків
+pin.popupAnchorY: Спливаюча точка Y (у пікселях)
+pin.popupAnchorX: Спливаюча точка X (у пікселях)
+prompts:
+  prompt: Деталі підказок
+  list: Список підказок зі створення Світу
+  title: Підказки зі створення Світу
+chronicle:
+  create: Створити Хроніку
+  edit: Редагувати Хроніку
+  delete: Видалити Хроніку
+  chronicles: Хроніки
+  new: Створити нову Хроніку
+  list: Список Хронік
+  chronicle: Хроніка
+access.code.expiryDate: Термін придатності
+access.code.maxUses: Максимальна кількість використань
+access.code.code: Код
+access.group.position.description: (необов’язково) Просто щоб ви могли організувати
+  свої групи, якщо вам потрібно.
+access.group.description.description: (необов’язково) Щоб нагадати вам, хто і чому
+  в цій групі.
+access.group.assets: Ресурси Групи
+access.authors.groups: Групи
+access.authors.rank: Ранг
+access.authors.username: Ім'я Користувача
+access.authors.add: Додати нового Автора
+access.subscribers.purge: Очистити список Підписників перед імпортом
+access.authors.slots: Зайнято місць Авторів
+access.authors.advanced.writer.description: Доступ для створення та управління своїми
+  Статтями, незалежно від того, є вони Чернетками чи ні.<br>Це дозволяє Автору(-ам)
+  продовжувати розширювати свої Статті в усьому Світі. <br>Це ідеальний тип Автора
+  для гравців, які хочуть зробити свій внесок у живий Світ або Кампанію.
+guild.access.map: На головній сторінці Світу відображаються всі Мапи безкоштовних
+  акаунтів. Приєднуйтесь до <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a>, щоб зробити вашу Мапу, Статті та Світи приватними та допомогти у подальшому
+  розвитку World Anvil.
+grandmaster.feature: Це ексклюзивна функція рівня Grandmaster+. Приєднуйтесь до <a
+  class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>,
+  щоб отримати доступ до цієї функції та допомогти у подальшому розвитку World Anvil.
+master.feature: Це ексклюзивна функція рівня Master+. Приєднуйтесь до <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>, щоб отримати
+  доступ до цієї функції та допомогти у подальшому розвитку World Anvil.
+guild.feature: Це ексклюзивна функція для чденів Гільдії. Приєднуйтесь до <a class="m-t-10
+  text-pink" href="/worldbuilders-guild-membership">Worldbuilders Guild</a>, щоб отримати
+  доступ до цієї функції та допомогти у подальшому розвитку World Anvil.
+guild.access.status: Усі елементи у безкоштовних акаунтах є загальнодоступними. Приєднуйтесь
+  до <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a>, щоб зробити приватеим весь контент, який ви бажаєте, та допомогати у
+  подальшому розрвитку World Anvil.
+guild.subscriber.groups: Групи підписників/абонентів дозволяють <a class="m-t-10 text-pink"
+  href="/worldbuilders-guild-membership">Worldbuilders Guild</a> надавати можливість
+  перегляду/читання Статей членам цієї Групи.
+access.authors.advanced.writer: Просунутий Письменник
+access.authors.writer.description: Доступ для створення Статей, позначених як "Чернетка".
+  Редактори та користувачі із вищім рівнем можуть керувати цими Статтями, упорядковувати
+  та публікувати їх.
+access.authors.writer: Письменник
+access.authors.editor.description: Доступ для створення, перегляду та редагування
+  будь-якого контенту.
+access.authors.editor: Редактор
+access.authors.coowner.description: Доступ до всього, включаючи конфігурацію Світу,
+  CSS та управлінням доступу.
+access.authors.coowner: Спів-Автори
+access.authors.revoke: Скасувати доступ
+access.authors.management: Управління Авторами
+access.rights.codes: Коди доступу
+access.rights.authors: Автори
+access.rights.management: Управління правами доступу
+access.rights.notice: Функція Груп і Підписників/Абонентів доступна лише для членів
+  Гільдії!
+guild.access: Усі елементи у безкоштовних акаунтах є загальнодоступними. Приєднуйтесь
+  до <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Worldbuilders
+  Guild</a>, щоб надавати дозволи певним групам передплатників/абонентів на доступ
+  до бажаного контенту і допомагати у подальгому розвитку World Anvil.
+armor: Обладунки
+weapon: Зброя
+race: Раса
+class: Клас
+npc: Неігровий персонаж
+monster: Монстер
+feat: Риса
+appearance: Зовнішній вигляд
+pin.popupAnchor.description: Спливаюча Точка прив’язки - це точка, яка є центром спливаючого
+  трикутника. На відміну від мітки вона буде знаходитися у верхній частині значка,
+  якщо не вище
+pin.iconAnchorY: Точка прив’язки Y (у пікселях)
+pin.iconAnchorX: Точка прив’язки X (у пікселях)
