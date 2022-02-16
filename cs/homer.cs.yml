@@ -81,7 +81,7 @@ scene.type: Typ Scény
 scene.duration: Délka Scény
 scene.time: Denní doba
 scene.pov: P.O.V. Postava
-scene.notes: Zápisky
+scene.notes: Poznámky
 pov.help: Pro nastavení POV postavy, začni psát název kteréhokoliv článku dané postavy
 pov.remove: Odebrat POV postavu
 continue.reading: Pokračovat ve čtení
