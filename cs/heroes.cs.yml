@@ -22,8 +22,15 @@ campaign:
   breadcrumbs: Kampaně
   character_list:
     title: Seznam postav
-    expel_character_btn: Vyloučit charakter
+    expel_character_btn: Vyloučit Postavu
     header: Seznam postav kampaně %campaign_name%
+    character_table:
+      type: Typ
+      location: Lokace
+      delete_btn: Smazat
+      edit_btn: Upravit
+      name: Jméno
+      visibility: Viditelnost
   menu:
     primer: Podklady
     home: Domů
@@ -34,5 +41,10 @@ campaign:
     plots: Dějové linky
     parties: Družiny
   cannot_create_campaign: 'Nemůžeš vytvořit novou kampaň :'
+  reports:
+    protagonists: Protagonisté
+  dashboard:
+    view_world_btn: Zobrazit svět
+    edit_world_btn: Upravit Svět
 character:
   view.in.world: Zobrazit ve světě

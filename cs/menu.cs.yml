@@ -16,7 +16,7 @@ account.details: Nastavení účtu
 announcements: Oznámení
 world.select: Vybrat Svět
 world.summary: Přehled Světa
-world.goto: Přejít na...
+world.goto: Přejít na
 world.configure: Nastavení Světa
 configuration: Nastavení
 welcome: Vítej
@@ -107,3 +107,5 @@ activated.features: Aktivované Funkce
 account.apikeys: Správa klíčů API
 community.shared.statblocks: Komunitou sdílené Statbloky
 shared.statblocks: Sdílené Statbloky
+account.features: Funkce účtu
+edit.profile: Upravit profil

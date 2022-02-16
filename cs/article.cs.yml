@@ -19,7 +19,7 @@ formation.military: Vojenský útvar
 myth.legend: Mýtus / Legenda
 building: Budova
 location.geographic: Lokace, Zeměpisná
-geography: Krajina
+geography: Geografie
 location.settlement: Místo, osada
 settlement: Osada
 law: Přírodní zákon
@@ -103,3 +103,6 @@ description.country: Státy jsou specializované uzemní celky se zájmem o blah
   žijících na jejich území (Je to druhotný odkaz na šablonu Organizace).
 description.religion: Církve jsou specializované organizace zajímající se o spirituální
   záležitosti svých následovníků (Je to druhotný odkaz na šablonu Církve).
+description:
+  condition: Přírodní a magické choroby, nemoci, mutace a transformace.
+  character: Od králů a královen, přes hrdiny a sedláky, až po bohy.

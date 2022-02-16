@@ -409,8 +409,8 @@ tools: Nástroje
 settings: Nastavení
 settlement: Osada
 discussion_boards: Diskuzní nástěnky
-pin.tags.description: Na označení značky použij tolik slov, kolik jen chceš. Umožní
-  ti rychlejší vyhledávání.
+pin.tags.description: K označení ukazatele použij tolik slov, kolik jen chceš. Umožní
+  ti to rychlejší vyhledávání.
 inttables:
   delete: Vymazat tabulku
   edit: Upravit tabulku
