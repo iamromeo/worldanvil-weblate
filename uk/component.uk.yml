@@ -437,3 +437,26 @@ pin.popupAnchor.description: Спливаюча Точка прив’язки -
   якщо не вище
 pin.iconAnchorY: Точка прив’язки Y (у пікселях)
 pin.iconAnchorX: Точка прив’язки X (у пікселях)
+access.rights.groups: Групи Підписників
+access.rights.subscribers: Підписники
+pin.theme.description: Теми - це спосіб фільтрації за допомогою Значків, наприклад,
+  "Імперія" або "Повстанці" із «Зоряних воєн» тощо.
+subscriber.groups: Групи Підписників
+access: Підписники та Автори
+related.location: Пов'язана Локація
+list.subscribers: Підписники
+subscribers: Підписники
+subscriber.group: Група Підписників
+subscriber: Підписник
+map: Мапа
+edit.group: Редагувати Групу
+edit.timeline: Редагувати Хронологію
+access.code.edit: Редагувати Код Підписників
+access.code.group: Група Підписників
+access.code.management: Управління Кодами Підписника
+access.group.edit: Редагувати Групу Підписників
+access.group.management: Управління Групами Підписників
+access.subscribers.management: Управління Підписниками
+access.subscribers.add: Додати Підписників до Групи
+access.subscriber.add: Додати Підписника до Груп(и)
+access.subscribers.slots: Зайнято місць Підписників
